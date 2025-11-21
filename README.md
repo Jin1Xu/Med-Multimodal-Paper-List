@@ -21,4 +21,4 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 ## <img src="https://i.postimg.cc/jj7PWJzW/image.png" width="7%">  ECCV Papers
 Papers accepted to **ECCV 2024** that match the Medical + Multimodal/Cross-Modal scope (expand as needed)
-
+[Open the Excel file](./papers_list.xlsx)
