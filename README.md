@@ -24,3 +24,5 @@ Papers accepted to **ECCV 2024** that match the Medical + Multimodal/Cross-Modal
 Here is the icon ![](https://i.postimg.cc/jj7PWJzW/image.png) inline.
 
 [![](https://i.postimg.cc/jj7PWJzW/image.png)](https://postimg.cc/Lqmnw5QR)
+
+<img src="https://i.postimg.cc/jj7PWJzW/image.png" width="50%">
