@@ -4,6 +4,8 @@ This repo provides a curated collection of **Medical-focused MultiModal and Cros
 Deadline INFO for Conferences: [https://ccfddl.com/](https://ccfddl.com/)  
 Ours: [https://jiandanjinxin.github.io/](https://jiandanjinxin.github.io/)
 
+--
+
 ## 1. Conference List
 | Conference     | Year | Submission Deadline                   | Conference Dates             | Type  |
 |----------------|------|----------------------------------------|------------------------------|-------|
