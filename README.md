@@ -1,6 +1,6 @@
 # Med-Multimodal-Paper-List
 This repo provides a curated collection of **Medical-focused MultiModal and Cross-Modal** research papers accepted at leading ML and CV conferences between **2024 and 2025**. Contributions, corrections, and additional paper entries are welcome.  
-[https://ccfddl.com/](https://ccfddl.com/)
+Deadline INFO for Conferences: [https://ccfddl.com/](https://ccfddl.com/)
 
 ## 1. Conference List
 | Conference     | Year | Submission Deadline                   | Conference Dates             | Type  |
