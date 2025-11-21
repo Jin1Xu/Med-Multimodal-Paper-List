@@ -1,6 +1,8 @@
 # Med-Multimodal-Paper-List
-This repo provides a curated collection of **Medical-focused MultiModal and Cross-Modal** research papers accepted at leading ML and CV conferences between **2024** and **2025**. 
+This repo provides a curated collection of **Medical-focused MultiModal and Cross-Modal** research papers accepted at leading ML and CV conferences between **2024 and 2025**. 
+
 The covered venues include CVPR, ECCV, ICCV, NeurIPS, AAAI, ICML, ICLR, IJCAI, MICCAI, and ISBI.
+
 Contributions, corrections, and additional paper entries are welcome.
 
 ## 1. Conference List
