@@ -19,7 +19,6 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 9 | ISBI    | CV | TBD             | TBD                  | https://isbi.ieee.org |
 |10 | MICCAI  | CV | Feb 2026        | Sep 2026             | https://www.miccai.org |
 
-## ECCV Papers
-<img src="https://i.postimg.cc/jj7PWJzW/image.png" width="10%">  
+## <img src="https://i.postimg.cc/jj7PWJzW/image.png" width="10%">  ECCV Papers
 Papers accepted to **ECCV 2024** that match the Medical + Multimodal/Cross-Modal scope (expand as needed)
 
