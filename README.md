@@ -20,5 +20,6 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 |10 | MICCAI  | CV | Feb 2026        | Sep 2026             | https://www.miccai.org |
 
 ## ECCV Papers
+<img src="https://i.postimg.cc/jj7PWJzW/image.png" width="10%">  
 Papers accepted to **ECCV 2024** that match the Medical + Multimodal/Cross-Modal scope (expand as needed)
-<img src="https://i.postimg.cc/jj7PWJzW/image.png" width="10%">
+
