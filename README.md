@@ -24,7 +24,7 @@ Papers accepted to **ECCV 2024** that match the Medical + Multimodal/Cross-Modal
 关键词检索：Medical, Multimodal, Multi-Modal, Cross-Modal, Foundation Model  
 Done 2025.11.22 👉 [ECCV2024.csv](./ECCV2024.csv)  
 
-## <img src="https://i.postimg.cc/JzrVcTpX/image.png" width="7%">  ICCV Papers
+## <img src="https://i.postimg.cc/JzrVcTpX/image.png" width="8%">  ICCV Papers
 Papers accepted to **ICCV 2025** that match the Medical + Multimodal/Cross-Modal scope (expand as needed)  
-关键词检索：Medical, Multimodal, Cross-Modal
+关键词检索：Medical, Multimodal, Cross-Modal  
 Done 2025.11.26 👉 [ICCV2025.csv](./ICCV2025.csv) 
