@@ -19,12 +19,10 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 9 | ISBI    | CV | TBD             | TBD                  | https://isbi.ieee.org |
 |10 | MICCAI  | CV | Feb 2026        | Sep 2026             | https://www.miccai.org |
 
-## <img src="https://i.postimg.cc/jj7PWJzW/image.png" width="7%">  ECCV Papers
-Papers accepted to **ECCV 2024** that match the Medical + Multimodal/Cross-Modal scope (expand as needed)  
+## <img src="https://i.postimg.cc/jj7PWJzW/image.png" width="7%">  ECCV2024 
 关键词检索：Medical, Multimodal, Multi-Modal, Cross-Modal, Foundation Model  
-Done 2025.11.22 👉 [ECCV2024.csv](./ECCV2024.csv)  
+👉 [ECCV2024.csv](./ECCV2024.csv)  
 
-## <img src="https://i.postimg.cc/JzrVcTpX/image.png" width="8%">  ICCV Papers
-Papers accepted to **ICCV 2025** that match the Medical + Multimodal/Cross-Modal scope (expand as needed)  
+## <img src="https://i.postimg.cc/JzrVcTpX/image.png" width="8%">  ICCV2025
 关键词检索：Medical, Multimodal, Cross-Modal  
-Done 2025.11.26 👉 [ICCV2025.csv](./ICCV2025.csv) 
+👉 [ICCV2025.csv](./ICCV2025.csv) 
