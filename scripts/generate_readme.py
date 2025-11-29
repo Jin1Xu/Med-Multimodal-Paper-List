@@ -104,8 +104,8 @@ def build_grouped_markdown(grouped_papers):
         
         header = f"### {conf} {year}\n"
         table_header = (
-            "|  ID   | Title | Authors | Citations | Status  | AnyCode |\n"
-            "| ----- | ----- | ------- | --------- | ------- | ------- |"
+            "| ID | Title | Authors | Status | Citations | AnyCode |\n"
+            "| -- | ----- | ------- | :----: | :-------: | :-----: |"
         )
         
         rows = [paper_to_row(p) for p in papers]
