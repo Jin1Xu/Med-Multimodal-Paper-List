@@ -35,5 +35,9 @@ https://papercopilot.com/paper-list/eccv-paper-list/eccv-2024-paper-list/
 这里展示的是本项目收集的一些论文调研结果。
 
 <!-- PAPERS_START -->
-<!-- 内容会由脚本自动生成，请不要手动修改这一段 -->
+
+| Title | Authors | Year | Venue | Tags | Summary |
+| ----- | ------- | ---- | ----- | ---- | ------- |
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Devlin, J., Chang, M.-W., Lee, K., Toutanova, K. | 2018 | NAACL | BERT, Pretraining | Pre-trained language model using masked language modeling and next sentence prediction. |
+| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Vaswani, A., Shazeer, N., Parmar, N. | 2017 | NeurIPS | Transformer, NLP | Introduces the Transformer architecture based solely on attention. |
 <!-- PAPERS_END -->
