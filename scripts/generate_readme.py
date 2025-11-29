@@ -9,20 +9,39 @@ README_PATH = ROOT / "README.md"
 START_MARK = "<!-- PAPERS_START -->"
 END_MARK = "<!-- PAPERS_END -->"
 
+def parse_conf_year_from_filename(path: str):
+    """从文件名解析会议和年份"""
+    stem = Path(path).stem  # 'eccv2024'
+    letters = "".join(ch for ch in stem if ch.isalpha())
+    digits = "".join(ch for ch in stem if ch.isdigit())
+
+    conf = letters.upper() if letters else "UNKNOWN_CONF"
+    year = int(digits) if digits.isdigit() else 0
+    return conf, year
+
 
 def load_papers():
-    papers = []
+    """
+    输出 dict:
+        key: (conf, year)
+        value: 该会议该年份的所有论文列表
+    """
+    grouped = defaultdict(list)
+
     for path in glob.glob(str(PAPERS_DIR / "*.json")):
+        conf, year_from_file = parse_conf_year_from_filename(path)
+
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # 每个文件可能是单个对象或对象列表
-            if isinstance(data, dict):
-                papers.append(data)
-            elif isinstance(data, list):
-                papers.extend(data)
-            else:
-                raise ValueError(f"Unsupported JSON format in {path}")
-    return papers
+
+        if isinstance(data, dict):
+            papers = [data]
+        elif isinstance(data, list):
+            papers = data
+        else:
+            raise ValueError(f"Unsupported JSON format in {path}")
+
+    return grouped
 
 
 def paper_to_row(p):
@@ -53,17 +72,29 @@ def paper_to_row(p):
     
     return (f"| {paper_id} | {title_md} | {authors} | {citations} | {code} | ")
 
-def build_table(papers):
-    #papers = sorted(papers, key=lambda x: x.get("year", 0), reverse=True) # 按年份逆序排序
-    
-    header = (
-        "|  ID   | Title | Authors | Citations | AnyCode |\n"
-        "| ----- | ----- | ------- | --------- | ------- |"
-    )
-    
-    rows = [paper_to_row(p) for p in papers]
-    return "\n".join([header] + rows)
+def build_grouped_markdown(grouped_papers):
+    """
+    grouped_papers: dict[(conf, year)] -> [papers...]
+    返回带有多个「会议小节」的 markdown 文本
+    """
+    # 先按 year desc，再按 conf 排序
+    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True)
 
+    sections = []
+    for (conf, year) in sorted_keys:
+        papers = grouped_papers[(conf, year)]
+
+        header = f"### {conf} {year}\n"
+        table_header = (
+            "|  ID   | Title | Authors | Citations | AnyCode |\n"
+            "| ----- | ----- | ------- | --------- | ------- |"
+        )
+        
+        rows = [paper_to_row(p) for p in papers]
+        section_md = header + table_header + "\n" + "\n".join(rows)
+        sections.append(section_md)
+
+    return "\n\n".join(sections)
 
 def replace_section(readme_text, new_section):
     start_idx = readme_text.find(START_MARK)
