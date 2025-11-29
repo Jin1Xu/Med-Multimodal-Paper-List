@@ -10,6 +10,7 @@ README_PATH = ROOT / "README.md"
 START_MARK = "<!-- PAPERS_START -->"
 END_MARK = "<!-- PAPERS_END -->"
 
+
 def parse_conf_year_from_filename(path: str):
     """从文件名解析会议和年份"""
     stem = Path(path).stem  # 'eccv2024'
@@ -125,11 +126,10 @@ def main():
     else:
         readme_text = "# Papers\n"
 
-    # 无论有没有文献，都要替换 README 中的占位区域
+    # 替换 README 中的占位区域
     new_readme = replace_section(readme_text, grouped_md)
     README_PATH.write_text(new_readme, encoding="utf-8")
     print("README.md updated.")
-
 
 if __name__ == "__main__":
     main()
