@@ -27,6 +27,8 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 <!-- PAPERS_START -->
 
 ### ECCV 2024
+
+共筛选出 236 篇论文
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
 | 166 | [Taming Latent Diffusion Model for Neural Radiance Field Inpainting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00354.pdf) | Chieh Lin, Changil Kim, Jia-Bin Huang, Qinbo Li, Chih-Yao Ma, Johannes Kopf, Ming-Hsuan Yang, Hung-Yu Tseng | Poster | 10 | 😾 | 
