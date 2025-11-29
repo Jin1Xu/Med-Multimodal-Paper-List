@@ -1,3 +1,4 @@
+import re
 import json
 import glob
 from pathlib import Path
@@ -12,15 +13,19 @@ END_MARK = "<!-- PAPERS_END -->"
 
 
 def parse_conf_year_from_filename(path: str):
-    """
-    从文件名解析会议和年份
-    """
-    stem = Path(path).stem  # 'eccv2024'
-    letters = "".join(ch for ch in stem if ch.isalpha())
-    digits = "".join(ch for ch in stem if ch.isdigit())
+    stem = Path(path).stem 
 
-    conf = letters.upper() if letters else "UNKNOWN_CONF"
-    year = int(digits) if digits.isdigit() else 0
+    # 正则匹配
+    m = re.match(r"([A-Za-z]+)(\d+)", stem)
+    if m:
+        conf = m.group(1).upper()      # 'eccv' -> 'ECCV'
+        year = int(m.group(2))         # '2024' -> 2024
+    else:
+        letters = "".join(ch for ch in stem if ch.isalpha())
+        digits = "".join(ch for ch in stem if ch.isdigit())
+        conf = letters.upper() if letters else "UNKNOWN_CONF"
+        year = int(digits) if digits.isdigit() else 0
+
     return conf, year
 
 
