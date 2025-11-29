@@ -3,7 +3,7 @@ name: Update README from papers JSON
 on:
   push:
     paths:
-      - "papers/paper_test.json"
+      - "papers/eccv2024.json"
       - "scripts/generate_readme.py"
   workflow_dispatch:
 
