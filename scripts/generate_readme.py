@@ -110,20 +110,22 @@ def replace_section(readme_text, new_section):
     after = readme_text[end_idx:]
     return f"{before}\n\n{new_section}\n{after}"
 
-
 def main():
-    papers = load_papers()
-    table_md = build_table(papers)
+    grouped_papers = load_papers()
+    if not grouped_papers:
+        print("No papers found in 'papers/' directory.")
+        return
+
+    grouped_md = build_grouped_markdown(grouped_papers)
 
     if README_PATH.exists():
         readme_text = README_PATH.read_text(encoding="utf-8")
     else:
         readme_text = "# Papers\n"
 
-    new_readme = replace_section(readme_text, table_md)
+    new_readme = replace_section(readme_text, grouped_md)
     README_PATH.write_text(new_readme, encoding="utf-8")
     print("README.md updated.")
-
 
 if __name__ == "__main__":
     main()
