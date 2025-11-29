@@ -26,7 +26,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 <!-- PAPERS_START -->
 
-### ECCVFILTERED 2024
+### ECCV 2024
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
 | 1009 | [M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02148.pdf) | Seunggeun Chi, Hyung-gun Chi, Hengbo Ma, Nakul Agarwal, Faizan Siddiqui, Karthik Ramani, Kwonjoon Lee | Poster | 11 | 😾 | 
