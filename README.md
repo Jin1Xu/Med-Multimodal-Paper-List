@@ -20,7 +20,8 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 |10 | MICCAI  | CV | Feb 2026        | Sep 2026             | https://www.miccai.org |
 
 ## <img src="https://i.postimg.cc/jj7PWJzW/image.png" width="7%">  ECCV2024 
-关键词检索：Medical, Multimodal, Multi-Modal, Cross-Modal, Foundation Model  
+关键词检索：Medical, Multimodal, Multi-Modal, Cross-Modal, Foundation Model 
+https://papercopilot.com/paper-list/eccv-paper-list/eccv-2024-paper-list/
 👉 [ECCV2024.csv](./ECCV2024.csv)  
 
 ## <img src="https://i.postimg.cc/JzrVcTpX/image.png" width="8%">  ICCV2025
