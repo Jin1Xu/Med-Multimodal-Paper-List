@@ -97,23 +97,29 @@ def paper_to_row(p):
     
     return (f"| {paper_id} | {title_md} | {authors} | {status} | {citations} | {code} | ")
 
+
 def build_grouped_markdown(grouped_papers):
     """
     输出 grouped_papers: dict[(conf, year)] -> [papers...]
     """
-    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True) # 每个会议先按 year 降序，再按名称排序
+    # 每个会议先按 year 降序，再按名称排序
+    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True)
     sections = []
     for (conf, year) in sorted_keys:
         papers = grouped_papers[(conf, year)]
-        
+
+        # 统计该会议该年份的论文数量
+        paper_count = len(papers)
+
+        # 按论文 id 的数值大小排序
         papers = sorted(papers, key=lambda p: int(p["id"]))
-        
-        header = f"### {conf} {year}\n"
+
+        header = f"### {conf} {year}\n\n共筛选出 {paper_count} 篇论文\n"
         table_header = (
             "| ID | Title | Authors | Status | Citations | AnyCode |\n"
             "| -- | ----- | ------- | :----: | :-------: | :-----: |"
         )
-        
+
         rows = [paper_to_row(p) for p in papers]
         section_md = header + table_header + "\n" + "\n".join(rows)
         sections.append(section_md)
