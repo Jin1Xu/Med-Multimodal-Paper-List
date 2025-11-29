@@ -1,0 +1,41 @@
+name: Update README from papers JSON
+
+on:
+  push:
+    paths:
+      - "papers/**.json"
+      - "scripts/generate_readme.py"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Generate README
+        run: |
+          python scripts/generate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ `git status --porcelain` ]]; then
+            git add README.md
+            git commit -m "chore: update README from papers JSON"
+            git push
+          else
+            echo "No changes to commit"
+          fi
