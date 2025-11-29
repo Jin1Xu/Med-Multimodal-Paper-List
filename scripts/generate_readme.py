@@ -112,20 +112,24 @@ def replace_section(readme_text, new_section):
 
 def main():
     grouped_papers = load_papers()
-    if not grouped_papers:
-        print("No papers found in 'papers/' directory.")
-        return
 
-    grouped_md = build_grouped_markdown(grouped_papers)
+    if grouped_papers:
+        # 正常有文献时，生成多会议的 markdown
+        grouped_md = build_grouped_markdown(grouped_papers)
+    else:
+        # 没有任何 json 时，直接写一个占位说明（也可以写成空字符串 ""）
+        grouped_md = "_当前没有任何论文数据。_"
 
     if README_PATH.exists():
         readme_text = README_PATH.read_text(encoding="utf-8")
     else:
         readme_text = "# Papers\n"
 
+    # 无论有没有文献，都要替换 README 中的占位区域
     new_readme = replace_section(readme_text, grouped_md)
     README_PATH.write_text(new_readme, encoding="utf-8")
     print("README.md updated.")
+
 
 if __name__ == "__main__":
     main()
