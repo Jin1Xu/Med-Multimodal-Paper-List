@@ -70,16 +70,8 @@ def save_json_file(data: Any, path: str) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-
-# 修改后的 process_all_json_files 函数
 def process_all_json_files(input_dir: str, output_dir: str) -> None:
-    """
-    遍历 input_dir 下所有 .json 文件：
-      - 读取列表中的每个元素（论文）
-      - 取出 title 字段，调用大模型判断（并发）
-      - 将判断为“是”的论文放入对应文件的结果列表
-    每个输入 json 会在 output_dir 下生成一个 “原文件名去扩展名 + filtered.json” 的文件。
-    """
+    """main"""
     os.makedirs(output_dir, exist_ok=True)
 
     json_pattern = os.path.join(input_dir, "*.json")
@@ -127,7 +119,7 @@ def process_all_json_files(input_dir: str, output_dir: str) -> None:
             logger.warning(f"文件 {file_name} 中没有可用于判断的论文，跳过输出。")
             continue
 
-        logger.info(f"文件 {file_name} 中共有 {len(papers_in_file)} 篇待筛选论文，开始并发调用大模型。")
+        logger.info(f"文件 {file_name} 中共有 {len(papers_in_file)} 篇待筛选论文，并发调用大模型。")
 
         selected_papers: List[Dict[str, Any]] = []
 
