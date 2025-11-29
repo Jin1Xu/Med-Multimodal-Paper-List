@@ -19,9 +19,9 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 9 | ISBI    | CV | TBD             | TBD                  | https://isbi.ieee.org |
 |10 | MICCAI  | CV | Feb 2026        | Sep 2026             | https://www.miccai.org |
 
-Paper Copilot 是一个很棒的网站，它提供了完整的顶会文献列表：https://papercopilot.com/paper-list/  
 
 ## 📚 Med-Multimodal-Paper-List
+Paper Copilot 提供了完整的顶会文献列表：https://papercopilot.com/paper-list/，基于此我们进一步做了文献筛选，聚焦于多模态/跨模态医学的研究。
 <!-- PAPERS_START -->
 ### ECCV 2024
 | ID | Title | Authors | Status | Citations | AnyCode |
