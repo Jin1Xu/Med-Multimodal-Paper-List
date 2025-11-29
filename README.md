@@ -20,7 +20,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 |10 | MICCAI  | CV | Feb 2026        | Sep 2026             | https://www.miccai.org |
 
 
-## Med-Multimodal-Paper-List
+## 📚 Med-Multimodal-Paper-List
 <!-- PAPERS_START -->
 ### ECCV 2024
 | ID | Title | Authors | Status | Citations | AnyCode |
