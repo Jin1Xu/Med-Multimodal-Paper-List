@@ -105,7 +105,8 @@ def build_grouped_markdown(grouped_papers):
     sections = []
     for (conf, year) in sorted_keys:
         papers = grouped_papers[(conf, year)]
-        papers = sorted(papers, key=lambda p: str(p.get("id", "")).lower()) # 按论文 id 排序
+        
+        papers = sorted(papers, key=lambda p: int(p["id"]))
         
         header = f"### {conf} {year}\n"
         table_header = (
