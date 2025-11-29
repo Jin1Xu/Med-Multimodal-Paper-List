@@ -26,30 +26,41 @@ def load_papers():
 
 
 def paper_to_row(p):
-    title = p.get("title", "").replace("\n", " ")
-    link = p.get("link")
-    if link:
-        title_md = f"[{title}]({link})"
+    # 论文id
+    paper_id = p.get("id")
+
+    # 标题及论文链接
+    raw_title = p.get("title", "")
+    title_clean = raw_title.strip().strip('"')
+    pdf = p.get("pdf") or ""
+    arxiv = p.get("arxiv") or ""
+    link_target = arxiv or pdf # 优先级arxiv>pdf 
+    if link_target:
+        title_md = f"[{title_clean}]({link_target})"
     else:
-        title_md = title
+        title_md = title_clean
 
-    authors = ", ".join(p.get("authors", []))
-    year = p.get("year", "")
-    venue = p.get("venue", "")
-    tags = ", ".join(p.get("tags", []))
-    summary = p.get("summary", "").replace("\n", " ")
+    # 作者
+    authors = p.get("author_site") or p.get("author") or ""
+    authors = authors.replace(";", ",")
 
-    return f"| {title_md} | {authors} | {year} | {venue} | {tags} | {summary} |"
+    # 论文引用次数
+    citations = p.get("gs_citation", 0)
 
+    # 开源代码
+    github_link = p.get("github") or ""
+    code = f"[Code😺]({github_link})"
+    
+    return (f"| {paper_id} | {title_md} | {authors} | {citations} | {code} | ")
 
 def build_table(papers):
-    # 按年份逆序排序
-    papers = sorted(papers, key=lambda x: x.get("year", 0), reverse=True)
-
+    #papers = sorted(papers, key=lambda x: x.get("year", 0), reverse=True) # 按年份逆序排序
+    
     header = (
-        "| Title | Authors | Year | Venue | Tags | Summary |\n"
-        "| ----- | ------- | ---- | ----- | ---- | ------- |"
+        "|  ID   | Title | Authors | Citations | AnyCode |\n"
+        "| ----- | ----- | ------- | --------- | ------- |"
     )
+    
     rows = [paper_to_row(p) for p in papers]
     return "\n".join([header] + rows)
 
