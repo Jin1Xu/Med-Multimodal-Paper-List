@@ -80,6 +80,9 @@ def paper_to_row(p):
     authors = p.get("author_site") or p.get("author") or ""
     authors = authors.replace(";", ",")
 
+    # status
+    status = p.get("status")
+
     # 论文引用次数
     citations = p.get("gs_citation", 0)
 
@@ -87,7 +90,7 @@ def paper_to_row(p):
     github_link = p.get("github") or ""
     code = f"[Code😻]({github_link})" if github_link else "😾"
     
-    return (f"| {paper_id} | {title_md} | {authors} | {citations} | {code} | ")
+    return (f"| {paper_id} | {title_md} | {authors} | {status} | {citations} | {code} | ")
 
 def build_grouped_markdown(grouped_papers):
     """
@@ -101,8 +104,8 @@ def build_grouped_markdown(grouped_papers):
         
         header = f"### {conf} {year}\n"
         table_header = (
-            "|  ID   | Title | Authors | Citations | AnyCode |\n"
-            "| ----- | ----- | ------- | --------- | ------- |"
+            "|  ID   | Title | Authors | Citations | Status  | AnyCode |\n"
+            "| ----- | ----- | ------- | --------- | ------- | ------- |"
         )
         
         rows = [paper_to_row(p) for p in papers]
