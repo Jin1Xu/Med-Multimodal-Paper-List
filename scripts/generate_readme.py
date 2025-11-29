@@ -12,7 +12,9 @@ END_MARK = "<!-- PAPERS_END -->"
 
 
 def parse_conf_year_from_filename(path: str):
-    """从文件名解析会议和年份"""
+    """
+    从文件名解析会议和年份
+    """
     stem = Path(path).stem  # 'eccv2024'
     letters = "".join(ch for ch in stem if ch.isalpha())
     digits = "".join(ch for ch in stem if ch.isdigit())
@@ -29,15 +31,12 @@ def load_papers():
         value: 该会议该年份的所有论文列表
     """
     grouped = defaultdict(list)
-
-    # 遍历 papers 目录下所有 json 文件
     for path in glob.glob(str(PAPERS_DIR / "*.json")):
         conf, year_from_file = parse_conf_year_from_filename(path)
 
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # 统一转成 list[dict]
         if isinstance(data, dict):
             papers = [data]
         elif isinstance(data, list):
@@ -47,7 +46,7 @@ def load_papers():
 
         # 将每篇论文放入按 (conf, year) 分组的字典中
         for p in papers:
-            # 如果单篇论文里有 year/conf 字段，可以优先使用；否则用文件名解析出的
+            # 如果论文json里有 year/conf 字段就用；否则用文件名解析的
             year = p.get("year") or year_from_file
             conf_key = (p.get("conf") or conf).upper()
 
@@ -86,22 +85,20 @@ def paper_to_row(p):
 
     # 开源代码
     github_link = p.get("github") or ""
-    code = f"[Code😺]({github_link})" if github_link else "-"
+    code = f"[Code😻]({github_link})" if github_link else "😾"
     
     return (f"| {paper_id} | {title_md} | {authors} | {citations} | {code} | ")
 
 def build_grouped_markdown(grouped_papers):
     """
-    grouped_papers: dict[(conf, year)] -> [papers...]
-    返回带有多个「会议小节」的 markdown 文本
+    输出 grouped_papers: dict[(conf, year)] -> [papers...]
     """
-    # 先按 year desc，再按 conf 排序
-    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True)
-
+    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True) # 先按 year 降序，再按 conf 排序
     sections = []
     for (conf, year) in sorted_keys:
         papers = grouped_papers[(conf, year)]
-
+        papers = sorted(papers, key=lambda p: str(p.get("id", "")).lower()) # 按论文 id 排序
+        
         header = f"### {conf} {year}\n"
         table_header = (
             "|  ID   | Title | Authors | Citations | AnyCode |\n"
