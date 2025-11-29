@@ -27,3 +27,13 @@ https://papercopilot.com/paper-list/eccv-paper-list/eccv-2024-paper-list/
 ## <img src="https://i.postimg.cc/JzrVcTpX/image.png" width="8%">  ICCV2025
 关键词检索：Medical, Multimodal, Cross-Modal  
 👉 [ICCV2025.csv](./ICCV2025.csv) 
+
+
+# test
+# My Awesome Paper Survey
+
+这里展示的是本项目收集的一些论文调研结果。
+
+<!-- PAPERS_START -->
+<!-- 内容会由脚本自动生成，请不要手动修改这一段 -->
+<!-- PAPERS_END -->
