@@ -21,7 +21,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 
 ## 📚 Med-Multimodal-Paper-List
-Paper Copilot 提供了完整的顶会文献列表：https://papercopilot.com/paper-list/，基于此我们进一步做了文献筛选，聚焦于多模态/跨模态医学的研究。
+[Paper Copilot]([https://ccfddl.com/](https://papercopilot.com/paper-list/) 提供了完整的顶会文献列表，这是一个很棒的网站。基于此我们进一步做了文献筛选，聚焦于多模态/跨模态医学的研究。
 <!-- PAPERS_START -->
 ### ECCV 2024
 | ID | Title | Authors | Status | Citations | AnyCode |
