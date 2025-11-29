@@ -265,20 +265,4 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 982 | [Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03298.pdf) | Junjie Huang, Yun Ye, Zhujin Liang, Yi Shan, Dalong Du | Poster | 24 | 😾 | 
 | 993 | [VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01005.pdf) | Seokha Moon, Hyun Woo, Hongbeen Park, Haeji Jung, Reza Mahjourian, Hyung-gun Chi, Hyerin Lim, Sangpil Kim, Jinkyu Kim | Poster | 9 | 😾 | 
 | 996 | [Self-Supervised Video Desmoking for Laparoscopic Surgery](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09123.pdf) | Renlong Wu, Zhilu Zhang, Shuohao Zhang, Longfei Gou, Haobin Chen, Yabin Zhang, Hao Chen, Wangmeng Zuo | Oral | 4 | 😾 | 
-
-### ECCV 2024
-| ID | Title | Authors | Status | Citations | AnyCode |
-| -- | ----- | ------- | :----: | :-------: | :-----: |
-| 1770 | [BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07138.pdf) | Bo-Kyeong Kim, Hyoung-Kyu Song, Thibault Castells, Shinkook Choi | Poster | 32 | 😾 | 
-| 2555 | [A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12117.pdf) | Riccardo Fogliato, Pratik Patil, Mathew Monfort, Pietro Perona | Poster | 0 | 😾 | 
-
-### PAPERTEST 2018
-| ID | Title | Authors | Status | Citations | AnyCode |
-| -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |  | None | 0 | 😾 | 
-
-### PAPERTEST 2017
-| ID | Title | Authors | Status | Citations | AnyCode |
-| -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | Attention Is All You Need |  | None | 0 | 😾 | 
 <!-- PAPERS_END -->
