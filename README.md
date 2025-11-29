@@ -39,16 +39,16 @@ https://papercopilot.com/paper-list/eccv-paper-list/eccv-2024-paper-list/
 ### ECCV 2024
 |  ID   | Title | Authors | Citations | AnyCode |
 | ----- | ----- | ------- | --------- | ------- |
-| 2555 | [A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12117.pdf) | Riccardo Fogliato, Pratik Patil, Mathew Monfort, Pietro Perona | 0 | - | 
-| 1770 | [BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07138.pdf) | Bo-Kyeong Kim, Hyoung-Kyu Song, Thibault Castells, Shinkook Choi | 32 | - | 
+| 1770 | [BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07138.pdf) | Bo-Kyeong Kim, Hyoung-Kyu Song, Thibault Castells, Shinkook Choi | 32 | 😾 | 
+| 2555 | [A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12117.pdf) | Riccardo Fogliato, Pratik Patil, Mathew Monfort, Pietro Perona | 0 | 😾 | 
 
 ### PAPERTEST 2018
 |  ID   | Title | Authors | Citations | AnyCode |
 | ----- | ----- | ------- | --------- | ------- |
-| None | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |  | 0 | - | 
+| None | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |  | 0 | 😾 | 
 
 ### PAPERTEST 2017
 |  ID   | Title | Authors | Citations | AnyCode |
 | ----- | ----- | ------- | --------- | ------- |
-| None | Attention Is All You Need |  | 0 | - | 
+| None | Attention Is All You Need |  | 0 | 😾 | 
 <!-- PAPERS_END -->
