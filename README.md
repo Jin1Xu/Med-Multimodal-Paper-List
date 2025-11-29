@@ -36,8 +36,8 @@ https://papercopilot.com/paper-list/eccv-paper-list/eccv-2024-paper-list/
 
 <!-- PAPERS_START -->
 
-| Title | Authors | Year | Venue | Tags | Summary |
-| ----- | ------- | ---- | ----- | ---- | ------- |
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Devlin, J., Chang, M.-W., Lee, K., Toutanova, K. | 2018 | NAACL | BERT, Pretraining | Pre-trained language model using masked language modeling and next sentence prediction. |
-| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Vaswani, A., Shazeer, N., Parmar, N. | 2017 | NeurIPS | Transformer, NLP | Introduces the Transformer architecture based solely on attention. |
+|  ID   | Title | Authors | Citations | AnyCode |
+| ----- | ----- | ------- | --------- | ------- |
+| None | Attention Is All You Need |  | 0 | [Code😺]() | 
+| None | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |  | 0 | [Code😺]() | 
 <!-- PAPERS_END -->
