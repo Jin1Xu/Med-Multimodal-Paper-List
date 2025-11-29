@@ -1,6 +1,7 @@
 import json
 import glob
 from pathlib import Path
+from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parent.parent
 PAPERS_DIR = ROOT / "papers"
