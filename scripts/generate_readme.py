@@ -93,7 +93,7 @@ def build_grouped_markdown(grouped_papers):
     """
     输出 grouped_papers: dict[(conf, year)] -> [papers...]
     """
-    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True) # 先按 year 降序，再按 conf 排序
+    sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True) # 每个会议先按 year 降序，再按名称排序
     sections = []
     for (conf, year) in sorted_keys:
         papers = grouped_papers[(conf, year)]
@@ -111,6 +111,7 @@ def build_grouped_markdown(grouped_papers):
 
     return "\n\n".join(sections)
 
+
 def replace_section(readme_text, new_section):
     start_idx = readme_text.find(START_MARK)
     end_idx = readme_text.find(END_MARK)
@@ -124,22 +125,20 @@ def replace_section(readme_text, new_section):
     after = readme_text[end_idx:]
     return f"{before}\n\n{new_section}\n{after}"
 
+
 def main():
     grouped_papers = load_papers()
-
+    
     if grouped_papers:
-        # 正常有文献时，生成多会议的 markdown
         grouped_md = build_grouped_markdown(grouped_papers)
     else:
-        # 没有任何 json 时，直接写一个占位说明（也可以写成空字符串 ""）
-        grouped_md = "_当前没有任何论文数据。_"
+        grouped_md = "_当前没有任何论文数据_"
 
     if README_PATH.exists():
         readme_text = README_PATH.read_text(encoding="utf-8")
     else:
         readme_text = "# Papers\n"
-
-    # 替换 README 中的占位区域
+        
     new_readme = replace_section(readme_text, grouped_md)
     README_PATH.write_text(new_readme, encoding="utf-8")
     print("README.md updated.")
