@@ -5,9 +5,16 @@ including: **AAAI, NeurIPS, ICML, ICLR, IJCAI, ECCV, ICCV, CVPR, ISBI, MICCAI**
 
 Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and Ours: [https://jiandanjinxin.github.io/](https://jiandanjinxin.github.io/)
 
-- [会议列表](#📅 Conference-List)
+<details>
+  <summary>展开查看目录</summary>
 
-- 
+- [简介](# 📅 Conference-List)
+- [安装](#安装)
+- [使用方法](#使用方法)
+- [许可证](#许可证)
+
+</details>
+
 ## 📅 Conference-List
 | No. | Conference | Type | Submission | Conference Dates | Web |
 |:--:|:-------|:---|:----------------|:---------------------|:-----------------|
