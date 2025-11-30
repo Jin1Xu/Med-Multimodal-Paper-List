@@ -8,10 +8,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 <details>
   <summary>展开查看目录</summary>
 
-- [简介](#📅 Conference-List)
-- [安装](#安装)
-- [使用方法](#使用方法)
-- [许可证](#许可证)
+- [会议列表](#conference-list)
 
 </details>
 
