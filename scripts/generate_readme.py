@@ -101,6 +101,7 @@ def paper_to_row(p):
 def build_grouped_markdown(grouped_papers):
     """
     输出 grouped_papers: dict[(conf, year)] -> [papers...]
+    每个 (conf, year) 区块用 <details> 折叠。
     """
     # 每个会议先按 year 降序，再按名称排序
     sorted_keys = sorted(grouped_papers.keys(), key=lambda k: (k[1], k[0]), reverse=True)
@@ -114,17 +115,30 @@ def build_grouped_markdown(grouped_papers):
         # 按论文 id 的数值大小排序
         papers = sorted(papers, key=lambda p: int(p["id"]))
 
+        # 这个 header 会放在 details 里面，保留原来的标题结构，方便锚点导航
         header = f"### {conf} {year}\n\n共筛选出 {paper_count} 篇论文\n"
+
         table_header = (
             "| ID | Title | Authors | Status | Citations | AnyCode |\n"
             "| -- | ----- | ------- | :----: | :-------: | :-----: |"
         )
 
         rows = [paper_to_row(p) for p in papers]
-        section_md = header + table_header + "\n" + "\n".join(rows)
+        inner_md = header + table_header + "\n" + "\n".join(rows)
+
+        # 外面包一层 details，summary 作为折叠标题
+        section_md = (
+            "<details>\n"
+            f"  <summary><strong>{conf} {year}</strong>（共筛选出 {paper_count} 篇论文）</summary>\n\n"
+            "  <br/>\n\n"
+            f"{inner_md}\n"
+            "</details>"
+        )
+
         sections.append(section_md)
 
     return "\n\n".join(sections)
+
 
 
 def replace_section(readme_text, new_section):
