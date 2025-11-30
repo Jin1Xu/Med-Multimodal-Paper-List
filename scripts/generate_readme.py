@@ -108,15 +108,10 @@ def build_grouped_markdown(grouped_papers):
     sections = []
     for (conf, year) in sorted_keys:
         papers = grouped_papers[(conf, year)]
-
-        # 统计该会议该年份的论文数量
         paper_count = len(papers)
-
-        # 按论文 id 的数值大小排序
         papers = sorted(papers, key=lambda p: int(p["id"]))
 
-        # 这个 header 会放在 details 里面，保留原来的标题结构，方便锚点导航
-        header = f"### {conf} {year}\n\n共筛选出 {paper_count} 篇论文\n"
+        #header = f"### {conf} {year}\n\n共筛选出 {paper_count} 篇论文\n"
 
         table_header = (
             "| ID | Title | Authors | Status | Citations | AnyCode |\n"
@@ -124,9 +119,7 @@ def build_grouped_markdown(grouped_papers):
         )
 
         rows = [paper_to_row(p) for p in papers]
-        inner_md = header + table_header + "\n" + "\n".join(rows)
-
-        # 外面包一层 details，summary 作为折叠标题
+        inner_md = table_header + "\n" + "\n".join(rows)
         section_md = (
             "<details>\n"
             f"  <summary><strong>{conf} {year}</strong>（共筛选出 {paper_count} 篇论文）</summary>\n\n"
