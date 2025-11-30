@@ -33,6 +33,11 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 <!-- PAPERS_START -->
 
+<details>
+  <summary><strong>ECCV 2024</strong>（共筛选出 236 篇论文）</summary>
+
+  <br/>
+
 ### ECCV 2024
 
 共筛选出 236 篇论文
@@ -274,4 +279,5 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 2648 | [Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07189.pdf) | Sukwon Yun, Jie Peng, Alexandro E Trevino, Chanyoung Park, Tianlong Chen | Poster | 0 | 😾 | 
 | 2649 | [MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08947.pdf) | Elad Hirsch, Gefen Dawidowicz, Ayellet Tal | Poster | 2 | 😾 | 
 | 2665 | [Towards Multi-modal Transformers in Federated Learning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02339.pdf) | Guangyu Sun, Matias Mendieta, Aritra Dutta, Xin Li, Chen Chen | Poster | 5 | 😾 | 
+</details>
 <!-- PAPERS_END -->
