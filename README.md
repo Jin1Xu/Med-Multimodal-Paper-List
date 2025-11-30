@@ -9,6 +9,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
   <summary>展开查看目录</summary>
 
 - [会议列表](#conference-list)
+- [ECCN2024](#eccv2024)
 
 </details>
 
