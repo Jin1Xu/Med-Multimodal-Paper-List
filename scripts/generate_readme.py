@@ -81,9 +81,15 @@ def paper_to_row(p):
     else:
         title_md = title_clean
 
-    # 作者
-    authors = p.get("author_site") or p.get("author") or ""
-    authors = authors.replace(";", ",")
+    # 作者：只保留第一作者
+    authors_raw = p.get("author_site") or p.get("author") or ""
+    authors_raw = authors_raw.strip()
+    if authors_raw:
+        tmp = authors_raw.replace(";", ",")
+        first_author = tmp.split(",")[0].strip()
+        authors = first_author
+    else:
+        authors = ""
 
     # status
     status = p.get("status")
