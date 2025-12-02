@@ -21,7 +21,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
  
 
 ## 📚 Med-Multimodal-Paper-List
-[**Paper Copilot**](https://papercopilot.com/paper-list/) 提供了完整的顶会文献列表，这是一个很棒的网站🌹  
+[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了完整的顶会文献列表，这是一个很棒的网站🌹  
 基于此调用大模型API进一步筛选文献，聚焦**基于多模态和跨模态的医学研究**论文，筛选后的文献存储在Json文件中并通过Github Actions同步如下：
 
 <!-- PAPERS_START -->
