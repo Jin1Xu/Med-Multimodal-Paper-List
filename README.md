@@ -6,24 +6,21 @@ including: **AAAI, NeurIPS, ICML, ICLR, IJCAI, ECCV, ICCV, CVPR, ISBI, MICCAI**
 Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and Ours: [https://jiandanjinxin.github.io/](https://jiandanjinxin.github.io/)
 
 ## 📅 Conference-List
-| Conference | Type | Submission | Conference Dates | Web |
-|:-------:|:---:|:----------------|:---------------------|:-----------------|
-| AAAI    | ML | Aug 2 2025      |                  | https://aaai.org |
-| NeurIPS | ML | May 11 2025     | Dec 2025             | https://neurips.cc |
-| ICML    | ML | Jan 23 2026     | Jul 2026             | https://icml.cc |
-| ICLR    | ML | Sep 19 2025     | Apr 2026             | https://iclr.cc |
-| IJCAI   | ML | Jan 19 2026     | Aug 2026             | https://2026.ijcai.org/ |
-| **ECCV** | CV | **Mar 6 2026** | Sep 2026     | https://eccv.ecva.net/Conferences/2026 |
-| ICCV    | CV | Mar 7 2025      | Oct 2025      | https://iccv.thecvf.com |
-| CVPR    | CV | Nov 7 2025      | Jun 2026      | https://cvpr.thecvf.com |
-| ISBI    | Med| Nov 14 2025     | Apr 2026      | https://biomedicalimaging.org/2026/ |
-| **MICCAI** | Med| **Feb 12 2026** | Oct 2026   | https://conferences.miccai.org/2026/ |
+| Conference                                        | Type | Submission    | Conference Dates | Papers           |
+|:-------------------------------------------------:|:---:|:---------------|:-----------------|:-----------------|
+| [AAAI](https://aaai.org/conference/aaai/aaai-26/) | ML  | Aug 2 2025     |    -             | -                |
+| [NeurIPS](https://neurips.cc/Conferences/2025)    | ML  | May 11 2025    | Dec 2025         | -                |
+| [ICML](https://icml.cc/)                          | ML  | Jan 23 2026    | Jul 2026         | -                |
+| [ICLR](https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-oral)  | ML | Sep 19 2025 | Apr 2026 | - |
+| [IJCAI](https://2025.ijcai.org/)                  | ML  | Jan 19 2026    | Aug 2026         | -                |
+| [**ECCV**](https://eccv.ecva.net/Conferences/2026)| CV  | **Mar 6 2026** | Sep 2026         | -                |
+| [ICCV](https://iccv.thecvf.com/Conferences/2025)  | CV  | Mar 7 2025     | Oct 2025         | -                |
+| [CVPR](https://cvpr.thecvf.com/Conferences/2025)  | CV  | Nov 7 2025     | Jun 2026         | -                |
+| [ISBI](https://biomedicalimaging.org/2025/)       | Med | Nov 14 2025    | Apr 2026         | https://dblp.org/db/conf/isbi/isbi2025.html |
+| [**MICCAI**](https://conferences.miccai.org/2026/en/default.asp) | Med | **Feb 12 2026** | Oct 2026 | https://papers.miccai.org/miccai-2025/ |
  
-
 ## 📚 Med-Multimodal-Paper-List
-ISBI2025论文：https://dblp.org/db/conf/isbi/isbi2025.html
-
-[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了完整的顶会文献列表，这是一个很棒的网站🌹  
+[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表，这是一个很棒的网站🌹  
 基于此调用大模型API进一步筛选文献，聚焦**基于多模态和跨模态的医学研究**论文，筛选后的文献存储在Json文件中并通过Github Actions同步如下：
 
 <!-- PAPERS_START -->
