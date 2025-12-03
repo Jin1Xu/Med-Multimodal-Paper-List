@@ -136,9 +136,6 @@ def build_grouped_markdown(grouped_papers):
                 return (1, id_str)
 
         papers = sorted(papers, key=sort_key)
-
-        #header = f"### {conf} {year}\n\n共筛选出 {paper_count} 篇论文\n"
-
         table_header = (
             "| ID | Title | Authors | Status | Citations | AnyCode |\n"
             "| -- | ----- | ------- | :----: | :-------: | :-----: |"
