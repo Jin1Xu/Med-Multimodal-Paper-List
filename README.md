@@ -32,40 +32,40 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 05cVmYJJnb | [BrainMoE: Cognition Joint Embedding via Mixture-of-Expert Towards Robust Brain Foundation Model](https://openreview.net/forum?id=05cVmYJJnb) | Ziquan Wei | Poster | -1 | 😾 | 
-| 6Q5WG84uOD | [THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations](https://openreview.net/forum?id=6Q5WG84uOD) | Wenchao Yang | Poster | -1 | 😾 | 
-| 6UAeCPQPwP | [Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG](https://openreview.net/forum?id=6UAeCPQPwP) | Shihao Yang | Poster | -1 | 😾 | 
-| 7yOl9qiLWd | [BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories](https://openreview.net/forum?id=7yOl9qiLWd) | Wonjung Park | Poster | -1 | 😾 | 
-| A9jXG3FUMT | [FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction](https://openreview.net/forum?id=A9jXG3FUMT) | Ruizhe Zheng | Spotlight | -1 | 😾 | 
-| BeSFxKX3Po | [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://openreview.net/forum?id=BeSFxKX3Po) | Qi Xin | Poster | -1 | 😾 | 
-| CDQ0MI4rLw | [ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding](https://openreview.net/forum?id=CDQ0MI4rLw) | Haonan Wang | Poster | -1 | 😾 | 
-| DwFDfrPsm8 | [NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI](https://openreview.net/forum?id=DwFDfrPsm8) | Cosmin I. Bercea | Oral | -1 | 😾 | 
-| Fj2kyLs6G5 | [NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis](https://openreview.net/forum?id=Fj2kyLs6G5) | Shengrong Li | Poster | -1 | 😾 | 
-| K6ijewH34E | [Bridging Brains and Concepts: Interpretable Visual Decoding from fMRI with Semantic Bottlenecks](https://openreview.net/forum?id=K6ijewH34E) | Sara Cammarota | Poster | -1 | 😾 | 
-| LDjBDk3Czb | [BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity](https://openreview.net/forum?id=LDjBDk3Czb) | Lucine L Oganesian | Poster | -1 | 😾 | 
-| NY3LzmUXl7 | [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://openreview.net/forum?id=NY3LzmUXl7) | Antoine Collas | Poster | -1 | 😾 | 
-| OM0Qkq9xtY | [Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://openreview.net/forum?id=OM0Qkq9xtY) | Yingtao Zhang | Poster | -1 | 😾 | 
-| P4KjfMrVNU | [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU) | Chengliang Liu | Poster | -1 | 😾 | 
-| RDdfQc5Ts1 | [AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation](https://openreview.net/forum?id=RDdfQc5Ts1) | Qingqiu Li | Poster | -1 | 😾 | 
-| REIo9ZLSYo | [Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling](https://openreview.net/forum?id=REIo9ZLSYo) | Wentao Lu | Spotlight | -1 | 😾 | 
-| Tt3XLyuDrE | [Transformer brain encoders explain human high-level visual responses](https://openreview.net/forum?id=Tt3XLyuDrE) | Hossein Adeli | Spotlight | -1 | 😾 | 
-| WQq5JPGQ0C | [RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://openreview.net/forum?id=WQq5JPGQ0C) | Jonggwon Park | Poster | -1 | 😾 | 
-| WtMuGdHvh6 | [S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://openreview.net/forum?id=WtMuGdHvh6) | Jiaqi Wang | Poster | -1 | 😾 | 
-| XmV7KRABBl | [EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks](https://openreview.net/forum?id=XmV7KRABBl) | Rikuto Kotoge | Spotlight | -1 | 😾 | 
-| YufSVJxDgt | [Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets](https://openreview.net/forum?id=YufSVJxDgt) | Ji Xia | Poster | -1 | 😾 | 
-| agcXjEHmyW | [CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=agcXjEHmyW) | Yuchen Zhou | Spotlight | -1 | 😾 | 
-| bDBxf9f5Li | [Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment](https://openreview.net/forum?id=bDBxf9f5Li) | Vida Adeli | Poster | -1 | 😾 | 
-| cjHQj0tCy6 | [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://openreview.net/forum?id=cjHQj0tCy6) | Qinfan Xiao | Poster | -1 | 😾 | 
-| fYSPRGmS6l | [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://openreview.net/forum?id=fYSPRGmS6l) | YUXIANG WEI | Poster | -1 | 😾 | 
-| iQoZv77o3g | [Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks](https://openreview.net/forum?id=iQoZv77o3g) | Alexander Ratzan | Poster | -1 | 😾 | 
-| kkhRTTmXFV | [Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives](https://openreview.net/forum?id=kkhRTTmXFV) | Geng Zhang | Poster | -1 | 😾 | 
-| koxXKW4FbR | [Listening to the Brain: Multi-Band sEEG Auditory Reconstruction via Dynamic Spatio-Temporal Hypergraphs](https://openreview.net/forum?id=koxXKW4FbR) | Xueyi Zhang | Poster | -1 | 😾 | 
-| oCXyxhgCiZ | [BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM](https://openreview.net/forum?id=oCXyxhgCiZ) | Wen Xiong | Poster | -1 | 😾 | 
-| tPJg65EB7D | [Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens](https://openreview.net/forum?id=tPJg65EB7D) | Zijian Dong | Poster | -1 | 😾 | 
-| tPqBnGwTwa | [Far from the Shallow: Brain-Predictive Reasoning Embedding through Residual Disentanglement](https://openreview.net/forum?id=tPqBnGwTwa) | Linyang He | Poster | -1 | 😾 | 
-| vIDsnh0FWH | [AneuG-Flow: A Large-Scale Synthetic Dataset of Diverse Intracranial Aneurysm Geometries and Hemodynamics](https://openreview.net/forum?id=vIDsnh0FWH) | Wenhao Ding | Poster | -1 | 😾 | 
-| xcw6UWNtFJ | [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://openreview.net/forum?id=xcw6UWNtFJ) | Hyungyung Lee | Spotlight | -1 | 😾 | 
-| ypPxYsmZPx | [DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases](https://openreview.net/forum?id=ypPxYsmZPx) | Mo wang | Poster | -1 | 😾 | 
+| 05cVmYJJnb | [BrainMoE: Cognition Joint Embedding via Mixture-of-Expert Towards Robust Brain Foundation Model](https://openreview.net/forum?id=05cVmYJJnb) | Ziquan Wei | Poster |  | 😾 | 
+| 6Q5WG84uOD | [THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations](https://openreview.net/forum?id=6Q5WG84uOD) | Wenchao Yang | Poster |  | 😾 | 
+| 6UAeCPQPwP | [Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG](https://openreview.net/forum?id=6UAeCPQPwP) | Shihao Yang | Poster |  | 😾 | 
+| 7yOl9qiLWd | [BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories](https://openreview.net/forum?id=7yOl9qiLWd) | Wonjung Park | Poster |  | 😾 | 
+| A9jXG3FUMT | [FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction](https://openreview.net/forum?id=A9jXG3FUMT) | Ruizhe Zheng | Spotlight |  | 😾 | 
+| BeSFxKX3Po | [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://openreview.net/forum?id=BeSFxKX3Po) | Qi Xin | Poster |  | 😾 | 
+| CDQ0MI4rLw | [ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding](https://openreview.net/forum?id=CDQ0MI4rLw) | Haonan Wang | Poster |  | 😾 | 
+| DwFDfrPsm8 | [NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI](https://openreview.net/forum?id=DwFDfrPsm8) | Cosmin I. Bercea | Oral |  | 😾 | 
+| Fj2kyLs6G5 | [NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis](https://openreview.net/forum?id=Fj2kyLs6G5) | Shengrong Li | Poster |  | 😾 | 
+| K6ijewH34E | [Bridging Brains and Concepts: Interpretable Visual Decoding from fMRI with Semantic Bottlenecks](https://openreview.net/forum?id=K6ijewH34E) | Sara Cammarota | Poster |  | 😾 | 
+| LDjBDk3Czb | [BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity](https://openreview.net/forum?id=LDjBDk3Czb) | Lucine L Oganesian | Poster |  | 😾 | 
+| NY3LzmUXl7 | [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://openreview.net/forum?id=NY3LzmUXl7) | Antoine Collas | Poster |  | 😾 | 
+| OM0Qkq9xtY | [Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://openreview.net/forum?id=OM0Qkq9xtY) | Yingtao Zhang | Poster |  | 😾 | 
+| P4KjfMrVNU | [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU) | Chengliang Liu | Poster |  | 😾 | 
+| RDdfQc5Ts1 | [AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation](https://openreview.net/forum?id=RDdfQc5Ts1) | Qingqiu Li | Poster |  | 😾 | 
+| REIo9ZLSYo | [Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling](https://openreview.net/forum?id=REIo9ZLSYo) | Wentao Lu | Spotlight |  | 😾 | 
+| Tt3XLyuDrE | [Transformer brain encoders explain human high-level visual responses](https://openreview.net/forum?id=Tt3XLyuDrE) | Hossein Adeli | Spotlight |  | 😾 | 
+| WQq5JPGQ0C | [RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://openreview.net/forum?id=WQq5JPGQ0C) | Jonggwon Park | Poster |  | 😾 | 
+| WtMuGdHvh6 | [S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://openreview.net/forum?id=WtMuGdHvh6) | Jiaqi Wang | Poster |  | 😾 | 
+| XmV7KRABBl | [EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks](https://openreview.net/forum?id=XmV7KRABBl) | Rikuto Kotoge | Spotlight |  | 😾 | 
+| YufSVJxDgt | [Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets](https://openreview.net/forum?id=YufSVJxDgt) | Ji Xia | Poster |  | 😾 | 
+| agcXjEHmyW | [CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=agcXjEHmyW) | Yuchen Zhou | Spotlight |  | 😾 | 
+| bDBxf9f5Li | [Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment](https://openreview.net/forum?id=bDBxf9f5Li) | Vida Adeli | Poster |  | 😾 | 
+| cjHQj0tCy6 | [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://openreview.net/forum?id=cjHQj0tCy6) | Qinfan Xiao | Poster |  | 😾 | 
+| fYSPRGmS6l | [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://openreview.net/forum?id=fYSPRGmS6l) | YUXIANG WEI | Poster |  | 😾 | 
+| iQoZv77o3g | [Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks](https://openreview.net/forum?id=iQoZv77o3g) | Alexander Ratzan | Poster |  | 😾 | 
+| kkhRTTmXFV | [Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives](https://openreview.net/forum?id=kkhRTTmXFV) | Geng Zhang | Poster |  | 😾 | 
+| koxXKW4FbR | [Listening to the Brain: Multi-Band sEEG Auditory Reconstruction via Dynamic Spatio-Temporal Hypergraphs](https://openreview.net/forum?id=koxXKW4FbR) | Xueyi Zhang | Poster |  | 😾 | 
+| oCXyxhgCiZ | [BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM](https://openreview.net/forum?id=oCXyxhgCiZ) | Wen Xiong | Poster |  | 😾 | 
+| tPJg65EB7D | [Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens](https://openreview.net/forum?id=tPJg65EB7D) | Zijian Dong | Poster |  | 😾 | 
+| tPqBnGwTwa | [Far from the Shallow: Brain-Predictive Reasoning Embedding through Residual Disentanglement](https://openreview.net/forum?id=tPqBnGwTwa) | Linyang He | Poster |  | 😾 | 
+| vIDsnh0FWH | [AneuG-Flow: A Large-Scale Synthetic Dataset of Diverse Intracranial Aneurysm Geometries and Hemodynamics](https://openreview.net/forum?id=vIDsnh0FWH) | Wenhao Ding | Poster |  | 😾 | 
+| xcw6UWNtFJ | [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://openreview.net/forum?id=xcw6UWNtFJ) | Hyungyung Lee | Spotlight |  | 😾 | 
+| ypPxYsmZPx | [DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases](https://openreview.net/forum?id=ypPxYsmZPx) | Mo wang | Poster |  | 😾 | 
 </details>
 
 <details>
@@ -75,173 +75,173 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  | None | 0 | 😾 | 
-| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  | None | 0 | 😾 | 
-| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  | None | 0 | 😾 | 
-| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  | None | 0 | 😾 | 
-| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  | None | 0 | 😾 | 
-| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  | None | 0 | 😾 | 
-| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  | None | 0 | 😾 | 
-| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  | None | 0 | 😾 | 
-| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  | None | 0 | 😾 | 
-| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  | None | 0 | 😾 | 
-| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  | None | 0 | 😾 | 
-| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  | None | 0 | 😾 | 
-| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  | None | 0 | 😾 | 
-| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  | None | 0 | 😾 | 
-| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  | None | 0 | 😾 | 
-| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  | None | 0 | 😾 | 
-| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  | None | 0 | 😾 | 
-| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  | None | 0 | 😾 | 
-| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  | None | 0 | 😾 | 
-| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  | None | 0 | 😾 | 
-| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  | None | 0 | 😾 | 
-| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  | None | 0 | 😾 | 
-| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  | None | 0 | 😾 | 
-| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  | None | 0 | 😾 | 
-| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  | None | 0 | 😾 | 
-| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  | None | 0 | 😾 | 
-| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  | None | 0 | 😾 | 
-| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  | None | 0 | 😾 | 
-| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  | None | 0 | 😾 | 
-| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  | None | 0 | 😾 | 
-| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  | None | 0 | 😾 | 
-| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  | None | 0 | 😾 | 
-| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  | None | 0 | 😾 | 
-| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  | None | 0 | 😾 | 
-| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  | None | 0 | 😾 | 
-| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  | None | 0 | 😾 | 
-| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  | None | 0 | 😾 | 
-| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  | None | 0 | 😾 | 
-| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  | None | 0 | 😾 | 
-| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  | None | 0 | 😾 | 
-| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  | None | 0 | 😾 | 
-| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  | None | 0 | 😾 | 
-| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  | None | 0 | 😾 | 
-| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  | None | 0 | 😾 | 
-| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  | None | 0 | 😾 | 
-| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  | None | 0 | 😾 | 
-| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  | None | 0 | 😾 | 
-| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  | None | 0 | 😾 | 
-| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  | None | 0 | 😾 | 
-| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  | None | 0 | 😾 | 
-| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  | None | 0 | 😾 | 
-| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  | None | 0 | 😾 | 
-| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  | None | 0 | 😾 | 
-| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  | None | 0 | 😾 | 
-| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  | None | 0 | 😾 | 
-| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  | None | 0 | 😾 | 
-| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  | None | 0 | 😾 | 
-| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  | None | 0 | 😾 | 
-| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  | None | 0 | 😾 | 
-| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  | None | 0 | 😾 | 
-| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  | None | 0 | 😾 | 
-| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  | None | 0 | 😾 | 
-| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  | None | 0 | 😾 | 
-| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  | None | 0 | 😾 | 
-| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  | None | 0 | 😾 | 
-| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  | None | 0 | 😾 | 
-| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  | None | 0 | 😾 | 
-| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  | None | 0 | 😾 | 
-| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  | None | 0 | 😾 | 
-| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  | None | 0 | 😾 | 
-| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  | None | 0 | 😾 | 
-| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  | None | 0 | 😾 | 
-| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  | None | 0 | 😾 | 
-| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  | None | 0 | 😾 | 
-| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  | None | 0 | 😾 | 
-| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  | None | 0 | 😾 | 
-| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  | None | 0 | 😾 | 
-| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  | None | 0 | 😾 | 
-| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  | None | 0 | 😾 | 
-| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  | None | 0 | 😾 | 
-| None | Improving Autism Detection with Multimodal Behavioral Analysis |  | None | 0 | 😾 | 
-| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  | None | 0 | 😾 | 
-| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  | None | 0 | 😾 | 
-| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  | None | 0 | 😾 | 
-| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  | None | 0 | 😾 | 
-| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  | None | 0 | 😾 | 
-| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  | None | 0 | 😾 | 
-| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  | None | 0 | 😾 | 
-| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  | None | 0 | 😾 | 
-| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  | None | 0 | 😾 | 
-| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  | None | 0 | 😾 | 
-| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  | None | 0 | 😾 | 
-| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  | None | 0 | 😾 | 
-| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  | None | 0 | 😾 | 
-| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  | None | 0 | 😾 | 
-| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  | None | 0 | 😾 | 
-| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  | None | 0 | 😾 | 
-| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  | None | 0 | 😾 | 
-| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  | None | 0 | 😾 | 
-| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  | None | 0 | 😾 | 
-| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  | None | 0 | 😾 | 
-| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  | None | 0 | 😾 | 
-| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  | None | 0 | 😾 | 
-| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  | None | 0 | 😾 | 
-| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  | None | 0 | 😾 | 
-| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  | None | 0 | 😾 | 
-| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  | None | 0 | 😾 | 
-| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  | None | 0 | 😾 | 
-| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  | None | 0 | 😾 | 
-| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  | None | 0 | 😾 | 
-| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  | None | 0 | 😾 | 
-| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  | None | 0 | 😾 | 
-| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  | None | 0 | 😾 | 
-| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  | None | 0 | 😾 | 
-| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  | None | 0 | 😾 | 
-| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  | None | 0 | 😾 | 
-| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  | None | 0 | 😾 | 
-| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  | None | 0 | 😾 | 
-| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  | None | 0 | 😾 | 
-| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  | None | 0 | 😾 | 
-| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  | None | 0 | 😾 | 
-| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  | None | 0 | 😾 | 
-| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  | None | 0 | 😾 | 
-| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  | None | 0 | 😾 | 
-| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  | None | 0 | 😾 | 
-| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  | None | 0 | 😾 | 
-| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  | None | 0 | 😾 | 
-| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  | None | 0 | 😾 | 
-| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  | None | 0 | 😾 | 
-| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  | None | 0 | 😾 | 
-| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  | None | 0 | 😾 | 
-| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  | None | 0 | 😾 | 
-| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  | None | 0 | 😾 | 
-| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  | None | 0 | 😾 | 
-| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  | None | 0 | 😾 | 
-| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  | None | 0 | 😾 | 
-| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  | None | 0 | 😾 | 
-| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  | None | 0 | 😾 | 
-| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  | None | 0 | 😾 | 
-| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  | None | 0 | 😾 | 
-| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  | None | 0 | 😾 | 
-| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  | None | 0 | 😾 | 
-| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  | None | 0 | 😾 | 
-| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  | None | 0 | 😾 | 
-| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  | None | 0 | 😾 | 
-| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  | None | 0 | 😾 | 
-| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  | None | 0 | 😾 | 
-| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  | None | 0 | 😾 | 
-| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  | None | 0 | 😾 | 
-| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  | None | 0 | 😾 | 
-| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  | None | 0 | 😾 | 
-| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  | None | 0 | 😾 | 
-| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  | None | 0 | 😾 | 
-| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  | None | 0 | 😾 | 
-| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  | None | 0 | 😾 | 
-| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  | None | 0 | 😾 | 
-| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  | None | 0 | 😾 | 
-| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  | None | 0 | 😾 | 
+| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  | None |  | 😾 | 
+| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  | None |  | 😾 | 
+| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  | None |  | 😾 | 
+| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  | None |  | 😾 | 
+| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  | None |  | 😾 | 
+| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  | None |  | 😾 | 
+| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  | None |  | 😾 | 
+| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  | None |  | 😾 | 
+| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  | None |  | 😾 | 
+| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  | None |  | 😾 | 
+| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  | None |  | 😾 | 
+| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  | None |  | 😾 | 
+| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  | None |  | 😾 | 
+| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  | None |  | 😾 | 
+| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  | None |  | 😾 | 
+| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  | None |  | 😾 | 
+| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  | None |  | 😾 | 
+| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  | None |  | 😾 | 
+| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  | None |  | 😾 | 
+| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  | None |  | 😾 | 
+| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
+| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  | None |  | 😾 | 
+| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  | None |  | 😾 | 
+| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  | None |  | 😾 | 
+| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  | None |  | 😾 | 
+| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  | None |  | 😾 | 
+| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  | None |  | 😾 | 
+| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  | None |  | 😾 | 
+| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  | None |  | 😾 | 
+| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  | None |  | 😾 | 
+| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  | None |  | 😾 | 
+| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  | None |  | 😾 | 
+| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  | None |  | 😾 | 
+| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  | None |  | 😾 | 
+| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  | None |  | 😾 | 
+| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  | None |  | 😾 | 
+| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  | None |  | 😾 | 
+| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  | None |  | 😾 | 
+| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  | None |  | 😾 | 
+| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  | None |  | 😾 | 
+| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  | None |  | 😾 | 
+| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  | None |  | 😾 | 
+| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  | None |  | 😾 | 
+| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  | None |  | 😾 | 
+| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  | None |  | 😾 | 
+| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
+| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  | None |  | 😾 | 
+| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  | None |  | 😾 | 
+| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  | None |  | 😾 | 
+| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  | None |  | 😾 | 
+| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  | None |  | 😾 | 
+| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  | None |  | 😾 | 
+| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  | None |  | 😾 | 
+| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  | None |  | 😾 | 
+| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  | None |  | 😾 | 
+| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  | None |  | 😾 | 
+| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  | None |  | 😾 | 
+| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  | None |  | 😾 | 
+| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  | None |  | 😾 | 
+| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  | None |  | 😾 | 
+| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  | None |  | 😾 | 
+| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  | None |  | 😾 | 
+| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  | None |  | 😾 | 
+| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  | None |  | 😾 | 
+| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  | None |  | 😾 | 
+| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  | None |  | 😾 | 
+| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  | None |  | 😾 | 
+| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  | None |  | 😾 | 
+| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  | None |  | 😾 | 
+| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  | None |  | 😾 | 
+| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  | None |  | 😾 | 
+| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  | None |  | 😾 | 
+| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  | None |  | 😾 | 
+| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  | None |  | 😾 | 
+| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  | None |  | 😾 | 
+| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  | None |  | 😾 | 
+| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  | None |  | 😾 | 
+| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
+| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  | None |  | 😾 | 
+| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  | None |  | 😾 | 
+| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  | None |  | 😾 | 
+| None | Improving Autism Detection with Multimodal Behavioral Analysis |  | None |  | 😾 | 
+| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  | None |  | 😾 | 
+| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  | None |  | 😾 | 
+| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  | None |  | 😾 | 
+| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  | None |  | 😾 | 
+| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  | None |  | 😾 | 
+| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  | None |  | 😾 | 
+| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  | None |  | 😾 | 
+| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  | None |  | 😾 | 
+| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  | None |  | 😾 | 
+| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  | None |  | 😾 | 
+| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  | None |  | 😾 | 
+| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  | None |  | 😾 | 
+| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  | None |  | 😾 | 
+| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  | None |  | 😾 | 
+| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  | None |  | 😾 | 
+| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  | None |  | 😾 | 
+| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  | None |  | 😾 | 
+| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  | None |  | 😾 | 
+| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  | None |  | 😾 | 
+| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  | None |  | 😾 | 
+| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  | None |  | 😾 | 
+| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  | None |  | 😾 | 
+| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  | None |  | 😾 | 
+| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  | None |  | 😾 | 
+| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  | None |  | 😾 | 
+| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  | None |  | 😾 | 
+| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  | None |  | 😾 | 
+| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  | None |  | 😾 | 
+| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
+| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  | None |  | 😾 | 
+| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  | None |  | 😾 | 
+| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  | None |  | 😾 | 
+| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  | None |  | 😾 | 
+| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  | None |  | 😾 | 
+| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  | None |  | 😾 | 
+| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  | None |  | 😾 | 
+| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  | None |  | 😾 | 
+| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  | None |  | 😾 | 
+| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  | None |  | 😾 | 
+| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  | None |  | 😾 | 
+| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  | None |  | 😾 | 
+| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  | None |  | 😾 | 
+| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  | None |  | 😾 | 
+| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  | None |  | 😾 | 
+| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
+| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  | None |  | 😾 | 
+| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  | None |  | 😾 | 
+| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  | None |  | 😾 | 
+| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  | None |  | 😾 | 
+| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  | None |  | 😾 | 
+| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  | None |  | 😾 | 
+| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  | None |  | 😾 | 
+| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  | None |  | 😾 | 
+| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  | None |  | 😾 | 
+| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  | None |  | 😾 | 
+| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  | None |  | 😾 | 
+| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  | None |  | 😾 | 
+| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  | None |  | 😾 | 
+| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  | None |  | 😾 | 
+| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  | None |  | 😾 | 
+| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  | None |  | 😾 | 
+| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  | None |  | 😾 | 
+| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  | None |  | 😾 | 
+| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  | None |  | 😾 | 
+| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  | None |  | 😾 | 
+| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  | None |  | 😾 | 
+| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  | None |  | 😾 | 
+| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  | None |  | 😾 | 
+| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  | None |  | 😾 | 
+| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  | None |  | 😾 | 
+| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  | None |  | 😾 | 
+| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  | None |  | 😾 | 
+| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  | None |  | 😾 | 
+| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  | None |  | 😾 | 
+| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  | None |  | 😾 | 
+| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  | None |  | 😾 | 
+| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  | None |  | 😾 | 
+| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  | None |  | 😾 | 
+| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  | None |  | 😾 | 
+| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  | None |  | 😾 | 
+| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  | None |  | 😾 | 
+| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  | None |  | 😾 | 
 </details>
 
 <details>
@@ -251,105 +251,105 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  | None | 0 | 😾 | 
-| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  | None | 0 | 😾 | 
-| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  | None | 0 | 😾 | 
-| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  | None | 0 | 😾 | 
-| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  | None | 0 | 😾 | 
-| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  | None | 0 | 😾 | 
-| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  | None | 0 | 😾 | 
-| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  | None | 0 | 😾 | 
-| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  | None | 0 | 😾 | 
-| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  | None | 0 | 😾 | 
-| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  | None | 0 | 😾 | 
-| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  | None | 0 | 😾 | 
-| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  | None | 0 | 😾 | 
-| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  | None | 0 | 😾 | 
-| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  | None | 0 | 😾 | 
-| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  | None | 0 | 😾 | 
-| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  | None | 0 | 😾 | 
-| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  | None | 0 | 😾 | 
-| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  | None | 0 | 😾 | 
-| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  | None | 0 | 😾 | 
-| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  | None | 0 | 😾 | 
-| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  | None | 0 | 😾 | 
-| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  | None | 0 | 😾 | 
-| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  | None | 0 | 😾 | 
-| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  | None | 0 | 😾 | 
-| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  | None | 0 | 😾 | 
-| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  | None | 0 | 😾 | 
-| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  | None | 0 | 😾 | 
-| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  | None | 0 | 😾 | 
-| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  | None | 0 | 😾 | 
-| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  | None | 0 | 😾 | 
-| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  | None | 0 | 😾 | 
-| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  | None | 0 | 😾 | 
-| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  | None | 0 | 😾 | 
-| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  | None | 0 | 😾 | 
-| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  | None | 0 | 😾 | 
-| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  | None | 0 | 😾 | 
-| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  | None | 0 | 😾 | 
-| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  | None | 0 | 😾 | 
-| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  | None | 0 | 😾 | 
-| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  | None | 0 | 😾 | 
-| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  | None | 0 | 😾 | 
-| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  | None | 0 | 😾 | 
-| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  | None | 0 | 😾 | 
-| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  | None | 0 | 😾 | 
-| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  | None | 0 | 😾 | 
-| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  | None | 0 | 😾 | 
-| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  | None | 0 | 😾 | 
-| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  | None | 0 | 😾 | 
-| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  | None | 0 | 😾 | 
-| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  | None | 0 | 😾 | 
-| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  | None | 0 | 😾 | 
-| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  | None | 0 | 😾 | 
-| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  | None | 0 | 😾 | 
-| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  | None | 0 | 😾 | 
-| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  | None | 0 | 😾 | 
-| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  | None | 0 | 😾 | 
-| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  | None | 0 | 😾 | 
-| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  | None | 0 | 😾 | 
-| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  | None | 0 | 😾 | 
-| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  | None | 0 | 😾 | 
-| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  | None | 0 | 😾 | 
-| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  | None | 0 | 😾 | 
-| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  | None | 0 | 😾 | 
-| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  | None | 0 | 😾 | 
-| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  | None | 0 | 😾 | 
-| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  | None | 0 | 😾 | 
-| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  | None | 0 | 😾 | 
-| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  | None | 0 | 😾 | 
-| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  | None | 0 | 😾 | 
-| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  | None | 0 | 😾 | 
-| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  | None | 0 | 😾 | 
-| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  | None | 0 | 😾 | 
-| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  | None | 0 | 😾 | 
-| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  | None | 0 | 😾 | 
-| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  | None | 0 | 😾 | 
-| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  | None | 0 | 😾 | 
-| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  | None | 0 | 😾 | 
-| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  | None | 0 | 😾 | 
-| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  | None | 0 | 😾 | 
-| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  | None | 0 | 😾 | 
-| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  | None | 0 | 😾 | 
-| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  | None | 0 | 😾 | 
-| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  | None | 0 | 😾 | 
-| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  | None | 0 | 😾 | 
-| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  | None | 0 | 😾 | 
-| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  | None | 0 | 😾 | 
-| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  | None | 0 | 😾 | 
-| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  | None | 0 | 😾 | 
-| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  | None | 0 | 😾 | 
-| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  | None | 0 | 😾 | 
-| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  | None | 0 | 😾 | 
-| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  | None | 0 | 😾 | 
-| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  | None | 0 | 😾 | 
+| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
+| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  | None |  | 😾 | 
+| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  | None |  | 😾 | 
+| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  | None |  | 😾 | 
+| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  | None |  | 😾 | 
+| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  | None |  | 😾 | 
+| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
+| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  | None |  | 😾 | 
+| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  | None |  | 😾 | 
+| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  | None |  | 😾 | 
+| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  | None |  | 😾 | 
+| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  | None |  | 😾 | 
+| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  | None |  | 😾 | 
+| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  | None |  | 😾 | 
+| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  | None |  | 😾 | 
+| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  | None |  | 😾 | 
+| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  | None |  | 😾 | 
+| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  | None |  | 😾 | 
+| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  | None |  | 😾 | 
+| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  | None |  | 😾 | 
+| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  | None |  | 😾 | 
+| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  | None |  | 😾 | 
+| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  | None |  | 😾 | 
+| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  | None |  | 😾 | 
+| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  | None |  | 😾 | 
+| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  | None |  | 😾 | 
+| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  | None |  | 😾 | 
+| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  | None |  | 😾 | 
+| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  | None |  | 😾 | 
+| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  | None |  | 😾 | 
+| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  | None |  | 😾 | 
+| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  | None |  | 😾 | 
+| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  | None |  | 😾 | 
+| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  | None |  | 😾 | 
+| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  | None |  | 😾 | 
+| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  | None |  | 😾 | 
+| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  | None |  | 😾 | 
+| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  | None |  | 😾 | 
+| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  | None |  | 😾 | 
+| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  | None |  | 😾 | 
+| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  | None |  | 😾 | 
+| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  | None |  | 😾 | 
+| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  | None |  | 😾 | 
+| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  | None |  | 😾 | 
+| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  | None |  | 😾 | 
+| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  | None |  | 😾 | 
+| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  | None |  | 😾 | 
+| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  | None |  | 😾 | 
+| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  | None |  | 😾 | 
+| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  | None |  | 😾 | 
+| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  | None |  | 😾 | 
+| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  | None |  | 😾 | 
+| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  | None |  | 😾 | 
+| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  | None |  | 😾 | 
+| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  | None |  | 😾 | 
+| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  | None |  | 😾 | 
+| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  | None |  | 😾 | 
+| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  | None |  | 😾 | 
+| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  | None |  | 😾 | 
+| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  | None |  | 😾 | 
+| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  | None |  | 😾 | 
+| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  | None |  | 😾 | 
+| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  | None |  | 😾 | 
+| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  | None |  | 😾 | 
+| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  | None |  | 😾 | 
+| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  | None |  | 😾 | 
+| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  | None |  | 😾 | 
+| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  | None |  | 😾 | 
+| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  | None |  | 😾 | 
+| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  | None |  | 😾 | 
+| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  | None |  | 😾 | 
+| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  | None |  | 😾 | 
+| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  | None |  | 😾 | 
+| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  | None |  | 😾 | 
+| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  | None |  | 😾 | 
+| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  | None |  | 😾 | 
+| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  | None |  | 😾 | 
+| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  | None |  | 😾 | 
+| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  | None |  | 😾 | 
+| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  | None |  | 😾 | 
+| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  | None |  | 😾 | 
+| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  | None |  | 😾 | 
+| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  | None |  | 😾 | 
+| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  | None |  | 😾 | 
+| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  | None |  | 😾 | 
+| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  | None |  | 😾 | 
+| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  | None |  | 😾 | 
+| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  | None |  | 😾 | 
+| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  | None |  | 😾 | 
+| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  | None |  | 😾 | 
+| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  | None |  | 😾 | 
+| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  | None |  | 😾 | 
+| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  | None |  | 😾 | 
+| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  | None |  | 😾 | 
+| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  | None |  | 😾 | 
+| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  | None |  | 😾 | 
 </details>
 
 <details>
@@ -361,11 +361,11 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | -- | ----- | ------- | :----: | :-------: | :-----: |
 | 1W2WlYRq0K | [MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data](https://openreview.net/pdf?id=1W2WlYRq0K) | Yuqin Dai | Poster | 0 | 😾 | 
 | EiAQrilPYP | [MindLLM: A Subject-Agnostic and Versatile Model for fMRI-to-text Decoding](https://openreview.net/pdf?id=EiAQrilPYP) | Weikang Qiu | Poster | 0 | 😾 | 
-| F3Cbhb611p | [Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning](https://openreview.net/pdf?id=F3Cbhb611p) | Minqi Yu | Poster | -1 | 😾 | 
+| F3Cbhb611p | [Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning](https://openreview.net/pdf?id=F3Cbhb611p) | Minqi Yu | Poster |  | 😾 | 
 | JiFfij5iv0 | [MedRAX: Medical Reasoning Agent for Chest X-ray](https://openreview.net/pdf?id=JiFfij5iv0) | Adibvafa Fallahpour | Poster | 5 | 😾 | 
-| ckbo9yutGO | [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://openreview.net/pdf?id=ckbo9yutGO) | Jun-En Ding | Poster | 0 | 😾 | 
-| pOAEfqa26i | [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/pdf?id=pOAEfqa26i) | Weihan Li | Oral | -1 | 😾 | 
-| yaI2ZYFmeD | [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/pdf?id=yaI2ZYFmeD) | Sam Gijsen | Poster | 0 | 😾 | 
+| ckbo9yutGO | [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://openreview.net/pdf?id=ckbo9yutGO) | Jun-En Ding | Poster |  | 😾 | 
+| pOAEfqa26i | [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/pdf?id=pOAEfqa26i) | Weihan Li | Oral |  | 😾 | 
+| yaI2ZYFmeD | [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/pdf?id=yaI2ZYFmeD) | Sam Gijsen | Poster |  | 😾 | 
 </details>
 
 <details>
@@ -398,15 +398,15 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 49 | [MorphoGen: Efficient Unconditional Generation of Long-Range Projection Neuronal Morphology via a Global-to-Local Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_MorphoGen_Efficient_Unconditional_Generation_of_Long-Range_Projection_Neuronal_Morphology_via_ICCV_2025_paper.pdf) | Tianfang Zhu | Poster | -1 | 😾 | 
-| 435 | [CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization](2411.17845) | Soorena Salari | Poster | -1 | 😾 | 
-| 784 | [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.pdf) | Bo Liu | Poster | -1 | 😾 | 
-| 940 | [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf) | Mingyang Liu | Poster | -1 | 😾 | 
-| 1188 | [Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing](2503.10663) | Yang Xiao | Poster | -1 | 😾 | 
-| 1315 | [Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D](2503.02410) | Jiesi Hu | Poster | -1 | 😾 | 
-| 1599 | [M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_M-Net_MRI_Brain_Tumor_Sequential_Segmentation_Network_via_Mesh-Cast_ICCV_2025_paper.pdf) | Jiacheng Lu | Poster | -1 | 😾 | 
-| 1961 | [Bridging the Gap between Brain and Machine in Interpreting Visual Semantics: Towards Self-adaptive Brain-to-Text Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Bridging_the_Gap_between_Brain_and_Machine_in_Interpreting_Visual_ICCV_2025_paper.pdf) | Jiaxuan Chen | Poster | -1 | 😾 | 
-| 2179 | [Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation](2411.16719) | Xiaoling Hu | Poster | -1 | 😾 | 
+| 49 | [MorphoGen: Efficient Unconditional Generation of Long-Range Projection Neuronal Morphology via a Global-to-Local Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_MorphoGen_Efficient_Unconditional_Generation_of_Long-Range_Projection_Neuronal_Morphology_via_ICCV_2025_paper.pdf) | Tianfang Zhu | Poster |  | 😾 | 
+| 435 | [CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization](2411.17845) | Soorena Salari | Poster |  | 😾 | 
+| 784 | [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.pdf) | Bo Liu | Poster |  | 😾 | 
+| 940 | [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf) | Mingyang Liu | Poster |  | 😾 | 
+| 1188 | [Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing](2503.10663) | Yang Xiao | Poster |  | 😾 | 
+| 1315 | [Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D](2503.02410) | Jiesi Hu | Poster |  | 😾 | 
+| 1599 | [M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_M-Net_MRI_Brain_Tumor_Sequential_Segmentation_Network_via_Mesh-Cast_ICCV_2025_paper.pdf) | Jiacheng Lu | Poster |  | 😾 | 
+| 1961 | [Bridging the Gap between Brain and Machine in Interpreting Visual Semantics: Towards Self-adaptive Brain-to-Text Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Bridging_the_Gap_between_Brain_and_Machine_in_Interpreting_Visual_ICCV_2025_paper.pdf) | Jiaxuan Chen | Poster |  | 😾 | 
+| 2179 | [Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation](2411.16719) | Xiaoling Hu | Poster |  | 😾 | 
 </details>
 
 <details>
@@ -490,527 +490,527 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 05cVmYJJnb | [BrainMoE: Cognition Joint Embedding via Mixture-of-Expert Towards Robust Brain Foundation Model](https://openreview.net/forum?id=05cVmYJJnb) | Ziquan Wei | Poster | -1 | 😾 | 
-| 08mjueZ0Iq | [VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture](https://openreview.net/forum?id=08mjueZ0Iq) | Maonan Wang | Poster | -1 | 😾 | 
-| 0biUwyjKkm | [OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model](https://openreview.net/forum?id=0biUwyjKkm) | Zhenhao Zhang | Oral | -1 | 😾 | 
-| 0kAfwgpeug | [Sample-Efficient Multi-Round Generative Data Augmentation for Long-Tail Instance Segmentation](https://openreview.net/forum?id=0kAfwgpeug) | Byunghyun Kim | Poster | -1 | 😾 | 
-| 0qGtaRTsCo | [CF-VLM：CounterFactual Vision-Language Fine-tuning](https://openreview.net/forum?id=0qGtaRTsCo) | Jusheng Zhang | Poster | -1 | 😾 | 
-| 0rVD66dXqT | [Gaze-VLM: Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](https://openreview.net/forum?id=0rVD66dXqT) | Anupam Pani | Poster | -1 | 😾 | 
-| 0wV5HR7M4P | [TEMPO: Temporal Multi-scale Autoregressive Generation of Protein Conformational Ensembles](https://openreview.net/forum?id=0wV5HR7M4P) | Yaoyao Xu | Poster | -1 | 😾 | 
-| 138y2wo6ok | [PolypSense3D: A Multi-Source Benchmark Dataset for Depth-Aware Polyp Size Measurement in Endoscopy](https://openreview.net/forum?id=138y2wo6ok) | Ruyu Liu | Poster | -1 | 😾 | 
-| 13BJ5FYG8E | [Learning a Cross-Modal Schrödinger Bridge for Visual Domain Generalization](https://openreview.net/forum?id=13BJ5FYG8E) | Hao Zheng | Poster | -1 | 😾 | 
-| 1K28gV5MeF | [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://openreview.net/forum?id=1K28gV5MeF) | Payal Mohapatra | Spotlight | -1 | 😾 | 
-| 1KXST1ksJ2 | [Learning to Plan Like the Human Brain via Visuospatial Perception and Semantic-Episodic Synergistic Decision-Making](https://openreview.net/forum?id=1KXST1ksJ2) | Tianyuan Jia | Poster | -1 | 😾 | 
-| 1Sb0363f2y | [VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set](https://openreview.net/forum?id=1Sb0363f2y) | Shufan Shen | Poster | -1 | 😾 | 
-| 1lyKflUOhp | [ChatVLA-2: Vision-Language-Action Model with Open-World Reasoning](https://openreview.net/forum?id=1lyKflUOhp) | Zhongyi Zhou | Poster | -1 | 😾 | 
-| 1mokb8ohOQ | [ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection](https://openreview.net/forum?id=1mokb8ohOQ) | Zhihao Sun | Poster | -1 | 😾 | 
-| 22O1ejTxj3 | [Modality-Aware SAM: Sharpness-Aware-Minimization Driven Gradient Modulation for Harmonized Multimodal Learning](https://openreview.net/forum?id=22O1ejTxj3) | Hossein R. Nowdeh | Poster | -1 | 😾 | 
-| 28qUA2bSe5 | [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://openreview.net/forum?id=28qUA2bSe5) | Zewei Zhou | Poster | -1 | 😾 | 
-| 2DAvXR77xh | [Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation](https://openreview.net/forum?id=2DAvXR77xh) | Divyanshu Mishra | Poster | -1 | 😾 | 
-| 2Dwp12HmYI | [Dr. RAW: Towards General High-Level Vision from RAW with Efficient Task Conditioning](https://openreview.net/forum?id=2Dwp12HmYI) | Wenjun Huang | Poster | -1 | 😾 | 
-| 2EJrs3gUO6 | [Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders](https://openreview.net/forum?id=2EJrs3gUO6) | Ali Rasekh | Poster | -1 | 😾 | 
-| 2T6QXSP8Cf | [DOTA: Distributional Test-time Adaptation of Vision-Language Models](https://openreview.net/forum?id=2T6QXSP8Cf) | Zongbo Han | Poster | -1 | 😾 | 
-| 2XstFOMwp4 | [BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset](https://openreview.net/forum?id=2XstFOMwp4) | Zhiheng Xi | Poster | -1 | 😾 | 
-| 2aIoEG2Hwz | [$\textit{HiMaCon:}$ Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data](https://openreview.net/forum?id=2aIoEG2Hwz) | Ruizhe Liu | Poster | -1 | 😾 | 
-| 2afhRWVb6p | [Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment](https://openreview.net/forum?id=2afhRWVb6p) | Chen Liu | Spotlight | -1 | 😾 | 
-| 2dpiR9fqUk | [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://openreview.net/forum?id=2dpiR9fqUk) | Yongmin Lee | Poster | -1 | 😾 | 
-| 2nIAtsUC27 | [Improve Temporal Reasoning in Multimodal Large Language Models via Video Contrastive Decoding](https://openreview.net/forum?id=2nIAtsUC27) | Daiqing Qi | Poster | -1 | 😾 | 
-| 36cKp4tsHF | [Deno-IF: Unsupervised Noisy Visible and Infrared Image Fusion Method](https://openreview.net/forum?id=36cKp4tsHF) | Han Xu | Spotlight | -1 | 😾 | 
-| 38GF07Tmtr | [PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors](https://openreview.net/forum?id=38GF07Tmtr) | Xirui Jin | Poster | -1 | 😾 | 
-| 38n8pFvldK | [CroPe: Cross-Modal Semantic Compensation Adaptation for All Adverse Scene Understanding](https://openreview.net/forum?id=38n8pFvldK) | Qin Xu | Poster | -1 | 😾 | 
-| 3BTqvtwZYY | [CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation](https://openreview.net/forum?id=3BTqvtwZYY) | Ziao Wang | Poster | -1 | 😾 | 
-| 3CVU3RRvPx | [Intend to Move: A Multimodal Dataset for Intention-Aware Human Motion Understanding](https://openreview.net/forum?id=3CVU3RRvPx) | Ryo Umagami | Poster | -1 | 😾 | 
-| 3Hjfzh5Eyk | [A TRIANGLE Enables Multimodal Alignment Beyond Cosine Similarity](https://openreview.net/forum?id=3Hjfzh5Eyk) | Giordano Cicchetti | Poster | -1 | 😾 | 
-| 3IXdXBpuLn | [SHF: Symmetrical Hierarchical Forest with Pretrained Vision Transformer Encoder for High-Resolution Medical Segmentation](https://openreview.net/forum?id=3IXdXBpuLn) | Enzhi Zhang | Spotlight | -1 | 😾 | 
-| 3KtPujOw5z | [On the Value of Cross-Modal Misalignment in Multimodal Representation Learning](https://openreview.net/forum?id=3KtPujOw5z) | Yichao Cai | Spotlight | -1 | 😾 | 
-| 3Xmr8WTAld | [Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling](https://openreview.net/forum?id=3Xmr8WTAld) | Tsung-Han Wu | Poster | -1 | 😾 | 
-| 3fDypdR4VN | [Provable Ordering and Continuity in Vision-Language Pretraining for Generalizable Embodied Agents](https://openreview.net/forum?id=3fDypdR4VN) | Zhizhen Zhang | Poster | -1 | 😾 | 
-| 3i53Z6g6j4 | [4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time](https://openreview.net/forum?id=3i53Z6g6j4) | Ziqiao Ma | Poster | -1 | 😾 | 
-| 3p4272zl7q | [Rationalized All-Atom Protein Design with Unified Multi-Modal Bayesian Flow](https://openreview.net/forum?id=3p4272zl7q) | Hanlin Wu | Poster | -1 | 😾 | 
-| 3pORFyKzh1 | [VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://openreview.net/forum?id=3pORFyKzh1) | Qi Wang | Poster | -1 | 😾 | 
-| 3rY182JOOZ | [MedicalNarratives: Connecting Medical Vision and Language with Localized Narratives](https://openreview.net/forum?id=3rY182JOOZ) | Wisdom Oluchi Ikezogwo | Poster | -1 | 😾 | 
-| 3vLp3J7540 | [A Multimodal BiMamba Network with Test-Time Adaptation for Emotion Recognition Based on Physiological Signals](https://openreview.net/forum?id=3vLp3J7540) | Ziyu Jia | Poster | -1 | 😾 | 
-| 3xwsD68F2K | [VLM in a flash: I/O-Efficient Sparsification of Vision-Language Model via Neuron Chunking](https://openreview.net/forum?id=3xwsD68F2K) | Kichang Yang | Poster | -1 | 😾 | 
-| 3zx087XPtz | [AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding](https://openreview.net/forum?id=3zx087XPtz) | Chaeyoung Jung | Poster | -1 | 😾 | 
-| 4ZAX1NT0ms | [DAVE: Diagnostic benchmark for Audio Visual Evaluation](https://openreview.net/forum?id=4ZAX1NT0ms) | Gorjan Radevski | Poster | -1 | 😾 | 
-| 4iehXI36QG | [OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-time Emotional Speech Synthesis](https://openreview.net/forum?id=4iehXI36QG) | Run Luo | Poster | -1 | 😾 | 
-| 4oYxzssbVg | [VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://openreview.net/forum?id=4oYxzssbVg) | Haozhe Wang | Spotlight | -1 | 😾 | 
-| 5LJoDO9qYt | [IDOL: Meeting Diverse Distribution Shifts with Prior Physics for Tropical Cyclone Multi-Task Estimation](https://openreview.net/forum?id=5LJoDO9qYt) | HantingYan | Poster | -1 | 😾 | 
-| 5YDO8XjYjR | [VLForgery Face Triad: Detection, Localization and Attribution via Multimodal Large Language Models](https://openreview.net/forum?id=5YDO8XjYjR) | Xinan He | Poster | -1 | 😾 | 
-| 5ofJyjgrth | [Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow](https://openreview.net/forum?id=5ofJyjgrth) | Kristiyan Sakalyan | Poster | -1 | 😾 | 
-| 64WeVllQjq | [Multi-Kernel Correlation-Attention Vision Transformer for Enhanced Contextual Understanding and Multi-Scale Integration](https://openreview.net/forum?id=64WeVllQjq) | Hongkang Zhang | Poster | -1 | 😾 | 
-| 6AbM9UG4aD | [InfMasking: Unleashing Synergistic Information by Contrastive Multimodal Interactions](https://openreview.net/forum?id=6AbM9UG4aD) | Liangjian Wen | Spotlight | -1 | 😾 | 
-| 6BpKATZQd8 | [MM-OPERA: Benchmarking Open-ended Association Reasoning for Large Vision-Language Models](https://openreview.net/forum?id=6BpKATZQd8) | Zimeng Huang | Poster | -1 | 😾 | 
-| 6FHvr5hJdd | [Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization](https://openreview.net/forum?id=6FHvr5hJdd) | Cong Wang | Spotlight | -1 | 😾 | 
-| 6Q5WG84uOD | [THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations](https://openreview.net/forum?id=6Q5WG84uOD) | Wenchao Yang | Poster | -1 | 😾 | 
-| 6TmLco2L2D | [HoPE: Hybrid of Position Embedding for Long Context Vision-Language Models](https://openreview.net/forum?id=6TmLco2L2D) | Haoran Li | Poster | -1 | 😾 | 
-| 6UAeCPQPwP | [Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG](https://openreview.net/forum?id=6UAeCPQPwP) | Shihao Yang | Poster | -1 | 😾 | 
-| 6VoDizmIoY | [H3D-DGS: Exploring Heterogeneous 3D Motion Representation for Deformable 3D Gaussian Splatting](https://openreview.net/forum?id=6VoDizmIoY) | Bing He | Poster | -1 | 😾 | 
-| 6WnBITpnzD | [LaViDa: A Large Diffusion Model for Vision-Language Understanding](https://openreview.net/forum?id=6WnBITpnzD) | Shufan Li | Spotlight | -1 | 😾 | 
-| 6uwV6ytamU | [DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models](https://openreview.net/forum?id=6uwV6ytamU) | Fayi Le | Poster | -1 | 😾 | 
-| 6vI3OOYddm | [MolVision: Molecular Property Prediction with Vision Language Models](https://openreview.net/forum?id=6vI3OOYddm) | Deepan Adak | Poster | -1 | 😾 | 
-| 72UR53jN7T | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://openreview.net/forum?id=72UR53jN7T) | Chi-Pin Huang | Poster | -1 | 😾 | 
-| 7DyKKOU6HR | [Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction](https://openreview.net/forum?id=7DyKKOU6HR) | Tengfei Ma | Poster | -1 | 😾 | 
-| 7G9YKty2UZ | [Learning Robust Vision-Language Models from Natural Latent Spaces](https://openreview.net/forum?id=7G9YKty2UZ) | Zhangyun Wang | Spotlight | -1 | 😾 | 
-| 7JjS2cdBYN | [LOMIA: Label-Only Membership Inference Attacks against Pre-trained Large Vision-Language Models](https://openreview.net/forum?id=7JjS2cdBYN) | Yihao LIU | Poster | -1 | 😾 | 
-| 7LulWI9QJy | [GauSAM: Contour‑Guided 2D Gaussian Fields for Multi‑Scale Medical Image Segmentation with Segment Anything](https://openreview.net/forum?id=7LulWI9QJy) | Jinxuan Wu | Poster | -1 | 😾 | 
-| 7WDFZKtf7q | [mmWalk: Towards Multi-modal Multi-view Walking Assistance](https://openreview.net/forum?id=7WDFZKtf7q) | Kedi Ying | Poster | -1 | 😾 | 
-| 7dJfwHG3GN | [Democratizing Clinical Risk Prediction with Cross-Cohort Cross-Modal Knowledge Transfer](https://openreview.net/forum?id=7dJfwHG3GN) | Qiannan Zhang | Poster | -1 | 😾 | 
-| 7k7cubl1iL | [CIDD: Collaborative Intelligence for Structure-Based Drug Design Empowered by LLMs](https://openreview.net/forum?id=7k7cubl1iL) | Bowen Gao | Poster | -1 | 😾 | 
-| 7mTECPRtll | [Mitigating Hallucination in VideoLLMs via Temporal-Aware Activation Engineering](https://openreview.net/forum?id=7mTECPRtll) | Jianfeng Cai | Poster | -1 | 😾 | 
-| 7x5X6gTCUH | [Miss-ReID: Delivering Robust Multi-Modality Object Re-Identification Despite Missing Modalities](https://openreview.net/forum?id=7x5X6gTCUH) | Ruida Xi | Poster | -1 | 😾 | 
-| 7yOl9qiLWd | [BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories](https://openreview.net/forum?id=7yOl9qiLWd) | Wonjung Park | Poster | -1 | 😾 | 
-| 87c2JwNJa0 | [LoMix: Learnable Weighted Multi-Scale Logits Mixing for Medical Image Segmentation](https://openreview.net/forum?id=87c2JwNJa0) | Md Mostafijur Rahman | Poster | -1 | 😾 | 
-| 8CKhxBaWO5 | [MedSG-Bench: A Benchmark for Medical Image Sequences Grounding](https://openreview.net/forum?id=8CKhxBaWO5) | Jingkun Yue | Spotlight | -1 | 😾 | 
-| 8I1XNt70lj | [FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering](https://openreview.net/forum?id=8I1XNt70lj) | Liangyu Zhong | Poster | -1 | 😾 | 
-| 8MBEvClECb | [Rebalancing Contrastive Alignment with Bottlenecked Semantic Increments in Text-Video Retrieval](https://openreview.net/forum?id=8MBEvClECb) | Jian Xiao | Poster | -1 | 😾 | 
-| 8an1xVyKxS | [VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models](https://openreview.net/forum?id=8an1xVyKxS) | Silin Cheng | Poster | -1 | 😾 | 
-| 8e5SJJ1cjY | [SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://openreview.net/forum?id=8e5SJJ1cjY) | Yueyang Hu | Poster | -1 | 😾 | 
-| 8y18QBU2s6 | [Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](https://openreview.net/forum?id=8y18QBU2s6) | Lanyun Zhu | Poster | -1 | 😾 | 
-| 918POZbZ50 | [scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling](https://openreview.net/forum?id=918POZbZ50) | Joel Dapello | Poster | -1 | 😾 | 
-| 9ednYuGHN1 | [Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains](https://openreview.net/forum?id=9ednYuGHN1) | Marianne Rakic | Poster | -1 | 😾 | 
-| 9env0BdcDV | [Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](https://openreview.net/forum?id=9env0BdcDV) | Siwei Zhang | Poster | -1 | 😾 | 
-| 9nlTapr2sd | [Dual-Comb Ghost Imaging with Transformer-Based Reconstruction for Optical Fiber Endomicroscopy](https://openreview.net/forum?id=9nlTapr2sd) | David Dang | Poster | -1 | 😾 | 
-| A9jXG3FUMT | [FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction](https://openreview.net/forum?id=A9jXG3FUMT) | Ruizhe Zheng | Spotlight | -1 | 😾 | 
-| APXcX7z1Bi | [UniSite: The First Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection](https://openreview.net/forum?id=APXcX7z1Bi) | Jigang Fan | Spotlight | -1 | 😾 | 
-| AWU93F6Bup | [MoodAngels: A Retrieval-augmented Multi-agent Framework for Psychiatry Diagnosis](https://openreview.net/forum?id=AWU93F6Bup) | Mengxi Xiao | Poster | -1 | 😾 | 
-| AYDMNzpJPv | [PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments](https://openreview.net/forum?id=AYDMNzpJPv) | Weijie Zhou | Poster | -1 | 😾 | 
-| AnJaRzEZZs | [DQVis Dataset: Natural Language to Biomedical Visualization](https://openreview.net/forum?id=AnJaRzEZZs) | Devin Lange | Poster | -1 | 😾 | 
-| AqMIOl2JuW | [SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://openreview.net/forum?id=AqMIOl2JuW) | Wenyue Chen | Poster | -1 | 😾 | 
-| AuBSUgFVgq | [Multimodal Tabular Reasoning with Privileged Structured Information](https://openreview.net/forum?id=AuBSUgFVgq) | Jun-Peng Jiang | Poster | -1 | 😾 | 
-| B7Bc9xzl2o | [Latent Retrieval Augmented Generation of Cross-Domain Protein Binders](https://openreview.net/forum?id=B7Bc9xzl2o) | Zishen Zhang | Poster | -1 | 😾 | 
-| BWpMTkRrEO | [Event-Guided Consistent Video Enhancement with Modality-Adaptive Diffusion Pipeline](https://openreview.net/forum?id=BWpMTkRrEO) | Kanghao Chen | Poster | -1 | 😾 | 
-| BbWrp6O8Lm | [When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding](https://openreview.net/forum?id=BbWrp6O8Lm) | Yan Shu | Poster | -1 | 😾 | 
-| BeSFxKX3Po | [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://openreview.net/forum?id=BeSFxKX3Po) | Qi Xin | Poster | -1 | 😾 | 
-| BkSRQ1y37l | [Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images](https://openreview.net/forum?id=BkSRQ1y37l) | Jiao Tang | Poster | -1 | 😾 | 
-| Bsska2ayiy | [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://openreview.net/forum?id=Bsska2ayiy) | Lin Yuan | Poster | -1 | 😾 | 
-| BxRsXqjWft | [ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding](https://openreview.net/forum?id=BxRsXqjWft) | Muye Huang | Poster | -1 | 😾 | 
-| ByUIorOhmC | [Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm](https://openreview.net/forum?id=ByUIorOhmC) | Xue-Feng Zhu | Poster | -1 | 😾 | 
-| C4IqLzavel | [REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset](https://openreview.net/forum?id=C4IqLzavel) | Xiaojun Ning | Poster | -1 | 😾 | 
-| CABcYH1wKM | [LABridge: Text–Image Latent Alignment Framework via Mean-Conditioned OU Process](https://openreview.net/forum?id=CABcYH1wKM) | Huiyang Shao | Spotlight | -1 | 😾 | 
-| CBsANtjBV4 | [Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models](https://openreview.net/forum?id=CBsANtjBV4) | Xiwen Wei | Poster | -1 | 😾 | 
-| CCbXvvcdF9 | [Reconstructing Heterogeneous Biomolecules via Hierarchical Gaussian Mixtures and Part Discovery](https://openreview.net/forum?id=CCbXvvcdF9) | Shayan Shekarforoush | Poster | -1 | 😾 | 
-| CDQ0MI4rLw | [ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding](https://openreview.net/forum?id=CDQ0MI4rLw) | Haonan Wang | Poster | -1 | 😾 | 
-| CH76rSKWZr | [Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](https://openreview.net/forum?id=CH76rSKWZr) | Mehrdad Noori | Poster | -1 | 😾 | 
-| CfOsKx3jF8 | [CPSea: Large-scale cyclic peptide-protein complex dataset for machine learning in cyclic peptide design](https://openreview.net/forum?id=CfOsKx3jF8) | Ziyi Yang | Poster | -1 | 😾 | 
-| CmY6DzEG7Z | [NOBLE - Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models](https://openreview.net/forum?id=CmY6DzEG7Z) | Luca Ghafourpour | Poster | -1 | 😾 | 
-| CrBRKsP3yT | [UniMRSeg: Unified Modality-Relax Segmentation via Hierarchical Self-Supervised Compensation](https://openreview.net/forum?id=CrBRKsP3yT) | Xiaoqi Zhao | Poster | -1 | 😾 | 
-| CwXyUdqFqW | [MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks](https://openreview.net/forum?id=CwXyUdqFqW) | Sanjoy Chowdhury | Poster | -1 | 😾 | 
-| D1Iw4Unvfc | [ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://openreview.net/forum?id=D1Iw4Unvfc) | Yiyang Zhou | Poster | -1 | 😾 | 
-| D8nHwexHNv | [Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards](https://openreview.net/forum?id=D8nHwexHNv) | Honghao Chen | Poster | -1 | 😾 | 
-| DG0F1cdjN7 | [RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models](https://openreview.net/forum?id=DG0F1cdjN7) | Yeongtak Oh | Poster | -1 | 😾 | 
-| DgH9YCsqWm | [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://openreview.net/forum?id=DgH9YCsqWm) | Chaoyou Fu | Spotlight | -1 | 😾 | 
-| DooE6euxAS | [Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization](https://openreview.net/forum?id=DooE6euxAS) | Zhenhao Zhong | Poster | -1 | 😾 | 
-| DwFDfrPsm8 | [NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI](https://openreview.net/forum?id=DwFDfrPsm8) | Cosmin I. Bercea | Oral | -1 | 😾 | 
-| E6SFbnPiVP | [FedMGP: Personalized Federated Learning with Multi-Group Text-Visual Prompts](https://openreview.net/forum?id=E6SFbnPiVP) | Weihao Bo | Poster | -1 | 😾 | 
-| EBHZNmygTT | [SAINT: Sequence-Aware Integration for Spatial Transcriptomics Multi-View Clustering](https://openreview.net/forum?id=EBHZNmygTT) | Zeyu Zhu | Poster | -1 | 😾 | 
-| ENp2kCdYE8 | [Seg4Diff: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers](https://openreview.net/forum?id=ENp2kCdYE8) | Chaehyun Kim | Poster | -1 | 😾 | 
-| EPQi0v0OxL | [MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](https://openreview.net/forum?id=EPQi0v0OxL) | Zhaowei Wang | Spotlight | -1 | 😾 | 
-| ERGIrG9GBR | [VLM-R³: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://openreview.net/forum?id=ERGIrG9GBR) | Chaoya Jiang | Poster | -1 | 😾 | 
-| EYC29OdxgA | [Structure-Aware Fusion with Progressive Injection for Multimodal Molecular Representation Learning](https://openreview.net/forum?id=EYC29OdxgA) | Zihao Jing | Poster | -1 | 😾 | 
-| EeAHhNwXPV | [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://openreview.net/forum?id=EeAHhNwXPV) | Qiuchen Wang | Poster | -1 | 😾 | 
-| Ekw6gjs5Y5 | [PathVQ: Reforming Computational Pathology Foundation Model for Whole Slide Image Analysis via Vector Quantization](https://openreview.net/forum?id=Ekw6gjs5Y5) | Honglin Li | Poster | -1 | 😾 | 
-| ElX4WxEa0W | [MMPB: It’s Time for Multi-Modal Personalization](https://openreview.net/forum?id=ElX4WxEa0W) | Jaeik Kim | Poster | -1 | 😾 | 
-| Eu2Tqcvxih | [Efficient Multimodal Dataset Distillation via Generative Models](https://openreview.net/forum?id=Eu2Tqcvxih) | Zhenghao Zhao | Poster | -1 | 😾 | 
-| Evz0xPema0 | [Generative RLHF-V: Learning Principles from Multi-modal Human Preference](https://openreview.net/forum?id=Evz0xPema0) | Jiayi Zhou | Poster | -1 | 😾 | 
-| EyNzLH7BZK | [ViSPLA: Visual Iterative Self-Prompting for Language-Guided 3D Affordance Learning](https://openreview.net/forum?id=EyNzLH7BZK) | Hritam Basak | Poster | -1 | 😾 | 
-| F9SSJLg55j | [Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding](https://openreview.net/forum?id=F9SSJLg55j) | Zaiquan Yang | Poster | -1 | 😾 | 
-| FACJ0478oQ | [FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](https://openreview.net/forum?id=FACJ0478oQ) | Fan Yang | Poster | -1 | 😾 | 
-| FS3FzdrFZ7 | [Universal Video Temporal Grounding with Generative Multi-modal Large Language Models](https://openreview.net/forum?id=FS3FzdrFZ7) | Zeqian Li | Poster | -1 | 😾 | 
-| FVIPADDm4E | [EPFL-Smart-Kitchen: An Ego-Exo Multi-Modal Dataset for Challenging Action and Motion Understanding in Video-Language Models](https://openreview.net/forum?id=FVIPADDm4E) | Andy Bonnetto | Poster | -1 | 😾 | 
-| FXBBy1caOX | [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](https://openreview.net/forum?id=FXBBy1caOX) | Kecheng Chen | Poster | -1 | 😾 | 
-| Fg9HufTI0K | [CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification](https://openreview.net/forum?id=Fg9HufTI0K) | Wei Li | Poster | -1 | 😾 | 
-| Fj2kyLs6G5 | [NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis](https://openreview.net/forum?id=Fj2kyLs6G5) | Shengrong Li | Poster | -1 | 😾 | 
-| FoVF3iL6o3 | [You Only Communicate Once: One-shot Federated Low-Rank Adaptation of MLLM](https://openreview.net/forum?id=FoVF3iL6o3) | Binqian Xu | Poster | -1 | 😾 | 
-| G6K2NepP7S | [Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance?](https://openreview.net/forum?id=G6K2NepP7S) | Apratim Bhattacharyya | Poster | -1 | 😾 | 
-| GDbyUZiARK | [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](https://openreview.net/forum?id=GDbyUZiARK) | Ling Yang | Poster | -1 | 😾 | 
-| GGj0QFSo5m | [MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation](https://openreview.net/forum?id=GGj0QFSo5m) | Bohan Zhou | Poster | -1 | 😾 | 
-| GQHUET0V6f | [Multimodal LiDAR-Camera Novel View Synthesis with Unified Pose-free Neural Fields](https://openreview.net/forum?id=GQHUET0V6f) | Weiyi Xue | Poster | -1 | 😾 | 
-| GiUI70epUN | [$\texttt{AVROBUSTBENCH}$: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time](https://openreview.net/forum?id=GiUI70epUN) | Sarthak Kumar Maharana | Poster | -1 | 😾 | 
-| Gt8iKyg12u | [VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation](https://openreview.net/forum?id=Gt8iKyg12u) | Sicheng Yang | Poster | -1 | 😾 | 
-| Gvq2AfuVEA | [HMVLM:Human Motion-Vision-Language Model via MoE LoRA](https://openreview.net/forum?id=Gvq2AfuVEA) | Lei Hu | Poster | -1 | 😾 | 
-| GzgPleFl8f | [From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D](https://openreview.net/forum?id=GzgPleFl8f) | Jiahui Zhang | Poster | -1 | 😾 | 
-| HL1j92hb6z | [First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training](https://openreview.net/forum?id=HL1j92hb6z) | Lai Wei | Poster | -1 | 😾 | 
-| HtwKJQzt7R | [Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies](https://openreview.net/forum?id=HtwKJQzt7R) | Zohar Rimon | Poster | -1 | 😾 | 
-| I0hRN2HMeH | [Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation](https://openreview.net/forum?id=I0hRN2HMeH) | Jiyang Zheng | Poster | -1 | 😾 | 
-| I7y7MgsEgO | [Learning Source-Free Domain Adaptation for Visible-Infrared Person Re-Identification](https://openreview.net/forum?id=I7y7MgsEgO) | Yongxiang Li | Poster | -1 | 😾 | 
-| I9F53Qlwur | [Stable Part Diffusion 4D: Multi-View RGB and Kinematic Parts Video Generation](https://openreview.net/forum?id=I9F53Qlwur) | Hao Zhang | Spotlight | -1 | 😾 | 
-| IIGiVRKJYa | [ASDSV: Multimodal Generation Made Efficient with Approximate Speculative Diffusion and Speculative Verification](https://openreview.net/forum?id=IIGiVRKJYa) | Kaijun Zhou | Poster | -1 | 😾 | 
-| IPxOoU8aqt | [Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback](https://openreview.net/forum?id=IPxOoU8aqt) | Janet Wang | Poster | -1 | 😾 | 
-| IiPSP4OUYx | [MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation](https://openreview.net/forum?id=IiPSP4OUYx) | Jiaxin Huang | Poster | -1 | 😾 | 
-| Iicv9iTPcU | [RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis](https://openreview.net/forum?id=Iicv9iTPcU) | Haolin Li | Poster | -1 | 😾 | 
-| JI6GEakOCH | [Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark](https://openreview.net/forum?id=JI6GEakOCH) | Hanlei Zhang | Poster | -1 | 😾 | 
-| JROdIT3czF | [Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants](https://openreview.net/forum?id=JROdIT3czF) | Lixiong Qin | Poster | -1 | 😾 | 
-| JSbVO7dNYE | [Towards Multiscale Graph-based Protein Learning with Geometric Secondary Structural Motifs](https://openreview.net/forum?id=JSbVO7dNYE) | Shih-Hsin Wang | Poster | -1 | 😾 | 
-| JTF0HYfGiL | [Generalizable Hand-Object Modeling from Monocular RGB Images via 3D Gaussians](https://openreview.net/forum?id=JTF0HYfGiL) | Xingyu Liu | Poster | -1 | 😾 | 
-| K6ijewH34E | [Bridging Brains and Concepts: Interpretable Visual Decoding from fMRI with Semantic Bottlenecks](https://openreview.net/forum?id=K6ijewH34E) | Sara Cammarota | Poster | -1 | 😾 | 
-| K9PcELos78 | [ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning](https://openreview.net/forum?id=K9PcELos78) | Chau Pham | Poster | -1 | 😾 | 
-| KIximJjqjV | [Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](https://openreview.net/forum?id=KIximJjqjV) | Dilxat Muhtar | Poster | -1 | 😾 | 
-| KOwhczyFpg | [TRoVe: Discovering Error-Inducing Static Feature Biases in Temporal Vision-Language Models](https://openreview.net/forum?id=KOwhczyFpg) | Maya Varma | Poster | -1 | 😾 | 
-| KPlskOuZ46 | [Towards Doctor-Like Reasoning: Medical RAG Fusing Knowledge with Patient Analogy through Textual Gradients](https://openreview.net/forum?id=KPlskOuZ46) | Yuxing Lu | Poster | -1 | 😾 | 
-| KWNabnuuct | [Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://openreview.net/forum?id=KWNabnuuct) | Siyu Chen | Poster | -1 | 😾 | 
-| Kc1WTxZbrP | [LMFusion: Adapting Pretrained Language Models for Multimodal Generation](https://openreview.net/forum?id=Kc1WTxZbrP) | Weijia Shi | Poster | -1 | 😾 | 
-| Kdqzbx8YGU | [OmniSegmentor: A Flexible Multi-Modal Learning Framework for Semantic Segmentation](https://openreview.net/forum?id=Kdqzbx8YGU) | Bo-Wen Yin | Poster | -1 | 😾 | 
-| KkChcYqvdg | [egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-world Tasks](https://openreview.net/forum?id=KkChcYqvdg) | Matthias Jammot | Poster | -1 | 😾 | 
-| KkONOZwvSU | [Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning](https://openreview.net/forum?id=KkONOZwvSU) | Zhifang Zhang | Poster | -1 | 😾 | 
-| KuXnKedjAj | [Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](https://openreview.net/forum?id=KuXnKedjAj) | Jack Goffinet | Poster | -1 | 😾 | 
-| L3aEdxJMHl | [NEED: Cross-Subject and Cross-Task Generalization for Video and Image Reconstruction from EEG Signals](https://openreview.net/forum?id=L3aEdxJMHl) | Shuai Huang | Poster | -1 | 😾 | 
-| L73CiyZvNy | [Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding](https://openreview.net/forum?id=L73CiyZvNy) | Haoran Zhou | Poster | -1 | 😾 | 
-| L7StVf0UXC | [COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation](https://openreview.net/forum?id=L7StVf0UXC) | Xueqing Deng | Poster | -1 | 😾 | 
-| L9vV3wVC72 | [Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs](https://openreview.net/forum?id=L9vV3wVC72) | Yifan Shen | Poster | -1 | 😾 | 
-| LA5NJPkUrw | [AVerImaTeC: A Dataset for Automatic Verification of Image-Text Claims with Evidence from the Web](https://openreview.net/forum?id=LA5NJPkUrw) | RUI CAO | Poster | -1 | 😾 | 
-| LAflniLUwx | [Enhancing Vision-Language Model Reliability with Uncertainty-Guided Dropout Decoding](https://openreview.net/forum?id=LAflniLUwx) | Yixiong Fang | Poster | -1 | 😾 | 
-| LDjBDk3Czb | [BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity](https://openreview.net/forum?id=LDjBDk3Czb) | Lucine L Oganesian | Poster | -1 | 😾 | 
-| LIGBnhb83e | [Hawaii: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models](https://openreview.net/forum?id=LIGBnhb83e) | Yimu Wang | Poster | -1 | 😾 | 
-| LTgUInLTbP | [GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution](https://openreview.net/forum?id=LTgUInLTbP) | Fengxiang Wang | Spotlight | -1 | 😾 | 
-| LVRGLn1Ejj | [UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset](https://openreview.net/forum?id=LVRGLn1Ejj) | Chen Zhao | Poster | -1 | 😾 | 
-| LWuhOoHpo5 | [OSKAR: Omnimodal Self-supervised Knowledge Abstraction and Representation](https://openreview.net/forum?id=LWuhOoHpo5) | Mohamed O Abdelfattah | Poster | -1 | 😾 | 
-| LZ4IKybwWl | [HQA-VLAttack: Towards High Quality Adversarial Attack on Vision-Language Pre-Trained Models](https://openreview.net/forum?id=LZ4IKybwWl) | Han Liu | Poster | -1 | 😾 | 
-| M476xkfNXe | [UMU-Bench: Closing the Modality Gap in Multimodal Unlearning Evaluation](https://openreview.net/forum?id=M476xkfNXe) | Chengye Wang | Poster | -1 | 😾 | 
-| M6l3pyvUfr | [TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence](https://openreview.net/forum?id=M6l3pyvUfr) | Feng Jiang | Spotlight | -1 | 😾 | 
-| M6zQNbCaLl | [FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models](https://openreview.net/forum?id=M6zQNbCaLl) | Jintao Tong | Poster | -1 | 😾 | 
-| M96edY67nS | [Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design](https://openreview.net/forum?id=M96edY67nS) | Nianzu Yang | Poster | -1 | 😾 | 
-| MI1uT5rReV | [Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning](https://openreview.net/forum?id=MI1uT5rReV) | Wenyi Xiao | Spotlight | -1 | 😾 | 
-| MNSiBGNAvx | [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://openreview.net/forum?id=MNSiBGNAvx) | Beitao Chen | Poster | -1 | 😾 | 
-| MOSXyN4ilj | [EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://openreview.net/forum?id=MOSXyN4ilj) | Ege Özsoy | Poster | -1 | 😾 | 
-| MY4KpJt3LM | [LVLM-Driven Attribute-Aware Modeling for Visible-Infrared Person Re-Identification](https://openreview.net/forum?id=MY4KpJt3LM) | Zhiqi Pang | Poster | -1 | 😾 | 
-| MZoOpD9NHV | [JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation](https://openreview.net/forum?id=MZoOpD9NHV) | Kai Liu | Spotlight | -1 | 😾 | 
-| MbqPKsVe1d | [4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming](https://openreview.net/forum?id=MbqPKsVe1d) | Zihan Zheng | Poster | -1 | 😾 | 
-| MoS4P8zieM | [Learning to Zoom with Anatomical Relations for Medical Structure Detection](https://openreview.net/forum?id=MoS4P8zieM) | Bin Pu | Poster | -1 | 😾 | 
-| N7Vg94l0gA | [MS-BART: Unified Modeling of Mass Spectra and Molecules for Structure Elucidation](https://openreview.net/forum?id=N7Vg94l0gA) | Yang Han | Poster | -1 | 😾 | 
-| NHz3BlszTR | [MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](https://openreview.net/forum?id=NHz3BlszTR) | Yicheng Xiao | Poster | -1 | 😾 | 
-| NM8Apk61NA | [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models](https://openreview.net/forum?id=NM8Apk61NA) | Zelin Peng | Oral | -1 | 😾 | 
-| NNHgm6VJkC | [GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data](https://openreview.net/forum?id=NNHgm6VJkC) | Wentao Wang | Poster | -1 | 😾 | 
-| NNiwGUY50Y | [ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks](https://openreview.net/forum?id=NNiwGUY50Y) | Philip Schroeder | Poster | -1 | 😾 | 
-| NY3LzmUXl7 | [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://openreview.net/forum?id=NY3LzmUXl7) | Antoine Collas | Poster | -1 | 😾 | 
-| NdScoAix25 | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning of Vision Language Models](https://openreview.net/forum?id=NdScoAix25) | Huajie Tan | Poster | -1 | 😾 | 
-| NoC9HT7Kf7 | [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://openreview.net/forum?id=NoC9HT7Kf7) | Zongxia Li | Poster | -1 | 😾 | 
-| NsikAkJFCA | [ModuLM: Enabling Modular and Multimodal Molecular Relational Learning with Large Language Models](https://openreview.net/forum?id=NsikAkJFCA) | Zhuo Chen | Poster | -1 | 😾 | 
-| OF7OLxvY0t | [Training-Free Test-Time Adaptation via Shape and Style Guidance for Vision-Language Models](https://openreview.net/forum?id=OF7OLxvY0t) | Shenglong Zhou | Poster | -1 | 😾 | 
-| OIH3T5ZPBW | [Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback](https://openreview.net/forum?id=OIH3T5ZPBW) | Jiaming Ji | Poster | -1 | 😾 | 
-| OM0Qkq9xtY | [Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://openreview.net/forum?id=OM0Qkq9xtY) | Yingtao Zhang | Poster | -1 | 😾 | 
-| OSnh4DmGx9 | [Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation](https://openreview.net/forum?id=OSnh4DmGx9) | Huu Tien Nguyen | Poster | -1 | 😾 | 
-| OpAGOfAhT0 | [Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment](https://openreview.net/forum?id=OpAGOfAhT0) | Hua Ye | Poster | -1 | 😾 | 
-| Ou30gzTLJe | [Towards Self-Refinement of Vision-Language Models with Triangular Consistency](https://openreview.net/forum?id=Ou30gzTLJe) | Yunlong Deng | Poster | -1 | 😾 | 
-| P2yIMJP5b1 | [ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation](https://openreview.net/forum?id=P2yIMJP5b1) | Jiatong Shi | Spotlight | -1 | 😾 | 
-| P382qaxvjc | [HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://openreview.net/forum?id=P382qaxvjc) | Jue Gong | Poster | -1 | 😾 | 
-| P4KjfMrVNU | [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU) | Chengliang Liu | Poster | -1 | 😾 | 
-| P5yoTfwyyD | [DiffEye: Diffusion-Based Continuous Eye-Tracking Data Generation Conditioned on Natural Images](https://openreview.net/forum?id=P5yoTfwyyD) | Ozgur Kara | Poster | -1 | 😾 | 
-| PAYYkls0WD | [Decoupling Contrastive Decoding: Robust Hallucination Mitigation in Multimodal Large Language Models](https://openreview.net/forum?id=PAYYkls0WD) | Wei Chen | Poster | -1 | 😾 | 
-| PK07eretkF | [DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://openreview.net/forum?id=PK07eretkF) | Wenyao Zhang | Poster | -1 | 😾 | 
-| PLBVtJt4td | [Analyzing Fine-Grained Alignment and Enhancing Vision Understanding in Multimodal Language Models](https://openreview.net/forum?id=PLBVtJt4td) | Jiachen Jiang | Poster | -1 | 😾 | 
-| PQYazNKEYo | [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://openreview.net/forum?id=PQYazNKEYo) | Chongkai Gao | Poster | -1 | 😾 | 
-| PRCizVyL1K | [SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models](https://openreview.net/forum?id=PRCizVyL1K) | Pingyi Chen | Poster | -1 | 😾 | 
-| PXkdqh4SXT | [MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models](https://openreview.net/forum?id=PXkdqh4SXT) | Hang Hua | Poster | -1 | 😾 | 
-| PZ7YLONKiI | [3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding](https://openreview.net/forum?id=PZ7YLONKiI) | Chang Wu | Poster | -1 | 😾 | 
-| PZaxCfLGLA | [3D Interaction Geometric Pre-training for Molecular Relational Learning](https://openreview.net/forum?id=PZaxCfLGLA) | Namkyeong Lee | Spotlight | -1 | 😾 | 
-| Q6IyUpBmrG | [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](https://openreview.net/forum?id=Q6IyUpBmrG) | Qing-Yuan Jiang | Oral | -1 | 😾 | 
-| Q7YnqREWLq | [Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency](https://openreview.net/forum?id=Q7YnqREWLq) | Xiangyu Guo | Poster | -1 | 😾 | 
-| QKOdOlfzSe | [NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding](https://openreview.net/forum?id=QKOdOlfzSe) | Wei Xu | Poster | -1 | 😾 | 
-| QU1SArYwKB | [Optical Coherence Tomography Harmonization with Anatomy-Guided Latent Metric Schrödinger Bridges](https://openreview.net/forum?id=QU1SArYwKB) | Shuwen Wei | Poster | -1 | 😾 | 
-| QZYZ0Xm58q | [VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching](https://openreview.net/forum?id=QZYZ0Xm58q) | Siyu Xu | Poster | -1 | 😾 | 
-| QjJHUR0sXU | [Accelerating Multimodal Large Language Models via Dynamic Visual-Token Exit and the Empirical Findings](https://openreview.net/forum?id=QjJHUR0sXU) | Qiong Wu | Poster | -1 | 😾 | 
-| QkX9obx6UR | [ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model](https://openreview.net/forum?id=QkX9obx6UR) | Jialong Zuo | Poster | -1 | 😾 | 
-| Quo3XadYcZ | [Fine-grained List-wise Alignment for Generative Medication Recommendation](https://openreview.net/forum?id=Quo3XadYcZ) | Chenxiao Fan | Spotlight | -1 | 😾 | 
-| RDdfQc5Ts1 | [AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation](https://openreview.net/forum?id=RDdfQc5Ts1) | Qingqiu Li | Poster | -1 | 😾 | 
-| REG4cJItSZ | [Benchmarking Egocentric Multimodal Goal Inference for Assistive Wearable Agents](https://openreview.net/forum?id=REG4cJItSZ) | Vijay Veerabadran | Spotlight | -1 | 😾 | 
-| REIo9ZLSYo | [Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling](https://openreview.net/forum?id=REIo9ZLSYo) | Wentao Lu | Spotlight | -1 | 😾 | 
-| RGZzSbo4jj | [CrypticBio: A Large Multimodal Dataset for Visually Confusing Species](https://openreview.net/forum?id=RGZzSbo4jj) | Georgiana Manolache | Poster | -1 | 😾 | 
-| RbGUML7YK6 | [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://openreview.net/forum?id=RbGUML7YK6) | Shengming Yuan | Poster | -1 | 😾 | 
-| RnOKrKVMfC | [OmniGaze: Reward-inspired Generalizable Gaze Estimation in the Wild](https://openreview.net/forum?id=RnOKrKVMfC) | Hongyu Qu | Poster | -1 | 😾 | 
-| Rtd6GoJcoT | [Orochi: Versatile Biomedical Image Processor](https://openreview.net/forum?id=Rtd6GoJcoT) | Gaole Dai | Spotlight | -1 | 😾 | 
-| S43003uMGq | [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://openreview.net/forum?id=S43003uMGq) | Yibin Wang | Poster | -1 | 😾 | 
-| S8XcHutp7Z | [X-Field: A Physically Informed Representation for 3D X-ray Reconstruction](https://openreview.net/forum?id=S8XcHutp7Z) | Feiran Wang | Spotlight | -1 | 😾 | 
-| S9KRk3M7jV | [SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing](https://openreview.net/forum?id=S9KRk3M7jV) | Jesse Haworth | Poster | -1 | 😾 | 
-| SELYlDHZk2 | [EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://openreview.net/forum?id=SELYlDHZk2) | Yantai Yang | Poster | -1 | 😾 | 
-| SOc0tHCewe | [SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning](https://openreview.net/forum?id=SOc0tHCewe) | Yang Liu | Poster | -1 | 😾 | 
-| SRP9tz3hYs | [IRRISIGHT: A Large-Scale Multimodal Dataset and Scalable Pipeline to Address Irrigation and Water Management in Agriculture](https://openreview.net/forum?id=SRP9tz3hYs) | Nibir Chandra Mandal | Poster | -1 | 😾 | 
-| STMB6q9pYZ | [SRHand: Super-Resolving Hand Images and 3D Shapes via View/Pose-aware Neural Image Representations and Explicit Meshes](https://openreview.net/forum?id=STMB6q9pYZ) | Minje Kim | Poster | -1 | 😾 | 
-| SZ48ZTgSCn | [AnomalyCoT: A Multi-Scenario Chain-of-Thought Dataset for Multimodal Large Language Models](https://openreview.net/forum?id=SZ48ZTgSCn) | Jiaxi Cheng | Poster | -1 | 😾 | 
-| SeC5Zb8Orf | [Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning](https://openreview.net/forum?id=SeC5Zb8Orf) | Xusheng Cao | Poster | -1 | 😾 | 
-| SeNFo7JGly | [SafeVid: Toward Safety Aligned Video Large Multimodal Models](https://openreview.net/forum?id=SeNFo7JGly) | Yixu Wang | Poster | -1 | 😾 | 
-| SoqzNbcBjy | [Spiral: Semantic-Aware Progressive LiDAR Scene Generation and Understanding](https://openreview.net/forum?id=SoqzNbcBjy) | Dekai Zhu | Poster | -1 | 😾 | 
-| SpNQZwXStl | [C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://openreview.net/forum?id=SpNQZwXStl) | Kuan Wei Huang | Poster | -1 | 😾 | 
-| Swik6KVV4u | [Enhancing Bioactivity Prediction via Spatial Emptiness Representation of Protein-ligand Complex and Union of Multiple Pockets](https://openreview.net/forum?id=Swik6KVV4u) | Zhiyuan Zhou | Poster | -1 | 😾 | 
-| T3DF4yxcPz | [Multiscale guidance of protein structure prediction with heterogeneous cryo-EM data](https://openreview.net/forum?id=T3DF4yxcPz) | Rishwanth Raghu | Poster | -1 | 😾 | 
-| T6RkYsuoMW | [Partition-Then-Adapt: Combating Prediction Bias for Reliable Multi-Modal Test-Time Adaptation](https://openreview.net/forum?id=T6RkYsuoMW) | Guowei Wang | Spotlight | -1 | 😾 | 
-| TLlFnoPUdB | [From Pixels to Views: Learning Angular-Aware and Physics-Consistent Representations for Light Field Microscopy](https://openreview.net/forum?id=TLlFnoPUdB) | Feng He | Poster | -1 | 😾 | 
-| TjWdyVWBAG | [ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models](https://openreview.net/forum?id=TjWdyVWBAG) | Duy Minh Ho Nguyen | Poster | -1 | 😾 | 
-| Tt3XLyuDrE | [Transformer brain encoders explain human high-level visual responses](https://openreview.net/forum?id=Tt3XLyuDrE) | Hossein Adeli | Spotlight | -1 | 😾 | 
-| U7RZ9cC73S | [RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](https://openreview.net/forum?id=U7RZ9cC73S) | Fanhu Zeng | Spotlight | -1 | 😾 | 
-| U7gu9x1xzx | [PolyPose: Deformable 2D/3D Registration via Polyrigid Transformations](https://openreview.net/forum?id=U7gu9x1xzx) | Vivek Gopalakrishnan | Poster | -1 | 😾 | 
-| UZD5CQV6f9 | [MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](https://openreview.net/forum?id=UZD5CQV6f9) | Tianhao Peng | Poster | -1 | 😾 | 
-| Ub196uN2Hz | [MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](https://openreview.net/forum?id=Ub196uN2Hz) | Yue Feng | Poster | -1 | 😾 | 
-| UoKt9B1aY8 | [HiPoNet: A Multi-View Simplicial Complex Network for High Dimensional Point-Cloud and Single-Cell data](https://openreview.net/forum?id=UoKt9B1aY8) | Siddharth Viswanath | Poster | -1 | 😾 | 
-| V8sDJ1oMEy | [VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning](https://openreview.net/forum?id=V8sDJ1oMEy) | Wenhao Li | Poster | -1 | 😾 | 
-| VB2cgrlikN | [3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks](https://openreview.net/forum?id=VB2cgrlikN) | Xiaotang Gai | Poster | -1 | 😾 | 
-| VJEcCMx16R | [CogPhys: Assessing Cognitive Load via Multimodal Remote and Contact-based Physiological Sensing](https://openreview.net/forum?id=VJEcCMx16R) | Anirudh Bindiganavale Harish | Poster | -1 | 😾 | 
-| VN5bMTfSZS | [OCTDiff: Bridged Diffusion Model for Portable OCT Super-Resolution and Enhancement](https://openreview.net/forum?id=VN5bMTfSZS) | Ye Tian | Spotlight | -1 | 😾 | 
-| VNTj7PGlrz | [Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs](https://openreview.net/forum?id=VNTj7PGlrz) | Yunqi Hong | Poster | -1 | 😾 | 
-| VXygIRRHxz | [GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation](https://openreview.net/forum?id=VXygIRRHxz) | Sohyun Lee | Poster | -1 | 😾 | 
-| VhRelRY9ii | [PhysDrive: A Multimodal Remote Physiological Measurement Dataset for In-vehicle Driver Monitoring](https://openreview.net/forum?id=VhRelRY9ii) | Jiyao Wang | Poster | -1 | 😾 | 
-| VkSd42HWil | [Dual-Res Tandem Mamba-3D: Bilateral Breast Lesion Detection and Classification on Non-contrast Chest CT](https://openreview.net/forum?id=VkSd42HWil) | Jiaheng Zhou | Poster | -1 | 😾 | 
-| Vzi96rTe4w | [scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery](https://openreview.net/forum?id=Vzi96rTe4w) | Yiming Gao | Poster | -1 | 😾 | 
-| W3JnXa9mW2 | [CellCLIP - Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://openreview.net/forum?id=W3JnXa9mW2) | MingYu Lu | Poster | -1 | 😾 | 
-| W5HnIf2jla | [Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs](https://openreview.net/forum?id=W5HnIf2jla) | Hao Fang | Poster | -1 | 😾 | 
-| WHARtAg5R9 | [Situat3DChange: Situated 3D Change Understanding Dataset for Multimodal Large Language Model](https://openreview.net/forum?id=WHARtAg5R9) | Ruiping Liu | Poster | -1 | 😾 | 
-| WK5JqIWiTW | [Image Token Matters: Mitigating Hallucination in Discrete Tokenizer-based Large Vision-Language Models via Latent Editing](https://openreview.net/forum?id=WK5JqIWiTW) | Weixing Wang | Poster | -1 | 😾 | 
-| WQ9rnkaUWm | [Head Pursuit: Probing Attention Specialization in Multimodal Transformers](https://openreview.net/forum?id=WQ9rnkaUWm) | Lorenzo Basile | Spotlight | -1 | 😾 | 
-| WQq5JPGQ0C | [RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://openreview.net/forum?id=WQq5JPGQ0C) | Jonggwon Park | Poster | -1 | 😾 | 
-| WRwr2YZ4zt | [TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](https://openreview.net/forum?id=WRwr2YZ4zt) | Yushan Jiang | Poster | -1 | 😾 | 
-| WXo0DLSaIf | [Unified 2D-3D Discrete Priors for Noise-Robust and Calibration-Free Multiview 3D Human Pose Estimation](https://openreview.net/forum?id=WXo0DLSaIf) | Geng Chen | Poster | -1 | 😾 | 
-| WbpzGpVWVx | [CamSAM2: Segment Anything Accurately in Camouflaged Videos](https://openreview.net/forum?id=WbpzGpVWVx) | Yuli Zhou | Poster | -1 | 😾 | 
-| WjYvHSjXrP | [InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection](https://openreview.net/forum?id=WjYvHSjXrP) | Jinguo Luo | Spotlight | -1 | 😾 | 
-| WtMuGdHvh6 | [S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://openreview.net/forum?id=WtMuGdHvh6) | Jiaqi Wang | Poster | -1 | 😾 | 
-| X3zarVyJ5B | [Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics](https://openreview.net/forum?id=X3zarVyJ5B) | Kazuya Nishimura | Poster | -1 | 😾 | 
-| X7ak8ohJPg | [Domain Adaptive Hashing Retrieval via VLM Assisted Pseudo-Labeling and Dual Space Adaptation](https://openreview.net/forum?id=X7ak8ohJPg) | Jingyao Li | Poster | -1 | 😾 | 
-| XKVhXWkPbp | [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](https://openreview.net/forum?id=XKVhXWkPbp) | Yuxuan Sun | Poster | -1 | 😾 | 
-| XKhLsRPMsw | [OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation](https://openreview.net/forum?id=XKhLsRPMsw) | Shenghai Yuan | Poster | -1 | 😾 | 
-| XPyAukgsFf | [SAFE: Multitask Failure Detection for Vision-Language-Action Models](https://openreview.net/forum?id=XPyAukgsFf) | Qiao Gu | Poster | -1 | 😾 | 
-| XjayhGBraW | [SPINT: Spatial Permutation-Invariant Neural Transformer for Consistent Intracortical Motor Decoding](https://openreview.net/forum?id=XjayhGBraW) | Trung Le | Poster | -1 | 😾 | 
-| XmV7KRABBl | [EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks](https://openreview.net/forum?id=XmV7KRABBl) | Rikuto Kotoge | Spotlight | -1 | 😾 | 
-| Y0hymKkn2a | [IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals](https://openreview.net/forum?id=Y0hymKkn2a) | Markus Gross | Poster | -1 | 😾 | 
-| Y4ZMHNhrPT | [SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation](https://openreview.net/forum?id=Y4ZMHNhrPT) | Zhenjie Mao | Poster | -1 | 😾 | 
-| YAycrn1Idm | [MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning](https://openreview.net/forum?id=YAycrn1Idm) | Seong-Hyeon Hwang | Poster | -1 | 😾 | 
-| YGIbwfNWot | [Tri-MARF: A Tri-Modal Multi-Agent Responsive Framework for Comprehensive 3D Object Annotation](https://openreview.net/forum?id=YGIbwfNWot) | Jusheng Zhang | Poster | -1 | 😾 | 
-| YLxwj5YLb7 | [In the Eye of MLLM: Benchmarking Egocentric Video Intent Understanding with Gaze-Guided Prompting](https://openreview.net/forum?id=YLxwj5YLb7) | Taiying Peng | Poster | -1 | 😾 | 
-| YaQnKRtTdh | [Towards General Continuous Memory for Vision-Language Models](https://openreview.net/forum?id=YaQnKRtTdh) | Wenyi WU | Poster | -1 | 😾 | 
-| YufSVJxDgt | [Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets](https://openreview.net/forum?id=YufSVJxDgt) | Ji Xia | Poster | -1 | 😾 | 
-| ZC2rbIYWfy | [Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://openreview.net/forum?id=ZC2rbIYWfy) | Bryan Wong | Poster | -1 | 😾 | 
-| ZDrT1eG54T | [TCM-Ladder: A Benchmark for Multimodal Question Answering on Traditional Chinese Medicine](https://openreview.net/forum?id=ZDrT1eG54T) | Jiacheng Xie | Poster | -1 | 😾 | 
-| ZONgHRsAbl | [SMMILE: An expert-driven benchmark for multimodal medical in-context learning](https://openreview.net/forum?id=ZONgHRsAbl) | Melanie Rieff | Poster | -1 | 😾 | 
-| ZR2mdBrhJX | [PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning](https://openreview.net/forum?id=ZR2mdBrhJX) | Xiaogang Jia | Poster | -1 | 😾 | 
-| ZTHYaSxqmq | [SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning](https://openreview.net/forum?id=ZTHYaSxqmq) | Weijian Mai | Poster | -1 | 😾 | 
-| Zd6VyjmN1S | [ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism](https://openreview.net/forum?id=Zd6VyjmN1S) | Zedong Liu | Oral | -1 | 😾 | 
-| ZeFMtRBy4Z | [REVE: A Foundation Model for EEG - Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects](https://openreview.net/forum?id=ZeFMtRBy4Z) | Yassine El Ouahidi | Poster | -1 | 😾 | 
-| Zj1uV88eYU | [LBMKGC: Large Model-Driven Balanced Multimodal Knowledge Graph Completion](https://openreview.net/forum?id=Zj1uV88eYU) | Yuan Guo | Poster | -1 | 😾 | 
-| ZwCVFBFUFb | [QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](https://openreview.net/forum?id=ZwCVFBFUFb) | Wei Dai | Oral | -1 | 😾 | 
-| ZyiBk1ZinG | [DreamPRM: Domain-reweighted Process Reward Model for Multimodal Reasoning](https://openreview.net/forum?id=ZyiBk1ZinG) | Qi Cao | Poster | -1 | 😾 | 
-| a61AArHrMO | [RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis](https://openreview.net/forum?id=a61AArHrMO) | SONGXIAO YANG | Poster | -1 | 😾 | 
-| aAhhMr0TX9 | [MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM](https://openreview.net/forum?id=aAhhMr0TX9) | Bowen Dong | Poster | -1 | 😾 | 
-| aDa0xEFDu1 | [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://openreview.net/forum?id=aDa0xEFDu1) | Jingjing Jiang | Spotlight | -1 | 😾 | 
-| aLGgz4SOyu | [Sherlock: Self-Correcting Reasoning in Vision-Language Models](https://openreview.net/forum?id=aLGgz4SOyu) | Yi Ding | Poster | -1 | 😾 | 
-| aLhA7AYLLR | [ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts](https://openreview.net/forum?id=aLhA7AYLLR) | Linfeng Tang | Oral | -1 | 😾 | 
-| aPPnmuuNhx | [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://openreview.net/forum?id=aPPnmuuNhx) | Yifan Xie | Poster | -1 | 😾 | 
-| aTqfufujj7 | [From Indicators to Insights: Diversity-Optimized for Medical Series-Text Decoding via LLMs](https://openreview.net/forum?id=aTqfufujj7) | Xiyuan Jin | Poster | -1 | 😾 | 
-| agcXjEHmyW | [CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=agcXjEHmyW) | Yuchen Zhou | Spotlight | -1 | 😾 | 
-| alCdOdH7zn | [UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification](https://openreview.net/forum?id=alCdOdH7zn) | Xixi Wan | Poster | -1 | 😾 | 
-| anzoPBV4jI | [MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology](https://openreview.net/forum?id=anzoPBV4jI) | Kiril Vasilev | Poster | -1 | 😾 | 
-| aqr5pyOQpf | [DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research](https://openreview.net/forum?id=aqr5pyOQpf) | Shanawaj S Madarkar | Poster | -1 | 😾 | 
-| auiURbhoYx | [Balancing Multimodal Training Through Game-Theoretic Regularization](https://openreview.net/forum?id=auiURbhoYx) | Konstantinos Kontras | Spotlight | -1 | 😾 | 
-| ayR2JfRYRS | [PhysioWave: A Multi-Scale Wavelet-Transformer for Physiological Signal Representation](https://openreview.net/forum?id=ayR2JfRYRS) | Yanlong Chen | Poster | -1 | 😾 | 
-| b2rzUJbLmS | [THUNDER: Tile-level Histopathology image UNDERstanding benchmark](https://openreview.net/forum?id=b2rzUJbLmS) | Pierre Marza | Spotlight | -1 | 😾 | 
-| b4pEeU44AB | [Learning Intractable Multimodal Policies with Reparameterization and Diversity Regularization](https://openreview.net/forum?id=b4pEeU44AB) | Ziqi Wang | Poster | -1 | 😾 | 
-| bDBxf9f5Li | [Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment](https://openreview.net/forum?id=bDBxf9f5Li) | Vida Adeli | Poster | -1 | 😾 | 
-| bTgxLGMGdF | [MATCH: Multi-faceted Adaptive Topo-Consistency for Semi-Supervised Histopathology Segmentation](https://openreview.net/forum?id=bTgxLGMGdF) | Meilong Xu | Poster | -1 | 😾 | 
-| bV5is3iodg | [AC-LoRA: (Almost) Training-Free Access Control Aware Multi-Modal LLMs](https://openreview.net/forum?id=bV5is3iodg) | Lara Magdalena Lazier | Poster | -1 | 😾 | 
-| bYRSuZteeK | [Quantifying Cross-Modality Memorization in Vision-Language Models](https://openreview.net/forum?id=bYRSuZteeK) | Yuxin Wen | Poster | -1 | 😾 | 
-| biM1m6VXSD | [Controllable 3D Molecular Generation for Structure-Based Drug Design Through Bayesian Flow Networks and Gradient Integration](https://openreview.net/forum?id=biM1m6VXSD) | Seungyeon Choi | Poster | -1 | 😾 | 
-| bjoHB7IN6b | [Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models](https://openreview.net/forum?id=bjoHB7IN6b) | Zhentao he | Poster | -1 | 😾 | 
-| bxELEjg3VE | [GSAlign: Geometric and Semantic Alignment Network for Aerial-Ground Person Re-Identification](https://openreview.net/forum?id=bxELEjg3VE) | Qiao Li | Poster | -1 | 😾 | 
-| cHMP2IAhML | [HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning](https://openreview.net/forum?id=cHMP2IAhML) | Chuhao Zhou | Poster | -1 | 😾 | 
-| cJRggDnFg2 | [End-to-End Low-Light Enhancement for Object Detection with Learned Metadata from RAWs](https://openreview.net/forum?id=cJRggDnFg2) | Xuelin Shen | Poster | -1 | 😾 | 
-| cPO8dUCJOc | [Dense Metric Depth Estimation via Event-based Differential Focus Volume Prompting](https://openreview.net/forum?id=cPO8dUCJOc) | Boyu Li | Poster | -1 | 😾 | 
-| cT54nK58lH | [Diversity-oriented Deep Multi-modal Clustering](https://openreview.net/forum?id=cT54nK58lH) | Yanzheng Wang | Poster | -1 | 😾 | 
-| cd2MWwIIHu | [MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning](https://openreview.net/forum?id=cd2MWwIIHu) | Thanh-Dat Truong | Poster | -1 | 😾 | 
-| cjHQj0tCy6 | [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://openreview.net/forum?id=cjHQj0tCy6) | Qinfan Xiao | Poster | -1 | 😾 | 
-| cvSWTtTGSZ | [EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis](https://openreview.net/forum?id=cvSWTtTGSZ) | Shengyuan Liu | Poster | -1 | 😾 | 
-| d0F0N0cu4n | [What’s in Common? Multimodal Models Hallucinate When Reasoning Across Scenes](https://openreview.net/forum?id=d0F0N0cu4n) | Candace Ross | Poster | -1 | 😾 | 
-| d4Y576ManB | [SAMA: Towards Multi-Turn Referential Grounded Video Chat with Large Language Models](https://openreview.net/forum?id=d4Y576ManB) | Ye Sun | Poster | -1 | 😾 | 
-| dBC55QIEnq | [Orthogonal Contrastive Learning for Multi-Representation fMRI Analysis](https://openreview.net/forum?id=dBC55QIEnq) | Tony Yousefnezhad | Poster | -1 | 😾 | 
-| dC5TWysDsZ | [Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process](https://openreview.net/forum?id=dC5TWysDsZ) | Tsai Hor Chan | Poster | -1 | 😾 | 
-| dHOSTp8MBl | [SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](https://openreview.net/forum?id=dHOSTp8MBl) | Jiaqi Huang | Poster | -1 | 😾 | 
-| dJnzFlPUuO | [MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes](https://openreview.net/forum?id=dJnzFlPUuO) | Jin Zhang | Poster | -1 | 😾 | 
-| dt940loCBT | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://openreview.net/forum?id=dt940loCBT) | Borong Zhang | Spotlight | -1 | 😾 | 
-| dw9H08UxJb | [Omni-Mol: Multitask Molecular Model for Any-to-any Modalities](https://openreview.net/forum?id=dw9H08UxJb) | Chengxin Hu | Poster | -1 | 😾 | 
-| e7HEbUVryj | [ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching](https://openreview.net/forum?id=e7HEbUVryj) | Huanlei Guo | Poster | -1 | 😾 | 
-| e8pm93koQU | [$\text{S}^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://openreview.net/forum?id=e8pm93koQU) | Weilun Feng | Poster | -1 | 😾 | 
-| e9B2NPQanB | [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://openreview.net/forum?id=e9B2NPQanB) | Pengwei Liu | Poster | -1 | 😾 | 
-| eA3Aum0rpA | [Scaling Language-centric Omnimodal Representation Learning](https://openreview.net/forum?id=eA3Aum0rpA) | Chenghao Xiao | Poster | -1 | 😾 | 
-| eK31JidsTN | [OmniTalker: One-shot Real-time Text-Driven Talking Audio-Video Generation With Multimodal Style Mimicking](https://openreview.net/forum?id=eK31JidsTN) | Zhongjian Wang | Poster | -1 | 😾 | 
-| eV2Y8Gt6JY | [Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models](https://openreview.net/forum?id=eV2Y8Gt6JY) | Konstantinos M. Dafnis | Poster | -1 | 😾 | 
-| efDNv5XvVo | [MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild](https://openreview.net/forum?id=efDNv5XvVo) | Deming Li | Poster | -1 | 😾 | 
-| epZTfZF7JC | [VITA-Audio: Fast Interleaved Audio-Text Token Generation for Efficient Large Speech-Language Model](https://openreview.net/forum?id=epZTfZF7JC) | Zuwei Long | Poster | -1 | 😾 | 
-| ewgZItWaHh | [3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion](https://openreview.net/forum?id=ewgZItWaHh) | Junyi Wang | Poster | -1 | 😾 | 
-| f0660KxvT2 | [TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://openreview.net/forum?id=f0660KxvT2) | Jialin Chen | Poster | -1 | 😾 | 
-| fKerD2AQai | [Understanding protein function with a multimodal retrieval-augmented foundation model](https://openreview.net/forum?id=fKerD2AQai) | Timothy Fei Truong Jr | Poster | -1 | 😾 | 
-| fLx3vQPmDu | [OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts](https://openreview.net/forum?id=fLx3vQPmDu) | Shiting Xiao | Spotlight | -1 | 😾 | 
-| fYSPRGmS6l | [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://openreview.net/forum?id=fYSPRGmS6l) | YUXIANG WEI | Poster | -1 | 😾 | 
-| fbTGCEfztk | [PhysDiff-VTON: Cross-Domain Physics Modeling and Trajectory Optimization for Virtual Try-On](https://openreview.net/forum?id=fbTGCEfztk) | Shibin Mei | Poster | -1 | 😾 | 
-| feuFyonHks | [CyIN: Cyclic Informative Latent Space for Bridging Complete and Incomplete Multimodal Learning](https://openreview.net/forum?id=feuFyonHks) | Ronghao Lin | Poster | -1 | 😾 | 
-| fggSyPPk0K | [World-aware Planning Narratives Enhance Large Vision-Language Model Planner](https://openreview.net/forum?id=fggSyPPk0K) | Junhao Shi | Poster | -1 | 😾 | 
-| fjoKScAL4D | [Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge](https://openreview.net/forum?id=fjoKScAL4D) | Nimrod Berman | Poster | -1 | 😾 | 
-| fohuurA03P | [Interactive Cross-modal Learning for Text-3D Scene Retrieval](https://openreview.net/forum?id=fohuurA03P) | Yanglin Feng | Oral | -1 | 😾 | 
-| fp5RrJ51WK | [ExAct: A Video-Language Benchmark for Expert Action Analysis](https://openreview.net/forum?id=fp5RrJ51WK) | Han Yi | Poster | -1 | 😾 | 
-| fqpR9FRso9 | [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://openreview.net/forum?id=fqpR9FRso9) | Tianhong Zhou | Poster | -1 | 😾 | 
-| ftZEltGArK | [From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography](https://openreview.net/forum?id=ftZEltGArK) | RUOFAN LIU | Poster | -1 | 😾 | 
-| gJ05Gm5VxQ | [Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding](https://openreview.net/forum?id=gJ05Gm5VxQ) | Ye Wang | Poster | -1 | 😾 | 
-| gRKorMGYlR | [TractoTransformer: Diffusion MRI Streamline Tractography using CNN and Transformer Networks](https://openreview.net/forum?id=gRKorMGYlR) | Itzik Waizman | Poster | -1 | 😾 | 
-| gUbQZ7AtaZ | [Chiron-o1: Igniting Multimodal Large Language Models towards Generalizable Medical Reasoning via Mentor-Intern Collaborative Search](https://openreview.net/forum?id=gUbQZ7AtaZ) | Haoran Sun | Poster | -1 | 😾 | 
-| gZjPllL9jM | [Efficient Multi-modal Large Language Models via Progressive Consistency Distillation](https://openreview.net/forum?id=gZjPllL9jM) | Zichen Wen | Poster | -1 | 😾 | 
-| gfX1nqBKtu | [OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles](https://openreview.net/forum?id=gfX1nqBKtu) | Yihe Deng | Poster | -1 | 😾 | 
-| gjvbsLyCC3 | [Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs](https://openreview.net/forum?id=gjvbsLyCC3) | Xudong Li | Poster | -1 | 😾 | 
-| gkcU26BOml | [Cross-modal Associations in Vision and Language Models: Revisiting the Bouba-Kiki Effect](https://openreview.net/forum?id=gkcU26BOml) | Tom Kouwenhoven | Poster | -1 | 😾 | 
-| gm65gK3uOJ | [Glance2Gaze: Efficient Vision-Language Models from Glance Fusion to Gaze Compression](https://openreview.net/forum?id=gm65gK3uOJ) | Juan Chen | Poster | -1 | 😾 | 
-| h0LzGQq6uO | [Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering](https://openreview.net/forum?id=h0LzGQq6uO) | Yuyang Hong | Poster | -1 | 😾 | 
-| h3lyFa5e1W | [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://openreview.net/forum?id=h3lyFa5e1W) | Zhongwei Wan | Poster | -1 | 😾 | 
-| h6xQClTm4W | [Exploring the Limits of Vision-Language-Action Manipulation in Cross-task Generalization](https://openreview.net/forum?id=h6xQClTm4W) | Jiaming Zhou | Poster | -1 | 😾 | 
-| hT7Nj7SAQb | [Cross-Modal Representational Knowledge Distillation for Enhanced Spike-informed LFP Modeling](https://openreview.net/forum?id=hT7Nj7SAQb) | Eray Erturk | Poster | -1 | 😾 | 
-| hUCgQWItCX | [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://openreview.net/forum?id=hUCgQWItCX) | Yizhen Zhang | Poster | -1 | 😾 | 
-| hW7Bpu6Kbn | [MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios](https://openreview.net/forum?id=hW7Bpu6Kbn) | Yang Shi | Poster | -1 | 😾 | 
-| hdJXzKZjY9 | [Reliable Lifelong Multimodal Editing: Conflict-Aware Retrieval Meets Multi-Level Guidance](https://openreview.net/forum?id=hdJXzKZjY9) | Qiang Zhang | Poster | -1 | 😾 | 
-| huZzy5w2Js | [SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios](https://openreview.net/forum?id=huZzy5w2Js) | Lingwei Dang | Spotlight | -1 | 😾 | 
-| hymrUe6ATL | [PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series in Typhoon Forecasting](https://openreview.net/forum?id=hymrUe6ATL) | Haobo Li | Poster | -1 | 😾 | 
-| hyolWgWWyg | [D2SA: Dual-Stage Distribution and Slice Adaptation for Efficient Test-Time Adaptation in MRI Reconstruction](https://openreview.net/forum?id=hyolWgWWyg) | Lipei Zhang | Poster | -1 | 😾 | 
-| iBwW1DxQaa | [Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models](https://openreview.net/forum?id=iBwW1DxQaa) | Thanh-Dat Truong | Poster | -1 | 😾 | 
-| iCvueZ8KaN | [VCM: Vision Concept Modeling with Adaptive Vision Token Compression via Instruction Fine-Tuning](https://openreview.net/forum?id=iCvueZ8KaN) | Run Luo | Poster | -1 | 😾 | 
-| iD2OqoCs4D | [$\Delta \mathrm{Energy}$: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](https://openreview.net/forum?id=iD2OqoCs4D) | Lin Zhu | Poster | -1 | 😾 | 
-| iLbXyPNTeb | [VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image](https://openreview.net/forum?id=iLbXyPNTeb) | Sicheng Xu | Poster | -1 | 😾 | 
-| iQHuVNte6w | [OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](https://openreview.net/forum?id=iQHuVNte6w) | Yuanhao Cai | Poster | -1 | 😾 | 
-| iQoZv77o3g | [Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks](https://openreview.net/forum?id=iQoZv77o3g) | Alexander Ratzan | Poster | -1 | 😾 | 
-| iRsZHAMNHL | [CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding](https://openreview.net/forum?id=iRsZHAMNHL) | hongyong han | Oral | -1 | 😾 | 
-| idtZwmjakN | [GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images](https://openreview.net/forum?id=idtZwmjakN) | Xiang Lan | Poster | -1 | 😾 | 
-| ir8u0crTcA | [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://openreview.net/forum?id=ir8u0crTcA) | Rui Tian | Poster | -1 | 😾 | 
-| it0kkaFFpK | [On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models](https://openreview.net/forum?id=it0kkaFFpK) | Hoigi Seo | Poster | -1 | 😾 | 
-| j7L5AiVqJQ | [Layer-Wise Modality Decomposition for Interpretable Multimodal Sensor Fusion](https://openreview.net/forum?id=j7L5AiVqJQ) | Park Jae Hyun | Poster | -1 | 😾 | 
-| jSeWBdH0Xx | [Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging](https://openreview.net/forum?id=jSeWBdH0Xx) | Ibrahim Ethem Hamamci | Poster | -1 | 😾 | 
-| jZs26lJ0pl | [Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment](https://openreview.net/forum?id=jZs26lJ0pl) | Pengfei Zhao | Poster | -1 | 😾 | 
-| jl0O0MYLyh | [D-VST: Diffusion Transformer for Pathology-Correct Tone-Controllable Cross-Dye Virtual Staining of Whole Slide Images](https://openreview.net/forum?id=jl0O0MYLyh) | shurong yang | Poster | -1 | 😾 | 
-| jquTBzt3Av | [Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models](https://openreview.net/forum?id=jquTBzt3Av) | Xiaoyu Zhan | Poster | -1 | 😾 | 
-| jt9iMeQQvM | [MixPrompt: Efficient Mixed Prompting for Multimodal Semantic Segmentation](https://openreview.net/forum?id=jt9iMeQQvM) | Zhiwei Hao | Poster | -1 | 😾 | 
-| juROy8NYRD | [Continual Multimodal Contrastive Learning](https://openreview.net/forum?id=juROy8NYRD) | Xiaohao Liu | Poster | -1 | 😾 | 
-| k5TbfYPYuc | [Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing](https://openreview.net/forum?id=k5TbfYPYuc) | Eunbyeol Cho | Poster | -1 | 😾 | 
-| k71nsscO9b | [Adaptive Re-calibration Learning for Balanced Multimodal Intention Recognition](https://openreview.net/forum?id=k71nsscO9b) | Qu Yang | Poster | -1 | 😾 | 
-| kMPII4XbKC | [R1-ShareVL: Incentivizing Reasoning Capabilities of Multimodal Large Language Models via Share-GRPO](https://openreview.net/forum?id=kMPII4XbKC) | Huanjin Yao | Poster | -1 | 😾 | 
-| kMQju9SFBP | [Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models](https://openreview.net/forum?id=kMQju9SFBP) | Haohan Chi | Poster | -1 | 😾 | 
-| kND7h1kD53 | [DualEqui: A Dual-Space Hierarchical Equivariant Network for Large Biomolecules](https://openreview.net/forum?id=kND7h1kD53) | Junjie Xu | Poster | -1 | 😾 | 
-| kWGJa9ZO3M | [Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM](https://openreview.net/forum?id=kWGJa9ZO3M) | Zinuo Li | Poster | -1 | 😾 | 
-| kWZRLR7w52 | [PreFM: Online Audio-Visual Event Parsing via Predictive Future Modeling](https://openreview.net/forum?id=kWZRLR7w52) | Xiao Yu | Poster | -1 | 😾 | 
-| kjWB8iaO3l | [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://openreview.net/forum?id=kjWB8iaO3l) | Kornel Howil | Poster | -1 | 😾 | 
-| kkhRTTmXFV | [Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives](https://openreview.net/forum?id=kkhRTTmXFV) | Geng Zhang | Poster | -1 | 😾 | 
-| kn0AyMYw0v | [Fit the Distribution: Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Models](https://openreview.net/forum?id=kn0AyMYw0v) | Hai Yan | Poster | -1 | 😾 | 
-| koxXKW4FbR | [Listening to the Brain: Multi-Band sEEG Auditory Reconstruction via Dynamic Spatio-Temporal Hypergraphs](https://openreview.net/forum?id=koxXKW4FbR) | Xueyi Zhang | Poster | -1 | 😾 | 
-| lTAtQW1Ufi | [From Human Attention to Diagnosis: Semantic Patch-Level Integration of Vision-Language Models in Medical Imaging](https://openreview.net/forum?id=lTAtQW1Ufi) | Dmitry Lvov | Poster | -1 | 😾 | 
-| lUHwUuQGdV | [Towards Unified Multimodal Interleaved Generation via Group Relative Policy Optimization](https://openreview.net/forum?id=lUHwUuQGdV) | Ming Nie | Poster | -1 | 😾 | 
-| lu4cGylISh | [Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design](https://openreview.net/forum?id=lu4cGylISh) | Lianghong Chen | Poster | -1 | 😾 | 
-| lv4zLWzOi2 | [Approximate Domain Unlearning for Vision-Language Models](https://openreview.net/forum?id=lv4zLWzOi2) | Kodai Kawamura | Spotlight | -1 | 😾 | 
-| lwOV2ACEK9 | [Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://openreview.net/forum?id=lwOV2ACEK9) | Huanjin Yao | Spotlight | -1 | 😾 | 
-| m5jmATYmsi | [Topology-Aware Learning of Tubular Manifolds via SE(3)-Equivariant Network on Ball B-Spline Curve](https://openreview.net/forum?id=m5jmATYmsi) | Jingxuan Wang | Poster | -1 | 😾 | 
-| mDjEKAwJOF | [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://openreview.net/forum?id=mDjEKAwJOF) | Adibvafa Fallahpour | Poster | -1 | 😾 | 
-| mFEkBO25Ra | [MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants](https://openreview.net/forum?id=mFEkBO25Ra) | Hritik Bansal | Poster | -1 | 😾 | 
-| mH9FJi3KTX | [Magical: Medical Lay Language Generation via Semantic Invariance and Layperson-tailored Adaptation](https://openreview.net/forum?id=mH9FJi3KTX) | Weibin Liao | Poster | -1 | 😾 | 
-| mI9HqgVuTS | [Federated Dialogue-Semantic Diffusion for Emotion Recognition under Incomplete Modalities](https://openreview.net/forum?id=mI9HqgVuTS) | Xihang Qiu | Poster | -1 | 😾 | 
-| mj8VN4MyrO | [ThinkSound: Chain-of-Thought Reasoning in Multimodal LLMs for Audio Generation and Editing](https://openreview.net/forum?id=mj8VN4MyrO) | Huadai Liu | Poster | -1 | 😾 | 
-| ml2TynfZI0 | [Integrating Drug Substructures and Longitudinal Electronic Health Records for Personalized Drug Recommendation](https://openreview.net/forum?id=ml2TynfZI0) | Wenjie Du | Poster | -1 | 😾 | 
-| muWdWcMvpW | [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://openreview.net/forum?id=muWdWcMvpW) | Junliang Ye | Spotlight | -1 | 😾 | 
-| n6GVwmGvZ0 | [RBench-V: A Primary Assessment for Visual Reasoning Models with Multimodal Outputs](https://openreview.net/forum?id=n6GVwmGvZ0) | Meng-Hao Guo | Poster | -1 | 😾 | 
-| n6SrVj7I0g | [MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition](https://openreview.net/forum?id=n6SrVj7I0g) | Umberto Cappellazzo | Poster | -1 | 😾 | 
-| ne3nYEcGsf | [Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior](https://openreview.net/forum?id=ne3nYEcGsf) | Ruoyu Feng | Poster | -1 | 😾 | 
-| nfxTpNiSMH | [SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding](https://openreview.net/forum?id=nfxTpNiSMH) | Zhao Jin | Poster | -1 | 😾 | 
-| nxGSj1xkm3 | [Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis](https://openreview.net/forum?id=nxGSj1xkm3) | Jing Hao | Poster | -1 | 😾 | 
-| o0JSYq1TQ4 | [ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation](https://openreview.net/forum?id=o0JSYq1TQ4) | Jiuhong Xiao | Poster | -1 | 😾 | 
-| o8r3gOFTQo | [SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation](https://openreview.net/forum?id=o8r3gOFTQo) | Claudia Cuttano | Spotlight | -1 | 😾 | 
-| oB5GHrsfI4 | [3D Human Pose Estimation with Muscles](https://openreview.net/forum?id=oB5GHrsfI4) | Kevin Zhu | Poster | -1 | 😾 | 
-| oCXyxhgCiZ | [BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM](https://openreview.net/forum?id=oCXyxhgCiZ) | Wen Xiong | Poster | -1 | 😾 | 
-| oHbVboLXz6 | [Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition](https://openreview.net/forum?id=oHbVboLXz6) | Yu Li | Spotlight | -1 | 😾 | 
-| oJ84bedrtM | [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://openreview.net/forum?id=oJ84bedrtM) | Yake Wei | Oral | -1 | 😾 | 
-| oUghNi5XWc | [SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs](https://openreview.net/forum?id=oUghNi5XWc) | Jinhong Deng | Poster | -1 | 😾 | 
-| oVDAfLuRie | [VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception](https://openreview.net/forum?id=oVDAfLuRie) | Ziang Yan | Poster | -1 | 😾 | 
-| ocBuEUl6Yz | [Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation](https://openreview.net/forum?id=ocBuEUl6Yz) | Moru Liu | Poster | -1 | 😾 | 
-| p0E74lpRBD | [Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](https://openreview.net/forum?id=p0E74lpRBD) | Wei Pang | Poster | -1 | 😾 | 
-| p2pRiDwjDa | [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://openreview.net/forum?id=p2pRiDwjDa) | Wenxiang Guo | Poster | -1 | 😾 | 
-| p4jKtPCcUh | [Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos](https://openreview.net/forum?id=p4jKtPCcUh) | Weifeng Lin | Poster | -1 | 😾 | 
-| pCRm6g0RnA | [ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio–Language Models](https://openreview.net/forum?id=pCRm6g0RnA) | Weifei Jin | Poster | -1 | 😾 | 
-| pGRjDetCDM | [JADE: Joint Alignment and Deep Embedding for Multi-Slice Spatial Transcriptomics](https://openreview.net/forum?id=pGRjDetCDM) | Yuanchuan Guo | Poster | -1 | 😾 | 
-| pOJBw1YQgL | [Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery](https://openreview.net/forum?id=pOJBw1YQgL) | Ming Hu | Spotlight | -1 | 😾 | 
-| peYBx7AiKw | [Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction](https://openreview.net/forum?id=peYBx7AiKw) | Marzieh Ajirak | Poster | -1 | 😾 | 
-| plrg87MP0F | [PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement](https://openreview.net/forum?id=plrg87MP0F) | Teng Hu | Poster | -1 | 😾 | 
-| pozsP0ZcZN | [AudSemThinker: Enhancing Audio-Language Models Through Reasoning over Semantics of Sound](https://openreview.net/forum?id=pozsP0ZcZN) | Gijs Wijngaard | Poster | -1 | 😾 | 
-| q1W0O5p1w1 | [ADMN: A Layer-Wise Adaptive Multimodal Network for Dynamic Input Noise and Compute Resources](https://openreview.net/forum?id=q1W0O5p1w1) | Jason Wu | Poster | -1 | 😾 | 
-| q5QaTQcUbS | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://openreview.net/forum?id=q5QaTQcUbS) | Wenbo Hu | Poster | -1 | 😾 | 
-| qGFvTIMS3W | [Automated Model Discovery via Multi-modal & Multi-step Pipeline](https://openreview.net/forum?id=qGFvTIMS3W) | Lee Jung-Mok | Poster | -1 | 😾 | 
-| qI95wZZCWh | [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://openreview.net/forum?id=qI95wZZCWh) | Jiaqi WANG | Poster | -1 | 😾 | 
-| qJLPlZSdkb | [Joint Modeling of fMRI and EEG Imaging Using Ordinary Differential Equation-Based Hypergraph Neural Networks](https://openreview.net/forum?id=qJLPlZSdkb) | YanZhang | Poster | -1 | 😾 | 
-| qMRFNxioPC | [4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](https://openreview.net/forum?id=qMRFNxioPC) | Zhen Xu | Spotlight | -1 | 😾 | 
-| qYkhCah8OZ | [Boosting Knowledge Utilization in Multimodal Large Language Models via Adaptive Logits Fusion and Attention Reallocation](https://openreview.net/forum?id=qYkhCah8OZ) | Wenbin An | Oral | -1 | 😾 | 
-| qqEfm8tlCM | [FAST: Foreground‑aware Diffusion with Accelerated Sampling Trajectory for Segmentation‑oriented Anomaly Synthesis](https://openreview.net/forum?id=qqEfm8tlCM) | Xichen Xu | Poster | -1 | 😾 | 
-| r2GebY4MnU | [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://openreview.net/forum?id=r2GebY4MnU) | Boshen Xu | Poster | -1 | 😾 | 
-| r8zHRmM4uE | [Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation](https://openreview.net/forum?id=r8zHRmM4uE) | Changshuo Wang | Poster | -1 | 😾 | 
-| rEhVHla9zp | [BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization](https://openreview.net/forum?id=rEhVHla9zp) | Xueyang Zhou | Poster | -1 | 😾 | 
-| rGWjTlK6Ev | [STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](https://openreview.net/forum?id=rGWjTlK6Ev) | Barathi Subramanian | Poster | -1 | 😾 | 
-| rH0aOLyjYQ | [NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://openreview.net/forum?id=rH0aOLyjYQ) | Longtian Qiu | Poster | -1 | 😾 | 
-| rHt6tt5RNF | [Multi-Modal Interactive Agent Layer for Few-Shot Universal Cross-Domain Retrieval and Beyond](https://openreview.net/forum?id=rHt6tt5RNF) | Kaixiang Chen | Poster | -1 | 😾 | 
-| rMqQdJJz5r | [Learning Reconfigurable Representations for Multimodal Federated Learning with Missing Data](https://openreview.net/forum?id=rMqQdJJz5r) | Manh Duong Nguyen | Poster | -1 | 😾 | 
-| rOR5IZcwJx | [Robust SuperAlignment: Weak-to-Strong Robustness Generalization for Vision-Language Models](https://openreview.net/forum?id=rOR5IZcwJx) | Junhao Dong | Spotlight | -1 | 😾 | 
-| rbIlWjTFKj | [Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs](https://openreview.net/forum?id=rbIlWjTFKj) | Fangrui Zhu | Poster | -1 | 😾 | 
-| rbr2mMSBua | [SAM2Flow: Interactive Optical Flow Estimation with Dual Memory for in vivo Microcirculation Analysis](https://openreview.net/forum?id=rbr2mMSBua) | Luojie Huang | Poster | -1 | 😾 | 
-| rcX3qxO0z6 | [DAAC: Discrepancy-Aware Adaptive Contrastive Learning for Medical Time series](https://openreview.net/forum?id=rcX3qxO0z6) | Yifan WANG | Poster | -1 | 😾 | 
-| s5p9ByKN1j | [WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world scenarios](https://openreview.net/forum?id=s5p9ByKN1j) | Eun Chang | Poster | -1 | 😾 | 
-| sCgYsBVIVG | [Multi-modal contrastive learning adapts to intrinsic dimensions of shared latent variables](https://openreview.net/forum?id=sCgYsBVIVG) | Yu Gui | Poster | -1 | 😾 | 
-| sEFDhxF1mG | [QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models](https://openreview.net/forum?id=sEFDhxF1mG) | Yutong Wang | Spotlight | -1 | 😾 | 
-| sFyTsO2qO3 | [Disentangled Cross-Modal Representation Learning with Enhanced Mutual Supervision](https://openreview.net/forum?id=sFyTsO2qO3) | Lu Gao | Poster | -1 | 😾 | 
-| sQO1ZEQGqX | [DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response](https://openreview.net/forum?id=sQO1ZEQGqX) | Junjue Wang | Poster | -1 | 😾 | 
-| sTKsFIVqik | [V2X-Radar: A Multi-modal Dataset with 4D Radar for Cooperative Perception](https://openreview.net/forum?id=sTKsFIVqik) | Lei Yang | Spotlight | -1 | 😾 | 
-| sUjwDdyspc | [MotionBind: Multi-Modal Human Motion Alignment for Retrieval, Recognition, and Generation](https://openreview.net/forum?id=sUjwDdyspc) | Kaleab A Kinfu | Poster | -1 | 😾 | 
-| swf3Hbc3Qe | [Learning Crossmodal Interaction Patterns via Attributed Bipartite Graphs for Single-Cell Omics](https://openreview.net/forum?id=swf3Hbc3Qe) | Xiaotang Wang | Poster | -1 | 😾 | 
-| t04casiy7F | [Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://openreview.net/forum?id=t04casiy7F) | Wei Yang | Poster | -1 | 😾 | 
-| t5ylXsc2Es | [ChromFound: Towards A Universal Foundation Model for Single-Cell Chromatin Accessibiltiy Data](https://openreview.net/forum?id=t5ylXsc2Es) | Yifeng Jiao | Poster | -1 | 😾 | 
-| t77EZLjvd5 | [Enhancing CLIP Robustness via Cross-Modality Alignment](https://openreview.net/forum?id=t77EZLjvd5) | Xingyu Zhu | Spotlight | -1 | 😾 | 
-| tI04KmK27S | [scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration](https://openreview.net/forum?id=tI04KmK27S) | Jianle Sun | Spotlight | -1 | 😾 | 
-| tIW29IpCwG | [Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://openreview.net/forum?id=tIW29IpCwG) | Wenqi Liu | Poster | -1 | 😾 | 
-| tPJg65EB7D | [Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens](https://openreview.net/forum?id=tPJg65EB7D) | Zijian Dong | Poster | -1 | 😾 | 
-| tPqBnGwTwa | [Far from the Shallow: Brain-Predictive Reasoning Embedding through Residual Disentanglement](https://openreview.net/forum?id=tPqBnGwTwa) | Linyang He | Poster | -1 | 😾 | 
-| uCz7pHv67y | [MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking](https://openreview.net/forum?id=uCz7pHv67y) | Tianhao Li | Poster | -1 | 😾 | 
-| uS4Wmg7PmE | [Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning](https://openreview.net/forum?id=uS4Wmg7PmE) | Tianyi Bai | Poster | -1 | 😾 | 
-| uWEcZkrSkZ | [MuSLR: Multimodal Symbolic Logical Reasoning](https://openreview.net/forum?id=uWEcZkrSkZ) | Jundong Xu | Poster | -1 | 😾 | 
-| ugOn7Pohxv | [Towards Prospective Medical Image Reconstruction via Knowledge-Informed Dynamic Optimal Transport](https://openreview.net/forum?id=ugOn7Pohxv) | Taoran Zheng | Poster | -1 | 😾 | 
-| vAxGuGmshO | [AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Document Understanding](https://openreview.net/forum?id=vAxGuGmshO) | Ahmed Masry | Poster | -1 | 😾 | 
-| vIDsnh0FWH | [AneuG-Flow: A Large-Scale Synthetic Dataset of Diverse Intracranial Aneurysm Geometries and Hemodynamics](https://openreview.net/forum?id=vIDsnh0FWH) | Wenhao Ding | Poster | -1 | 😾 | 
-| vN3ZRS7L3I | [Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach](https://openreview.net/forum?id=vN3ZRS7L3I) | Yuting Huang | Poster | -1 | 😾 | 
-| vzgkhVS5EC | [Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe](https://openreview.net/forum?id=vzgkhVS5EC) | Jia-Nuo Liew | Poster | -1 | 😾 | 
-| w1FUXt3ujK | [Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment](https://openreview.net/forum?id=w1FUXt3ujK) | Xiao Fei | Poster | -1 | 😾 | 
-| w9gEF4Iwtx | [CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation](https://openreview.net/forum?id=w9gEF4Iwtx) | Marc Lafon | Poster | -1 | 😾 | 
-| wHx7UuRm7G | [Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective](https://openreview.net/forum?id=wHx7UuRm7G) | Haifeng Zhao | Poster | -1 | 😾 | 
-| wbifKziqd2 | [DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging](https://openreview.net/forum?id=wbifKziqd2) | Felix Wagner | Poster | -1 | 😾 | 
-| wczmXLuLGd | [MMaDA: Multimodal Large Diffusion Language Models](https://openreview.net/forum?id=wczmXLuLGd) | Ling Yang | Poster | -1 | 😾 | 
-| wdyOwMISSR | [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://openreview.net/forum?id=wdyOwMISSR) | Minheng Ni | Poster | -1 | 😾 | 
-| wlqoUpuQrv | [Sequential Attention-based Sampling for Histopathological Analysis](https://openreview.net/forum?id=wlqoUpuQrv) | Tarun G | Poster | -1 | 😾 | 
-| wuMdBGMe3y | [Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](https://openreview.net/forum?id=wuMdBGMe3y) | Ling Li | Poster | -1 | 😾 | 
-| x2BsIdJJJW | [ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding](https://openreview.net/forum?id=x2BsIdJJJW) | Jialiang Kang | Poster | -1 | 😾 | 
-| xLFYd1owiP | [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://openreview.net/forum?id=xLFYd1owiP) | Siwei Wen | Poster | -1 | 😾 | 
-| xaxuzubN31 | [Multi-dataset Joint Pre-training of Emotional EEG Enables Generalizable Affective Computing](https://openreview.net/forum?id=xaxuzubN31) | Qingzhu Zhang | Poster | -1 | 😾 | 
-| xcw6UWNtFJ | [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://openreview.net/forum?id=xcw6UWNtFJ) | Hyungyung Lee | Spotlight | -1 | 😾 | 
-| xgiMK8FtSI | [LLM-DAMVC: A Large Language Model Assisted Dynamic Agent for Multi-View Clustering](https://openreview.net/forum?id=xgiMK8FtSI) | HaiMing Xu | Poster | -1 | 😾 | 
-| xjC5NqqSHs | [Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding](https://openreview.net/forum?id=xjC5NqqSHs) | Yanglin Feng | Poster | -1 | 😾 | 
-| yFerzf9v1b | [Distil-E2D: Distilling Image-to-Depth Priors for Event-Based Monocular Depth Estimation](https://openreview.net/forum?id=yFerzf9v1b) | Jie Long Lee | Poster | -1 | 😾 | 
-| yFjgV3cJje | [4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://openreview.net/forum?id=yFjgV3cJje) | Jiahui Zhang | Poster | -1 | 😾 | 
-| yHi8Ao6GAe | [MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification](https://openreview.net/forum?id=yHi8Ao6GAe) | Junjie Zhou | Poster | -1 | 😾 | 
-| yJpBVE4vfo | [Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions](https://openreview.net/forum?id=yJpBVE4vfo) | Wenxuan Bao | Poster | -1 | 😾 | 
-| yNVDkAjGjw | [Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](https://openreview.net/forum?id=yNVDkAjGjw) | Saghir Alfasly | Poster | -1 | 😾 | 
-| ycPVp0577R | [Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting](https://openreview.net/forum?id=ycPVp0577R) | Yiren Lu | Poster | -1 | 😾 | 
-| yeqrrn51TL | [Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://openreview.net/forum?id=yeqrrn51TL) | Ching Chang | Poster | -1 | 😾 | 
-| ygHWfrwFmO | [CMoB: Modality Valuation via Causal Effect for Balanced Multimodal Learning](https://openreview.net/forum?id=ygHWfrwFmO) | Jun Wang | Poster | -1 | 😾 | 
-| yh1t1yFtXG | [Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number](https://openreview.net/forum?id=yh1t1yFtXG) | Jingyuan Zhou | Poster | -1 | 😾 | 
-| yjLew3Nd7z | [PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding](https://openreview.net/forum?id=yjLew3Nd7z) | Ansel Blume | Spotlight | -1 | 😾 | 
-| ypPxYsmZPx | [DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases](https://openreview.net/forum?id=ypPxYsmZPx) | Mo wang | Poster | -1 | 😾 | 
-| ypVW5jvguX | [Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation](https://openreview.net/forum?id=ypVW5jvguX) | Xiang Fang | Poster | -1 | 😾 | 
-| yqBIKzTFT8 | [MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](https://openreview.net/forum?id=yqBIKzTFT8) | Chenhui Zhu | Poster | -1 | 😾 | 
-| yyWeSAsOhs | [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://openreview.net/forum?id=yyWeSAsOhs) | Junfei Wu | Poster | -1 | 😾 | 
-| yzuPL2EXAn | [InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts](https://openreview.net/forum?id=yzuPL2EXAn) | Tianchi Xie | Poster | -1 | 😾 | 
-| z0WhTwZscg | [Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents](https://openreview.net/forum?id=z0WhTwZscg) | Han Lin | Poster | -1 | 😾 | 
-| z2SGaPIhLT | [SGCD: Stain-Guided CycleDiffusion for Unsupervised Domain Adaptation of Histopathology Image Classification](https://openreview.net/forum?id=z2SGaPIhLT) | Hsi-Ling Chen | Spotlight | -1 | 😾 | 
-| z3TftXOizf | [OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels](https://openreview.net/forum?id=z3TftXOizf) | Dongsheng Yuan | Poster | -1 | 😾 | 
-| z9MxyboJ7R | [Spatially-aware Weights Tokenization for NeRF-Language Models](https://openreview.net/forum?id=z9MxyboJ7R) | Andrea Amaduzzi | Poster | -1 | 😾 | 
-| z9xyREqxzq | [Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention](https://openreview.net/forum?id=z9xyREqxzq) | Haijing Liu | Poster | -1 | 😾 | 
-| zKoeRtye8o | [Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention](https://openreview.net/forum?id=zKoeRtye8o) | Xin Zou | Poster | -1 | 😾 | 
-| zQK6IluJi3 | [Dynamic Masking and Auxiliary Hash Learning for Enhanced Cross-Modal Retrieval](https://openreview.net/forum?id=zQK6IluJi3) | Shuang Zhang | Poster | -1 | 😾 | 
-| zQmXDUbZ5D | [OpenHype: Hyperbolic Embeddings for Hierarchical Open-Vocabulary Radiance Fields](https://openreview.net/forum?id=zQmXDUbZ5D) | Lisa Weijler | Poster | -1 | 😾 | 
-| zVkbsGlKn9 | [Towards Generalizable Retina Vessel Segmentation with Deformable Graph Priors](https://openreview.net/forum?id=zVkbsGlKn9) | Ke Liu | Poster | -1 | 😾 | 
-| zb16xZ1NGB | [scSplit: Bringing Severity Cognizance to Image Decomposition in Fluorescence Microscopy](https://openreview.net/forum?id=zb16xZ1NGB) | Ashesh | Poster | -1 | 😾 | 
-| zmCBCbr2Wj | [Plug-and-play Feature Causality Decomposition for Multimodal Representation Learning](https://openreview.net/forum?id=zmCBCbr2Wj) | Ye Liu | Poster | -1 | 😾 | 
-| ztgYn0Uk94 | [Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation](https://openreview.net/forum?id=ztgYn0Uk94) | Szymon Plotka | Poster | -1 | 😾 | 
-| zwCb9cKHpd | [SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing](https://openreview.net/forum?id=zwCb9cKHpd) | Mingfei Chen | Oral | -1 | 😾 | 
-| zyopvwZbSj | [GeneFlow: Translation of Single-cell Gene Expression to Histopathological Images via Rectified Flow](https://openreview.net/forum?id=zyopvwZbSj) | Mengbo Wang | Poster | -1 | 😾 | 
+| 05cVmYJJnb | [BrainMoE: Cognition Joint Embedding via Mixture-of-Expert Towards Robust Brain Foundation Model](https://openreview.net/forum?id=05cVmYJJnb) | Ziquan Wei | Poster |  | 😾 | 
+| 08mjueZ0Iq | [VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture](https://openreview.net/forum?id=08mjueZ0Iq) | Maonan Wang | Poster |  | 😾 | 
+| 0biUwyjKkm | [OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model](https://openreview.net/forum?id=0biUwyjKkm) | Zhenhao Zhang | Oral |  | 😾 | 
+| 0kAfwgpeug | [Sample-Efficient Multi-Round Generative Data Augmentation for Long-Tail Instance Segmentation](https://openreview.net/forum?id=0kAfwgpeug) | Byunghyun Kim | Poster |  | 😾 | 
+| 0qGtaRTsCo | [CF-VLM：CounterFactual Vision-Language Fine-tuning](https://openreview.net/forum?id=0qGtaRTsCo) | Jusheng Zhang | Poster |  | 😾 | 
+| 0rVD66dXqT | [Gaze-VLM: Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](https://openreview.net/forum?id=0rVD66dXqT) | Anupam Pani | Poster |  | 😾 | 
+| 0wV5HR7M4P | [TEMPO: Temporal Multi-scale Autoregressive Generation of Protein Conformational Ensembles](https://openreview.net/forum?id=0wV5HR7M4P) | Yaoyao Xu | Poster |  | 😾 | 
+| 138y2wo6ok | [PolypSense3D: A Multi-Source Benchmark Dataset for Depth-Aware Polyp Size Measurement in Endoscopy](https://openreview.net/forum?id=138y2wo6ok) | Ruyu Liu | Poster |  | 😾 | 
+| 13BJ5FYG8E | [Learning a Cross-Modal Schrödinger Bridge for Visual Domain Generalization](https://openreview.net/forum?id=13BJ5FYG8E) | Hao Zheng | Poster |  | 😾 | 
+| 1K28gV5MeF | [MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series](https://openreview.net/forum?id=1K28gV5MeF) | Payal Mohapatra | Spotlight |  | 😾 | 
+| 1KXST1ksJ2 | [Learning to Plan Like the Human Brain via Visuospatial Perception and Semantic-Episodic Synergistic Decision-Making](https://openreview.net/forum?id=1KXST1ksJ2) | Tianyuan Jia | Poster |  | 😾 | 
+| 1Sb0363f2y | [VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set](https://openreview.net/forum?id=1Sb0363f2y) | Shufan Shen | Poster |  | 😾 | 
+| 1lyKflUOhp | [ChatVLA-2: Vision-Language-Action Model with Open-World Reasoning](https://openreview.net/forum?id=1lyKflUOhp) | Zhongyi Zhou | Poster |  | 😾 | 
+| 1mokb8ohOQ | [ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection](https://openreview.net/forum?id=1mokb8ohOQ) | Zhihao Sun | Poster |  | 😾 | 
+| 22O1ejTxj3 | [Modality-Aware SAM: Sharpness-Aware-Minimization Driven Gradient Modulation for Harmonized Multimodal Learning](https://openreview.net/forum?id=22O1ejTxj3) | Hossein R. Nowdeh | Poster |  | 😾 | 
+| 28qUA2bSe5 | [AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://openreview.net/forum?id=28qUA2bSe5) | Zewei Zhou | Poster |  | 😾 | 
+| 2DAvXR77xh | [Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation](https://openreview.net/forum?id=2DAvXR77xh) | Divyanshu Mishra | Poster |  | 😾 | 
+| 2Dwp12HmYI | [Dr. RAW: Towards General High-Level Vision from RAW with Efficient Task Conditioning](https://openreview.net/forum?id=2Dwp12HmYI) | Wenjun Huang | Poster |  | 😾 | 
+| 2EJrs3gUO6 | [Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders](https://openreview.net/forum?id=2EJrs3gUO6) | Ali Rasekh | Poster |  | 😾 | 
+| 2T6QXSP8Cf | [DOTA: Distributional Test-time Adaptation of Vision-Language Models](https://openreview.net/forum?id=2T6QXSP8Cf) | Zongbo Han | Poster |  | 😾 | 
+| 2XstFOMwp4 | [BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset](https://openreview.net/forum?id=2XstFOMwp4) | Zhiheng Xi | Poster |  | 😾 | 
+| 2aIoEG2Hwz | [$\textit{HiMaCon:}$ Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data](https://openreview.net/forum?id=2aIoEG2Hwz) | Ruizhe Liu | Poster |  | 😾 | 
+| 2afhRWVb6p | [Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment](https://openreview.net/forum?id=2afhRWVb6p) | Chen Liu | Spotlight |  | 😾 | 
+| 2dpiR9fqUk | [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://openreview.net/forum?id=2dpiR9fqUk) | Yongmin Lee | Poster |  | 😾 | 
+| 2nIAtsUC27 | [Improve Temporal Reasoning in Multimodal Large Language Models via Video Contrastive Decoding](https://openreview.net/forum?id=2nIAtsUC27) | Daiqing Qi | Poster |  | 😾 | 
+| 36cKp4tsHF | [Deno-IF: Unsupervised Noisy Visible and Infrared Image Fusion Method](https://openreview.net/forum?id=36cKp4tsHF) | Han Xu | Spotlight |  | 😾 | 
+| 38GF07Tmtr | [PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors](https://openreview.net/forum?id=38GF07Tmtr) | Xirui Jin | Poster |  | 😾 | 
+| 38n8pFvldK | [CroPe: Cross-Modal Semantic Compensation Adaptation for All Adverse Scene Understanding](https://openreview.net/forum?id=38n8pFvldK) | Qin Xu | Poster |  | 😾 | 
+| 3BTqvtwZYY | [CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation](https://openreview.net/forum?id=3BTqvtwZYY) | Ziao Wang | Poster |  | 😾 | 
+| 3CVU3RRvPx | [Intend to Move: A Multimodal Dataset for Intention-Aware Human Motion Understanding](https://openreview.net/forum?id=3CVU3RRvPx) | Ryo Umagami | Poster |  | 😾 | 
+| 3Hjfzh5Eyk | [A TRIANGLE Enables Multimodal Alignment Beyond Cosine Similarity](https://openreview.net/forum?id=3Hjfzh5Eyk) | Giordano Cicchetti | Poster |  | 😾 | 
+| 3IXdXBpuLn | [SHF: Symmetrical Hierarchical Forest with Pretrained Vision Transformer Encoder for High-Resolution Medical Segmentation](https://openreview.net/forum?id=3IXdXBpuLn) | Enzhi Zhang | Spotlight |  | 😾 | 
+| 3KtPujOw5z | [On the Value of Cross-Modal Misalignment in Multimodal Representation Learning](https://openreview.net/forum?id=3KtPujOw5z) | Yichao Cai | Spotlight |  | 😾 | 
+| 3Xmr8WTAld | [Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling](https://openreview.net/forum?id=3Xmr8WTAld) | Tsung-Han Wu | Poster |  | 😾 | 
+| 3fDypdR4VN | [Provable Ordering and Continuity in Vision-Language Pretraining for Generalizable Embodied Agents](https://openreview.net/forum?id=3fDypdR4VN) | Zhizhen Zhang | Poster |  | 😾 | 
+| 3i53Z6g6j4 | [4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time](https://openreview.net/forum?id=3i53Z6g6j4) | Ziqiao Ma | Poster |  | 😾 | 
+| 3p4272zl7q | [Rationalized All-Atom Protein Design with Unified Multi-Modal Bayesian Flow](https://openreview.net/forum?id=3p4272zl7q) | Hanlin Wu | Poster |  | 😾 | 
+| 3pORFyKzh1 | [VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://openreview.net/forum?id=3pORFyKzh1) | Qi Wang | Poster |  | 😾 | 
+| 3rY182JOOZ | [MedicalNarratives: Connecting Medical Vision and Language with Localized Narratives](https://openreview.net/forum?id=3rY182JOOZ) | Wisdom Oluchi Ikezogwo | Poster |  | 😾 | 
+| 3vLp3J7540 | [A Multimodal BiMamba Network with Test-Time Adaptation for Emotion Recognition Based on Physiological Signals](https://openreview.net/forum?id=3vLp3J7540) | Ziyu Jia | Poster |  | 😾 | 
+| 3xwsD68F2K | [VLM in a flash: I/O-Efficient Sparsification of Vision-Language Model via Neuron Chunking](https://openreview.net/forum?id=3xwsD68F2K) | Kichang Yang | Poster |  | 😾 | 
+| 3zx087XPtz | [AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding](https://openreview.net/forum?id=3zx087XPtz) | Chaeyoung Jung | Poster |  | 😾 | 
+| 4ZAX1NT0ms | [DAVE: Diagnostic benchmark for Audio Visual Evaluation](https://openreview.net/forum?id=4ZAX1NT0ms) | Gorjan Radevski | Poster |  | 😾 | 
+| 4iehXI36QG | [OpenOmni: Advancing Open-Source Omnimodal Large Language Models with Progressive Multimodal Alignment and Real-time Emotional Speech Synthesis](https://openreview.net/forum?id=4iehXI36QG) | Run Luo | Poster |  | 😾 | 
+| 4oYxzssbVg | [VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning](https://openreview.net/forum?id=4oYxzssbVg) | Haozhe Wang | Spotlight |  | 😾 | 
+| 5LJoDO9qYt | [IDOL: Meeting Diverse Distribution Shifts with Prior Physics for Tropical Cyclone Multi-Task Estimation](https://openreview.net/forum?id=5LJoDO9qYt) | HantingYan | Poster |  | 😾 | 
+| 5YDO8XjYjR | [VLForgery Face Triad: Detection, Localization and Attribution via Multimodal Large Language Models](https://openreview.net/forum?id=5YDO8XjYjR) | Xinan He | Poster |  | 😾 | 
+| 5ofJyjgrth | [Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow](https://openreview.net/forum?id=5ofJyjgrth) | Kristiyan Sakalyan | Poster |  | 😾 | 
+| 64WeVllQjq | [Multi-Kernel Correlation-Attention Vision Transformer for Enhanced Contextual Understanding and Multi-Scale Integration](https://openreview.net/forum?id=64WeVllQjq) | Hongkang Zhang | Poster |  | 😾 | 
+| 6AbM9UG4aD | [InfMasking: Unleashing Synergistic Information by Contrastive Multimodal Interactions](https://openreview.net/forum?id=6AbM9UG4aD) | Liangjian Wen | Spotlight |  | 😾 | 
+| 6BpKATZQd8 | [MM-OPERA: Benchmarking Open-ended Association Reasoning for Large Vision-Language Models](https://openreview.net/forum?id=6BpKATZQd8) | Zimeng Huang | Poster |  | 😾 | 
+| 6FHvr5hJdd | [Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization](https://openreview.net/forum?id=6FHvr5hJdd) | Cong Wang | Spotlight |  | 😾 | 
+| 6Q5WG84uOD | [THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations](https://openreview.net/forum?id=6Q5WG84uOD) | Wenchao Yang | Poster |  | 😾 | 
+| 6TmLco2L2D | [HoPE: Hybrid of Position Embedding for Long Context Vision-Language Models](https://openreview.net/forum?id=6TmLco2L2D) | Haoran Li | Poster |  | 😾 | 
+| 6UAeCPQPwP | [Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG](https://openreview.net/forum?id=6UAeCPQPwP) | Shihao Yang | Poster |  | 😾 | 
+| 6VoDizmIoY | [H3D-DGS: Exploring Heterogeneous 3D Motion Representation for Deformable 3D Gaussian Splatting](https://openreview.net/forum?id=6VoDizmIoY) | Bing He | Poster |  | 😾 | 
+| 6WnBITpnzD | [LaViDa: A Large Diffusion Model for Vision-Language Understanding](https://openreview.net/forum?id=6WnBITpnzD) | Shufan Li | Spotlight |  | 😾 | 
+| 6uwV6ytamU | [DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models](https://openreview.net/forum?id=6uwV6ytamU) | Fayi Le | Poster |  | 😾 | 
+| 6vI3OOYddm | [MolVision: Molecular Property Prediction with Vision Language Models](https://openreview.net/forum?id=6vI3OOYddm) | Deepan Adak | Poster |  | 😾 | 
+| 72UR53jN7T | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://openreview.net/forum?id=72UR53jN7T) | Chi-Pin Huang | Poster |  | 😾 | 
+| 7DyKKOU6HR | [Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction](https://openreview.net/forum?id=7DyKKOU6HR) | Tengfei Ma | Poster |  | 😾 | 
+| 7G9YKty2UZ | [Learning Robust Vision-Language Models from Natural Latent Spaces](https://openreview.net/forum?id=7G9YKty2UZ) | Zhangyun Wang | Spotlight |  | 😾 | 
+| 7JjS2cdBYN | [LOMIA: Label-Only Membership Inference Attacks against Pre-trained Large Vision-Language Models](https://openreview.net/forum?id=7JjS2cdBYN) | Yihao LIU | Poster |  | 😾 | 
+| 7LulWI9QJy | [GauSAM: Contour‑Guided 2D Gaussian Fields for Multi‑Scale Medical Image Segmentation with Segment Anything](https://openreview.net/forum?id=7LulWI9QJy) | Jinxuan Wu | Poster |  | 😾 | 
+| 7WDFZKtf7q | [mmWalk: Towards Multi-modal Multi-view Walking Assistance](https://openreview.net/forum?id=7WDFZKtf7q) | Kedi Ying | Poster |  | 😾 | 
+| 7dJfwHG3GN | [Democratizing Clinical Risk Prediction with Cross-Cohort Cross-Modal Knowledge Transfer](https://openreview.net/forum?id=7dJfwHG3GN) | Qiannan Zhang | Poster |  | 😾 | 
+| 7k7cubl1iL | [CIDD: Collaborative Intelligence for Structure-Based Drug Design Empowered by LLMs](https://openreview.net/forum?id=7k7cubl1iL) | Bowen Gao | Poster |  | 😾 | 
+| 7mTECPRtll | [Mitigating Hallucination in VideoLLMs via Temporal-Aware Activation Engineering](https://openreview.net/forum?id=7mTECPRtll) | Jianfeng Cai | Poster |  | 😾 | 
+| 7x5X6gTCUH | [Miss-ReID: Delivering Robust Multi-Modality Object Re-Identification Despite Missing Modalities](https://openreview.net/forum?id=7x5X6gTCUH) | Ruida Xi | Poster |  | 😾 | 
+| 7yOl9qiLWd | [BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories](https://openreview.net/forum?id=7yOl9qiLWd) | Wonjung Park | Poster |  | 😾 | 
+| 87c2JwNJa0 | [LoMix: Learnable Weighted Multi-Scale Logits Mixing for Medical Image Segmentation](https://openreview.net/forum?id=87c2JwNJa0) | Md Mostafijur Rahman | Poster |  | 😾 | 
+| 8CKhxBaWO5 | [MedSG-Bench: A Benchmark for Medical Image Sequences Grounding](https://openreview.net/forum?id=8CKhxBaWO5) | Jingkun Yue | Spotlight |  | 😾 | 
+| 8I1XNt70lj | [FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering](https://openreview.net/forum?id=8I1XNt70lj) | Liangyu Zhong | Poster |  | 😾 | 
+| 8MBEvClECb | [Rebalancing Contrastive Alignment with Bottlenecked Semantic Increments in Text-Video Retrieval](https://openreview.net/forum?id=8MBEvClECb) | Jian Xiao | Poster |  | 😾 | 
+| 8an1xVyKxS | [VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models](https://openreview.net/forum?id=8an1xVyKxS) | Silin Cheng | Poster |  | 😾 | 
+| 8e5SJJ1cjY | [SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://openreview.net/forum?id=8e5SJJ1cjY) | Yueyang Hu | Poster |  | 😾 | 
+| 8y18QBU2s6 | [Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](https://openreview.net/forum?id=8y18QBU2s6) | Lanyun Zhu | Poster |  | 😾 | 
+| 918POZbZ50 | [scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling](https://openreview.net/forum?id=918POZbZ50) | Joel Dapello | Poster |  | 😾 | 
+| 9ednYuGHN1 | [Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains](https://openreview.net/forum?id=9ednYuGHN1) | Marianne Rakic | Poster |  | 😾 | 
+| 9env0BdcDV | [Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](https://openreview.net/forum?id=9env0BdcDV) | Siwei Zhang | Poster |  | 😾 | 
+| 9nlTapr2sd | [Dual-Comb Ghost Imaging with Transformer-Based Reconstruction for Optical Fiber Endomicroscopy](https://openreview.net/forum?id=9nlTapr2sd) | David Dang | Poster |  | 😾 | 
+| A9jXG3FUMT | [FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction](https://openreview.net/forum?id=A9jXG3FUMT) | Ruizhe Zheng | Spotlight |  | 😾 | 
+| APXcX7z1Bi | [UniSite: The First Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection](https://openreview.net/forum?id=APXcX7z1Bi) | Jigang Fan | Spotlight |  | 😾 | 
+| AWU93F6Bup | [MoodAngels: A Retrieval-augmented Multi-agent Framework for Psychiatry Diagnosis](https://openreview.net/forum?id=AWU93F6Bup) | Mengxi Xiao | Poster |  | 😾 | 
+| AYDMNzpJPv | [PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments](https://openreview.net/forum?id=AYDMNzpJPv) | Weijie Zhou | Poster |  | 😾 | 
+| AnJaRzEZZs | [DQVis Dataset: Natural Language to Biomedical Visualization](https://openreview.net/forum?id=AnJaRzEZZs) | Devin Lange | Poster |  | 😾 | 
+| AqMIOl2JuW | [SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://openreview.net/forum?id=AqMIOl2JuW) | Wenyue Chen | Poster |  | 😾 | 
+| AuBSUgFVgq | [Multimodal Tabular Reasoning with Privileged Structured Information](https://openreview.net/forum?id=AuBSUgFVgq) | Jun-Peng Jiang | Poster |  | 😾 | 
+| B7Bc9xzl2o | [Latent Retrieval Augmented Generation of Cross-Domain Protein Binders](https://openreview.net/forum?id=B7Bc9xzl2o) | Zishen Zhang | Poster |  | 😾 | 
+| BWpMTkRrEO | [Event-Guided Consistent Video Enhancement with Modality-Adaptive Diffusion Pipeline](https://openreview.net/forum?id=BWpMTkRrEO) | Kanghao Chen | Poster |  | 😾 | 
+| BbWrp6O8Lm | [When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding](https://openreview.net/forum?id=BbWrp6O8Lm) | Yan Shu | Poster |  | 😾 | 
+| BeSFxKX3Po | [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://openreview.net/forum?id=BeSFxKX3Po) | Qi Xin | Poster |  | 😾 | 
+| BkSRQ1y37l | [Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images](https://openreview.net/forum?id=BkSRQ1y37l) | Jiao Tang | Poster |  | 😾 | 
+| Bsska2ayiy | [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://openreview.net/forum?id=Bsska2ayiy) | Lin Yuan | Poster |  | 😾 | 
+| BxRsXqjWft | [ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding](https://openreview.net/forum?id=BxRsXqjWft) | Muye Huang | Poster |  | 😾 | 
+| ByUIorOhmC | [Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm](https://openreview.net/forum?id=ByUIorOhmC) | Xue-Feng Zhu | Poster |  | 😾 | 
+| C4IqLzavel | [REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset](https://openreview.net/forum?id=C4IqLzavel) | Xiaojun Ning | Poster |  | 😾 | 
+| CABcYH1wKM | [LABridge: Text–Image Latent Alignment Framework via Mean-Conditioned OU Process](https://openreview.net/forum?id=CABcYH1wKM) | Huiyang Shao | Spotlight |  | 😾 | 
+| CBsANtjBV4 | [Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models](https://openreview.net/forum?id=CBsANtjBV4) | Xiwen Wei | Poster |  | 😾 | 
+| CCbXvvcdF9 | [Reconstructing Heterogeneous Biomolecules via Hierarchical Gaussian Mixtures and Part Discovery](https://openreview.net/forum?id=CCbXvvcdF9) | Shayan Shekarforoush | Poster |  | 😾 | 
+| CDQ0MI4rLw | [ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding](https://openreview.net/forum?id=CDQ0MI4rLw) | Haonan Wang | Poster |  | 😾 | 
+| CH76rSKWZr | [Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation](https://openreview.net/forum?id=CH76rSKWZr) | Mehrdad Noori | Poster |  | 😾 | 
+| CfOsKx3jF8 | [CPSea: Large-scale cyclic peptide-protein complex dataset for machine learning in cyclic peptide design](https://openreview.net/forum?id=CfOsKx3jF8) | Ziyi Yang | Poster |  | 😾 | 
+| CmY6DzEG7Z | [NOBLE - Neural Operator with Biologically-informed Latent Embeddings to Capture Experimental Variability in Biological Neuron Models](https://openreview.net/forum?id=CmY6DzEG7Z) | Luca Ghafourpour | Poster |  | 😾 | 
+| CrBRKsP3yT | [UniMRSeg: Unified Modality-Relax Segmentation via Hierarchical Self-Supervised Compensation](https://openreview.net/forum?id=CrBRKsP3yT) | Xiaoqi Zhao | Poster |  | 😾 | 
+| CwXyUdqFqW | [MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks](https://openreview.net/forum?id=CwXyUdqFqW) | Sanjoy Chowdhury | Poster |  | 😾 | 
+| D1Iw4Unvfc | [ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://openreview.net/forum?id=D1Iw4Unvfc) | Yiyang Zhou | Poster |  | 😾 | 
+| D8nHwexHNv | [Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards](https://openreview.net/forum?id=D8nHwexHNv) | Honghao Chen | Poster |  | 😾 | 
+| DG0F1cdjN7 | [RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models](https://openreview.net/forum?id=DG0F1cdjN7) | Yeongtak Oh | Poster |  | 😾 | 
+| DgH9YCsqWm | [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://openreview.net/forum?id=DgH9YCsqWm) | Chaoyou Fu | Spotlight |  | 😾 | 
+| DooE6euxAS | [Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization](https://openreview.net/forum?id=DooE6euxAS) | Zhenhao Zhong | Poster |  | 😾 | 
+| DwFDfrPsm8 | [NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI](https://openreview.net/forum?id=DwFDfrPsm8) | Cosmin I. Bercea | Oral |  | 😾 | 
+| E6SFbnPiVP | [FedMGP: Personalized Federated Learning with Multi-Group Text-Visual Prompts](https://openreview.net/forum?id=E6SFbnPiVP) | Weihao Bo | Poster |  | 😾 | 
+| EBHZNmygTT | [SAINT: Sequence-Aware Integration for Spatial Transcriptomics Multi-View Clustering](https://openreview.net/forum?id=EBHZNmygTT) | Zeyu Zhu | Poster |  | 😾 | 
+| ENp2kCdYE8 | [Seg4Diff: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers](https://openreview.net/forum?id=ENp2kCdYE8) | Chaehyun Kim | Poster |  | 😾 | 
+| EPQi0v0OxL | [MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly](https://openreview.net/forum?id=EPQi0v0OxL) | Zhaowei Wang | Spotlight |  | 😾 | 
+| ERGIrG9GBR | [VLM-R³: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://openreview.net/forum?id=ERGIrG9GBR) | Chaoya Jiang | Poster |  | 😾 | 
+| EYC29OdxgA | [Structure-Aware Fusion with Progressive Injection for Multimodal Molecular Representation Learning](https://openreview.net/forum?id=EYC29OdxgA) | Zihao Jing | Poster |  | 😾 | 
+| EeAHhNwXPV | [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://openreview.net/forum?id=EeAHhNwXPV) | Qiuchen Wang | Poster |  | 😾 | 
+| Ekw6gjs5Y5 | [PathVQ: Reforming Computational Pathology Foundation Model for Whole Slide Image Analysis via Vector Quantization](https://openreview.net/forum?id=Ekw6gjs5Y5) | Honglin Li | Poster |  | 😾 | 
+| ElX4WxEa0W | [MMPB: It’s Time for Multi-Modal Personalization](https://openreview.net/forum?id=ElX4WxEa0W) | Jaeik Kim | Poster |  | 😾 | 
+| Eu2Tqcvxih | [Efficient Multimodal Dataset Distillation via Generative Models](https://openreview.net/forum?id=Eu2Tqcvxih) | Zhenghao Zhao | Poster |  | 😾 | 
+| Evz0xPema0 | [Generative RLHF-V: Learning Principles from Multi-modal Human Preference](https://openreview.net/forum?id=Evz0xPema0) | Jiayi Zhou | Poster |  | 😾 | 
+| EyNzLH7BZK | [ViSPLA: Visual Iterative Self-Prompting for Language-Guided 3D Affordance Learning](https://openreview.net/forum?id=EyNzLH7BZK) | Hritam Basak | Poster |  | 😾 | 
+| F9SSJLg55j | [Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding](https://openreview.net/forum?id=F9SSJLg55j) | Zaiquan Yang | Poster |  | 😾 | 
+| FACJ0478oQ | [FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](https://openreview.net/forum?id=FACJ0478oQ) | Fan Yang | Poster |  | 😾 | 
+| FS3FzdrFZ7 | [Universal Video Temporal Grounding with Generative Multi-modal Large Language Models](https://openreview.net/forum?id=FS3FzdrFZ7) | Zeqian Li | Poster |  | 😾 | 
+| FVIPADDm4E | [EPFL-Smart-Kitchen: An Ego-Exo Multi-Modal Dataset for Challenging Action and Motion Understanding in Video-Language Models](https://openreview.net/forum?id=FVIPADDm4E) | Andy Bonnetto | Poster |  | 😾 | 
+| FXBBy1caOX | [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](https://openreview.net/forum?id=FXBBy1caOX) | Kecheng Chen | Poster |  | 😾 | 
+| Fg9HufTI0K | [CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification](https://openreview.net/forum?id=Fg9HufTI0K) | Wei Li | Poster |  | 😾 | 
+| Fj2kyLs6G5 | [NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis](https://openreview.net/forum?id=Fj2kyLs6G5) | Shengrong Li | Poster |  | 😾 | 
+| FoVF3iL6o3 | [You Only Communicate Once: One-shot Federated Low-Rank Adaptation of MLLM](https://openreview.net/forum?id=FoVF3iL6o3) | Binqian Xu | Poster |  | 😾 | 
+| G6K2NepP7S | [Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance?](https://openreview.net/forum?id=G6K2NepP7S) | Apratim Bhattacharyya | Poster |  | 😾 | 
+| GDbyUZiARK | [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](https://openreview.net/forum?id=GDbyUZiARK) | Ling Yang | Poster |  | 😾 | 
+| GGj0QFSo5m | [MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation](https://openreview.net/forum?id=GGj0QFSo5m) | Bohan Zhou | Poster |  | 😾 | 
+| GQHUET0V6f | [Multimodal LiDAR-Camera Novel View Synthesis with Unified Pose-free Neural Fields](https://openreview.net/forum?id=GQHUET0V6f) | Weiyi Xue | Poster |  | 😾 | 
+| GiUI70epUN | [$\texttt{AVROBUSTBENCH}$: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time](https://openreview.net/forum?id=GiUI70epUN) | Sarthak Kumar Maharana | Poster |  | 😾 | 
+| Gt8iKyg12u | [VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation](https://openreview.net/forum?id=Gt8iKyg12u) | Sicheng Yang | Poster |  | 😾 | 
+| Gvq2AfuVEA | [HMVLM:Human Motion-Vision-Language Model via MoE LoRA](https://openreview.net/forum?id=Gvq2AfuVEA) | Lei Hu | Poster |  | 😾 | 
+| GzgPleFl8f | [From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D](https://openreview.net/forum?id=GzgPleFl8f) | Jiahui Zhang | Poster |  | 😾 | 
+| HL1j92hb6z | [First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training](https://openreview.net/forum?id=HL1j92hb6z) | Lai Wei | Poster |  | 😾 | 
+| HtwKJQzt7R | [Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies](https://openreview.net/forum?id=HtwKJQzt7R) | Zohar Rimon | Poster |  | 😾 | 
+| I0hRN2HMeH | [Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation](https://openreview.net/forum?id=I0hRN2HMeH) | Jiyang Zheng | Poster |  | 😾 | 
+| I7y7MgsEgO | [Learning Source-Free Domain Adaptation for Visible-Infrared Person Re-Identification](https://openreview.net/forum?id=I7y7MgsEgO) | Yongxiang Li | Poster |  | 😾 | 
+| I9F53Qlwur | [Stable Part Diffusion 4D: Multi-View RGB and Kinematic Parts Video Generation](https://openreview.net/forum?id=I9F53Qlwur) | Hao Zhang | Spotlight |  | 😾 | 
+| IIGiVRKJYa | [ASDSV: Multimodal Generation Made Efficient with Approximate Speculative Diffusion and Speculative Verification](https://openreview.net/forum?id=IIGiVRKJYa) | Kaijun Zhou | Poster |  | 😾 | 
+| IPxOoU8aqt | [Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback](https://openreview.net/forum?id=IPxOoU8aqt) | Janet Wang | Poster |  | 😾 | 
+| IiPSP4OUYx | [MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation](https://openreview.net/forum?id=IiPSP4OUYx) | Jiaxin Huang | Poster |  | 😾 | 
+| Iicv9iTPcU | [RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis](https://openreview.net/forum?id=Iicv9iTPcU) | Haolin Li | Poster |  | 😾 | 
+| JI6GEakOCH | [Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark](https://openreview.net/forum?id=JI6GEakOCH) | Hanlei Zhang | Poster |  | 😾 | 
+| JROdIT3czF | [Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants](https://openreview.net/forum?id=JROdIT3czF) | Lixiong Qin | Poster |  | 😾 | 
+| JSbVO7dNYE | [Towards Multiscale Graph-based Protein Learning with Geometric Secondary Structural Motifs](https://openreview.net/forum?id=JSbVO7dNYE) | Shih-Hsin Wang | Poster |  | 😾 | 
+| JTF0HYfGiL | [Generalizable Hand-Object Modeling from Monocular RGB Images via 3D Gaussians](https://openreview.net/forum?id=JTF0HYfGiL) | Xingyu Liu | Poster |  | 😾 | 
+| K6ijewH34E | [Bridging Brains and Concepts: Interpretable Visual Decoding from fMRI with Semantic Bottlenecks](https://openreview.net/forum?id=K6ijewH34E) | Sara Cammarota | Poster |  | 😾 | 
+| K9PcELos78 | [ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning](https://openreview.net/forum?id=K9PcELos78) | Chau Pham | Poster |  | 😾 | 
+| KIximJjqjV | [Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](https://openreview.net/forum?id=KIximJjqjV) | Dilxat Muhtar | Poster |  | 😾 | 
+| KOwhczyFpg | [TRoVe: Discovering Error-Inducing Static Feature Biases in Temporal Vision-Language Models](https://openreview.net/forum?id=KOwhczyFpg) | Maya Varma | Poster |  | 😾 | 
+| KPlskOuZ46 | [Towards Doctor-Like Reasoning: Medical RAG Fusing Knowledge with Patient Analogy through Textual Gradients](https://openreview.net/forum?id=KPlskOuZ46) | Yuxing Lu | Poster |  | 😾 | 
+| KWNabnuuct | [Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation](https://openreview.net/forum?id=KWNabnuuct) | Siyu Chen | Poster |  | 😾 | 
+| Kc1WTxZbrP | [LMFusion: Adapting Pretrained Language Models for Multimodal Generation](https://openreview.net/forum?id=Kc1WTxZbrP) | Weijia Shi | Poster |  | 😾 | 
+| Kdqzbx8YGU | [OmniSegmentor: A Flexible Multi-Modal Learning Framework for Semantic Segmentation](https://openreview.net/forum?id=Kdqzbx8YGU) | Bo-Wen Yin | Poster |  | 😾 | 
+| KkChcYqvdg | [egoEMOTION: Egocentric Vision and Physiological Signals for Emotion and Personality Recognition in Real-world Tasks](https://openreview.net/forum?id=KkChcYqvdg) | Matthias Jammot | Poster |  | 😾 | 
+| KkONOZwvSU | [Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning](https://openreview.net/forum?id=KkONOZwvSU) | Zhifang Zhang | Poster |  | 😾 | 
+| KuXnKedjAj | [Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](https://openreview.net/forum?id=KuXnKedjAj) | Jack Goffinet | Poster |  | 😾 | 
+| L3aEdxJMHl | [NEED: Cross-Subject and Cross-Task Generalization for Video and Image Reconstruction from EEG Signals](https://openreview.net/forum?id=L3aEdxJMHl) | Shuai Huang | Poster |  | 😾 | 
+| L73CiyZvNy | [Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding](https://openreview.net/forum?id=L73CiyZvNy) | Haoran Zhou | Poster |  | 😾 | 
+| L7StVf0UXC | [COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation](https://openreview.net/forum?id=L7StVf0UXC) | Xueqing Deng | Poster |  | 😾 | 
+| L9vV3wVC72 | [Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs](https://openreview.net/forum?id=L9vV3wVC72) | Yifan Shen | Poster |  | 😾 | 
+| LA5NJPkUrw | [AVerImaTeC: A Dataset for Automatic Verification of Image-Text Claims with Evidence from the Web](https://openreview.net/forum?id=LA5NJPkUrw) | RUI CAO | Poster |  | 😾 | 
+| LAflniLUwx | [Enhancing Vision-Language Model Reliability with Uncertainty-Guided Dropout Decoding](https://openreview.net/forum?id=LAflniLUwx) | Yixiong Fang | Poster |  | 😾 | 
+| LDjBDk3Czb | [BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity](https://openreview.net/forum?id=LDjBDk3Czb) | Lucine L Oganesian | Poster |  | 😾 | 
+| LIGBnhb83e | [Hawaii: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models](https://openreview.net/forum?id=LIGBnhb83e) | Yimu Wang | Poster |  | 😾 | 
+| LTgUInLTbP | [GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution](https://openreview.net/forum?id=LTgUInLTbP) | Fengxiang Wang | Spotlight |  | 😾 | 
+| LVRGLn1Ejj | [UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset](https://openreview.net/forum?id=LVRGLn1Ejj) | Chen Zhao | Poster |  | 😾 | 
+| LWuhOoHpo5 | [OSKAR: Omnimodal Self-supervised Knowledge Abstraction and Representation](https://openreview.net/forum?id=LWuhOoHpo5) | Mohamed O Abdelfattah | Poster |  | 😾 | 
+| LZ4IKybwWl | [HQA-VLAttack: Towards High Quality Adversarial Attack on Vision-Language Pre-Trained Models](https://openreview.net/forum?id=LZ4IKybwWl) | Han Liu | Poster |  | 😾 | 
+| M476xkfNXe | [UMU-Bench: Closing the Modality Gap in Multimodal Unlearning Evaluation](https://openreview.net/forum?id=M476xkfNXe) | Chengye Wang | Poster |  | 😾 | 
+| M6l3pyvUfr | [TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence](https://openreview.net/forum?id=M6l3pyvUfr) | Feng Jiang | Spotlight |  | 😾 | 
+| M6zQNbCaLl | [FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models](https://openreview.net/forum?id=M6zQNbCaLl) | Jintao Tong | Poster |  | 😾 | 
+| M96edY67nS | [Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design](https://openreview.net/forum?id=M96edY67nS) | Nianzu Yang | Poster |  | 😾 | 
+| MI1uT5rReV | [Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning](https://openreview.net/forum?id=MI1uT5rReV) | Wenyi Xiao | Spotlight |  | 😾 | 
+| MNSiBGNAvx | [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://openreview.net/forum?id=MNSiBGNAvx) | Beitao Chen | Poster |  | 😾 | 
+| MOSXyN4ilj | [EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://openreview.net/forum?id=MOSXyN4ilj) | Ege Özsoy | Poster |  | 😾 | 
+| MY4KpJt3LM | [LVLM-Driven Attribute-Aware Modeling for Visible-Infrared Person Re-Identification](https://openreview.net/forum?id=MY4KpJt3LM) | Zhiqi Pang | Poster |  | 😾 | 
+| MZoOpD9NHV | [JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation](https://openreview.net/forum?id=MZoOpD9NHV) | Kai Liu | Spotlight |  | 😾 | 
+| MbqPKsVe1d | [4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming](https://openreview.net/forum?id=MbqPKsVe1d) | Zihan Zheng | Poster |  | 😾 | 
+| MoS4P8zieM | [Learning to Zoom with Anatomical Relations for Medical Structure Detection](https://openreview.net/forum?id=MoS4P8zieM) | Bin Pu | Poster |  | 😾 | 
+| N7Vg94l0gA | [MS-BART: Unified Modeling of Mass Spectra and Molecules for Structure Elucidation](https://openreview.net/forum?id=N7Vg94l0gA) | Yang Han | Poster |  | 😾 | 
+| NHz3BlszTR | [MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](https://openreview.net/forum?id=NHz3BlszTR) | Yicheng Xiao | Poster |  | 😾 | 
+| NM8Apk61NA | [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models](https://openreview.net/forum?id=NM8Apk61NA) | Zelin Peng | Oral |  | 😾 | 
+| NNHgm6VJkC | [GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data](https://openreview.net/forum?id=NNHgm6VJkC) | Wentao Wang | Poster |  | 😾 | 
+| NNiwGUY50Y | [ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks](https://openreview.net/forum?id=NNiwGUY50Y) | Philip Schroeder | Poster |  | 😾 | 
+| NY3LzmUXl7 | [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://openreview.net/forum?id=NY3LzmUXl7) | Antoine Collas | Poster |  | 😾 | 
+| NdScoAix25 | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning of Vision Language Models](https://openreview.net/forum?id=NdScoAix25) | Huajie Tan | Poster |  | 😾 | 
+| NoC9HT7Kf7 | [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://openreview.net/forum?id=NoC9HT7Kf7) | Zongxia Li | Poster |  | 😾 | 
+| NsikAkJFCA | [ModuLM: Enabling Modular and Multimodal Molecular Relational Learning with Large Language Models](https://openreview.net/forum?id=NsikAkJFCA) | Zhuo Chen | Poster |  | 😾 | 
+| OF7OLxvY0t | [Training-Free Test-Time Adaptation via Shape and Style Guidance for Vision-Language Models](https://openreview.net/forum?id=OF7OLxvY0t) | Shenglong Zhou | Poster |  | 😾 | 
+| OIH3T5ZPBW | [Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback](https://openreview.net/forum?id=OIH3T5ZPBW) | Jiaming Ji | Poster |  | 😾 | 
+| OM0Qkq9xtY | [Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://openreview.net/forum?id=OM0Qkq9xtY) | Yingtao Zhang | Poster |  | 😾 | 
+| OSnh4DmGx9 | [Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation](https://openreview.net/forum?id=OSnh4DmGx9) | Huu Tien Nguyen | Poster |  | 😾 | 
+| OpAGOfAhT0 | [Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment](https://openreview.net/forum?id=OpAGOfAhT0) | Hua Ye | Poster |  | 😾 | 
+| Ou30gzTLJe | [Towards Self-Refinement of Vision-Language Models with Triangular Consistency](https://openreview.net/forum?id=Ou30gzTLJe) | Yunlong Deng | Poster |  | 😾 | 
+| P2yIMJP5b1 | [ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation](https://openreview.net/forum?id=P2yIMJP5b1) | Jiatong Shi | Spotlight |  | 😾 | 
+| P382qaxvjc | [HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://openreview.net/forum?id=P382qaxvjc) | Jue Gong | Poster |  | 😾 | 
+| P4KjfMrVNU | [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU) | Chengliang Liu | Poster |  | 😾 | 
+| P5yoTfwyyD | [DiffEye: Diffusion-Based Continuous Eye-Tracking Data Generation Conditioned on Natural Images](https://openreview.net/forum?id=P5yoTfwyyD) | Ozgur Kara | Poster |  | 😾 | 
+| PAYYkls0WD | [Decoupling Contrastive Decoding: Robust Hallucination Mitigation in Multimodal Large Language Models](https://openreview.net/forum?id=PAYYkls0WD) | Wei Chen | Poster |  | 😾 | 
+| PK07eretkF | [DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://openreview.net/forum?id=PK07eretkF) | Wenyao Zhang | Poster |  | 😾 | 
+| PLBVtJt4td | [Analyzing Fine-Grained Alignment and Enhancing Vision Understanding in Multimodal Language Models](https://openreview.net/forum?id=PLBVtJt4td) | Jiachen Jiang | Poster |  | 😾 | 
+| PQYazNKEYo | [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://openreview.net/forum?id=PQYazNKEYo) | Chongkai Gao | Poster |  | 😾 | 
+| PRCizVyL1K | [SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models](https://openreview.net/forum?id=PRCizVyL1K) | Pingyi Chen | Poster |  | 😾 | 
+| PXkdqh4SXT | [MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models](https://openreview.net/forum?id=PXkdqh4SXT) | Hang Hua | Poster |  | 😾 | 
+| PZ7YLONKiI | [3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding](https://openreview.net/forum?id=PZ7YLONKiI) | Chang Wu | Poster |  | 😾 | 
+| PZaxCfLGLA | [3D Interaction Geometric Pre-training for Molecular Relational Learning](https://openreview.net/forum?id=PZaxCfLGLA) | Namkyeong Lee | Spotlight |  | 😾 | 
+| Q6IyUpBmrG | [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](https://openreview.net/forum?id=Q6IyUpBmrG) | Qing-Yuan Jiang | Oral |  | 😾 | 
+| Q7YnqREWLq | [Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency](https://openreview.net/forum?id=Q7YnqREWLq) | Xiangyu Guo | Poster |  | 😾 | 
+| QKOdOlfzSe | [NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding](https://openreview.net/forum?id=QKOdOlfzSe) | Wei Xu | Poster |  | 😾 | 
+| QU1SArYwKB | [Optical Coherence Tomography Harmonization with Anatomy-Guided Latent Metric Schrödinger Bridges](https://openreview.net/forum?id=QU1SArYwKB) | Shuwen Wei | Poster |  | 😾 | 
+| QZYZ0Xm58q | [VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching](https://openreview.net/forum?id=QZYZ0Xm58q) | Siyu Xu | Poster |  | 😾 | 
+| QjJHUR0sXU | [Accelerating Multimodal Large Language Models via Dynamic Visual-Token Exit and the Empirical Findings](https://openreview.net/forum?id=QjJHUR0sXU) | Qiong Wu | Poster |  | 😾 | 
+| QkX9obx6UR | [ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model](https://openreview.net/forum?id=QkX9obx6UR) | Jialong Zuo | Poster |  | 😾 | 
+| Quo3XadYcZ | [Fine-grained List-wise Alignment for Generative Medication Recommendation](https://openreview.net/forum?id=Quo3XadYcZ) | Chenxiao Fan | Spotlight |  | 😾 | 
+| RDdfQc5Ts1 | [AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation](https://openreview.net/forum?id=RDdfQc5Ts1) | Qingqiu Li | Poster |  | 😾 | 
+| REG4cJItSZ | [Benchmarking Egocentric Multimodal Goal Inference for Assistive Wearable Agents](https://openreview.net/forum?id=REG4cJItSZ) | Vijay Veerabadran | Spotlight |  | 😾 | 
+| REIo9ZLSYo | [Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling](https://openreview.net/forum?id=REIo9ZLSYo) | Wentao Lu | Spotlight |  | 😾 | 
+| RGZzSbo4jj | [CrypticBio: A Large Multimodal Dataset for Visually Confusing Species](https://openreview.net/forum?id=RGZzSbo4jj) | Georgiana Manolache | Poster |  | 😾 | 
+| RbGUML7YK6 | [FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://openreview.net/forum?id=RbGUML7YK6) | Shengming Yuan | Poster |  | 😾 | 
+| RnOKrKVMfC | [OmniGaze: Reward-inspired Generalizable Gaze Estimation in the Wild](https://openreview.net/forum?id=RnOKrKVMfC) | Hongyu Qu | Poster |  | 😾 | 
+| Rtd6GoJcoT | [Orochi: Versatile Biomedical Image Processor](https://openreview.net/forum?id=Rtd6GoJcoT) | Gaole Dai | Spotlight |  | 😾 | 
+| S43003uMGq | [Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://openreview.net/forum?id=S43003uMGq) | Yibin Wang | Poster |  | 😾 | 
+| S8XcHutp7Z | [X-Field: A Physically Informed Representation for 3D X-ray Reconstruction](https://openreview.net/forum?id=S8XcHutp7Z) | Feiran Wang | Spotlight |  | 😾 | 
+| S9KRk3M7jV | [SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing](https://openreview.net/forum?id=S9KRk3M7jV) | Jesse Haworth | Poster |  | 😾 | 
+| SELYlDHZk2 | [EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://openreview.net/forum?id=SELYlDHZk2) | Yantai Yang | Poster |  | 😾 | 
+| SOc0tHCewe | [SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning](https://openreview.net/forum?id=SOc0tHCewe) | Yang Liu | Poster |  | 😾 | 
+| SRP9tz3hYs | [IRRISIGHT: A Large-Scale Multimodal Dataset and Scalable Pipeline to Address Irrigation and Water Management in Agriculture](https://openreview.net/forum?id=SRP9tz3hYs) | Nibir Chandra Mandal | Poster |  | 😾 | 
+| STMB6q9pYZ | [SRHand: Super-Resolving Hand Images and 3D Shapes via View/Pose-aware Neural Image Representations and Explicit Meshes](https://openreview.net/forum?id=STMB6q9pYZ) | Minje Kim | Poster |  | 😾 | 
+| SZ48ZTgSCn | [AnomalyCoT: A Multi-Scenario Chain-of-Thought Dataset for Multimodal Large Language Models](https://openreview.net/forum?id=SZ48ZTgSCn) | Jiaxi Cheng | Poster |  | 😾 | 
+| SeC5Zb8Orf | [Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning](https://openreview.net/forum?id=SeC5Zb8Orf) | Xusheng Cao | Poster |  | 😾 | 
+| SeNFo7JGly | [SafeVid: Toward Safety Aligned Video Large Multimodal Models](https://openreview.net/forum?id=SeNFo7JGly) | Yixu Wang | Poster |  | 😾 | 
+| SoqzNbcBjy | [Spiral: Semantic-Aware Progressive LiDAR Scene Generation and Understanding](https://openreview.net/forum?id=SoqzNbcBjy) | Dekai Zhu | Poster |  | 😾 | 
+| SpNQZwXStl | [C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://openreview.net/forum?id=SpNQZwXStl) | Kuan Wei Huang | Poster |  | 😾 | 
+| Swik6KVV4u | [Enhancing Bioactivity Prediction via Spatial Emptiness Representation of Protein-ligand Complex and Union of Multiple Pockets](https://openreview.net/forum?id=Swik6KVV4u) | Zhiyuan Zhou | Poster |  | 😾 | 
+| T3DF4yxcPz | [Multiscale guidance of protein structure prediction with heterogeneous cryo-EM data](https://openreview.net/forum?id=T3DF4yxcPz) | Rishwanth Raghu | Poster |  | 😾 | 
+| T6RkYsuoMW | [Partition-Then-Adapt: Combating Prediction Bias for Reliable Multi-Modal Test-Time Adaptation](https://openreview.net/forum?id=T6RkYsuoMW) | Guowei Wang | Spotlight |  | 😾 | 
+| TLlFnoPUdB | [From Pixels to Views: Learning Angular-Aware and Physics-Consistent Representations for Light Field Microscopy](https://openreview.net/forum?id=TLlFnoPUdB) | Feng He | Poster |  | 😾 | 
+| TjWdyVWBAG | [ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models](https://openreview.net/forum?id=TjWdyVWBAG) | Duy Minh Ho Nguyen | Poster |  | 😾 | 
+| Tt3XLyuDrE | [Transformer brain encoders explain human high-level visual responses](https://openreview.net/forum?id=Tt3XLyuDrE) | Hossein Adeli | Spotlight |  | 😾 | 
+| U7RZ9cC73S | [RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](https://openreview.net/forum?id=U7RZ9cC73S) | Fanhu Zeng | Spotlight |  | 😾 | 
+| U7gu9x1xzx | [PolyPose: Deformable 2D/3D Registration via Polyrigid Transformations](https://openreview.net/forum?id=U7gu9x1xzx) | Vivek Gopalakrishnan | Poster |  | 😾 | 
+| UZD5CQV6f9 | [MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](https://openreview.net/forum?id=UZD5CQV6f9) | Tianhao Peng | Poster |  | 😾 | 
+| Ub196uN2Hz | [MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](https://openreview.net/forum?id=Ub196uN2Hz) | Yue Feng | Poster |  | 😾 | 
+| UoKt9B1aY8 | [HiPoNet: A Multi-View Simplicial Complex Network for High Dimensional Point-Cloud and Single-Cell data](https://openreview.net/forum?id=UoKt9B1aY8) | Siddharth Viswanath | Poster |  | 😾 | 
+| V8sDJ1oMEy | [VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning](https://openreview.net/forum?id=V8sDJ1oMEy) | Wenhao Li | Poster |  | 😾 | 
+| VB2cgrlikN | [3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks](https://openreview.net/forum?id=VB2cgrlikN) | Xiaotang Gai | Poster |  | 😾 | 
+| VJEcCMx16R | [CogPhys: Assessing Cognitive Load via Multimodal Remote and Contact-based Physiological Sensing](https://openreview.net/forum?id=VJEcCMx16R) | Anirudh Bindiganavale Harish | Poster |  | 😾 | 
+| VN5bMTfSZS | [OCTDiff: Bridged Diffusion Model for Portable OCT Super-Resolution and Enhancement](https://openreview.net/forum?id=VN5bMTfSZS) | Ye Tian | Spotlight |  | 😾 | 
+| VNTj7PGlrz | [Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs](https://openreview.net/forum?id=VNTj7PGlrz) | Yunqi Hong | Poster |  | 😾 | 
+| VXygIRRHxz | [GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation](https://openreview.net/forum?id=VXygIRRHxz) | Sohyun Lee | Poster |  | 😾 | 
+| VhRelRY9ii | [PhysDrive: A Multimodal Remote Physiological Measurement Dataset for In-vehicle Driver Monitoring](https://openreview.net/forum?id=VhRelRY9ii) | Jiyao Wang | Poster |  | 😾 | 
+| VkSd42HWil | [Dual-Res Tandem Mamba-3D: Bilateral Breast Lesion Detection and Classification on Non-contrast Chest CT](https://openreview.net/forum?id=VkSd42HWil) | Jiaheng Zhou | Poster |  | 😾 | 
+| Vzi96rTe4w | [scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery](https://openreview.net/forum?id=Vzi96rTe4w) | Yiming Gao | Poster |  | 😾 | 
+| W3JnXa9mW2 | [CellCLIP - Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://openreview.net/forum?id=W3JnXa9mW2) | MingYu Lu | Poster |  | 😾 | 
+| W5HnIf2jla | [Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs](https://openreview.net/forum?id=W5HnIf2jla) | Hao Fang | Poster |  | 😾 | 
+| WHARtAg5R9 | [Situat3DChange: Situated 3D Change Understanding Dataset for Multimodal Large Language Model](https://openreview.net/forum?id=WHARtAg5R9) | Ruiping Liu | Poster |  | 😾 | 
+| WK5JqIWiTW | [Image Token Matters: Mitigating Hallucination in Discrete Tokenizer-based Large Vision-Language Models via Latent Editing](https://openreview.net/forum?id=WK5JqIWiTW) | Weixing Wang | Poster |  | 😾 | 
+| WQ9rnkaUWm | [Head Pursuit: Probing Attention Specialization in Multimodal Transformers](https://openreview.net/forum?id=WQ9rnkaUWm) | Lorenzo Basile | Spotlight |  | 😾 | 
+| WQq5JPGQ0C | [RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://openreview.net/forum?id=WQq5JPGQ0C) | Jonggwon Park | Poster |  | 😾 | 
+| WRwr2YZ4zt | [TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop](https://openreview.net/forum?id=WRwr2YZ4zt) | Yushan Jiang | Poster |  | 😾 | 
+| WXo0DLSaIf | [Unified 2D-3D Discrete Priors for Noise-Robust and Calibration-Free Multiview 3D Human Pose Estimation](https://openreview.net/forum?id=WXo0DLSaIf) | Geng Chen | Poster |  | 😾 | 
+| WbpzGpVWVx | [CamSAM2: Segment Anything Accurately in Camouflaged Videos](https://openreview.net/forum?id=WbpzGpVWVx) | Yuli Zhou | Poster |  | 😾 | 
+| WjYvHSjXrP | [InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection](https://openreview.net/forum?id=WjYvHSjXrP) | Jinguo Luo | Spotlight |  | 😾 | 
+| WtMuGdHvh6 | [S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://openreview.net/forum?id=WtMuGdHvh6) | Jiaqi Wang | Poster |  | 😾 | 
+| X3zarVyJ5B | [Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics](https://openreview.net/forum?id=X3zarVyJ5B) | Kazuya Nishimura | Poster |  | 😾 | 
+| X7ak8ohJPg | [Domain Adaptive Hashing Retrieval via VLM Assisted Pseudo-Labeling and Dual Space Adaptation](https://openreview.net/forum?id=X7ak8ohJPg) | Jingyao Li | Poster |  | 😾 | 
+| XKVhXWkPbp | [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](https://openreview.net/forum?id=XKVhXWkPbp) | Yuxuan Sun | Poster |  | 😾 | 
+| XKhLsRPMsw | [OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation](https://openreview.net/forum?id=XKhLsRPMsw) | Shenghai Yuan | Poster |  | 😾 | 
+| XPyAukgsFf | [SAFE: Multitask Failure Detection for Vision-Language-Action Models](https://openreview.net/forum?id=XPyAukgsFf) | Qiao Gu | Poster |  | 😾 | 
+| XjayhGBraW | [SPINT: Spatial Permutation-Invariant Neural Transformer for Consistent Intracortical Motor Decoding](https://openreview.net/forum?id=XjayhGBraW) | Trung Le | Poster |  | 😾 | 
+| XmV7KRABBl | [EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks](https://openreview.net/forum?id=XmV7KRABBl) | Rikuto Kotoge | Spotlight |  | 😾 | 
+| Y0hymKkn2a | [IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals](https://openreview.net/forum?id=Y0hymKkn2a) | Markus Gross | Poster |  | 😾 | 
+| Y4ZMHNhrPT | [SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation](https://openreview.net/forum?id=Y4ZMHNhrPT) | Zhenjie Mao | Poster |  | 😾 | 
+| YAycrn1Idm | [MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning](https://openreview.net/forum?id=YAycrn1Idm) | Seong-Hyeon Hwang | Poster |  | 😾 | 
+| YGIbwfNWot | [Tri-MARF: A Tri-Modal Multi-Agent Responsive Framework for Comprehensive 3D Object Annotation](https://openreview.net/forum?id=YGIbwfNWot) | Jusheng Zhang | Poster |  | 😾 | 
+| YLxwj5YLb7 | [In the Eye of MLLM: Benchmarking Egocentric Video Intent Understanding with Gaze-Guided Prompting](https://openreview.net/forum?id=YLxwj5YLb7) | Taiying Peng | Poster |  | 😾 | 
+| YaQnKRtTdh | [Towards General Continuous Memory for Vision-Language Models](https://openreview.net/forum?id=YaQnKRtTdh) | Wenyi WU | Poster |  | 😾 | 
+| YufSVJxDgt | [Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets](https://openreview.net/forum?id=YufSVJxDgt) | Ji Xia | Poster |  | 😾 | 
+| ZC2rbIYWfy | [Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://openreview.net/forum?id=ZC2rbIYWfy) | Bryan Wong | Poster |  | 😾 | 
+| ZDrT1eG54T | [TCM-Ladder: A Benchmark for Multimodal Question Answering on Traditional Chinese Medicine](https://openreview.net/forum?id=ZDrT1eG54T) | Jiacheng Xie | Poster |  | 😾 | 
+| ZONgHRsAbl | [SMMILE: An expert-driven benchmark for multimodal medical in-context learning](https://openreview.net/forum?id=ZONgHRsAbl) | Melanie Rieff | Poster |  | 😾 | 
+| ZR2mdBrhJX | [PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning](https://openreview.net/forum?id=ZR2mdBrhJX) | Xiaogang Jia | Poster |  | 😾 | 
+| ZTHYaSxqmq | [SynBrain: Enhancing Visual-to-fMRI Synthesis via Probabilistic Representation Learning](https://openreview.net/forum?id=ZTHYaSxqmq) | Weijian Mai | Poster |  | 😾 | 
+| Zd6VyjmN1S | [ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism](https://openreview.net/forum?id=Zd6VyjmN1S) | Zedong Liu | Oral |  | 😾 | 
+| ZeFMtRBy4Z | [REVE: A Foundation Model for EEG - Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects](https://openreview.net/forum?id=ZeFMtRBy4Z) | Yassine El Ouahidi | Poster |  | 😾 | 
+| Zj1uV88eYU | [LBMKGC: Large Model-Driven Balanced Multimodal Knowledge Graph Completion](https://openreview.net/forum?id=Zj1uV88eYU) | Yuan Guo | Poster |  | 😾 | 
+| ZwCVFBFUFb | [QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](https://openreview.net/forum?id=ZwCVFBFUFb) | Wei Dai | Oral |  | 😾 | 
+| ZyiBk1ZinG | [DreamPRM: Domain-reweighted Process Reward Model for Multimodal Reasoning](https://openreview.net/forum?id=ZyiBk1ZinG) | Qi Cao | Poster |  | 😾 | 
+| a61AArHrMO | [RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis](https://openreview.net/forum?id=a61AArHrMO) | SONGXIAO YANG | Poster |  | 😾 | 
+| aAhhMr0TX9 | [MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM](https://openreview.net/forum?id=aAhhMr0TX9) | Bowen Dong | Poster |  | 😾 | 
+| aDa0xEFDu1 | [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://openreview.net/forum?id=aDa0xEFDu1) | Jingjing Jiang | Spotlight |  | 😾 | 
+| aLGgz4SOyu | [Sherlock: Self-Correcting Reasoning in Vision-Language Models](https://openreview.net/forum?id=aLGgz4SOyu) | Yi Ding | Poster |  | 😾 | 
+| aLhA7AYLLR | [ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts](https://openreview.net/forum?id=aLhA7AYLLR) | Linfeng Tang | Oral |  | 😾 | 
+| aPPnmuuNhx | [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://openreview.net/forum?id=aPPnmuuNhx) | Yifan Xie | Poster |  | 😾 | 
+| aTqfufujj7 | [From Indicators to Insights: Diversity-Optimized for Medical Series-Text Decoding via LLMs](https://openreview.net/forum?id=aTqfufujj7) | Xiyuan Jin | Poster |  | 😾 | 
+| agcXjEHmyW | [CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=agcXjEHmyW) | Yuchen Zhou | Spotlight |  | 😾 | 
+| alCdOdH7zn | [UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification](https://openreview.net/forum?id=alCdOdH7zn) | Xixi Wan | Poster |  | 😾 | 
+| anzoPBV4jI | [MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology](https://openreview.net/forum?id=anzoPBV4jI) | Kiril Vasilev | Poster |  | 😾 | 
+| aqr5pyOQpf | [DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research](https://openreview.net/forum?id=aqr5pyOQpf) | Shanawaj S Madarkar | Poster |  | 😾 | 
+| auiURbhoYx | [Balancing Multimodal Training Through Game-Theoretic Regularization](https://openreview.net/forum?id=auiURbhoYx) | Konstantinos Kontras | Spotlight |  | 😾 | 
+| ayR2JfRYRS | [PhysioWave: A Multi-Scale Wavelet-Transformer for Physiological Signal Representation](https://openreview.net/forum?id=ayR2JfRYRS) | Yanlong Chen | Poster |  | 😾 | 
+| b2rzUJbLmS | [THUNDER: Tile-level Histopathology image UNDERstanding benchmark](https://openreview.net/forum?id=b2rzUJbLmS) | Pierre Marza | Spotlight |  | 😾 | 
+| b4pEeU44AB | [Learning Intractable Multimodal Policies with Reparameterization and Diversity Regularization](https://openreview.net/forum?id=b4pEeU44AB) | Ziqi Wang | Poster |  | 😾 | 
+| bDBxf9f5Li | [Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment](https://openreview.net/forum?id=bDBxf9f5Li) | Vida Adeli | Poster |  | 😾 | 
+| bTgxLGMGdF | [MATCH: Multi-faceted Adaptive Topo-Consistency for Semi-Supervised Histopathology Segmentation](https://openreview.net/forum?id=bTgxLGMGdF) | Meilong Xu | Poster |  | 😾 | 
+| bV5is3iodg | [AC-LoRA: (Almost) Training-Free Access Control Aware Multi-Modal LLMs](https://openreview.net/forum?id=bV5is3iodg) | Lara Magdalena Lazier | Poster |  | 😾 | 
+| bYRSuZteeK | [Quantifying Cross-Modality Memorization in Vision-Language Models](https://openreview.net/forum?id=bYRSuZteeK) | Yuxin Wen | Poster |  | 😾 | 
+| biM1m6VXSD | [Controllable 3D Molecular Generation for Structure-Based Drug Design Through Bayesian Flow Networks and Gradient Integration](https://openreview.net/forum?id=biM1m6VXSD) | Seungyeon Choi | Poster |  | 😾 | 
+| bjoHB7IN6b | [Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models](https://openreview.net/forum?id=bjoHB7IN6b) | Zhentao he | Poster |  | 😾 | 
+| bxELEjg3VE | [GSAlign: Geometric and Semantic Alignment Network for Aerial-Ground Person Re-Identification](https://openreview.net/forum?id=bxELEjg3VE) | Qiao Li | Poster |  | 😾 | 
+| cHMP2IAhML | [HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning](https://openreview.net/forum?id=cHMP2IAhML) | Chuhao Zhou | Poster |  | 😾 | 
+| cJRggDnFg2 | [End-to-End Low-Light Enhancement for Object Detection with Learned Metadata from RAWs](https://openreview.net/forum?id=cJRggDnFg2) | Xuelin Shen | Poster |  | 😾 | 
+| cPO8dUCJOc | [Dense Metric Depth Estimation via Event-based Differential Focus Volume Prompting](https://openreview.net/forum?id=cPO8dUCJOc) | Boyu Li | Poster |  | 😾 | 
+| cT54nK58lH | [Diversity-oriented Deep Multi-modal Clustering](https://openreview.net/forum?id=cT54nK58lH) | Yanzheng Wang | Poster |  | 😾 | 
+| cd2MWwIIHu | [MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning](https://openreview.net/forum?id=cd2MWwIIHu) | Thanh-Dat Truong | Poster |  | 😾 | 
+| cjHQj0tCy6 | [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://openreview.net/forum?id=cjHQj0tCy6) | Qinfan Xiao | Poster |  | 😾 | 
+| cvSWTtTGSZ | [EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis](https://openreview.net/forum?id=cvSWTtTGSZ) | Shengyuan Liu | Poster |  | 😾 | 
+| d0F0N0cu4n | [What’s in Common? Multimodal Models Hallucinate When Reasoning Across Scenes](https://openreview.net/forum?id=d0F0N0cu4n) | Candace Ross | Poster |  | 😾 | 
+| d4Y576ManB | [SAMA: Towards Multi-Turn Referential Grounded Video Chat with Large Language Models](https://openreview.net/forum?id=d4Y576ManB) | Ye Sun | Poster |  | 😾 | 
+| dBC55QIEnq | [Orthogonal Contrastive Learning for Multi-Representation fMRI Analysis](https://openreview.net/forum?id=dBC55QIEnq) | Tony Yousefnezhad | Poster |  | 😾 | 
+| dC5TWysDsZ | [Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process](https://openreview.net/forum?id=dC5TWysDsZ) | Tsai Hor Chan | Poster |  | 😾 | 
+| dHOSTp8MBl | [SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](https://openreview.net/forum?id=dHOSTp8MBl) | Jiaqi Huang | Poster |  | 😾 | 
+| dJnzFlPUuO | [MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes](https://openreview.net/forum?id=dJnzFlPUuO) | Jin Zhang | Poster |  | 😾 | 
+| dt940loCBT | [SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://openreview.net/forum?id=dt940loCBT) | Borong Zhang | Spotlight |  | 😾 | 
+| dw9H08UxJb | [Omni-Mol: Multitask Molecular Model for Any-to-any Modalities](https://openreview.net/forum?id=dw9H08UxJb) | Chengxin Hu | Poster |  | 😾 | 
+| e7HEbUVryj | [ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching](https://openreview.net/forum?id=e7HEbUVryj) | Huanlei Guo | Poster |  | 😾 | 
+| e8pm93koQU | [$\text{S}^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://openreview.net/forum?id=e8pm93koQU) | Weilun Feng | Poster |  | 😾 | 
+| e9B2NPQanB | [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://openreview.net/forum?id=e9B2NPQanB) | Pengwei Liu | Poster |  | 😾 | 
+| eA3Aum0rpA | [Scaling Language-centric Omnimodal Representation Learning](https://openreview.net/forum?id=eA3Aum0rpA) | Chenghao Xiao | Poster |  | 😾 | 
+| eK31JidsTN | [OmniTalker: One-shot Real-time Text-Driven Talking Audio-Video Generation With Multimodal Style Mimicking](https://openreview.net/forum?id=eK31JidsTN) | Zhongjian Wang | Poster |  | 😾 | 
+| eV2Y8Gt6JY | [Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models](https://openreview.net/forum?id=eV2Y8Gt6JY) | Konstantinos M. Dafnis | Poster |  | 😾 | 
+| efDNv5XvVo | [MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild](https://openreview.net/forum?id=efDNv5XvVo) | Deming Li | Poster |  | 😾 | 
+| epZTfZF7JC | [VITA-Audio: Fast Interleaved Audio-Text Token Generation for Efficient Large Speech-Language Model](https://openreview.net/forum?id=epZTfZF7JC) | Zuwei Long | Poster |  | 😾 | 
+| ewgZItWaHh | [3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion](https://openreview.net/forum?id=ewgZItWaHh) | Junyi Wang | Poster |  | 😾 | 
+| f0660KxvT2 | [TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://openreview.net/forum?id=f0660KxvT2) | Jialin Chen | Poster |  | 😾 | 
+| fKerD2AQai | [Understanding protein function with a multimodal retrieval-augmented foundation model](https://openreview.net/forum?id=fKerD2AQai) | Timothy Fei Truong Jr | Poster |  | 😾 | 
+| fLx3vQPmDu | [OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts](https://openreview.net/forum?id=fLx3vQPmDu) | Shiting Xiao | Spotlight |  | 😾 | 
+| fYSPRGmS6l | [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://openreview.net/forum?id=fYSPRGmS6l) | YUXIANG WEI | Poster |  | 😾 | 
+| fbTGCEfztk | [PhysDiff-VTON: Cross-Domain Physics Modeling and Trajectory Optimization for Virtual Try-On](https://openreview.net/forum?id=fbTGCEfztk) | Shibin Mei | Poster |  | 😾 | 
+| feuFyonHks | [CyIN: Cyclic Informative Latent Space for Bridging Complete and Incomplete Multimodal Learning](https://openreview.net/forum?id=feuFyonHks) | Ronghao Lin | Poster |  | 😾 | 
+| fggSyPPk0K | [World-aware Planning Narratives Enhance Large Vision-Language Model Planner](https://openreview.net/forum?id=fggSyPPk0K) | Junhao Shi | Poster |  | 😾 | 
+| fjoKScAL4D | [Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge](https://openreview.net/forum?id=fjoKScAL4D) | Nimrod Berman | Poster |  | 😾 | 
+| fohuurA03P | [Interactive Cross-modal Learning for Text-3D Scene Retrieval](https://openreview.net/forum?id=fohuurA03P) | Yanglin Feng | Oral |  | 😾 | 
+| fp5RrJ51WK | [ExAct: A Video-Language Benchmark for Expert Action Analysis](https://openreview.net/forum?id=fp5RrJ51WK) | Han Yi | Poster |  | 😾 | 
+| fqpR9FRso9 | [DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?](https://openreview.net/forum?id=fqpR9FRso9) | Tianhong Zhou | Poster |  | 😾 | 
+| ftZEltGArK | [From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography](https://openreview.net/forum?id=ftZEltGArK) | RUOFAN LIU | Poster |  | 😾 | 
+| gJ05Gm5VxQ | [Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding](https://openreview.net/forum?id=gJ05Gm5VxQ) | Ye Wang | Poster |  | 😾 | 
+| gRKorMGYlR | [TractoTransformer: Diffusion MRI Streamline Tractography using CNN and Transformer Networks](https://openreview.net/forum?id=gRKorMGYlR) | Itzik Waizman | Poster |  | 😾 | 
+| gUbQZ7AtaZ | [Chiron-o1: Igniting Multimodal Large Language Models towards Generalizable Medical Reasoning via Mentor-Intern Collaborative Search](https://openreview.net/forum?id=gUbQZ7AtaZ) | Haoran Sun | Poster |  | 😾 | 
+| gZjPllL9jM | [Efficient Multi-modal Large Language Models via Progressive Consistency Distillation](https://openreview.net/forum?id=gZjPllL9jM) | Zichen Wen | Poster |  | 😾 | 
+| gfX1nqBKtu | [OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles](https://openreview.net/forum?id=gfX1nqBKtu) | Yihe Deng | Poster |  | 😾 | 
+| gjvbsLyCC3 | [Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs](https://openreview.net/forum?id=gjvbsLyCC3) | Xudong Li | Poster |  | 😾 | 
+| gkcU26BOml | [Cross-modal Associations in Vision and Language Models: Revisiting the Bouba-Kiki Effect](https://openreview.net/forum?id=gkcU26BOml) | Tom Kouwenhoven | Poster |  | 😾 | 
+| gm65gK3uOJ | [Glance2Gaze: Efficient Vision-Language Models from Glance Fusion to Gaze Compression](https://openreview.net/forum?id=gm65gK3uOJ) | Juan Chen | Poster |  | 😾 | 
+| h0LzGQq6uO | [Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering](https://openreview.net/forum?id=h0LzGQq6uO) | Yuyang Hong | Poster |  | 😾 | 
+| h3lyFa5e1W | [SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning](https://openreview.net/forum?id=h3lyFa5e1W) | Zhongwei Wan | Poster |  | 😾 | 
+| h6xQClTm4W | [Exploring the Limits of Vision-Language-Action Manipulation in Cross-task Generalization](https://openreview.net/forum?id=h6xQClTm4W) | Jiaming Zhou | Poster |  | 😾 | 
+| hT7Nj7SAQb | [Cross-Modal Representational Knowledge Distillation for Enhanced Spike-informed LFP Modeling](https://openreview.net/forum?id=hT7Nj7SAQb) | Eray Erturk | Poster |  | 😾 | 
+| hUCgQWItCX | [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://openreview.net/forum?id=hUCgQWItCX) | Yizhen Zhang | Poster |  | 😾 | 
+| hW7Bpu6Kbn | [MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios](https://openreview.net/forum?id=hW7Bpu6Kbn) | Yang Shi | Poster |  | 😾 | 
+| hdJXzKZjY9 | [Reliable Lifelong Multimodal Editing: Conflict-Aware Retrieval Meets Multi-Level Guidance](https://openreview.net/forum?id=hdJXzKZjY9) | Qiang Zhang | Poster |  | 😾 | 
+| huZzy5w2Js | [SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios](https://openreview.net/forum?id=huZzy5w2Js) | Lingwei Dang | Spotlight |  | 😾 | 
+| hymrUe6ATL | [PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series in Typhoon Forecasting](https://openreview.net/forum?id=hymrUe6ATL) | Haobo Li | Poster |  | 😾 | 
+| hyolWgWWyg | [D2SA: Dual-Stage Distribution and Slice Adaptation for Efficient Test-Time Adaptation in MRI Reconstruction](https://openreview.net/forum?id=hyolWgWWyg) | Lipei Zhang | Poster |  | 😾 | 
+| iBwW1DxQaa | [Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models](https://openreview.net/forum?id=iBwW1DxQaa) | Thanh-Dat Truong | Poster |  | 😾 | 
+| iCvueZ8KaN | [VCM: Vision Concept Modeling with Adaptive Vision Token Compression via Instruction Fine-Tuning](https://openreview.net/forum?id=iCvueZ8KaN) | Run Luo | Poster |  | 😾 | 
+| iD2OqoCs4D | [$\Delta \mathrm{Energy}$: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](https://openreview.net/forum?id=iD2OqoCs4D) | Lin Zhu | Poster |  | 😾 | 
+| iLbXyPNTeb | [VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image](https://openreview.net/forum?id=iLbXyPNTeb) | Sicheng Xu | Poster |  | 😾 | 
+| iQHuVNte6w | [OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](https://openreview.net/forum?id=iQHuVNte6w) | Yuanhao Cai | Poster |  | 😾 | 
+| iQoZv77o3g | [Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks](https://openreview.net/forum?id=iQoZv77o3g) | Alexander Ratzan | Poster |  | 😾 | 
+| iRsZHAMNHL | [CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding](https://openreview.net/forum?id=iRsZHAMNHL) | hongyong han | Oral |  | 😾 | 
+| idtZwmjakN | [GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images](https://openreview.net/forum?id=idtZwmjakN) | Xiang Lan | Poster |  | 😾 | 
+| ir8u0crTcA | [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://openreview.net/forum?id=ir8u0crTcA) | Rui Tian | Poster |  | 😾 | 
+| it0kkaFFpK | [On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models](https://openreview.net/forum?id=it0kkaFFpK) | Hoigi Seo | Poster |  | 😾 | 
+| j7L5AiVqJQ | [Layer-Wise Modality Decomposition for Interpretable Multimodal Sensor Fusion](https://openreview.net/forum?id=j7L5AiVqJQ) | Park Jae Hyun | Poster |  | 😾 | 
+| jSeWBdH0Xx | [Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging](https://openreview.net/forum?id=jSeWBdH0Xx) | Ibrahim Ethem Hamamci | Poster |  | 😾 | 
+| jZs26lJ0pl | [Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment](https://openreview.net/forum?id=jZs26lJ0pl) | Pengfei Zhao | Poster |  | 😾 | 
+| jl0O0MYLyh | [D-VST: Diffusion Transformer for Pathology-Correct Tone-Controllable Cross-Dye Virtual Staining of Whole Slide Images](https://openreview.net/forum?id=jl0O0MYLyh) | shurong yang | Poster |  | 😾 | 
+| jquTBzt3Av | [Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models](https://openreview.net/forum?id=jquTBzt3Av) | Xiaoyu Zhan | Poster |  | 😾 | 
+| jt9iMeQQvM | [MixPrompt: Efficient Mixed Prompting for Multimodal Semantic Segmentation](https://openreview.net/forum?id=jt9iMeQQvM) | Zhiwei Hao | Poster |  | 😾 | 
+| juROy8NYRD | [Continual Multimodal Contrastive Learning](https://openreview.net/forum?id=juROy8NYRD) | Xiaohao Liu | Poster |  | 😾 | 
+| k5TbfYPYuc | [Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing](https://openreview.net/forum?id=k5TbfYPYuc) | Eunbyeol Cho | Poster |  | 😾 | 
+| k71nsscO9b | [Adaptive Re-calibration Learning for Balanced Multimodal Intention Recognition](https://openreview.net/forum?id=k71nsscO9b) | Qu Yang | Poster |  | 😾 | 
+| kMPII4XbKC | [R1-ShareVL: Incentivizing Reasoning Capabilities of Multimodal Large Language Models via Share-GRPO](https://openreview.net/forum?id=kMPII4XbKC) | Huanjin Yao | Poster |  | 😾 | 
+| kMQju9SFBP | [Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models](https://openreview.net/forum?id=kMQju9SFBP) | Haohan Chi | Poster |  | 😾 | 
+| kND7h1kD53 | [DualEqui: A Dual-Space Hierarchical Equivariant Network for Large Biomolecules](https://openreview.net/forum?id=kND7h1kD53) | Junjie Xu | Poster |  | 😾 | 
+| kWGJa9ZO3M | [Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM](https://openreview.net/forum?id=kWGJa9ZO3M) | Zinuo Li | Poster |  | 😾 | 
+| kWZRLR7w52 | [PreFM: Online Audio-Visual Event Parsing via Predictive Future Modeling](https://openreview.net/forum?id=kWZRLR7w52) | Xiao Yu | Poster |  | 😾 | 
+| kjWB8iaO3l | [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://openreview.net/forum?id=kjWB8iaO3l) | Kornel Howil | Poster |  | 😾 | 
+| kkhRTTmXFV | [Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives](https://openreview.net/forum?id=kkhRTTmXFV) | Geng Zhang | Poster |  | 😾 | 
+| kn0AyMYw0v | [Fit the Distribution: Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Models](https://openreview.net/forum?id=kn0AyMYw0v) | Hai Yan | Poster |  | 😾 | 
+| koxXKW4FbR | [Listening to the Brain: Multi-Band sEEG Auditory Reconstruction via Dynamic Spatio-Temporal Hypergraphs](https://openreview.net/forum?id=koxXKW4FbR) | Xueyi Zhang | Poster |  | 😾 | 
+| lTAtQW1Ufi | [From Human Attention to Diagnosis: Semantic Patch-Level Integration of Vision-Language Models in Medical Imaging](https://openreview.net/forum?id=lTAtQW1Ufi) | Dmitry Lvov | Poster |  | 😾 | 
+| lUHwUuQGdV | [Towards Unified Multimodal Interleaved Generation via Group Relative Policy Optimization](https://openreview.net/forum?id=lUHwUuQGdV) | Ming Nie | Poster |  | 😾 | 
+| lu4cGylISh | [Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design](https://openreview.net/forum?id=lu4cGylISh) | Lianghong Chen | Poster |  | 😾 | 
+| lv4zLWzOi2 | [Approximate Domain Unlearning for Vision-Language Models](https://openreview.net/forum?id=lv4zLWzOi2) | Kodai Kawamura | Spotlight |  | 😾 | 
+| lwOV2ACEK9 | [Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://openreview.net/forum?id=lwOV2ACEK9) | Huanjin Yao | Spotlight |  | 😾 | 
+| m5jmATYmsi | [Topology-Aware Learning of Tubular Manifolds via SE(3)-Equivariant Network on Ball B-Spline Curve](https://openreview.net/forum?id=m5jmATYmsi) | Jingxuan Wang | Poster |  | 😾 | 
+| mDjEKAwJOF | [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://openreview.net/forum?id=mDjEKAwJOF) | Adibvafa Fallahpour | Poster |  | 😾 | 
+| mFEkBO25Ra | [MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants](https://openreview.net/forum?id=mFEkBO25Ra) | Hritik Bansal | Poster |  | 😾 | 
+| mH9FJi3KTX | [Magical: Medical Lay Language Generation via Semantic Invariance and Layperson-tailored Adaptation](https://openreview.net/forum?id=mH9FJi3KTX) | Weibin Liao | Poster |  | 😾 | 
+| mI9HqgVuTS | [Federated Dialogue-Semantic Diffusion for Emotion Recognition under Incomplete Modalities](https://openreview.net/forum?id=mI9HqgVuTS) | Xihang Qiu | Poster |  | 😾 | 
+| mj8VN4MyrO | [ThinkSound: Chain-of-Thought Reasoning in Multimodal LLMs for Audio Generation and Editing](https://openreview.net/forum?id=mj8VN4MyrO) | Huadai Liu | Poster |  | 😾 | 
+| ml2TynfZI0 | [Integrating Drug Substructures and Longitudinal Electronic Health Records for Personalized Drug Recommendation](https://openreview.net/forum?id=ml2TynfZI0) | Wenjie Du | Poster |  | 😾 | 
+| muWdWcMvpW | [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://openreview.net/forum?id=muWdWcMvpW) | Junliang Ye | Spotlight |  | 😾 | 
+| n6GVwmGvZ0 | [RBench-V: A Primary Assessment for Visual Reasoning Models with Multimodal Outputs](https://openreview.net/forum?id=n6GVwmGvZ0) | Meng-Hao Guo | Poster |  | 😾 | 
+| n6SrVj7I0g | [MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition](https://openreview.net/forum?id=n6SrVj7I0g) | Umberto Cappellazzo | Poster |  | 😾 | 
+| ne3nYEcGsf | [Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior](https://openreview.net/forum?id=ne3nYEcGsf) | Ruoyu Feng | Poster |  | 😾 | 
+| nfxTpNiSMH | [SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding](https://openreview.net/forum?id=nfxTpNiSMH) | Zhao Jin | Poster |  | 😾 | 
+| nxGSj1xkm3 | [Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis](https://openreview.net/forum?id=nxGSj1xkm3) | Jing Hao | Poster |  | 😾 | 
+| o0JSYq1TQ4 | [ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation](https://openreview.net/forum?id=o0JSYq1TQ4) | Jiuhong Xiao | Poster |  | 😾 | 
+| o8r3gOFTQo | [SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation](https://openreview.net/forum?id=o8r3gOFTQo) | Claudia Cuttano | Spotlight |  | 😾 | 
+| oB5GHrsfI4 | [3D Human Pose Estimation with Muscles](https://openreview.net/forum?id=oB5GHrsfI4) | Kevin Zhu | Poster |  | 😾 | 
+| oCXyxhgCiZ | [BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM](https://openreview.net/forum?id=oCXyxhgCiZ) | Wen Xiong | Poster |  | 😾 | 
+| oHbVboLXz6 | [Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition](https://openreview.net/forum?id=oHbVboLXz6) | Yu Li | Spotlight |  | 😾 | 
+| oJ84bedrtM | [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://openreview.net/forum?id=oJ84bedrtM) | Yake Wei | Oral |  | 😾 | 
+| oUghNi5XWc | [SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs](https://openreview.net/forum?id=oUghNi5XWc) | Jinhong Deng | Poster |  | 😾 | 
+| oVDAfLuRie | [VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception](https://openreview.net/forum?id=oVDAfLuRie) | Ziang Yan | Poster |  | 😾 | 
+| ocBuEUl6Yz | [Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation](https://openreview.net/forum?id=ocBuEUl6Yz) | Moru Liu | Poster |  | 😾 | 
+| p0E74lpRBD | [Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](https://openreview.net/forum?id=p0E74lpRBD) | Wei Pang | Poster |  | 😾 | 
+| p2pRiDwjDa | [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://openreview.net/forum?id=p2pRiDwjDa) | Wenxiang Guo | Poster |  | 😾 | 
+| p4jKtPCcUh | [Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos](https://openreview.net/forum?id=p4jKtPCcUh) | Weifeng Lin | Poster |  | 😾 | 
+| pCRm6g0RnA | [ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio–Language Models](https://openreview.net/forum?id=pCRm6g0RnA) | Weifei Jin | Poster |  | 😾 | 
+| pGRjDetCDM | [JADE: Joint Alignment and Deep Embedding for Multi-Slice Spatial Transcriptomics](https://openreview.net/forum?id=pGRjDetCDM) | Yuanchuan Guo | Poster |  | 😾 | 
+| pOJBw1YQgL | [Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery](https://openreview.net/forum?id=pOJBw1YQgL) | Ming Hu | Spotlight |  | 😾 | 
+| peYBx7AiKw | [Learning to Route: Per-Sample Adaptive Routing for Multimodal Multitask Prediction](https://openreview.net/forum?id=peYBx7AiKw) | Marzieh Ajirak | Poster |  | 😾 | 
+| plrg87MP0F | [PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement](https://openreview.net/forum?id=plrg87MP0F) | Teng Hu | Poster |  | 😾 | 
+| pozsP0ZcZN | [AudSemThinker: Enhancing Audio-Language Models Through Reasoning over Semantics of Sound](https://openreview.net/forum?id=pozsP0ZcZN) | Gijs Wijngaard | Poster |  | 😾 | 
+| q1W0O5p1w1 | [ADMN: A Layer-Wise Adaptive Multimodal Network for Dynamic Input Noise and Compute Resources](https://openreview.net/forum?id=q1W0O5p1w1) | Jason Wu | Poster |  | 😾 | 
+| q5QaTQcUbS | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://openreview.net/forum?id=q5QaTQcUbS) | Wenbo Hu | Poster |  | 😾 | 
+| qGFvTIMS3W | [Automated Model Discovery via Multi-modal & Multi-step Pipeline](https://openreview.net/forum?id=qGFvTIMS3W) | Lee Jung-Mok | Poster |  | 😾 | 
+| qI95wZZCWh | [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://openreview.net/forum?id=qI95wZZCWh) | Jiaqi WANG | Poster |  | 😾 | 
+| qJLPlZSdkb | [Joint Modeling of fMRI and EEG Imaging Using Ordinary Differential Equation-Based Hypergraph Neural Networks](https://openreview.net/forum?id=qJLPlZSdkb) | YanZhang | Poster |  | 😾 | 
+| qMRFNxioPC | [4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](https://openreview.net/forum?id=qMRFNxioPC) | Zhen Xu | Spotlight |  | 😾 | 
+| qYkhCah8OZ | [Boosting Knowledge Utilization in Multimodal Large Language Models via Adaptive Logits Fusion and Attention Reallocation](https://openreview.net/forum?id=qYkhCah8OZ) | Wenbin An | Oral |  | 😾 | 
+| qqEfm8tlCM | [FAST: Foreground‑aware Diffusion with Accelerated Sampling Trajectory for Segmentation‑oriented Anomaly Synthesis](https://openreview.net/forum?id=qqEfm8tlCM) | Xichen Xu | Poster |  | 😾 | 
+| r2GebY4MnU | [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](https://openreview.net/forum?id=r2GebY4MnU) | Boshen Xu | Poster |  | 😾 | 
+| r8zHRmM4uE | [Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation](https://openreview.net/forum?id=r8zHRmM4uE) | Changshuo Wang | Poster |  | 😾 | 
+| rEhVHla9zp | [BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization](https://openreview.net/forum?id=rEhVHla9zp) | Xueyang Zhou | Poster |  | 😾 | 
+| rGWjTlK6Ev | [STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](https://openreview.net/forum?id=rGWjTlK6Ev) | Barathi Subramanian | Poster |  | 😾 | 
+| rH0aOLyjYQ | [NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://openreview.net/forum?id=rH0aOLyjYQ) | Longtian Qiu | Poster |  | 😾 | 
+| rHt6tt5RNF | [Multi-Modal Interactive Agent Layer for Few-Shot Universal Cross-Domain Retrieval and Beyond](https://openreview.net/forum?id=rHt6tt5RNF) | Kaixiang Chen | Poster |  | 😾 | 
+| rMqQdJJz5r | [Learning Reconfigurable Representations for Multimodal Federated Learning with Missing Data](https://openreview.net/forum?id=rMqQdJJz5r) | Manh Duong Nguyen | Poster |  | 😾 | 
+| rOR5IZcwJx | [Robust SuperAlignment: Weak-to-Strong Robustness Generalization for Vision-Language Models](https://openreview.net/forum?id=rOR5IZcwJx) | Junhao Dong | Spotlight |  | 😾 | 
+| rbIlWjTFKj | [Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs](https://openreview.net/forum?id=rbIlWjTFKj) | Fangrui Zhu | Poster |  | 😾 | 
+| rbr2mMSBua | [SAM2Flow: Interactive Optical Flow Estimation with Dual Memory for in vivo Microcirculation Analysis](https://openreview.net/forum?id=rbr2mMSBua) | Luojie Huang | Poster |  | 😾 | 
+| rcX3qxO0z6 | [DAAC: Discrepancy-Aware Adaptive Contrastive Learning for Medical Time series](https://openreview.net/forum?id=rcX3qxO0z6) | Yifan WANG | Poster |  | 😾 | 
+| s5p9ByKN1j | [WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world scenarios](https://openreview.net/forum?id=s5p9ByKN1j) | Eun Chang | Poster |  | 😾 | 
+| sCgYsBVIVG | [Multi-modal contrastive learning adapts to intrinsic dimensions of shared latent variables](https://openreview.net/forum?id=sCgYsBVIVG) | Yu Gui | Poster |  | 😾 | 
+| sEFDhxF1mG | [QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models](https://openreview.net/forum?id=sEFDhxF1mG) | Yutong Wang | Spotlight |  | 😾 | 
+| sFyTsO2qO3 | [Disentangled Cross-Modal Representation Learning with Enhanced Mutual Supervision](https://openreview.net/forum?id=sFyTsO2qO3) | Lu Gao | Poster |  | 😾 | 
+| sQO1ZEQGqX | [DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response](https://openreview.net/forum?id=sQO1ZEQGqX) | Junjue Wang | Poster |  | 😾 | 
+| sTKsFIVqik | [V2X-Radar: A Multi-modal Dataset with 4D Radar for Cooperative Perception](https://openreview.net/forum?id=sTKsFIVqik) | Lei Yang | Spotlight |  | 😾 | 
+| sUjwDdyspc | [MotionBind: Multi-Modal Human Motion Alignment for Retrieval, Recognition, and Generation](https://openreview.net/forum?id=sUjwDdyspc) | Kaleab A Kinfu | Poster |  | 😾 | 
+| swf3Hbc3Qe | [Learning Crossmodal Interaction Patterns via Attributed Bipartite Graphs for Single-Cell Omics](https://openreview.net/forum?id=swf3Hbc3Qe) | Xiaotang Wang | Poster |  | 😾 | 
+| t04casiy7F | [Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://openreview.net/forum?id=t04casiy7F) | Wei Yang | Poster |  | 😾 | 
+| t5ylXsc2Es | [ChromFound: Towards A Universal Foundation Model for Single-Cell Chromatin Accessibiltiy Data](https://openreview.net/forum?id=t5ylXsc2Es) | Yifeng Jiao | Poster |  | 😾 | 
+| t77EZLjvd5 | [Enhancing CLIP Robustness via Cross-Modality Alignment](https://openreview.net/forum?id=t77EZLjvd5) | Xingyu Zhu | Spotlight |  | 😾 | 
+| tI04KmK27S | [scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration](https://openreview.net/forum?id=tI04KmK27S) | Jianle Sun | Spotlight |  | 😾 | 
+| tIW29IpCwG | [Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://openreview.net/forum?id=tIW29IpCwG) | Wenqi Liu | Poster |  | 😾 | 
+| tPJg65EB7D | [Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens](https://openreview.net/forum?id=tPJg65EB7D) | Zijian Dong | Poster |  | 😾 | 
+| tPqBnGwTwa | [Far from the Shallow: Brain-Predictive Reasoning Embedding through Residual Disentanglement](https://openreview.net/forum?id=tPqBnGwTwa) | Linyang He | Poster |  | 😾 | 
+| uCz7pHv67y | [MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking](https://openreview.net/forum?id=uCz7pHv67y) | Tianhao Li | Poster |  | 😾 | 
+| uS4Wmg7PmE | [Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning](https://openreview.net/forum?id=uS4Wmg7PmE) | Tianyi Bai | Poster |  | 😾 | 
+| uWEcZkrSkZ | [MuSLR: Multimodal Symbolic Logical Reasoning](https://openreview.net/forum?id=uWEcZkrSkZ) | Jundong Xu | Poster |  | 😾 | 
+| ugOn7Pohxv | [Towards Prospective Medical Image Reconstruction via Knowledge-Informed Dynamic Optimal Transport](https://openreview.net/forum?id=ugOn7Pohxv) | Taoran Zheng | Poster |  | 😾 | 
+| vAxGuGmshO | [AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Document Understanding](https://openreview.net/forum?id=vAxGuGmshO) | Ahmed Masry | Poster |  | 😾 | 
+| vIDsnh0FWH | [AneuG-Flow: A Large-Scale Synthetic Dataset of Diverse Intracranial Aneurysm Geometries and Hemodynamics](https://openreview.net/forum?id=vIDsnh0FWH) | Wenhao Ding | Poster |  | 😾 | 
+| vN3ZRS7L3I | [Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach](https://openreview.net/forum?id=vN3ZRS7L3I) | Yuting Huang | Poster |  | 😾 | 
+| vzgkhVS5EC | [Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe](https://openreview.net/forum?id=vzgkhVS5EC) | Jia-Nuo Liew | Poster |  | 😾 | 
+| w1FUXt3ujK | [Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment](https://openreview.net/forum?id=w1FUXt3ujK) | Xiao Fei | Poster |  | 😾 | 
+| w9gEF4Iwtx | [CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation](https://openreview.net/forum?id=w9gEF4Iwtx) | Marc Lafon | Poster |  | 😾 | 
+| wHx7UuRm7G | [Segment Anything Model Meets Semi-supervised Medical Image Segmentation: A Novel Perspective](https://openreview.net/forum?id=wHx7UuRm7G) | Haifeng Zhao | Poster |  | 😾 | 
+| wbifKziqd2 | [DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging](https://openreview.net/forum?id=wbifKziqd2) | Felix Wagner | Poster |  | 😾 | 
+| wczmXLuLGd | [MMaDA: Multimodal Large Diffusion Language Models](https://openreview.net/forum?id=wczmXLuLGd) | Ling Yang | Poster |  | 😾 | 
+| wdyOwMISSR | [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://openreview.net/forum?id=wdyOwMISSR) | Minheng Ni | Poster |  | 😾 | 
+| wlqoUpuQrv | [Sequential Attention-based Sampling for Histopathological Analysis](https://openreview.net/forum?id=wlqoUpuQrv) | Tarun G | Poster |  | 😾 | 
+| wuMdBGMe3y | [Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](https://openreview.net/forum?id=wuMdBGMe3y) | Ling Li | Poster |  | 😾 | 
+| x2BsIdJJJW | [ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding](https://openreview.net/forum?id=x2BsIdJJJW) | Jialiang Kang | Poster |  | 😾 | 
+| xLFYd1owiP | [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://openreview.net/forum?id=xLFYd1owiP) | Siwei Wen | Poster |  | 😾 | 
+| xaxuzubN31 | [Multi-dataset Joint Pre-training of Emotional EEG Enables Generalizable Affective Computing](https://openreview.net/forum?id=xaxuzubN31) | Qingzhu Zhang | Poster |  | 😾 | 
+| xcw6UWNtFJ | [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://openreview.net/forum?id=xcw6UWNtFJ) | Hyungyung Lee | Spotlight |  | 😾 | 
+| xgiMK8FtSI | [LLM-DAMVC: A Large Language Model Assisted Dynamic Agent for Multi-View Clustering](https://openreview.net/forum?id=xgiMK8FtSI) | HaiMing Xu | Poster |  | 😾 | 
+| xjC5NqqSHs | [Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding](https://openreview.net/forum?id=xjC5NqqSHs) | Yanglin Feng | Poster |  | 😾 | 
+| yFerzf9v1b | [Distil-E2D: Distilling Image-to-Depth Priors for Event-Based Monocular Depth Estimation](https://openreview.net/forum?id=yFerzf9v1b) | Jie Long Lee | Poster |  | 😾 | 
+| yFjgV3cJje | [4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://openreview.net/forum?id=yFjgV3cJje) | Jiahui Zhang | Poster |  | 😾 | 
+| yHi8Ao6GAe | [MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification](https://openreview.net/forum?id=yHi8Ao6GAe) | Junjie Zhou | Poster |  | 😾 | 
+| yJpBVE4vfo | [Mint: A Simple Test-Time Adaptation of Vision-Language Models against Common Corruptions](https://openreview.net/forum?id=yJpBVE4vfo) | Wenxuan Bao | Poster |  | 😾 | 
+| yNVDkAjGjw | [Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](https://openreview.net/forum?id=yNVDkAjGjw) | Saghir Alfasly | Poster |  | 😾 | 
+| ycPVp0577R | [Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting](https://openreview.net/forum?id=ycPVp0577R) | Yiren Lu | Poster |  | 😾 | 
+| yeqrrn51TL | [Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://openreview.net/forum?id=yeqrrn51TL) | Ching Chang | Poster |  | 😾 | 
+| ygHWfrwFmO | [CMoB: Modality Valuation via Causal Effect for Balanced Multimodal Learning](https://openreview.net/forum?id=ygHWfrwFmO) | Jun Wang | Poster |  | 😾 | 
+| yh1t1yFtXG | [Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number](https://openreview.net/forum?id=yh1t1yFtXG) | Jingyuan Zhou | Poster |  | 😾 | 
+| yjLew3Nd7z | [PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding](https://openreview.net/forum?id=yjLew3Nd7z) | Ansel Blume | Spotlight |  | 😾 | 
+| ypPxYsmZPx | [DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases](https://openreview.net/forum?id=ypPxYsmZPx) | Mo wang | Poster |  | 😾 | 
+| ypVW5jvguX | [Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation](https://openreview.net/forum?id=ypVW5jvguX) | Xiang Fang | Poster |  | 😾 | 
+| yqBIKzTFT8 | [MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](https://openreview.net/forum?id=yqBIKzTFT8) | Chenhui Zhu | Poster |  | 😾 | 
+| yyWeSAsOhs | [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://openreview.net/forum?id=yyWeSAsOhs) | Junfei Wu | Poster |  | 😾 | 
+| yzuPL2EXAn | [InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts](https://openreview.net/forum?id=yzuPL2EXAn) | Tianchi Xie | Poster |  | 😾 | 
+| z0WhTwZscg | [Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents](https://openreview.net/forum?id=z0WhTwZscg) | Han Lin | Poster |  | 😾 | 
+| z2SGaPIhLT | [SGCD: Stain-Guided CycleDiffusion for Unsupervised Domain Adaptation of Histopathology Image Classification](https://openreview.net/forum?id=z2SGaPIhLT) | Hsi-Ling Chen | Spotlight |  | 😾 | 
+| z3TftXOizf | [OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels](https://openreview.net/forum?id=z3TftXOizf) | Dongsheng Yuan | Poster |  | 😾 | 
+| z9MxyboJ7R | [Spatially-aware Weights Tokenization for NeRF-Language Models](https://openreview.net/forum?id=z9MxyboJ7R) | Andrea Amaduzzi | Poster |  | 😾 | 
+| z9xyREqxzq | [Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention](https://openreview.net/forum?id=z9xyREqxzq) | Haijing Liu | Poster |  | 😾 | 
+| zKoeRtye8o | [Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention](https://openreview.net/forum?id=zKoeRtye8o) | Xin Zou | Poster |  | 😾 | 
+| zQK6IluJi3 | [Dynamic Masking and Auxiliary Hash Learning for Enhanced Cross-Modal Retrieval](https://openreview.net/forum?id=zQK6IluJi3) | Shuang Zhang | Poster |  | 😾 | 
+| zQmXDUbZ5D | [OpenHype: Hyperbolic Embeddings for Hierarchical Open-Vocabulary Radiance Fields](https://openreview.net/forum?id=zQmXDUbZ5D) | Lisa Weijler | Poster |  | 😾 | 
+| zVkbsGlKn9 | [Towards Generalizable Retina Vessel Segmentation with Deformable Graph Priors](https://openreview.net/forum?id=zVkbsGlKn9) | Ke Liu | Poster |  | 😾 | 
+| zb16xZ1NGB | [scSplit: Bringing Severity Cognizance to Image Decomposition in Fluorescence Microscopy](https://openreview.net/forum?id=zb16xZ1NGB) | Ashesh | Poster |  | 😾 | 
+| zmCBCbr2Wj | [Plug-and-play Feature Causality Decomposition for Multimodal Representation Learning](https://openreview.net/forum?id=zmCBCbr2Wj) | Ye Liu | Poster |  | 😾 | 
+| ztgYn0Uk94 | [Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation](https://openreview.net/forum?id=ztgYn0Uk94) | Szymon Plotka | Poster |  | 😾 | 
+| zwCb9cKHpd | [SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing](https://openreview.net/forum?id=zwCb9cKHpd) | Mingfei Chen | Oral |  | 😾 | 
+| zyopvwZbSj | [GeneFlow: Translation of Single-cell Gene Expression to Histopathological Images via Rectified Flow](https://openreview.net/forum?id=zyopvwZbSj) | Mengbo Wang | Poster |  | 😾 | 
 </details>
 
 <details>
@@ -1020,867 +1020,867 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | 3D Acetabular Surface Reconstruction from 2D Pre-operative X-ray Images using SRVF Elastic Registration and Deformation Graph |  | None | 0 | 😾 | 
-| None | 3D Dynamic Prediction of Missing Teeth in Diverse Patterns via Centroid-prompted Diffusion Model |  | None | 0 | 😾 | 
-| None | 4D CardioSynth: Synthesising Dynamic Virtual Heart Populations through Spatiotemporal Disentanglement |  | None | 0 | 😾 | 
-| None | 6D Object Pose Tracking for Orthopedic Surgical Training using Visual-Inertial Sensor Fusion |  | None | 0 | 😾 | 
-| None | A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation |  | None | 0 | 😾 | 
-| None | A Causal-holistic Adaptive Intervention Network for Tailoring Automated Coronary Artery Disease Diagnosis to Individual Patients |  | None | 0 | 😾 | 
-| None | A Causality-Inspired Model for Intima-Media Thickening Assessment in Ultrasound Videos |  | None | 0 | 😾 | 
-| None | A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images |  | None | 0 | 😾 | 
-| None | A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging |  | None | 0 | 😾 | 
-| None | A Holistic Time-Aware Classification Model for Multimodal Longitudinal Patient Data |  | None | 0 | 😾 | 
-| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  | None | 0 | 😾 | 
-| None | A Multi-Branch Framework for Cross-Domain Vessel Segmentation via the Few-Shot Paradigm |  | None | 0 | 😾 | 
-| None | A Multimodal Contrastive Learning for Detecting Aortic Dissection on 3D Non-Contrast CT with Anatomy Simplification |  | None | 0 | 😾 | 
-| None | A New Paradigm for Low-dose PET/CT Reconstruction with Mamba-powered Progressive Network and Physics-informed Consistency |  | None | 0 | 😾 | 
-| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  | None | 0 | 😾 | 
-| None | A Novel ED Triage Framework Using Conditional Imputation, Multi-Scale Semantic Learning, and Cross-Modal Fusion |  | None | 0 | 😾 | 
-| None | A Novel Framework for Integrating 3D Ultrasound into Percutaneous Liver Tumour Ablation |  | None | 0 | 😾 | 
-| None | A Semi-Supervised Knowledge Distillation Framework for Left Ventricle Segmentation and Landmark Detection in Echocardiograms |  | None | 0 | 😾 | 
-| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  | None | 0 | 😾 | 
-| None | A Unified Missing Modality Imputation Model with Inter-Modality Contrastive and Consistent Learning |  | None | 0 | 😾 | 
-| None | A Uniform Multi-mode Fused Framework for Velocity Field Estimation in Ultrasound Imaging |  | None | 0 | 😾 | 
-| None | A Virtual Domain Collaborative Learning Framework for Semi-supervised Microscopic Hyperspectral Image Segmentation |  | None | 0 | 😾 | 
-| None | ADAptation: Reconstruction-based Unsupervised Active Learning for Breast Ultrasound Diagnosis |  | None | 0 | 😾 | 
-| None | AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification |  | None | 0 | 😾 | 
-| None | AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis |  | None | 0 | 😾 | 
-| None | Abnormality-Driven Representation Learning for Radiology Imaging |  | None | 0 | 😾 | 
-| None | Accelerated Free-Breathing 5D Multi-Echo Respiratory Motion-Resolved R2*, PDFF, and QSM Using Novel Composite Total Variation |  | None | 0 | 😾 | 
-| None | Accurate Boundary Alignment and Realism Enhancement for Colonoscopic Polyp Image-Mask Pair Generation |  | None | 0 | 😾 | 
-| None | Active Source-Free Cross-Domain and Cross-Modality Adaptation for Volumetric Medical Image Segmentation by Image Sensitivity and Organ Heterogeneity Sampling |  | None | 0 | 😾 | 
-| None | AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-rays |  | None | 0 | 😾 | 
-| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  | None | 0 | 😾 | 
-| None | Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision |  | None | 0 | 😾 | 
-| None | Adapting Foundation Model for Dental Caries Detection with Dual-View Co-Training |  | None | 0 | 😾 | 
-| None | Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation |  | None | 0 | 😾 | 
-| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  | None | 0 | 😾 | 
-| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  | None | 0 | 😾 | 
-| None | Adaptive Frame Selection for Gestational Age Estimation from Blind Sweep Fetal Ultrasound Videos |  | None | 0 | 😾 | 
-| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  | None | 0 | 😾 | 
-| None | Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling |  | None | 0 | 😾 | 
-| None | Adaptive Stain Normalization for Cross-Domain Medical Histology |  | None | 0 | 😾 | 
-| None | Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis |  | None | 0 | 😾 | 
-| None | AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations |  | None | 0 | 😾 | 
-| None | All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior |  | None | 0 | 😾 | 
-| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  | None | 0 | 😾 | 
-| None | Ambiguous Medical Image Segmentation Using Diffusion Schrödinger Bridge |  | None | 0 | 😾 | 
-| None | An Anatomical Significance-Aware Architecture for Explainable Myocardial Infarction Prediction via Multi-Task Learning |  | None | 0 | 😾 | 
-| None | Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications |  | None | 0 | 😾 | 
-| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  | None | 0 | 😾 | 
-| None | Anatomical Structure Few-Shot Detection Utilizing Enhanced Human Anatomy Knowledge in Ultrasound Images |  | None | 0 | 😾 | 
-| None | Anatomy-Aware Frequency-Attention Transformer Networks for Liver Couinaud CT/MR Segmentation |  | None | 0 | 😾 | 
-| None | Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning |  | None | 0 | 😾 | 
-| None | Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge |  | None | 0 | 😾 | 
-| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  | None | 0 | 😾 | 
-| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  | None | 0 | 😾 | 
-| None | Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection |  | None | 0 | 😾 | 
-| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  | None | 0 | 😾 | 
-| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  | None | 0 | 😾 | 
-| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | Augmented Reality-based Guidance with Deformable Registration in Head and Neck Tumor Resection |  | None | 0 | 😾 | 
-| None | Automated Characterization of Myocardial Scar Topological Patterns for Ventricular Tachycardia Screening |  | None | 0 | 😾 | 
-| None | Automated Detection of BK Virus in H&E Whole-Slide Images Using Weakly-Supervised Deep Learning and Interpretable Morphological Biomarkers |  | None | 0 | 😾 | 
-| None | Automated Integration of Surgical Implants into Digital Twins for Trauma Surgery |  | None | 0 | 😾 | 
-| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  | None | 0 | 😾 | 
-| None | BME2: A Plug-and-Play Bridge-Based Module for Misalignment Estimation and Elimination in Multi-Scan Image Restoration |  | None | 0 | 😾 | 
-| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  | None | 0 | 😾 | 
-| None | BaMCo: Balanced Multimodal Contrastive Learning for Knowledge-Driven Medical VQA |  | None | 0 | 😾 | 
-| None | Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification |  | None | 0 | 😾 | 
-| None | BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images |  | None | 0 | 😾 | 
-| None | Bayesian Transformers and Higher-Order Graph Matching for Cell Tracking in Serial Tissue Sections |  | None | 0 | 😾 | 
-| None | Beyond Shadows: Learning Physics-inspired Ultrasound Confidence Maps from Sparse Annotations |  | None | 0 | 😾 | 
-| None | BiMSRec: A Progressive Image Reconstruction Framework for Medical Image Fusion Guided by Multi-Scale Deformation Fields |  | None | 0 | 😾 | 
-| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  | None | 0 | 😾 | 
-| None | Bias and Generalizability of Foundation Models across Datasets in Breast Mammography |  | None | 0 | 😾 | 
-| None | BiasICL: In-Context Learning and Demographic Biases of Vision Language Models |  | None | 0 | 😾 | 
-| None | Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA |  | None | 0 | 😾 | 
-| None | Bipartite Patient-Modality Graph Learning with Event-Conditional Modelling of Censoring for Cancer Survival Prediction |  | None | 0 | 😾 | 
-| None | Blaze3DM: Integrating Triplane Representation with Diffusion for Solving 3D Inverse Problems in Medical Imaging |  | None | 0 | 😾 | 
-| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  | None | 0 | 😾 | 
-| None | Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations |  | None | 0 | 😾 | 
-| None | Boosting Generalizability in NPC ART Prediction via Multi-Omics Feature Mapping |  | None | 0 | 😾 | 
-| None | Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning |  | None | 0 | 😾 | 
-| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  | None | 0 | 😾 | 
-| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  | None | 0 | 😾 | 
-| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  | None | 0 | 😾 | 
-| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  | None | 0 | 😾 | 
-| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  | None | 0 | 😾 | 
-| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  | None | 0 | 😾 | 
-| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  | None | 0 | 😾 | 
-| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  | None | 0 | 😾 | 
-| None | BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation |  | None | 0 | 😾 | 
-| None | Bridging Knowledge Discrepancy in Retinal Image Analysis through Federated Multi-Task Learning |  | None | 0 | 😾 | 
-| None | Bridging Radiological Images and Factors with Vision-Language Model for Accurate Diagnosis of Proliferative Hepatocellular Carcinoma |  | None | 0 | 😾 | 
-| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | C-NCA: Chained Neural Cellular Automata for Fast and Accurate Thermal Ablation Estimation |  | None | 0 | 😾 | 
-| None | CA-SAM2: SAM2-based Context-Aware Network with Auto-Prompting for Nuclei Instance Segmentation |  | None | 0 | 😾 | 
-| None | CARE-VL: A Domain-Specialized Vision-Language Model for Early ASD Screening |  | None | 0 | 😾 | 
-| None | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery |  | None | 0 | 😾 | 
-| None | CAUDA-MI: Cross Attention-Guided Unsupervised Domain Adaptation with Mutual Information for Cardiac MRI Segmentation |  | None | 0 | 😾 | 
-| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  | None | 0 | 😾 | 
-| None | CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model |  | None | 0 | 😾 | 
-| None | CENet: Context Enhancement Network for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis |  | None | 0 | 😾 | 
-| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  | None | 0 | 😾 | 
-| None | CSAL-3D: Cold-start Active Learning for 3D Medical Image Segmentation via SSL-driven Uncertainty-Reinforced Diversity Sampling |  | None | 0 | 😾 | 
-| None | CSAP-Assist: Instrument-Agent Dialogue Empowered Vision-Language Models for Collaborative Surgical Action Planning |  | None | 0 | 😾 | 
-| None | CS²C: Collaborative Spatial and Spectral Neural Clustering for Organelle Segmentation from Volumetric Electron Microscopy |  | None | 0 | 😾 | 
-| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  | None | 0 | 😾 | 
-| None | CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs |  | None | 0 | 😾 | 
-| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  | None | 0 | 😾 | 
-| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  | None | 0 | 😾 | 
-| None | Calibration in Multiple Instance Learning: Evaluating Aggregation Methods for Ultrasound-Based Diagnosis |  | None | 0 | 😾 | 
-| None | CardiacCLIP: Video-based CLIP Adaptation for LVEF Prediction in a Few-shot Manner |  | None | 0 | 😾 | 
-| None | CardiacFlow: 3D+t Four-Chamber Cardiac Shape Completion and Generation via Flow Matching |  | None | 0 | 😾 | 
-| None | CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity |  | None | 0 | 😾 | 
-| None | Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics |  | None | 0 | 😾 | 
-| None | Causality-driven Spatio-temporal Generator for Multi-phase Contrast-enhanced CT Synthesis |  | None | 0 | 😾 | 
-| None | CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer |  | None | 0 | 😾 | 
-| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  | None | 0 | 😾 | 
-| None | Cervical-RG: Automated Cervical Cancer Report Generation from 3D Multi-sequence MRI via CoT-guided Hierarchical Experts |  | None | 0 | 😾 | 
-| None | CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery |  | None | 0 | 😾 | 
-| None | Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading |  | None | 0 | 😾 | 
-| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  | None | 0 | 😾 | 
-| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  | None | 0 | 😾 | 
-| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  | None | 0 | 😾 | 
-| None | Clinical Prior-Guided Tumor Generation for Breast Ultrasound with Cross Domain Adaptation |  | None | 0 | 😾 | 
-| None | Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging |  | None | 0 | 😾 | 
-| None | Clinically-guided Data Synthesis for Laryngeal Lesion Detection |  | None | 0 | 😾 | 
-| None | ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data |  | None | 0 | 😾 | 
-| None | Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation |  | None | 0 | 😾 | 
-| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  | None | 0 | 😾 | 
-| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  | None | 0 | 😾 | 
-| None | CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis |  | None | 0 | 😾 | 
-| None | Coarse-to-Fine Medical Image Translation by Incorporating Deterministic Guidance and Probabilistic Refinement |  | None | 0 | 😾 | 
-| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  | None | 0 | 😾 | 
-| None | Compact Training-free NAS with Alternating Evolution Game for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Concept-induced Graph Perception Model for Interpretable Diagnosis |  | None | 0 | 😾 | 
-| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  | None | 0 | 😾 | 
-| None | Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data |  | None | 0 | 😾 | 
-| None | Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA |  | None | 0 | 😾 | 
-| None | Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction |  | None | 0 | 😾 | 
-| None | Conformal Prediction for Image Segmentation Using Morphological Prediction Sets |  | None | 0 | 😾 | 
-| None | Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models |  | None | 0 | 😾 | 
-| None | Continual Retinal Vision-Language Pre-training upon Incremental Imaging Modalities |  | None | 0 | 😾 | 
-| None | Contour Makes It Stronger: Cross-Domain Cephalometric Landmark Detection Based on Contour Priors |  | None | 0 | 😾 | 
-| None | Contrast Flow Pattern and Cross-Phase Specificity-Aware Diffusion Model for NCCT-to-Multiphase CECT Synthesis |  | None | 0 | 😾 | 
-| None | Contrastive Anatomy-Contrast Disentanglement: A Domain-General MRI Harmonization Method |  | None | 0 | 😾 | 
-| None | Contrastive Disentanglement Learning Framework for Multi-lead Wearable ECG Denoising |  | None | 0 | 😾 | 
-| None | Contrastive Knowledge-Guided Large Language Models for Medical Report Generation |  | None | 0 | 😾 | 
-| None | Contrastive Masked Video Modeling for Coronary Angiography Diagnosis |  | None | 0 | 😾 | 
-| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  | None | 0 | 😾 | 
-| None | Controllable Image Synthesis Workflow for Enhancing Cervical Cell Detection |  | None | 0 | 😾 | 
-| None | Controllable Skin Synthesis via Lesion-Focused Vector Autoregression Model |  | None | 0 | 😾 | 
-| None | Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods |  | None | 0 | 😾 | 
-| None | Core-Periphery Principle Guided State Space Model for Functional Connectome Classification |  | None | 0 | 😾 | 
-| None | Coronary Artery Calcification segmentation by using cross-frequency conditioner and geometric priors Learning |  | None | 0 | 😾 | 
-| None | CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching |  | None | 0 | 😾 | 
-| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  | None | 0 | 😾 | 
-| None | Cross-Modal Contrastive Learning for Emotion Recognition: Aligning ECG with EEG-Derived Features |  | None | 0 | 😾 | 
-| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  | None | 0 | 😾 | 
-| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  | None | 0 | 😾 | 
-| None | Cross-Modality Supervised Prostate Segmentation on CBCT for Adaptive Radiotherapy |  | None | 0 | 😾 | 
-| None | Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction |  | None | 0 | 😾 | 
-| None | CurConMix: A Curriculum Contrastive Learning Framework for Enhancing Surgical Action Triplet Recognition |  | None | 0 | 😾 | 
-| None | Cycle Context Verification for In-Context Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | CytoSAE: Interpretable Cell Embeddings for Hematology |  | None | 0 | 😾 | 
-| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  | None | 0 | 😾 | 
-| None | D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM |  | None | 0 | 😾 | 
-| None | D2Diff: A Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis |  | None | 0 | 😾 | 
-| None | D2MAE: Diffusional Deblurring MAE for Ultrasound Image Pre-training |  | None | 0 | 😾 | 
-| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  | None | 0 | 😾 | 
-| None | D4Recon: Dual-stage Deformation and Dual-scale Depth Guidance for Endoscopic Reconstruction |  | None | 0 | 😾 | 
-| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  | None | 0 | 😾 | 
-| None | DCKAN: A Dual-Coordinate KAN Framework for Fibrous Cap Segmentation on Carotid OCT |  | None | 0 | 😾 | 
-| None | DCT-Net: Dual-branch CT Reconstruction from Orthogonal X-rays with Diffusion Model and Contrastive Learning |  | None | 0 | 😾 | 
-| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  | None | 0 | 😾 | 
-| None | DGHFA: Dynamic Gradient and Hierarchical Feature Alignment for Robust Distillation of Medical VLMs |  | None | 0 | 😾 | 
-| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  | None | 0 | 😾 | 
-| None | DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal |  | None | 0 | 😾 | 
-| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  | None | 0 | 😾 | 
-| None | DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model |  | None | 0 | 😾 | 
-| None | DINO Adapted to X-Ray (DAX): Foundation Models for Intraoperative X-Ray Imaging |  | None | 0 | 😾 | 
-| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  | None | 0 | 😾 | 
-| None | DPGS-Net: Dual Prior-Guided Cross-Domain Adaptive Framework for Ultrasound Image Segmentation |  | None | 0 | 😾 | 
-| None | DSFC: Deformation-Aware Learning Strategy via Self-sustaining Feedback Cycle for Medical Vision Foundation Model Domain Adaptation |  | None | 0 | 😾 | 
-| None | Decentralized Noise Handling in Medical Imaging: Encoder-Decoder Based Federated Imputation for Robust Training |  | None | 0 | 😾 | 
-| None | Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction |  | None | 0 | 😾 | 
-| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  | None | 0 | 😾 | 
-| None | DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology |  | None | 0 | 😾 | 
-| None | Delving into Out-of-Distribution Detection with Medical Vision-Language Models |  | None | 0 | 😾 | 
-| None | DetectDiffuse: Aggregation- and Attention-driven Universal Lesion Detection with Multi-scale Diffusion Model |  | None | 0 | 😾 | 
-| None | DiDGen: Diffusion-based Dual-task Synthesis for Dermoscopic Data Generation |  | None | 0 | 😾 | 
-| None | Dia-LLaMA: Towards Large Language Model-driven CT Report Generation |  | None | 0 | 😾 | 
-| None | Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation |  | None | 0 | 😾 | 
-| None | DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion |  | None | 0 | 😾 | 
-| None | DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model |  | None | 0 | 😾 | 
-| None | DiffStain: Conditioned Diffusion-Based Semantic Virtual Staining with Mask Guidance |  | None | 0 | 😾 | 
-| None | Difficulty Estimation for Image-Specific Medical Image Segmentation Quality Control |  | None | 0 | 😾 | 
-| None | Diffusing Boundaries: CBCT-to-CT Translation with Extended Field of View |  | None | 0 | 😾 | 
-| None | Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection |  | None | 0 | 😾 | 
-| None | Diffusion-based Multi-modal MR Fusion for TOF-MRA Image Synthesis |  | None | 0 | 😾 | 
-| None | Diffusion-based Virtual Staining from Polarimetric Mueller Matrix Imaging |  | None | 0 | 😾 | 
-| None | Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration |  | None | 0 | 😾 | 
-| None | DisDiff: Disentanglement Diffusion Network for MR Imaging Translation |  | None | 0 | 😾 | 
-| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  | None | 0 | 😾 | 
-| None | Distilling foundation models for robust and efficient models in digital pathology |  | None | 0 | 😾 | 
-| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  | None | 0 | 😾 | 
-| None | Domain Generalization for Mammogram Classification by Suppressing Domain-Specific Features |  | None | 0 | 😾 | 
-| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  | None | 0 | 😾 | 
-| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  | None | 0 | 😾 | 
-| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  | None | 0 | 😾 | 
-| None | DpDNet: An Dual-Prompt-Driven Network for Universal PET-CT Segmentation |  | None | 0 | 😾 | 
-| None | Dual Correlation-aware Mamba for Microvascular Obstruction Identification in Non-contrast Cine Cardiac Magnetic Resonance |  | None | 0 | 😾 | 
-| None | Dual Knowledge-Aware Guidance for Source-Free Domain Adaptive Fundus Image Segmentation |  | None | 0 | 😾 | 
-| None | Dual Selective Gleason Pattern-Aware Multiple Instance Learning for Grade Group Prediction in Histopathology Images |  | None | 0 | 😾 | 
-| None | Dual-Branch Dynamic Coupling Weakly Supervised Learning for Class-Incremental Histopathological Region Segmentation |  | None | 0 | 😾 | 
-| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  | None | 0 | 😾 | 
-| None | DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning |  | None | 0 | 😾 | 
-| None | DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency |  | None | 0 | 😾 | 
-| None | DyMAS-Net: Dynamic Multi-Scale Adaptive Sampling Network for Efficient Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation |  | None | 0 | 😾 | 
-| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  | None | 0 | 😾 | 
-| None | Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model |  | None | 0 | 😾 | 
-| None | Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction |  | None | 0 | 😾 | 
-| None | E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation |  | None | 0 | 😾 | 
-| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  | None | 0 | 😾 | 
-| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  | None | 0 | 😾 | 
-| None | EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds |  | None | 0 | 😾 | 
-| None | EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration |  | None | 0 | 😾 | 
-| None | EchoCardMAE: Video Masked Auto-Encoders Customized for Echocardiography |  | None | 0 | 😾 | 
-| None | EchoViewCLIP: Advancing Video Quality Control through High-performance View Recognition of Echocardiography |  | None | 0 | 😾 | 
-| None | EchoingECG: An Electrocardiogram Cross-Modal Model for Echocardiogram Tasks |  | None | 0 | 😾 | 
-| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  | None | 0 | 😾 | 
-| None | Edge-semantic Synergy Fusion and Adaptive Noise-aware for Weakly Supervised Pathological Tissue Segmentation |  | None | 0 | 😾 | 
-| None | EdgeANet: A Transformer-based Edge Representation Learning Network for Canine X-ray Verification |  | None | 0 | 😾 | 
-| None | EfficientMedNeXt: Multi-Receptive Dilated Convolutions for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training |  | None | 0 | 😾 | 
-| None | End-to-End 3D Tooth Landmark Detection with Fuzzy Tooth Localization |  | None | 0 | 😾 | 
-| None | Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting |  | None | 0 | 😾 | 
-| None | Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records |  | None | 0 | 😾 | 
-| None | Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion |  | None | 0 | 😾 | 
-| None | Endo-GSMT: Endoscopic Monocular Scene Reconstruction with Dynamic Gaussian Splatting and Motion Tracking |  | None | 0 | 😾 | 
-| None | Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video |  | None | 0 | 😾 | 
-| None | EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy |  | None | 0 | 😾 | 
-| None | EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting |  | None | 0 | 😾 | 
-| None | EndoGen: Conditional Autoregressive Endoscopic Video Generation |  | None | 0 | 😾 | 
-| None | EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training |  | None | 0 | 😾 | 
-| None | EndoMetric: Near-Light Monocular Metric Scale Estimation in Endoscopy |  | None | 0 | 😾 | 
-| None | EndoPlanar: Deformable Planar-based Gaussian Splatting for Surgical Scene Reconstruction |  | None | 0 | 😾 | 
-| None | Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation |  | None | 0 | 😾 | 
-| None | Endoscopic Depth-of-Field Expansion via Cascaded Network with Two-streamed Multi-scale Fusion |  | None | 0 | 😾 | 
-| None | Endplate3D-QCT: A High-Resolution Dataset and Benchmark for Automated 3D Segmentation of Lumbar Vertebral Endplates in QCT |  | None | 0 | 😾 | 
-| None | Enforcing Geometric Constraints of Surface Normal and Pose for Self-supervised Monocular Depth Estimation on Laparoscopic Images |  | None | 0 | 😾 | 
-| None | Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning |  | None | 0 | 😾 | 
-| None | Enhancing Soft Tissue Sarcoma Classification by Mitigating Patient-Specific Bias in Whole Slide Images |  | None | 0 | 😾 | 
-| None | Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation |  | None | 0 | 😾 | 
-| None | Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation |  | None | 0 | 😾 | 
-| None | Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and Beyond |  | None | 0 | 😾 | 
-| None | Explain Any Pathological Concept: Discovering Hierarchical Explanations for Pathology Foundation Models |  | None | 0 | 😾 | 
-| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  | None | 0 | 😾 | 
-| None | Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion |  | None | 0 | 😾 | 
-| None | Explainable Integrative Bipartite Graph Convolutional Neural Network for Predicting Ejection Fraction in Echocardiography |  | None | 0 | 😾 | 
-| None | Exploring Text-enhanced Mixture-of-Experts for Semi-supervised Medical Image Segmentation with Composite Data |  | None | 0 | 😾 | 
-| None | Exploring the Design Space of 3D MLLMs for CT Report Generation |  | None | 0 | 😾 | 
-| None | Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification |  | None | 0 | 😾 | 
-| None | F2PASeg: Feature Fusion for Pituitary Anatomy Segmentation in Endoscopic Surgery |  | None | 0 | 😾 | 
-| None | FDAS: Foundation Model Distillation and Anatomic Structure-aware Multi-task Learning for Self-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | FDF-VQVAE: A Frequency Disentanglement and Fusion Learning Framework for Multi-Sequence MRI Enhancement |  | None | 0 | 😾 | 
-| None | FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation |  | None | 0 | 😾 | 
-| None | FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction |  | None | 0 | 😾 | 
-| None | FMM-Diff: A Feature Mapping and Merging Diffusion Model for MRI Generation with Missing Modality |  | None | 0 | 😾 | 
-| None | FPN-in-FPN: A Nested Multi-Scale Aggregation Network for Polyp Segmentation |  | None | 0 | 😾 | 
-| None | FSA-Net: Fractal-driven Synergistic Anatomy-aware Network for Segmenting White Line of Toldt in Laparoscopic Images |  | None | 0 | 😾 | 
-| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  | None | 0 | 😾 | 
-| None | Facial Appearance Prediction with Conditional Multi-scale Autoregressive Modeling for Orthognathic Surgical Planning |  | None | 0 | 😾 | 
-| None | Fair-MoE: Medical Fairness-Oriented Mixture of Experts in Vision-Language Models |  | None | 0 | 😾 | 
-| None | Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis |  | None | 0 | 😾 | 
-| None | Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss |  | None | 0 | 😾 | 
-| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  | None | 0 | 😾 | 
-| None | Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery |  | None | 0 | 😾 | 
-| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  | None | 0 | 😾 | 
-| None | FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation |  | None | 0 | 😾 | 
-| None | Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose |  | None | 0 | 😾 | 
-| None | Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation |  | None | 0 | 😾 | 
-| None | FilterDiff: Noise-free Frequency-domain Diffusion Models for Accelerated MRI Reconstruction |  | None | 0 | 😾 | 
-| None | Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model |  | None | 0 | 😾 | 
-| None | Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis |  | None | 0 | 😾 | 
-| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  | None | 0 | 😾 | 
-| None | Flip Distribution Alignment VAE for Multi-Phase MRI Synthesis |  | None | 0 | 😾 | 
-| None | Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality |  | None | 0 | 😾 | 
-| None | FluoroSAM: A Language-promptable Foundation Model for Flexible X-ray Image Segmentation |  | None | 0 | 😾 | 
-| None | Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification |  | None | 0 | 😾 | 
-| None | Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings |  | None | 0 | 😾 | 
-| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  | None | 0 | 😾 | 
-| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  | None | 0 | 😾 | 
-| None | Frequency Strikes Back: Boosting Parameter-Efficient Foundation Model Adaptation for Medical Imaging |  | None | 0 | 😾 | 
-| None | Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Frequency-enhanced Multi-granularity Context Network for Efficient Vertebrae Segmentation |  | None | 0 | 😾 | 
-| None | From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-specific Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | From Pixels to Prognosis: A Multi-Modal Attention-based Framework for Visceral Adipose Tissue Estimation |  | None | 0 | 😾 | 
-| None | From Sight to Skill: A Surgeon-Centered Augmented Reality System for Ureteroscopy Training |  | None | 0 | 😾 | 
-| None | From Slices to Volumes: Multi-Scale Fusion of 2D and 3D Features for CT Scan Report Generation |  | None | 0 | 😾 | 
-| None | From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation |  | None | 0 | 😾 | 
-| None | FunBench: Benchmarking Fundus Reading Skills of MLLMs |  | None | 0 | 😾 | 
-| None | Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images |  | None | 0 | 😾 | 
-| None | Future Slot Prediction for Unsupervised Object Discovery in Surgical Video |  | None | 0 | 😾 | 
-| None | GA-SAM: Geometry-Aware SAM Adaptation with Sparse Annotation-Driven Point Cloud Completion |  | None | 0 | 😾 | 
-| None | GE2Hist: Generating Histology Images from Single-cell Gene Expression via Cross-modal Generative Network |  | None | 0 | 😾 | 
-| None | GEPAR3D: Geometry Prior-Assisted Learning for 3D Tooth Segmentation |  | None | 0 | 😾 | 
-| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  | None | 0 | 😾 | 
-| None | GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation |  | None | 0 | 😾 | 
-| None | GLM-SFNet: Global-Local Vision-Mamba with Semantic Fusion for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | GRASP-PsONet: Gradient-based Removal of Spurious Patterns for PsOriasis Severity Classification |  | None | 0 | 😾 | 
-| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  | None | 0 | 😾 | 
-| None | General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound |  | None | 0 | 😾 | 
-| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  | None | 0 | 😾 | 
-| None | Geometric-Guided Few-Shot Dental Landmark Detection with Human-Centric Foundation Model |  | None | 0 | 😾 | 
-| None | Geometry-Guided Local Alignment for Multi-View Visual Language Pre-Training in Mammography |  | None | 0 | 😾 | 
-| None | Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG |  | None | 0 | 😾 | 
-| None | Global and Local Vision-Language Alignment for Few-Shot Learning and Few-Shot OOD Detection |  | None | 0 | 😾 | 
-| None | GoCa: Trustworthy Multi-Modal RAG with Explicit Thinking Distillation for Reliable Decision-Making in Med-LVLMs |  | None | 0 | 😾 | 
-| None | GrInAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation |  | None | 0 | 😾 | 
-| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  | None | 0 | 😾 | 
-| None | Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading |  | None | 0 | 😾 | 
-| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  | None | 0 | 😾 | 
-| None | Graph-based Neighbor-Aware Network for Gaze-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images |  | None | 0 | 😾 | 
-| None | HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics |  | None | 0 | 😾 | 
-| None | HARM3-Fusion: Hierarchical Attentional Representation Learning of Multi-Modal, Multi-Temporal, and Multi-Sequence Fusion for Pathological Complete Response Prediction of Head and Neck Squamous Cell Carcinoma |  | None | 0 | 😾 | 
-| None | HARP: Harmonization and Adaptive Refinement of Pseudo-Labels for Cross-Domain Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | HASD: Hierarchical Adaption for Pathology Slide-Level Domain-Shift |  | None | 0 | 😾 | 
-| None | HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors |  | None | 0 | 😾 | 
-| None | HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation |  | None | 0 | 😾 | 
-| None | HalF-SAM: SAM-based Haustral Fold Detection In Colonoscopy with Debris Suppression and Temporal Consistency |  | None | 0 | 😾 | 
-| None | Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models |  | None | 0 | 😾 | 
-| None | Hard Sample Mining-based Tongue Diagnosis for Fatty Liver Disease Severity Classification |  | None | 0 | 😾 | 
-| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  | None | 0 | 😾 | 
-| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  | None | 0 | 😾 | 
-| None | HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction |  | None | 0 | 😾 | 
-| None | HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation |  | None | 0 | 😾 | 
-| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  | None | 0 | 😾 | 
-| None | Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound |  | None | 0 | 😾 | 
-| None | Hierarchical Feature Learning for Medical Point Clouds via State Space Model |  | None | 0 | 😾 | 
-| None | Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology |  | None | 0 | 😾 | 
-| None | Hierarchical Spatio-temporal Segmentation Network for Ejection Fraction Estimation in Echocardiography Videos |  | None | 0 | 😾 | 
-| None | Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection |  | None | 0 | 😾 | 
-| None | High-Fidelity Unified One-to-Many Medical Image Synthesis via Text-Conditioned Latent Diffusion |  | None | 0 | 😾 | 
-| None | High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation |  | None | 0 | 😾 | 
-| None | High-Precision Mixed Feature Fusion Network Using Hypergraph Computation for Cervical Abnormal Cell Detection |  | None | 0 | 😾 | 
-| None | Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation |  | None | 0 | 😾 | 
-| None | Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy |  | None | 0 | 😾 | 
-| None | HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis |  | None | 0 | 😾 | 
-| None | Hybrid Graph Mamba: Unlocking Non-Euclidean Potential for Accurate Polyp Segmentation |  | None | 0 | 😾 | 
-| None | Hybrid Local-Window-Attention–Assisted U-Net Model for Multimodal Medical-Image Segmentation |  | None | 0 | 😾 | 
-| None | Hybrid State-Space Models and Denoising Training for Unpaired Medical Image Synthesis |  | None | 0 | 😾 | 
-| None | Hybrid-View Attention Network for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound |  | None | 0 | 😾 | 
-| None | HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis |  | None | 0 | 😾 | 
-| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  | None | 0 | 😾 | 
-| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  | None | 0 | 😾 | 
-| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  | None | 0 | 😾 | 
-| None | IFRFNet: Iterative Frequency Restoration-Fusion Network for Fast System Matrix Calibration on Magnetic Particle Image |  | None | 0 | 😾 | 
-| None | IKAN: Interactive KAN with Modulation Fusion for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  | None | 0 | 😾 | 
-| None | IMREPET: Implicit Neural Representation for Unsupervised Dynamic PET Reconstruction |  | None | 0 | 😾 | 
-| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  | None | 0 | 😾 | 
-| None | ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization |  | None | 0 | 😾 | 
-| None | ITAdaptor: Image-Tag Adapter Framework with Knowledge Enhancement for Radiology Report Generation |  | None | 0 | 😾 | 
-| None | ITMatch: Arch-Guided Semi-Supervised Tooth Arrangement via Iterative Confidence Evaluation |  | None | 0 | 😾 | 
-| None | Implicit Deformable Medical Image Registration with Learnable Kernels |  | None | 0 | 😾 | 
-| None | Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Improved Baselines with Synchronized Encoding for Universal Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Improved Tumor Segmentation using Selective Synthetic Augmentation for Enhanced Surgical Planning in Breast MRI |  | None | 0 | 😾 | 
-| None | Improving Autism Detection with Multimodal Behavioral Analysis |  | None | 0 | 😾 | 
-| None | Improving Medical Image Segmentation with Implicit Representation and Noisy Label Robustness |  | None | 0 | 😾 | 
-| None | Improving Motor Imagery EEG Signal Quality with Dynamic Visual Cues: An Innovative Paradigm and Dataset |  | None | 0 | 😾 | 
-| None | Improving OCTA Imaging through Cross-Domain Adaptation: A Noise-Guided Framework Using Intralipid-Enhanced Rat Data |  | None | 0 | 😾 | 
-| None | Indepth Integration of Multi-granularity Features from Dual-modal for Disease Classification |  | None | 0 | 😾 | 
-| None | Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX |  | None | 0 | 😾 | 
-| None | Influence of Classification Task and Distribution Shift Type on OOD Detection in Fetal Ultrasound |  | None | 0 | 😾 | 
-| None | Information Bottleneck-based Causal Attention for Multi-label Medical Image Recognition |  | None | 0 | 😾 | 
-| None | InstructX2X: An Interpretable Local Editing Model for Counterfactual Medical Image Generation |  | None | 0 | 😾 | 
-| None | Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting |  | None | 0 | 😾 | 
-| None | Integrate Semantic Radiomics as Prior Evidence into Evidential Deep Learning for Pelvic Lipomatosis Diagnosis |  | None | 0 | 😾 | 
-| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  | None | 0 | 😾 | 
-| None | Interactive Segmentation and Report Generation for CT Images |  | None | 0 | 😾 | 
-| None | Interpretable fMRI Captioning via Contrastive Learning |  | None | 0 | 😾 | 
-| None | Intra- and Cross-View Enhancement for OCTA Imaging |  | None | 0 | 😾 | 
-| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  | None | 0 | 😾 | 
-| None | Is Hyperbolic Space All You Need for Medical Anomaly Detection? |  | None | 0 | 😾 | 
-| None | KMUNet: A novel medical image segmentation model based on KAN and Mamba |  | None | 0 | 😾 | 
-| None | KidneyDepth: A Synthetic Kidney Dataset for Metric Depth Estimation in Ureteroscopy |  | None | 0 | 😾 | 
-| None | Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning |  | None | 0 | 😾 | 
-| None | Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation |  | None | 0 | 😾 | 
-| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  | None | 0 | 😾 | 
-| None | Knowledge-Enhanced Complementary Information Fusion with Temporal Heterogeneous Graph Learning for Disease Prediction |  | None | 0 | 😾 | 
-| None | Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification |  | None | 0 | 😾 | 
-| None | LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | LEAVS: An LLM-based Labeler for Abdominal CT Supervision |  | None | 0 | 😾 | 
-| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  | None | 0 | 😾 | 
-| None | LIP-CAR: a learned inverse problem approach for medical imaging with contrast agent reduction |  | None | 0 | 😾 | 
-| None | LKA: Large Kernel Adapter for Enhanced Medical Image Classification |  | None | 0 | 😾 | 
-| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  | None | 0 | 😾 | 
-| None | LTSE: Language-guided Tissue Referring Segmentation in Pathology Images with Adaptive Expert Mixture |  | None | 0 | 😾 | 
-| None | LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images |  | None | 0 | 😾 | 
-| None | Language of Stains: Tokenization Enhances Multiplex Immunofluorescence and Histology Image Synthesis |  | None | 0 | 😾 | 
-| None | Last Layer Laplacian Pseudocoresets for Robust Medical Image Analysis |  | None | 0 | 😾 | 
-| None | Latent Motion Profiling for Annotation-free Cardiac Phase Detection in Adult and Fetal Echocardiography Videos |  | None | 0 | 😾 | 
-| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification |  | None | 0 | 😾 | 
-| None | Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction |  | None | 0 | 😾 | 
-| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  | None | 0 | 😾 | 
-| None | Learning Foundation Models from Multi-Organ Medical Images by Capturing Consistency and Diversity of Anatomical Structures |  | None | 0 | 😾 | 
-| None | Learning Segmentation from Radiology Reports |  | None | 0 | 😾 | 
-| None | Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment |  | None | 0 | 😾 | 
-| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  | None | 0 | 😾 | 
-| None | Lesion-Aware Post-Training of Latent Diffusion Models for Synthesizing Diffusion MRI from CT Perfusion |  | None | 0 | 😾 | 
-| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  | None | 0 | 😾 | 
-| None | LesionDiffusion: Towards Text-controlled General Lesion Synthesis |  | None | 0 | 😾 | 
-| None | Leveraging Diffusion Models for Continual Test-Time Adaptation in Fundus Image Classification |  | None | 0 | 😾 | 
-| None | Leveraging Semantic Asymmetry for Accurate Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT |  | None | 0 | 😾 | 
-| None | Leveraging Visual Prompt with Diffusion Adversarial Network for Radiotherapy Dose Prediction |  | None | 0 | 😾 | 
-| None | Localization Lens for Improving Medical Vision-Language Models |  | None | 0 | 😾 | 
-| None | Location-Aware Parameter Fine-Tuning for Multimodal Image Segmentation |  | None | 0 | 😾 | 
-| None | Location-Guided Automated Lesion Captioning in Whole-body PET/CT Images |  | None | 0 | 😾 | 
-| None | Longitudinal MRI-Clinical Multimodal Fusion for pCR Prediction in Breast Cancer |  | None | 0 | 😾 | 
-| None | Longitudinal anatomical attention maps for recognizing diagnostic errors from radiologists’ eye movements |  | None | 0 | 😾 | 
-| None | Lymph Node Metastasis Classification with Prototype-guided Multiple Instance Aggregation and Heterogeneous Feature Fusion |  | None | 0 | 😾 | 
-| None | Lymphoma Prognosis with Lesion-Anatomy Context Fusion and Attention-Based Multi-Lesion Aggregation |  | None | 0 | 😾 | 
-| None | M3HL: Mutual Mask Mix with High-Low Level Feature Consistency for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  | None | 0 | 😾 | 
-| None | MAK-GAN: Multi-level Adaptive Convolutional Kernels for Asymmetric Multi-modal PET Reconstruction |  | None | 0 | 😾 | 
-| None | MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment |  | None | 0 | 😾 | 
-| None | MAMBA-Based Weakly Supervised Medical Image Segmentation with Cross-Modal Textual Information |  | None | 0 | 😾 | 
-| None | MARSeg: Enhancing Medical Image Segmentation with MAR and Adaptive Feature Fusion |  | None | 0 | 😾 | 
-| None | MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts |  | None | 0 | 😾 | 
-| None | MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation |  | None | 0 | 😾 | 
-| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  | None | 0 | 😾 | 
-| None | MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction |  | None | 0 | 😾 | 
-| None | MELON: Multimodal Mixture-of-Experts with Spectral-Temporal Fusion for Long-Term MObility EstimatioN in Critical Care |  | None | 0 | 😾 | 
-| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  | None | 0 | 😾 | 
-| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  | None | 0 | 😾 | 
-| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  | None | 0 | 😾 | 
-| None | MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis |  | None | 0 | 😾 | 
-| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  | None | 0 | 😾 | 
-| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  | None | 0 | 😾 | 
-| None | MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification |  | None | 0 | 😾 | 
-| None | MOSCARD - Multimodal Opportunistic Screening for Cardiovascular Adverse events with Causal Reasoning and De-confounding |  | None | 0 | 😾 | 
-| None | MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning |  | None | 0 | 😾 | 
-| None | MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering |  | None | 0 | 😾 | 
-| None | MRI Motion Artifact Correction via Frequency-Assisted Artifact Disentanglement and Confidence-Guided Knowledge Distillation |  | None | 0 | 😾 | 
-| None | MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis |  | None | 0 | 😾 | 
-| None | MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment |  | None | 0 | 😾 | 
-| None | MSDG-StyleNet: Multi-source Unsupervised Domain-Generalized CBCT-to-CT Translation with Style-Consistent Disentangled Representations |  | None | 0 | 😾 | 
-| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  | None | 0 | 😾 | 
-| None | MSWAL: 3D Multi-class Segmentation of Whole Abdominal Lesions Dataset |  | None | 0 | 😾 | 
-| None | MT-WilmsNet: A Multi-Level Transformer Fusion Network for Wilms’ Tumor Segmentation and Metastasis Prediction |  | None | 0 | 😾 | 
-| None | MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentation in 4D Ultrasound |  | None | 0 | 😾 | 
-| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  | None | 0 | 😾 | 
-| None | MadCLIP: Few-shot Medical Anomaly Detection with CLIP |  | None | 0 | 😾 | 
-| None | Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation |  | None | 0 | 😾 | 
-| None | MambaMER: Adaptive EEG-Guided Multimodal Emotion Recognition with Mamba |  | None | 0 | 😾 | 
-| None | MammoTracker: Mask-Guided Lesion Tracking in Temporal Mammograms |  | None | 0 | 😾 | 
-| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  | None | 0 | 😾 | 
-| None | Mask2Surface: Motion Correction and Super-Resolution for Cardiac Surface Reconstruction Using Latent Diffusion |  | None | 0 | 😾 | 
-| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  | None | 0 | 😾 | 
-| None | MatchGen: Detecting Medical Abnormal Region by Generating Matched Normal Regions |  | None | 0 | 😾 | 
-| None | MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification |  | None | 0 | 😾 | 
-| None | Med-BiasX: Robust Medical Visual Question Answering with Language Biases |  | None | 0 | 😾 | 
-| None | Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis |  | None | 0 | 😾 | 
-| None | MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions |  | None | 0 | 😾 | 
-| None | MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis |  | None | 0 | 😾 | 
-| None | MedGCD: Generalized Category Discovery in Medical Imaging |  | None | 0 | 😾 | 
-| None | MedGNN: General Medical Image Recognition Network via GNN Visual Representations |  | None | 0 | 😾 | 
-| None | MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization |  | None | 0 | 😾 | 
-| None | MedICL: In-Context Learning for Semantically Enhanced AKI Prediction in Cardiac Surgery |  | None | 0 | 😾 | 
-| None | MedIQA: A Scalable Foundation Model for Prompt-Driven Medical Image Quality Assessment |  | None | 0 | 😾 | 
-| None | MedPro-DG: Domain-Aware Masked Contrastive Prompt Learning of Institution Generalization for Outcome Prediction |  | None | 0 | 😾 | 
-| None | MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis |  | None | 0 | 😾 | 
-| None | MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning |  | None | 0 | 😾 | 
-| None | Medical Large Vision Language Models with Multi-Image Visual Ability |  | None | 0 | 😾 | 
-| None | Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound |  | None | 0 | 😾 | 
-| None | Memory-Augmented Incomplete Multimodal Survival Prediction via Cross-Slide and Gene-Attentive Hypergraph Learning |  | None | 0 | 😾 | 
-| None | Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation |  | None | 0 | 😾 | 
-| None | Mesh4D: A Motion-Aware Multi-View Variational Autoencoder for 3D+t Mesh Reconstruction |  | None | 0 | 😾 | 
-| None | Meta-Learning Physics-Informed Neural Networks for Personalized Cardiac Modeling |  | None | 0 | 😾 | 
-| None | Meta-Learning-Driven CT Morphology Disentangled Diffusion Model for Multi-Region SPECT Attenuation Correction |  | None | 0 | 😾 | 
-| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  | None | 0 | 😾 | 
-| None | Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts |  | None | 0 | 😾 | 
-| None | MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis |  | None | 0 | 😾 | 
-| None | MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images |  | None | 0 | 😾 | 
-| None | Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions |  | None | 0 | 😾 | 
-| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  | None | 0 | 😾 | 
-| None | Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing |  | None | 0 | 😾 | 
-| None | MixStyleFlow: Domain Generalization in Medical Image Segmentation using Normalizing Flows |  | None | 0 | 😾 | 
-| None | MoDiff: A Morphology-Emphasized Diffusion Model for Ambiguous Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts |  | None | 0 | 😾 | 
-| None | MoMIL: Mixture of Multi-Instance Learners for Modeling Multiple Compound Activities in High Content Imaging |  | None | 0 | 😾 | 
-| None | MoST-IG: Morphology-Guided Spatial Transcriptomics Integration via Visual-Genomic Graph Optimal Transport |  | None | 0 | 😾 | 
-| None | Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration |  | None | 0 | 😾 | 
-| None | More performant and scalable: Rethinking contrastive vision-language pre-training of radiology in the LLM era |  | None | 0 | 😾 | 
-| None | MorphoBoost: Morphology-Driven Boundary Enhancement Model for Accurate Segmentation of Langerhans Cells in Corneal Confocal Microscopy Images |  | None | 0 | 😾 | 
-| None | Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow |  | None | 0 | 😾 | 
-| None | MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy |  | None | 0 | 😾 | 
-| None | Multi-Agent Collaboration for Integrating Echocardiography Expertise in Multi-Modal Large Language Models |  | None | 0 | 😾 | 
-| None | Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis |  | None | 0 | 😾 | 
-| None | Multi-Level Gated U-Net for Denoising TMR Sensor-Based MCG Signals |  | None | 0 | 😾 | 
-| None | Multi-Masked Querying Network for Robust Emotion Recognition from Incomplete Multi-Modal Physiological Signals |  | None | 0 | 😾 | 
-| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  | None | 0 | 😾 | 
-| None | Multi-Modal Progressive Fusion for ASD Screening Using Smartphone Video |  | None | 0 | 😾 | 
-| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  | None | 0 | 😾 | 
-| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  | None | 0 | 😾 | 
-| None | Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing |  | None | 0 | 😾 | 
-| None | Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology |  | None | 0 | 😾 | 
-| None | Multi-modal MRI Translation via Evidential Regression and Distribution Calibration |  | None | 0 | 😾 | 
-| None | Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition |  | None | 0 | 😾 | 
-| None | Multi-scale Attention-based Multiple Instance Learning for Breast Cancer Diagnosis |  | None | 0 | 😾 | 
-| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  | None | 0 | 😾 | 
-| None | Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation |  | None | 0 | 😾 | 
-| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  | None | 0 | 😾 | 
-| None | Multifrequency Neural Network-based Wave Inversion in MR Elastography |  | None | 0 | 😾 | 
-| None | Multimodal Fusion Network with Distribution-based Tumor-Marker Imputation for Multi-Origin Metastatic Cervical Lymphadenopathy Classification |  | None | 0 | 😾 | 
-| None | Multimodal Hypergraph Guide Learning for Non-Invasive ccRCC Survival Prediction |  | None | 0 | 😾 | 
-| None | Multimodal Imputation of Imaging-derived Phenotypes from Genomic and Blood-based Biomarkers Enhances Common Disease Discovery |  | None | 0 | 😾 | 
-| None | Multimodal Prompt Sequence Learning for Interactive Segmentation of Vascular Structures |  | None | 0 | 😾 | 
-| None | Multiscale Graph and Multi-Step Cross-Frame Mamba for Myocarditis Lesion Segmentation |  | None | 0 | 😾 | 
-| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Multiview Feature Fusion and Contrastive Learning for Drug-Target Interaction Prediction |  | None | 0 | 😾 | 
-| None | MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction |  | None | 0 | 😾 | 
-| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | NAVIUS: Navigated Augmented Reality Visualization for Ureteroscopic Surgery |  | None | 0 | 😾 | 
-| None | NERO: Explainable Out-of-Distribution Detection with Neuron-level Relevance in Gastrointestinal Imaging |  | None | 0 | 😾 | 
-| None | NQNN: Noise-aware Quantum Neural Networks for Medical Image Classification |  | None | 0 | 😾 | 
-| None | Navigational Bronchoscopy in Critical Care via End-to-End Pose Regression |  | None | 0 | 😾 | 
-| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  | None | 0 | 😾 | 
-| None | Neural Proteomics Fields for Super-resolved Spatial Proteomics Prediction |  | None | 0 | 😾 | 
-| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  | None | 0 | 😾 | 
-| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  | None | 0 | 😾 | 
-| None | New Multimodal Similarity Measure for Image Registration via Modeling Local Functional Dependence with Linear Combination of Learned Basis Functions |  | None | 0 | 😾 | 
-| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  | None | 0 | 😾 | 
-| None | No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-K Patch Sampling |  | None | 0 | 😾 | 
-| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  | None | 0 | 😾 | 
-| None | Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation |  | None | 0 | 😾 | 
-| None | Noisy Label Refinement Based on Discrete Diffusion Process in 3D Ossicle Segmentation |  | None | 0 | 😾 | 
-| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  | None | 0 | 😾 | 
-| None | Non-Salient Object Segmentation in Medical Images via Pre-trained Multi-Granularity Masked Autoencoders |  | None | 0 | 😾 | 
-| None | ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | OFF-CLIP: Improving Normal Detection Confidence in Radiology CLIP with Simple Off-Diagonal Term Auto-Adjustment |  | None | 0 | 😾 | 
-| None | OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport |  | None | 0 | 😾 | 
-| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  | None | 0 | 😾 | 
-| None | Occlusion-free 4D Gaussians for Open Surgery Videos Using Multi-Camera Shadowless Lamps |  | None | 0 | 😾 | 
-| None | Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation |  | None | 0 | 😾 | 
-| None | OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models |  | None | 0 | 😾 | 
-| None | Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins |  | None | 0 | 😾 | 
-| None | Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model |  | None | 0 | 😾 | 
-| None | Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration |  | None | 0 | 😾 | 
-| None | OralSAM: One-shot Segmentation for Intraoral Ultrasound Videos with Adaptive Feature Correlation and Self-prompting Strategy |  | None | 0 | 😾 | 
-| None | Out-of-Distribution Nuclei Segmentation in Histology Imaging via Liquid Neural Networks with Modern Hopfield Layer |  | None | 0 | 😾 | 
-| None | P2INR-FWI: an Implicit Neural Representation Method for Speed of Sound Image Reconstruction in Ultrasound Computed Tomography |  | None | 0 | 😾 | 
-| None | PATE: Enhancing Few-Shot Pathological Image Classification via Prompt-Based Text-Image Embedding Adaptation |  | None | 0 | 😾 | 
-| None | PCR-MIL: Phenotype Clustering Reinforced Multiple Instance Learning for Whole Slide Image Classification |  | None | 0 | 😾 | 
-| None | PD-INR: Prior-Driven Implicit Neural Representations for TOF-PET Reconstruction |  | None | 0 | 😾 | 
-| None | PD-UniST: Prompt-Driven Universal Model for Unpaired H&E-to-IHC Stain Translation |  | None | 0 | 😾 | 
-| None | PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation |  | None | 0 | 😾 | 
-| None | PDF-Net: Prototype-Aware Dynamic Fusion Network for Nasopharyngeal Carcinoma T-staging Classification with Epstein-Barr Virus DNA |  | None | 0 | 😾 | 
-| None | PFESA: FFT-based Parameter-Free Edge and Structure Attention for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | PLUS: Plug-and-Play Enhanced Liver Lesion Diagnosis Model on Non-Contrast CT Scans |  | None | 0 | 😾 | 
-| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  | None | 0 | 😾 | 
-| None | PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy |  | None | 0 | 😾 | 
-| None | PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development |  | None | 0 | 😾 | 
-| None | PRECISE-AS: Personalized Reinforcement Learning for Efficient Point-of-Care Echocardiography in Aortic Stenosis Diagnosis |  | None | 0 | 😾 | 
-| None | PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning |  | None | 0 | 😾 | 
-| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  | None | 0 | 😾 | 
-| None | PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning |  | None | 0 | 😾 | 
-| None | PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis |  | None | 0 | 😾 | 
-| None | Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling |  | None | 0 | 😾 | 
-| None | Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks |  | None | 0 | 😾 | 
-| None | Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading |  | None | 0 | 😾 | 
-| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  | None | 0 | 😾 | 
-| None | PathVG: A New Benchmark and Dataset for Pathology Visual Grounding |  | None | 0 | 😾 | 
-| None | PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting |  | None | 0 | 😾 | 
-| None | PathoPrompt: Cross-Granular Semantic Alignment for Medical Pathology Vision-Language Models |  | None | 0 | 😾 | 
-| None | Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions |  | None | 0 | 😾 | 
-| None | Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis |  | None | 0 | 😾 | 
-| None | Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis |  | None | 0 | 😾 | 
-| None | Pathology-aware Virtual H&E Staining of Section-free Thick Tissues with Semantic Contrastive Guidance |  | None | 0 | 😾 | 
-| None | Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images |  | None | 0 | 😾 | 
-| None | Pattern-Anchored Adaptive Prototype Learning for Gastroscopic Lesion Detection and Beyond |  | None | 0 | 😾 | 
-| None | PedCLIP: A Vision-Language model for Pediatric X-rays with Mixture of Body part Experts |  | None | 0 | 😾 | 
-| None | PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection |  | None | 0 | 😾 | 
-| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  | None | 0 | 😾 | 
-| None | Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications |  | None | 0 | 😾 | 
-| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  | None | 0 | 😾 | 
-| None | Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction |  | None | 0 | 😾 | 
-| None | Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging |  | None | 0 | 😾 | 
-| None | Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping |  | None | 0 | 😾 | 
-| None | Physics-Informed Neural Operators for Tissue Elasticity Reconstruction |  | None | 0 | 😾 | 
-| None | Physics-driven Signal Regularization in Diffusion Models for Multi-contrast MR Image Synthesis |  | None | 0 | 😾 | 
-| None | Physics-guided deep image prior network for general zero-shot stain deconvolution |  | None | 0 | 😾 | 
-| None | Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET |  | None | 0 | 😾 | 
-| None | PolarDETR: Enhancing Interpretability in Multi-modal Methods for Jawbone Lesion Detection in CBCT |  | None | 0 | 😾 | 
-| None | PolyMamba: Spatial-prior Guided Mamba for Polyp Segmentation with High-Frequency Enhancement |  | None | 0 | 😾 | 
-| None | PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis |  | None | 0 | 😾 | 
-| None | Pose as Clinical Prior: Learning Dual Representations for Scoliosis Screening |  | None | 0 | 😾 | 
-| None | Pre-to-Post Operative MRI Generation with Retrieval-based Visual In-Context Learning |  | None | 0 | 😾 | 
-| None | Predicting Femoral Head Collapse Risk in Osteonecrosis Using Label Tokenization: A Multi-Modality Survival Analysis Approach |  | None | 0 | 😾 | 
-| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  | None | 0 | 😾 | 
-| None | Predicting Radiation Therapy Response based on Dynamic Temporal Feature Difference Fusion from Longitudinal MRI |  | None | 0 | 😾 | 
-| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  | None | 0 | 😾 | 
-| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  | None | 0 | 😾 | 
-| None | ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection |  | None | 0 | 😾 | 
-| None | Probabilistic Integration of Renal Cancer Radiology and Pathology Using Graph Neural Networks |  | None | 0 | 😾 | 
-| None | Probabilistic Prior-Guided Anatomical Alignment for MRI Super-Resolution |  | None | 0 | 😾 | 
-| None | ProgreSpine: Inherently Explainable Prototypical Regression for Spine Age Estimation |  | None | 0 | 😾 | 
-| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  | None | 0 | 😾 | 
-| None | Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images |  | None | 0 | 😾 | 
-| None | PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer |  | None | 0 | 😾 | 
-| None | Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification |  | None | 0 | 😾 | 
-| None | Prototype-Guided Cross-Modal Knowledge Enhancement for Adaptive Survival Prediction |  | None | 0 | 😾 | 
-| None | Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis |  | None | 0 | 😾 | 
-| None | Query-Level Alignment for End-to-End Lesion Detection with Human Gaze |  | None | 0 | 😾 | 
-| None | R1Seg-3D: Rethinking Reasoning Segmentation for Medical 3D CTs |  | None | 0 | 😾 | 
-| None | RANDose: A Region-aware Attention Network for Accurate Radiation Dose Prediction |  | None | 0 | 😾 | 
-| None | RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways |  | None | 0 | 😾 | 
-| None | RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration |  | None | 0 | 😾 | 
-| None | RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis |  | None | 0 | 😾 | 
-| None | RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models |  | None | 0 | 😾 | 
-| None | RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation |  | None | 0 | 😾 | 
-| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  | None | 0 | 😾 | 
-| None | RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment |  | None | 0 | 😾 | 
-| None | RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration |  | None | 0 | 😾 | 
-| None | RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining |  | None | 0 | 😾 | 
-| None | RadKAM: Attention-Driven Kolmogorov-Arnold Model for Automatic Radiation-Induced Lymphopenia Prediction by Multimodal Learning |  | None | 0 | 😾 | 
-| None | RadSAM: Segmenting 3D radiological images with a 2D promptable model |  | None | 0 | 😾 | 
-| None | Radar-Based Imaging for Sign Language Recognition in Medical Communication |  | None | 0 | 😾 | 
-| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  | None | 0 | 😾 | 
-| None | RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features |  | None | 0 | 😾 | 
-| None | ReSeg-UNet: A Reconstruction-Guided Optimization Framework for Enhanced Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking |  | None | 0 | 😾 | 
-| None | Real-Time SLAM-Based Correction and 3D Visualization for Fluorescence Lifetime Imaging |  | None | 0 | 😾 | 
-| None | Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement |  | None | 0 | 😾 | 
-| None | Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction |  | None | 0 | 😾 | 
-| None | Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes |  | None | 0 | 😾 | 
-| None | RedDino: A foundation model for red blood cell analysis |  | None | 0 | 😾 | 
-| None | RefineNet: Elevating Medical Foundation Models through Quality-Centric Data Curation by MLLM-Annotated Proxy Distillation |  | None | 0 | 😾 | 
-| None | RefineSeg: Dual Coarse-to-Fine Learning for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  | None | 0 | 😾 | 
-| None | Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation |  | None | 0 | 😾 | 
-| None | Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation |  | None | 0 | 😾 | 
-| None | Reliable and Interpretable Visual Field Progression Prediction with Diffusion Models and Conformal Risk Control |  | None | 0 | 😾 | 
-| None | ResMAP: Restoring MRIs of Mixed Artifacts by Prompt Cascading Retrieval |  | None | 0 | 😾 | 
-| None | Restyled, Tuning, and Alignment: Taming VLMs for Federated Non-IID Medical Image Analysis |  | None | 0 | 😾 | 
-| None | RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models |  | None | 0 | 😾 | 
-| None | RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports |  | None | 0 | 😾 | 
-| None | Rethinking Multi-view Mammogram Representation Learning via Counterfactual Reasoning with Kolmogorov-Arnold Theorem |  | None | 0 | 😾 | 
-| None | RetiDiff: Diffusion-based Synthesis of Retinal OCT Images for Enhanced Segmentation |  | None | 0 | 😾 | 
-| None | RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions |  | None | 0 | 😾 | 
-| None | Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation |  | None | 0 | 😾 | 
-| None | Revisiting 3D Medical Scribble Supervision: Benchmarking Beyond Cardiac Segmentation |  | None | 0 | 😾 | 
-| None | Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology |  | None | 0 | 😾 | 
-| None | Revisiting Masked Image Modeling with Standardized Color Space for Domain Generalized Fundus Photography Classification |  | None | 0 | 😾 | 
-| None | Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images |  | None | 0 | 😾 | 
-| None | Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation |  | None | 0 | 😾 | 
-| None | Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport |  | None | 0 | 😾 | 
-| None | Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation |  | None | 0 | 😾 | 
-| None | Robust Sleep Stage Prediction from Electroencephalogram with Label Noise Using Multimodal Large Language Models |  | None | 0 | 😾 | 
-| None | SABPI-Net: A Novel Structure-Aware Network for Accurate and Domain-Invariant Retinopathy of Prematurity Diagnosis |  | None | 0 | 😾 | 
-| None | SAGCNet: Spatial-Aware Graph Completion Network for Missing Slice Imputation in Population CMR Imaging |  | None | 0 | 😾 | 
-| None | SAM2-ProMem: Enhancing Zero-Shot 3D Segmentation with Stochastic Propagation and Memory Search |  | None | 0 | 😾 | 
-| None | SAMASK-CLTR: A spatial-aware mask guided learning model for benign and malignant tumor classification in ABUS |  | None | 0 | 😾 | 
-| None | SAMSA: Segment Anything Model enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | SAMUSA: Segment Anything Model 2 for UltraSound Annotation |  | None | 0 | 😾 | 
-| None | SAMed-2: Selective Memory Enhanced Medical Segment Anything Model |  | None | 0 | 😾 | 
-| None | SIMPLE: Simultaneous Multi-plane Self-supervised Learning for Isotropic MRI Restoration from Anisotropic Data |  | None | 0 | 😾 | 
-| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  | None | 0 | 😾 | 
-| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  | None | 0 | 😾 | 
-| None | SPENet: Self-guided Prototype Enhancement Network for Few-shot Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  | None | 0 | 😾 | 
-| None | SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model |  | None | 0 | 😾 | 
-| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  | None | 0 | 😾 | 
-| None | STEAM: Self-supervised TEeth Analysis and Modeling for Point Cloud Segmentation |  | None | 0 | 😾 | 
-| None | STMDiff: Spatiotemporal Matching Diffusion Model for Dual-Time-Point Total-body PET/CT Imaging via Contrastive Learning |  | None | 0 | 😾 | 
-| None | SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model |  | None | 0 | 😾 | 
-| None | SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus |  | None | 0 | 😾 | 
-| None | Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation |  | None | 0 | 😾 | 
-| None | Seeing Beyond the Surface: Retinal Thickness Prediction from Color Fundus Photography for DME Management |  | None | 0 | 😾 | 
-| None | Segmenting Vessels Encapsulating Tumor Clusters via Fine-Grained Visual Prompt |  | None | 0 | 😾 | 
-| None | Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning |  | None | 0 | 😾 | 
-| None | Self-Supervised Multiview Xray Matching |  | None | 0 | 😾 | 
-| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  | None | 0 | 😾 | 
-| None | Self-supervised Axial Super-Resolution for Volume Microscopy via Diffusion-Guided Structure Distillation |  | None | 0 | 😾 | 
-| None | Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos |  | None | 0 | 😾 | 
-| None | Semantic Interpolative Diffusion Model: Bridging the Interpolation to Masks and Colonoscopy Image Synthesis for Robust Generalization |  | None | 0 | 😾 | 
-| None | Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance |  | None | 0 | 😾 | 
-| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  | None | 0 | 😾 | 
-| None | Semi-Supervised Deformation-Free Image-to-Image Translation for Realistic CT Synthesis from CBCT |  | None | 0 | 😾 | 
-| None | Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations |  | None | 0 | 😾 | 
-| None | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition |  | None | 0 | 😾 | 
-| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  | None | 0 | 😾 | 
-| None | Sim-to-Real Transformer-Based Shape Reconstruction for Automated Orthopedic Fracture Reduction Planning |  | None | 0 | 😾 | 
-| None | SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training |  | None | 0 | 😾 | 
-| None | SlimFormer-3D: A Layer-Adaptive Lightweight Transformer for Efficient 3D Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  | None | 0 | 😾 | 
-| None | Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial Learning with Class-Level Alignment |  | None | 0 | 😾 | 
-| None | Source-Free Active Domain Adaptation for Efficient Medical Video Polyp Segmentation |  | None | 0 | 😾 | 
-| None | Source-Free Domain Adaptation for Cross-Modality Cardiac Image Segmentation with Contrastive Class Relationship Consistency |  | None | 0 | 😾 | 
-| None | Sparse-XM: Spine Pose Adjustment with RGB-D Bone Segmentation via Cross-Modality Label Transfer |  | None | 0 | 😾 | 
-| None | Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging |  | None | 0 | 😾 | 
-| None | Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks |  | None | 0 | 😾 | 
-| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  | None | 0 | 😾 | 
-| None | Spatial Aggregation for Semi-supervised Active Learning in 3D Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  | None | 0 | 😾 | 
-| None | Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos |  | None | 0 | 😾 | 
-| None | Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning |  | None | 0 | 😾 | 
-| None | Spatiotemporal-Sensitive Network for Microvascular Obstruction Segmentation from Cine Cardiac Magnetic Resonance |  | None | 0 | 😾 | 
-| None | Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder |  | None | 0 | 😾 | 
-| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  | None | 0 | 😾 | 
-| None | Steerable Anatomical Shape Synthesis with Implicit Neural Representations |  | None | 0 | 😾 | 
-| None | StepAL: Step-aware Active Learning for Cataract Surgical Videos |  | None | 0 | 😾 | 
-| None | Stronger Together: Registering Preoperative Imagery, LUS, and MIS Liver Images |  | None | 0 | 😾 | 
-| None | Structure and Smoothness Constrained Dual Networks for MR Bias Field Correction |  | None | 0 | 😾 | 
-| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  | None | 0 | 😾 | 
-| None | Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap |  | None | 0 | 😾 | 
-| None | Structure-aware MRI Translation: Multi-Modal Latent Diffusion Model with Arbitrary Missing Modalities |  | None | 0 | 😾 | 
-| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  | None | 0 | 😾 | 
-| None | Subtyping Breast Lesions via Generative Augmentation based Long-tailed Recognition in Ultrasound |  | None | 0 | 😾 | 
-| None | Super-resolution and segmentation of 4D Flow MRI using Deep learning and Weighted Mean Frequencies |  | None | 0 | 😾 | 
-| None | Supervised Diffusion-Model-Based PET Image Reconstruction |  | None | 0 | 😾 | 
-| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  | None | 0 | 😾 | 
-| None | SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation |  | None | 0 | 😾 | 
-| None | SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting |  | None | 0 | 😾 | 
-| None | SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition |  | None | 0 | 😾 | 
-| None | Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery |  | None | 0 | 😾 | 
-| None | SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction |  | None | 0 | 😾 | 
-| None | SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts |  | None | 0 | 😾 | 
-| None | Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images |  | None | 0 | 😾 | 
-| None | Synergy-Guided Regional Supervision of Pseudo Labels for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Synthesis of Pathological Dual-Channel Color Doppler Echocardiograms for Equitable Diagnosis of Heart Diseases |  | None | 0 | 😾 | 
-| None | Synthesizing Delayed-Phase Contrast-Enhanced Breast MR Images from Early-Phase Images Using an Iterative Deep Network |  | None | 0 | 😾 | 
-| None | Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging |  | None | 0 | 😾 | 
-| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  | None | 0 | 😾 | 
-| None | T2GS: Comprehensive Reconstruction of Dynamic Surgical Scenes with Gaussian Splatting |  | None | 0 | 😾 | 
-| None | T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models |  | None | 0 | 😾 | 
-| None | T2WI-BCMIC: Non-Fat Saturated T2-Weighted Imaging Dataset for Bladder Cancer Muscle Invasion Classification |  | None | 0 | 😾 | 
-| None | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration |  | None | 0 | 😾 | 
-| None | TEGDA: Test-time Evaluation-Guided Dynamic Adaptation for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  | None | 0 | 😾 | 
-| None | TGSAM-2: Text-Guided Medical Image Segmentation using Segment Anything Model 2 |  | None | 0 | 😾 | 
-| None | TMSE: Tri-Modal Survival Estimation with Context-aware Tissue Prototype and Attention-Entropy Interaction |  | None | 0 | 😾 | 
-| None | TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency |  | None | 0 | 😾 | 
-| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  | None | 0 | 😾 | 
-| None | Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS |  | None | 0 | 😾 | 
-| None | Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling |  | None | 0 | 😾 | 
-| None | Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection |  | None | 0 | 😾 | 
-| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  | None | 0 | 😾 | 
-| None | Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer |  | None | 0 | 😾 | 
-| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  | None | 0 | 😾 | 
-| None | Temporal Atlas-Guided Generation of Longitudinal Data via Geometric Latent Embeddings |  | None | 0 | 😾 | 
-| None | Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis |  | None | 0 | 😾 | 
-| None | Temporal Model-Based Federated Active Medical Image Classification |  | None | 0 | 😾 | 
-| None | Temporal Modulated Multi-Scale Deformation Fusion via Knowledge Distillation for 4D Medical Image Interpolation |  | None | 0 | 😾 | 
-| None | Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI |  | None | 0 | 😾 | 
-| None | Temporal Representation Learning of Phenotype Trajectories for pCR Prediction in Breast Cancer |  | None | 0 | 😾 | 
-| None | Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy |  | None | 0 | 😾 | 
-| None | Test-Time Training with Local Contrast-Preserving Copy-Pasted Image for Domain Generalization in Retinal Vessel Segmentation |  | None | 0 | 😾 | 
-| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  | None | 0 | 😾 | 
-| None | Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis |  | None | 0 | 😾 | 
-| None | Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  | None | 0 | 😾 | 
-| None | The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection |  | None | 0 | 😾 | 
-| None | Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines |  | None | 0 | 😾 | 
-| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  | None | 0 | 😾 | 
-| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  | None | 0 | 😾 | 
-| None | ThyroidXL: Advancing Thyroid Nodule Diagnosis with an Expert-Labeled, Pathology-Validated Dataset |  | None | 0 | 😾 | 
-| None | Tied Prototype Model for Few-Shot Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Time-Contrastive Pretraining for In-Context Image and Video Segmentation |  | None | 0 | 😾 | 
-| None | Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining |  | None | 0 | 😾 | 
-| None | Top-Down Attention-based Multiple Instance Learning for Whole Slide Image Analysis |  | None | 0 | 😾 | 
-| None | Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection |  | None | 0 | 😾 | 
-| None | Toward Medical Deepfake Detection: A Comprehensive Dataset and Novel Method |  | None | 0 | 😾 | 
-| None | Towards Accurate Tumor Budding Detection: A Benchmark Dataset and A Detection Approach Based on Implicit Annotation Standardization and Positive-Negative Feature Coupling |  | None | 0 | 😾 | 
-| None | Towards Automated Pediatric Dental Development Staging: A Dataset and Model |  | None | 0 | 😾 | 
-| None | Towards Holistic Surgical Scene Graph |  | None | 0 | 😾 | 
-| None | Towards Interpretable Counterfactual Generation via Multimodal Autoregression |  | None | 0 | 😾 | 
-| None | Towards Multi-Scenario Generalization: Text-Guided Unified Framework for Low-Dose CT and Total-Body PET Reconstruction |  | None | 0 | 😾 | 
-| None | Towards Robust Medical Image Referring Segmentation with Incomplete Textual Prompts |  | None | 0 | 😾 | 
-| None | Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks |  | None | 0 | 😾 | 
-| None | Training-free Test-time Improvement for Explainable Medical Image Classification |  | None | 0 | 😾 | 
-| None | TransSino: Prior Sinogram Pattern-Based Transformer for Limited-Angle CT Image Segmentation |  | None | 0 | 😾 | 
-| None | Treat: A Unified Text-guided Conditioned Deep Learning Model for Generalized Radiotherapy Treatment Planning |  | None | 0 | 😾 | 
-| None | Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction |  | None | 0 | 😾 | 
-| None | Tumor Microenvironment-Guided Fine-Tuning of Pathology Foundation Models for Esophageal Squamous Cell Carcinoma Immunotherapy Response Prediction |  | None | 0 | 😾 | 
-| None | Tumor Segmentation with Heterogeneity Clustering in Non-contrast Breast MRI |  | None | 0 | 😾 | 
-| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  | None | 0 | 😾 | 
-| None | U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation |  | None | 0 | 😾 | 
-| None | U-RWKV: Lightweight medical image segmentation with direction-adaptive RWKV |  | None | 0 | 😾 | 
-| None | UM-SAM: Unsupervised Medical Image Segmentation using Knowledge Distillation from Segment Anything Model |  | None | 0 | 😾 | 
-| None | UltrON: Ultrasound Occupancy Networks |  | None | 0 | 😾 | 
-| None | Ultra-Low-Field MRI Enhancement via INR-Based Style Transfer |  | None | 0 | 😾 | 
-| None | UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation |  | None | 0 | 😾 | 
-| None | UltraTwin: Towards Cardiac Anatomical Twin Generation from Multi-view 2D Ultrasound |  | None | 0 | 😾 | 
-| None | Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading |  | None | 0 | 😾 | 
-| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  | None | 0 | 😾 | 
-| None | Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound |  | None | 0 | 😾 | 
-| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  | None | 0 | 😾 | 
-| None | UniMRG: Refining Medical Semantic Understanding Across Modalities via LLM-Orchestrated Synergistic Evolution |  | None | 0 | 😾 | 
-| None | UniOCTSeg: Towards Universal OCT Retinal Layer Segmentation via Hierarchical Prompting and Progressive Consistency Learning |  | None | 0 | 😾 | 
-| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  | None | 0 | 😾 | 
-| None | Unisyn: A Generative Foundation Model for Universal Medical Image Synthesis across MRI, CT and PET |  | None | 0 | 😾 | 
-| None | Unleashing SAM for Few-Shot Medical Image Segmentation with Dual-Encoder and Automated Prompting |  | None | 0 | 😾 | 
-| None | Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion |  | None | 0 | 😾 | 
-| None | Unleashing the Power of LLMs for Medical Video Answer Localization |  | None | 0 | 😾 | 
-| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  | None | 0 | 😾 | 
-| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  | None | 0 | 😾 | 
-| None | Unsupervised Anomaly Detection on Preclinical Liver H&E Whole Slide Images using Graph based Feature Distillation |  | None | 0 | 😾 | 
-| None | Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model |  | None | 0 | 😾 | 
-| None | Unsupervised Learning-Based Susceptibility Artifact Correction for Diffusion-Weighted MRI in Multiple Organs |  | None | 0 | 😾 | 
-| None | Unsupervised OCT image interpolation using deformable registration and generative models |  | None | 0 | 😾 | 
-| None | Unsupervised Quality Control and Enhancement of Polyp Segmentation in Colonoscopy Videos using Spatiotemporal Consistency |  | None | 0 | 😾 | 
-| None | Unsupervised Structure-Geometric Consistency for Monocular Endoscopic Depth Overestimation |  | None | 0 | 😾 | 
-| None | V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis |  | None | 0 | 😾 | 
-| None | VAMPIRE: Uncovering Vessel Directional and Morphological Information from OCTA Images for Cardiovascular Disease Risk Factor Prediction |  | None | 0 | 😾 | 
-| None | VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation |  | None | 0 | 😾 | 
-| None | VBCD: A Voxel-Based Framework for Personalized Dental Crown Design |  | None | 0 | 😾 | 
-| None | VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction |  | None | 0 | 😾 | 
-| None | VQ-SCD: Vector Quantization Meets Unknown Scan Condition Self-supervised Low-Dose CT Denoising |  | None | 0 | 😾 | 
-| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Various Attention Mechanism Graph Convolutional Network with Multi-Source Domain Adaptation for Cross-Subject EEG Emotion Recognition |  | None | 0 | 😾 | 
-| None | Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection |  | None | 0 | 😾 | 
-| None | Vector-Quantization-Driven Active Learning for Efficient Multi-Modal Medical Segmentation with Cross-Modal Assistance |  | None | 0 | 😾 | 
-| None | Veriserum: A dual-plane fluoroscopic dataset with knee implant phantoms for deep learning in medical imaging |  | None | 0 | 😾 | 
-| None | VesselSDF: Distance Field Priors for Vascular Network Reconstruction |  | None | 0 | 😾 | 
-| None | ViTAL-CT: Vision Transformers for High-Risk Plaque Classification in Coronary CTA |  | None | 0 | 😾 | 
-| None | ViTexNet: Vision-Text Guided Dynamic Convolution Network for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | VisNet: A Human Visual System Inspired Lightweight Dual-Path Network for Medical Images Denoising |  | None | 0 | 😾 | 
-| None | Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering |  | None | 0 | 😾 | 
-| None | VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration |  | None | 0 | 😾 | 
-| None | WDNet: A Novel Wavelet-guided Hierarchical Diffusion Network for Multi-Target Segmentation in Colonoscopy Images |  | None | 0 | 😾 | 
-| None | WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis |  | None | 0 | 😾 | 
-| None | WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Wavelet-driven Decoupling and Physics-informed Mapping Network for Accelerated Multi-parametric MR Imaging |  | None | 0 | 😾 | 
-| None | Weakly Semi-Supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning |  | None | 0 | 😾 | 
-| None | Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation |  | None | 0 | 😾 | 
-| None | Weighted Stratification in Multi-Label Contrastive Learning for Long-Tailed Medical Image Classification |  | None | 0 | 😾 | 
-| None | WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference |  | None | 0 | 😾 | 
-| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  | None | 0 | 😾 | 
-| None | XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification |  | None | 0 | 😾 | 
-| None | XOCT: Enhancing OCT to OCTA Translation via Cross-Dimensional Supervised Multi-Scale Feature Learning |  | None | 0 | 😾 | 
-| None | Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images |  | None | 0 | 😾 | 
-| None | pyOpenNFT: an open-source Python framework for ML-based real-time fMRI and EEG-fMRI neurofeedback |  | None | 0 | 😾 | 
-| None | tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation and Its Application in Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  | None | 0 | 😾 | 
-| None | µ2 Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation |  | None | 0 | 😾 | 
+| None | 3D Acetabular Surface Reconstruction from 2D Pre-operative X-ray Images using SRVF Elastic Registration and Deformation Graph |  | None |  | 😾 | 
+| None | 3D Dynamic Prediction of Missing Teeth in Diverse Patterns via Centroid-prompted Diffusion Model |  | None |  | 😾 | 
+| None | 4D CardioSynth: Synthesising Dynamic Virtual Heart Populations through Spatiotemporal Disentanglement |  | None |  | 😾 | 
+| None | 6D Object Pose Tracking for Orthopedic Surgical Training using Visual-Inertial Sensor Fusion |  | None |  | 😾 | 
+| None | A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation |  | None |  | 😾 | 
+| None | A Causal-holistic Adaptive Intervention Network for Tailoring Automated Coronary Artery Disease Diagnosis to Individual Patients |  | None |  | 😾 | 
+| None | A Causality-Inspired Model for Intima-Media Thickening Assessment in Ultrasound Videos |  | None |  | 😾 | 
+| None | A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images |  | None |  | 😾 | 
+| None | A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging |  | None |  | 😾 | 
+| None | A Holistic Time-Aware Classification Model for Multimodal Longitudinal Patient Data |  | None |  | 😾 | 
+| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  | None |  | 😾 | 
+| None | A Multi-Branch Framework for Cross-Domain Vessel Segmentation via the Few-Shot Paradigm |  | None |  | 😾 | 
+| None | A Multimodal Contrastive Learning for Detecting Aortic Dissection on 3D Non-Contrast CT with Anatomy Simplification |  | None |  | 😾 | 
+| None | A New Paradigm for Low-dose PET/CT Reconstruction with Mamba-powered Progressive Network and Physics-informed Consistency |  | None |  | 😾 | 
+| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  | None |  | 😾 | 
+| None | A Novel ED Triage Framework Using Conditional Imputation, Multi-Scale Semantic Learning, and Cross-Modal Fusion |  | None |  | 😾 | 
+| None | A Novel Framework for Integrating 3D Ultrasound into Percutaneous Liver Tumour Ablation |  | None |  | 😾 | 
+| None | A Semi-Supervised Knowledge Distillation Framework for Left Ventricle Segmentation and Landmark Detection in Echocardiograms |  | None |  | 😾 | 
+| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  | None |  | 😾 | 
+| None | A Unified Missing Modality Imputation Model with Inter-Modality Contrastive and Consistent Learning |  | None |  | 😾 | 
+| None | A Uniform Multi-mode Fused Framework for Velocity Field Estimation in Ultrasound Imaging |  | None |  | 😾 | 
+| None | A Virtual Domain Collaborative Learning Framework for Semi-supervised Microscopic Hyperspectral Image Segmentation |  | None |  | 😾 | 
+| None | ADAptation: Reconstruction-based Unsupervised Active Learning for Breast Ultrasound Diagnosis |  | None |  | 😾 | 
+| None | AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification |  | None |  | 😾 | 
+| None | AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis |  | None |  | 😾 | 
+| None | Abnormality-Driven Representation Learning for Radiology Imaging |  | None |  | 😾 | 
+| None | Accelerated Free-Breathing 5D Multi-Echo Respiratory Motion-Resolved R2*, PDFF, and QSM Using Novel Composite Total Variation |  | None |  | 😾 | 
+| None | Accurate Boundary Alignment and Realism Enhancement for Colonoscopic Polyp Image-Mask Pair Generation |  | None |  | 😾 | 
+| None | Active Source-Free Cross-Domain and Cross-Modality Adaptation for Volumetric Medical Image Segmentation by Image Sensitivity and Organ Heterogeneity Sampling |  | None |  | 😾 | 
+| None | AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-rays |  | None |  | 😾 | 
+| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  | None |  | 😾 | 
+| None | Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision |  | None |  | 😾 | 
+| None | Adapting Foundation Model for Dental Caries Detection with Dual-View Co-Training |  | None |  | 😾 | 
+| None | Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation |  | None |  | 😾 | 
+| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  | None |  | 😾 | 
+| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  | None |  | 😾 | 
+| None | Adaptive Frame Selection for Gestational Age Estimation from Blind Sweep Fetal Ultrasound Videos |  | None |  | 😾 | 
+| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  | None |  | 😾 | 
+| None | Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling |  | None |  | 😾 | 
+| None | Adaptive Stain Normalization for Cross-Domain Medical Histology |  | None |  | 😾 | 
+| None | Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis |  | None |  | 😾 | 
+| None | AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations |  | None |  | 😾 | 
+| None | All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior |  | None |  | 😾 | 
+| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  | None |  | 😾 | 
+| None | Ambiguous Medical Image Segmentation Using Diffusion Schrödinger Bridge |  | None |  | 😾 | 
+| None | An Anatomical Significance-Aware Architecture for Explainable Myocardial Infarction Prediction via Multi-Task Learning |  | None |  | 😾 | 
+| None | Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications |  | None |  | 😾 | 
+| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  | None |  | 😾 | 
+| None | Anatomical Structure Few-Shot Detection Utilizing Enhanced Human Anatomy Knowledge in Ultrasound Images |  | None |  | 😾 | 
+| None | Anatomy-Aware Frequency-Attention Transformer Networks for Liver Couinaud CT/MR Segmentation |  | None |  | 😾 | 
+| None | Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning |  | None |  | 😾 | 
+| None | Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge |  | None |  | 😾 | 
+| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  | None |  | 😾 | 
+| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  | None |  | 😾 | 
+| None | Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection |  | None |  | 😾 | 
+| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  | None |  | 😾 | 
+| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  | None |  | 😾 | 
+| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | Augmented Reality-based Guidance with Deformable Registration in Head and Neck Tumor Resection |  | None |  | 😾 | 
+| None | Automated Characterization of Myocardial Scar Topological Patterns for Ventricular Tachycardia Screening |  | None |  | 😾 | 
+| None | Automated Detection of BK Virus in H&E Whole-Slide Images Using Weakly-Supervised Deep Learning and Interpretable Morphological Biomarkers |  | None |  | 😾 | 
+| None | Automated Integration of Surgical Implants into Digital Twins for Trauma Surgery |  | None |  | 😾 | 
+| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  | None |  | 😾 | 
+| None | BME2: A Plug-and-Play Bridge-Based Module for Misalignment Estimation and Elimination in Multi-Scan Image Restoration |  | None |  | 😾 | 
+| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  | None |  | 😾 | 
+| None | BaMCo: Balanced Multimodal Contrastive Learning for Knowledge-Driven Medical VQA |  | None |  | 😾 | 
+| None | Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification |  | None |  | 😾 | 
+| None | BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images |  | None |  | 😾 | 
+| None | Bayesian Transformers and Higher-Order Graph Matching for Cell Tracking in Serial Tissue Sections |  | None |  | 😾 | 
+| None | Beyond Shadows: Learning Physics-inspired Ultrasound Confidence Maps from Sparse Annotations |  | None |  | 😾 | 
+| None | BiMSRec: A Progressive Image Reconstruction Framework for Medical Image Fusion Guided by Multi-Scale Deformation Fields |  | None |  | 😾 | 
+| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  | None |  | 😾 | 
+| None | Bias and Generalizability of Foundation Models across Datasets in Breast Mammography |  | None |  | 😾 | 
+| None | BiasICL: In-Context Learning and Demographic Biases of Vision Language Models |  | None |  | 😾 | 
+| None | Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation |  | None |  | 😾 | 
+| None | BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA |  | None |  | 😾 | 
+| None | Bipartite Patient-Modality Graph Learning with Event-Conditional Modelling of Censoring for Cancer Survival Prediction |  | None |  | 😾 | 
+| None | Blaze3DM: Integrating Triplane Representation with Diffusion for Solving 3D Inverse Problems in Medical Imaging |  | None |  | 😾 | 
+| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  | None |  | 😾 | 
+| None | Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations |  | None |  | 😾 | 
+| None | Boosting Generalizability in NPC ART Prediction via Multi-Omics Feature Mapping |  | None |  | 😾 | 
+| None | Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning |  | None |  | 😾 | 
+| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  | None |  | 😾 | 
+| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  | None |  | 😾 | 
+| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  | None |  | 😾 | 
+| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
+| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  | None |  | 😾 | 
+| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  | None |  | 😾 | 
+| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  | None |  | 😾 | 
+| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  | None |  | 😾 | 
+| None | BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation |  | None |  | 😾 | 
+| None | Bridging Knowledge Discrepancy in Retinal Image Analysis through Federated Multi-Task Learning |  | None |  | 😾 | 
+| None | Bridging Radiological Images and Factors with Vision-Language Model for Accurate Diagnosis of Proliferative Hepatocellular Carcinoma |  | None |  | 😾 | 
+| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | C-NCA: Chained Neural Cellular Automata for Fast and Accurate Thermal Ablation Estimation |  | None |  | 😾 | 
+| None | CA-SAM2: SAM2-based Context-Aware Network with Auto-Prompting for Nuclei Instance Segmentation |  | None |  | 😾 | 
+| None | CARE-VL: A Domain-Specialized Vision-Language Model for Early ASD Screening |  | None |  | 😾 | 
+| None | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery |  | None |  | 😾 | 
+| None | CAUDA-MI: Cross Attention-Guided Unsupervised Domain Adaptation with Mutual Information for Cardiac MRI Segmentation |  | None |  | 😾 | 
+| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  | None |  | 😾 | 
+| None | CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model |  | None |  | 😾 | 
+| None | CENet: Context Enhancement Network for Medical Image Segmentation |  | None |  | 😾 | 
+| None | CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis |  | None |  | 😾 | 
+| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  | None |  | 😾 | 
+| None | CSAL-3D: Cold-start Active Learning for 3D Medical Image Segmentation via SSL-driven Uncertainty-Reinforced Diversity Sampling |  | None |  | 😾 | 
+| None | CSAP-Assist: Instrument-Agent Dialogue Empowered Vision-Language Models for Collaborative Surgical Action Planning |  | None |  | 😾 | 
+| None | CS²C: Collaborative Spatial and Spectral Neural Clustering for Organelle Segmentation from Volumetric Electron Microscopy |  | None |  | 😾 | 
+| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  | None |  | 😾 | 
+| None | CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs |  | None |  | 😾 | 
+| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  | None |  | 😾 | 
+| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  | None |  | 😾 | 
+| None | Calibration in Multiple Instance Learning: Evaluating Aggregation Methods for Ultrasound-Based Diagnosis |  | None |  | 😾 | 
+| None | CardiacCLIP: Video-based CLIP Adaptation for LVEF Prediction in a Few-shot Manner |  | None |  | 😾 | 
+| None | CardiacFlow: 3D+t Four-Chamber Cardiac Shape Completion and Generation via Flow Matching |  | None |  | 😾 | 
+| None | CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity |  | None |  | 😾 | 
+| None | Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics |  | None |  | 😾 | 
+| None | Causality-driven Spatio-temporal Generator for Multi-phase Contrast-enhanced CT Synthesis |  | None |  | 😾 | 
+| None | CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer |  | None |  | 😾 | 
+| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  | None |  | 😾 | 
+| None | Cervical-RG: Automated Cervical Cancer Report Generation from 3D Multi-sequence MRI via CoT-guided Hierarchical Experts |  | None |  | 😾 | 
+| None | CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery |  | None |  | 😾 | 
+| None | Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading |  | None |  | 😾 | 
+| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  | None |  | 😾 | 
+| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  | None |  | 😾 | 
+| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  | None |  | 😾 | 
+| None | Clinical Prior-Guided Tumor Generation for Breast Ultrasound with Cross Domain Adaptation |  | None |  | 😾 | 
+| None | Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging |  | None |  | 😾 | 
+| None | Clinically-guided Data Synthesis for Laryngeal Lesion Detection |  | None |  | 😾 | 
+| None | ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data |  | None |  | 😾 | 
+| None | Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation |  | None |  | 😾 | 
+| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  | None |  | 😾 | 
+| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  | None |  | 😾 | 
+| None | CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis |  | None |  | 😾 | 
+| None | Coarse-to-Fine Medical Image Translation by Incorporating Deterministic Guidance and Probabilistic Refinement |  | None |  | 😾 | 
+| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  | None |  | 😾 | 
+| None | Compact Training-free NAS with Alternating Evolution Game for Medical Image Segmentation |  | None |  | 😾 | 
+| None | ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation |  | None |  | 😾 | 
+| None | Concept-induced Graph Perception Model for Interpretable Diagnosis |  | None |  | 😾 | 
+| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  | None |  | 😾 | 
+| None | Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data |  | None |  | 😾 | 
+| None | Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA |  | None |  | 😾 | 
+| None | Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction |  | None |  | 😾 | 
+| None | Conformal Prediction for Image Segmentation Using Morphological Prediction Sets |  | None |  | 😾 | 
+| None | Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models |  | None |  | 😾 | 
+| None | Continual Retinal Vision-Language Pre-training upon Incremental Imaging Modalities |  | None |  | 😾 | 
+| None | Contour Makes It Stronger: Cross-Domain Cephalometric Landmark Detection Based on Contour Priors |  | None |  | 😾 | 
+| None | Contrast Flow Pattern and Cross-Phase Specificity-Aware Diffusion Model for NCCT-to-Multiphase CECT Synthesis |  | None |  | 😾 | 
+| None | Contrastive Anatomy-Contrast Disentanglement: A Domain-General MRI Harmonization Method |  | None |  | 😾 | 
+| None | Contrastive Disentanglement Learning Framework for Multi-lead Wearable ECG Denoising |  | None |  | 😾 | 
+| None | Contrastive Knowledge-Guided Large Language Models for Medical Report Generation |  | None |  | 😾 | 
+| None | Contrastive Masked Video Modeling for Coronary Angiography Diagnosis |  | None |  | 😾 | 
+| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  | None |  | 😾 | 
+| None | Controllable Image Synthesis Workflow for Enhancing Cervical Cell Detection |  | None |  | 😾 | 
+| None | Controllable Skin Synthesis via Lesion-Focused Vector Autoregression Model |  | None |  | 😾 | 
+| None | Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods |  | None |  | 😾 | 
+| None | Core-Periphery Principle Guided State Space Model for Functional Connectome Classification |  | None |  | 😾 | 
+| None | Coronary Artery Calcification segmentation by using cross-frequency conditioner and geometric priors Learning |  | None |  | 😾 | 
+| None | CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching |  | None |  | 😾 | 
+| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  | None |  | 😾 | 
+| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  | None |  | 😾 | 
+| None | Cross-Modal Contrastive Learning for Emotion Recognition: Aligning ECG with EEG-Derived Features |  | None |  | 😾 | 
+| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  | None |  | 😾 | 
+| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  | None |  | 😾 | 
+| None | Cross-Modality Supervised Prostate Segmentation on CBCT for Adaptive Radiotherapy |  | None |  | 😾 | 
+| None | Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction |  | None |  | 😾 | 
+| None | CurConMix: A Curriculum Contrastive Learning Framework for Enhancing Surgical Action Triplet Recognition |  | None |  | 😾 | 
+| None | Cycle Context Verification for In-Context Medical Image Segmentation |  | None |  | 😾 | 
+| None | CytoSAE: Interpretable Cell Embeddings for Hematology |  | None |  | 😾 | 
+| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  | None |  | 😾 | 
+| None | D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM |  | None |  | 😾 | 
+| None | D2Diff: A Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis |  | None |  | 😾 | 
+| None | D2MAE: Diffusional Deblurring MAE for Ultrasound Image Pre-training |  | None |  | 😾 | 
+| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  | None |  | 😾 | 
+| None | D4Recon: Dual-stage Deformation and Dual-scale Depth Guidance for Endoscopic Reconstruction |  | None |  | 😾 | 
+| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
+| None | DCKAN: A Dual-Coordinate KAN Framework for Fibrous Cap Segmentation on Carotid OCT |  | None |  | 😾 | 
+| None | DCT-Net: Dual-branch CT Reconstruction from Orthogonal X-rays with Diffusion Model and Contrastive Learning |  | None |  | 😾 | 
+| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  | None |  | 😾 | 
+| None | DGHFA: Dynamic Gradient and Hierarchical Feature Alignment for Robust Distillation of Medical VLMs |  | None |  | 😾 | 
+| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  | None |  | 😾 | 
+| None | DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal |  | None |  | 😾 | 
+| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  | None |  | 😾 | 
+| None | DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model |  | None |  | 😾 | 
+| None | DINO Adapted to X-Ray (DAX): Foundation Models for Intraoperative X-Ray Imaging |  | None |  | 😾 | 
+| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  | None |  | 😾 | 
+| None | DPGS-Net: Dual Prior-Guided Cross-Domain Adaptive Framework for Ultrasound Image Segmentation |  | None |  | 😾 | 
+| None | DSFC: Deformation-Aware Learning Strategy via Self-sustaining Feedback Cycle for Medical Vision Foundation Model Domain Adaptation |  | None |  | 😾 | 
+| None | Decentralized Noise Handling in Medical Imaging: Encoder-Decoder Based Federated Imputation for Robust Training |  | None |  | 😾 | 
+| None | Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction |  | None |  | 😾 | 
+| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  | None |  | 😾 | 
+| None | DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology |  | None |  | 😾 | 
+| None | Delving into Out-of-Distribution Detection with Medical Vision-Language Models |  | None |  | 😾 | 
+| None | DetectDiffuse: Aggregation- and Attention-driven Universal Lesion Detection with Multi-scale Diffusion Model |  | None |  | 😾 | 
+| None | DiDGen: Diffusion-based Dual-task Synthesis for Dermoscopic Data Generation |  | None |  | 😾 | 
+| None | Dia-LLaMA: Towards Large Language Model-driven CT Report Generation |  | None |  | 😾 | 
+| None | Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation |  | None |  | 😾 | 
+| None | DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion |  | None |  | 😾 | 
+| None | DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model |  | None |  | 😾 | 
+| None | DiffStain: Conditioned Diffusion-Based Semantic Virtual Staining with Mask Guidance |  | None |  | 😾 | 
+| None | Difficulty Estimation for Image-Specific Medical Image Segmentation Quality Control |  | None |  | 😾 | 
+| None | Diffusing Boundaries: CBCT-to-CT Translation with Extended Field of View |  | None |  | 😾 | 
+| None | Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection |  | None |  | 😾 | 
+| None | Diffusion-based Multi-modal MR Fusion for TOF-MRA Image Synthesis |  | None |  | 😾 | 
+| None | Diffusion-based Virtual Staining from Polarimetric Mueller Matrix Imaging |  | None |  | 😾 | 
+| None | Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration |  | None |  | 😾 | 
+| None | DisDiff: Disentanglement Diffusion Network for MR Imaging Translation |  | None |  | 😾 | 
+| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  | None |  | 😾 | 
+| None | Distilling foundation models for robust and efficient models in digital pathology |  | None |  | 😾 | 
+| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  | None |  | 😾 | 
+| None | Domain Generalization for Mammogram Classification by Suppressing Domain-Specific Features |  | None |  | 😾 | 
+| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  | None |  | 😾 | 
+| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  | None |  | 😾 | 
+| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  | None |  | 😾 | 
+| None | DpDNet: An Dual-Prompt-Driven Network for Universal PET-CT Segmentation |  | None |  | 😾 | 
+| None | Dual Correlation-aware Mamba for Microvascular Obstruction Identification in Non-contrast Cine Cardiac Magnetic Resonance |  | None |  | 😾 | 
+| None | Dual Knowledge-Aware Guidance for Source-Free Domain Adaptive Fundus Image Segmentation |  | None |  | 😾 | 
+| None | Dual Selective Gleason Pattern-Aware Multiple Instance Learning for Grade Group Prediction in Histopathology Images |  | None |  | 😾 | 
+| None | Dual-Branch Dynamic Coupling Weakly Supervised Learning for Class-Incremental Histopathological Region Segmentation |  | None |  | 😾 | 
+| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  | None |  | 😾 | 
+| None | DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning |  | None |  | 😾 | 
+| None | DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency |  | None |  | 😾 | 
+| None | DyMAS-Net: Dynamic Multi-Scale Adaptive Sampling Network for Efficient Medical Image Segmentation |  | None |  | 😾 | 
+| None | Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation |  | None |  | 😾 | 
+| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  | None |  | 😾 | 
+| None | Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model |  | None |  | 😾 | 
+| None | Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction |  | None |  | 😾 | 
+| None | E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation |  | None |  | 😾 | 
+| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  | None |  | 😾 | 
+| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  | None |  | 😾 | 
+| None | EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds |  | None |  | 😾 | 
+| None | EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration |  | None |  | 😾 | 
+| None | EchoCardMAE: Video Masked Auto-Encoders Customized for Echocardiography |  | None |  | 😾 | 
+| None | EchoViewCLIP: Advancing Video Quality Control through High-performance View Recognition of Echocardiography |  | None |  | 😾 | 
+| None | EchoingECG: An Electrocardiogram Cross-Modal Model for Echocardiogram Tasks |  | None |  | 😾 | 
+| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  | None |  | 😾 | 
+| None | Edge-semantic Synergy Fusion and Adaptive Noise-aware for Weakly Supervised Pathological Tissue Segmentation |  | None |  | 😾 | 
+| None | EdgeANet: A Transformer-based Edge Representation Learning Network for Canine X-ray Verification |  | None |  | 😾 | 
+| None | EfficientMedNeXt: Multi-Receptive Dilated Convolutions for Medical Image Segmentation |  | None |  | 😾 | 
+| None | Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training |  | None |  | 😾 | 
+| None | End-to-End 3D Tooth Landmark Detection with Fuzzy Tooth Localization |  | None |  | 😾 | 
+| None | Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting |  | None |  | 😾 | 
+| None | Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records |  | None |  | 😾 | 
+| None | Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion |  | None |  | 😾 | 
+| None | Endo-GSMT: Endoscopic Monocular Scene Reconstruction with Dynamic Gaussian Splatting and Motion Tracking |  | None |  | 😾 | 
+| None | Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video |  | None |  | 😾 | 
+| None | EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy |  | None |  | 😾 | 
+| None | EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting |  | None |  | 😾 | 
+| None | EndoGen: Conditional Autoregressive Endoscopic Video Generation |  | None |  | 😾 | 
+| None | EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training |  | None |  | 😾 | 
+| None | EndoMetric: Near-Light Monocular Metric Scale Estimation in Endoscopy |  | None |  | 😾 | 
+| None | EndoPlanar: Deformable Planar-based Gaussian Splatting for Surgical Scene Reconstruction |  | None |  | 😾 | 
+| None | Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation |  | None |  | 😾 | 
+| None | Endoscopic Depth-of-Field Expansion via Cascaded Network with Two-streamed Multi-scale Fusion |  | None |  | 😾 | 
+| None | Endplate3D-QCT: A High-Resolution Dataset and Benchmark for Automated 3D Segmentation of Lumbar Vertebral Endplates in QCT |  | None |  | 😾 | 
+| None | Enforcing Geometric Constraints of Surface Normal and Pose for Self-supervised Monocular Depth Estimation on Laparoscopic Images |  | None |  | 😾 | 
+| None | Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning |  | None |  | 😾 | 
+| None | Enhancing Soft Tissue Sarcoma Classification by Mitigating Patient-Specific Bias in Whole Slide Images |  | None |  | 😾 | 
+| None | Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation |  | None |  | 😾 | 
+| None | Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation |  | None |  | 😾 | 
+| None | Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and Beyond |  | None |  | 😾 | 
+| None | Explain Any Pathological Concept: Discovering Hierarchical Explanations for Pathology Foundation Models |  | None |  | 😾 | 
+| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  | None |  | 😾 | 
+| None | Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion |  | None |  | 😾 | 
+| None | Explainable Integrative Bipartite Graph Convolutional Neural Network for Predicting Ejection Fraction in Echocardiography |  | None |  | 😾 | 
+| None | Exploring Text-enhanced Mixture-of-Experts for Semi-supervised Medical Image Segmentation with Composite Data |  | None |  | 😾 | 
+| None | Exploring the Design Space of 3D MLLMs for CT Report Generation |  | None |  | 😾 | 
+| None | Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification |  | None |  | 😾 | 
+| None | F2PASeg: Feature Fusion for Pituitary Anatomy Segmentation in Endoscopic Surgery |  | None |  | 😾 | 
+| None | FDAS: Foundation Model Distillation and Anatomic Structure-aware Multi-task Learning for Self-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | FDF-VQVAE: A Frequency Disentanglement and Fusion Learning Framework for Multi-Sequence MRI Enhancement |  | None |  | 😾 | 
+| None | FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation |  | None |  | 😾 | 
+| None | FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction |  | None |  | 😾 | 
+| None | FMM-Diff: A Feature Mapping and Merging Diffusion Model for MRI Generation with Missing Modality |  | None |  | 😾 | 
+| None | FPN-in-FPN: A Nested Multi-Scale Aggregation Network for Polyp Segmentation |  | None |  | 😾 | 
+| None | FSA-Net: Fractal-driven Synergistic Anatomy-aware Network for Segmenting White Line of Toldt in Laparoscopic Images |  | None |  | 😾 | 
+| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  | None |  | 😾 | 
+| None | Facial Appearance Prediction with Conditional Multi-scale Autoregressive Modeling for Orthognathic Surgical Planning |  | None |  | 😾 | 
+| None | Fair-MoE: Medical Fairness-Oriented Mixture of Experts in Vision-Language Models |  | None |  | 😾 | 
+| None | Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis |  | None |  | 😾 | 
+| None | Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss |  | None |  | 😾 | 
+| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  | None |  | 😾 | 
+| None | Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery |  | None |  | 😾 | 
+| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  | None |  | 😾 | 
+| None | FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation |  | None |  | 😾 | 
+| None | FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation |  | None |  | 😾 | 
+| None | Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose |  | None |  | 😾 | 
+| None | Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation |  | None |  | 😾 | 
+| None | FilterDiff: Noise-free Frequency-domain Diffusion Models for Accelerated MRI Reconstruction |  | None |  | 😾 | 
+| None | Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model |  | None |  | 😾 | 
+| None | Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis |  | None |  | 😾 | 
+| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  | None |  | 😾 | 
+| None | Flip Distribution Alignment VAE for Multi-Phase MRI Synthesis |  | None |  | 😾 | 
+| None | Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality |  | None |  | 😾 | 
+| None | FluoroSAM: A Language-promptable Foundation Model for Flexible X-ray Image Segmentation |  | None |  | 😾 | 
+| None | Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification |  | None |  | 😾 | 
+| None | Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings |  | None |  | 😾 | 
+| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  | None |  | 😾 | 
+| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  | None |  | 😾 | 
+| None | Frequency Strikes Back: Boosting Parameter-Efficient Foundation Model Adaptation for Medical Imaging |  | None |  | 😾 | 
+| None | Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation |  | None |  | 😾 | 
+| None | Frequency-enhanced Multi-granularity Context Network for Efficient Vertebrae Segmentation |  | None |  | 😾 | 
+| None | From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-specific Medical Image Segmentation |  | None |  | 😾 | 
+| None | From Pixels to Prognosis: A Multi-Modal Attention-based Framework for Visceral Adipose Tissue Estimation |  | None |  | 😾 | 
+| None | From Sight to Skill: A Surgeon-Centered Augmented Reality System for Ureteroscopy Training |  | None |  | 😾 | 
+| None | From Slices to Volumes: Multi-Scale Fusion of 2D and 3D Features for CT Scan Report Generation |  | None |  | 😾 | 
+| None | From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation |  | None |  | 😾 | 
+| None | FunBench: Benchmarking Fundus Reading Skills of MLLMs |  | None |  | 😾 | 
+| None | Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images |  | None |  | 😾 | 
+| None | Future Slot Prediction for Unsupervised Object Discovery in Surgical Video |  | None |  | 😾 | 
+| None | GA-SAM: Geometry-Aware SAM Adaptation with Sparse Annotation-Driven Point Cloud Completion |  | None |  | 😾 | 
+| None | GE2Hist: Generating Histology Images from Single-cell Gene Expression via Cross-modal Generative Network |  | None |  | 😾 | 
+| None | GEPAR3D: Geometry Prior-Assisted Learning for 3D Tooth Segmentation |  | None |  | 😾 | 
+| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  | None |  | 😾 | 
+| None | GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation |  | None |  | 😾 | 
+| None | GLM-SFNet: Global-Local Vision-Mamba with Semantic Fusion for Medical Image Segmentation |  | None |  | 😾 | 
+| None | GRASP-PsONet: Gradient-based Removal of Spurious Patterns for PsOriasis Severity Classification |  | None |  | 😾 | 
+| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  | None |  | 😾 | 
+| None | General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound |  | None |  | 😾 | 
+| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  | None |  | 😾 | 
+| None | Geometric-Guided Few-Shot Dental Landmark Detection with Human-Centric Foundation Model |  | None |  | 😾 | 
+| None | Geometry-Guided Local Alignment for Multi-View Visual Language Pre-Training in Mammography |  | None |  | 😾 | 
+| None | Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG |  | None |  | 😾 | 
+| None | Global and Local Vision-Language Alignment for Few-Shot Learning and Few-Shot OOD Detection |  | None |  | 😾 | 
+| None | GoCa: Trustworthy Multi-Modal RAG with Explicit Thinking Distillation for Reliable Decision-Making in Med-LVLMs |  | None |  | 😾 | 
+| None | GrInAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation |  | None |  | 😾 | 
+| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  | None |  | 😾 | 
+| None | Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading |  | None |  | 😾 | 
+| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  | None |  | 😾 | 
+| None | Graph-based Neighbor-Aware Network for Gaze-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images |  | None |  | 😾 | 
+| None | HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics |  | None |  | 😾 | 
+| None | HARM3-Fusion: Hierarchical Attentional Representation Learning of Multi-Modal, Multi-Temporal, and Multi-Sequence Fusion for Pathological Complete Response Prediction of Head and Neck Squamous Cell Carcinoma |  | None |  | 😾 | 
+| None | HARP: Harmonization and Adaptive Refinement of Pseudo-Labels for Cross-Domain Medical Image Segmentation |  | None |  | 😾 | 
+| None | HASD: Hierarchical Adaption for Pathology Slide-Level Domain-Shift |  | None |  | 😾 | 
+| None | HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors |  | None |  | 😾 | 
+| None | HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation |  | None |  | 😾 | 
+| None | HalF-SAM: SAM-based Haustral Fold Detection In Colonoscopy with Debris Suppression and Temporal Consistency |  | None |  | 😾 | 
+| None | Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models |  | None |  | 😾 | 
+| None | Hard Sample Mining-based Tongue Diagnosis for Fatty Liver Disease Severity Classification |  | None |  | 😾 | 
+| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  | None |  | 😾 | 
+| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  | None |  | 😾 | 
+| None | HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction |  | None |  | 😾 | 
+| None | HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation |  | None |  | 😾 | 
+| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  | None |  | 😾 | 
+| None | Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound |  | None |  | 😾 | 
+| None | Hierarchical Feature Learning for Medical Point Clouds via State Space Model |  | None |  | 😾 | 
+| None | Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology |  | None |  | 😾 | 
+| None | Hierarchical Spatio-temporal Segmentation Network for Ejection Fraction Estimation in Echocardiography Videos |  | None |  | 😾 | 
+| None | Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection |  | None |  | 😾 | 
+| None | High-Fidelity Unified One-to-Many Medical Image Synthesis via Text-Conditioned Latent Diffusion |  | None |  | 😾 | 
+| None | High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation |  | None |  | 😾 | 
+| None | High-Precision Mixed Feature Fusion Network Using Hypergraph Computation for Cervical Abnormal Cell Detection |  | None |  | 😾 | 
+| None | Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation |  | None |  | 😾 | 
+| None | Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy |  | None |  | 😾 | 
+| None | HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis |  | None |  | 😾 | 
+| None | Hybrid Graph Mamba: Unlocking Non-Euclidean Potential for Accurate Polyp Segmentation |  | None |  | 😾 | 
+| None | Hybrid Local-Window-Attention–Assisted U-Net Model for Multimodal Medical-Image Segmentation |  | None |  | 😾 | 
+| None | Hybrid State-Space Models and Denoising Training for Unpaired Medical Image Synthesis |  | None |  | 😾 | 
+| None | Hybrid-View Attention Network for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound |  | None |  | 😾 | 
+| None | HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation |  | None |  | 😾 | 
+| None | HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis |  | None |  | 😾 | 
+| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  | None |  | 😾 | 
+| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
+| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  | None |  | 😾 | 
+| None | IFRFNet: Iterative Frequency Restoration-Fusion Network for Fast System Matrix Calibration on Magnetic Particle Image |  | None |  | 😾 | 
+| None | IKAN: Interactive KAN with Modulation Fusion for Medical Image Segmentation |  | None |  | 😾 | 
+| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  | None |  | 😾 | 
+| None | IMREPET: Implicit Neural Representation for Unsupervised Dynamic PET Reconstruction |  | None |  | 😾 | 
+| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  | None |  | 😾 | 
+| None | ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization |  | None |  | 😾 | 
+| None | ITAdaptor: Image-Tag Adapter Framework with Knowledge Enhancement for Radiology Report Generation |  | None |  | 😾 | 
+| None | ITMatch: Arch-Guided Semi-Supervised Tooth Arrangement via Iterative Confidence Evaluation |  | None |  | 😾 | 
+| None | Implicit Deformable Medical Image Registration with Learnable Kernels |  | None |  | 😾 | 
+| None | Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation |  | None |  | 😾 | 
+| None | Improved Baselines with Synchronized Encoding for Universal Medical Image Segmentation |  | None |  | 😾 | 
+| None | Improved Tumor Segmentation using Selective Synthetic Augmentation for Enhanced Surgical Planning in Breast MRI |  | None |  | 😾 | 
+| None | Improving Autism Detection with Multimodal Behavioral Analysis |  | None |  | 😾 | 
+| None | Improving Medical Image Segmentation with Implicit Representation and Noisy Label Robustness |  | None |  | 😾 | 
+| None | Improving Motor Imagery EEG Signal Quality with Dynamic Visual Cues: An Innovative Paradigm and Dataset |  | None |  | 😾 | 
+| None | Improving OCTA Imaging through Cross-Domain Adaptation: A Noise-Guided Framework Using Intralipid-Enhanced Rat Data |  | None |  | 😾 | 
+| None | Indepth Integration of Multi-granularity Features from Dual-modal for Disease Classification |  | None |  | 😾 | 
+| None | Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX |  | None |  | 😾 | 
+| None | Influence of Classification Task and Distribution Shift Type on OOD Detection in Fetal Ultrasound |  | None |  | 😾 | 
+| None | Information Bottleneck-based Causal Attention for Multi-label Medical Image Recognition |  | None |  | 😾 | 
+| None | InstructX2X: An Interpretable Local Editing Model for Counterfactual Medical Image Generation |  | None |  | 😾 | 
+| None | Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting |  | None |  | 😾 | 
+| None | Integrate Semantic Radiomics as Prior Evidence into Evidential Deep Learning for Pelvic Lipomatosis Diagnosis |  | None |  | 😾 | 
+| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  | None |  | 😾 | 
+| None | Interactive Segmentation and Report Generation for CT Images |  | None |  | 😾 | 
+| None | Interpretable fMRI Captioning via Contrastive Learning |  | None |  | 😾 | 
+| None | Intra- and Cross-View Enhancement for OCTA Imaging |  | None |  | 😾 | 
+| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  | None |  | 😾 | 
+| None | Is Hyperbolic Space All You Need for Medical Anomaly Detection? |  | None |  | 😾 | 
+| None | KMUNet: A novel medical image segmentation model based on KAN and Mamba |  | None |  | 😾 | 
+| None | KidneyDepth: A Synthetic Kidney Dataset for Metric Depth Estimation in Ureteroscopy |  | None |  | 😾 | 
+| None | Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning |  | None |  | 😾 | 
+| None | Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation |  | None |  | 😾 | 
+| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  | None |  | 😾 | 
+| None | Knowledge-Enhanced Complementary Information Fusion with Temporal Heterogeneous Graph Learning for Disease Prediction |  | None |  | 😾 | 
+| None | Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification |  | None |  | 😾 | 
+| None | LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation |  | None |  | 😾 | 
+| None | LEAVS: An LLM-based Labeler for Abdominal CT Supervision |  | None |  | 😾 | 
+| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  | None |  | 😾 | 
+| None | LIP-CAR: a learned inverse problem approach for medical imaging with contrast agent reduction |  | None |  | 😾 | 
+| None | LKA: Large Kernel Adapter for Enhanced Medical Image Classification |  | None |  | 😾 | 
+| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  | None |  | 😾 | 
+| None | LTSE: Language-guided Tissue Referring Segmentation in Pathology Images with Adaptive Expert Mixture |  | None |  | 😾 | 
+| None | LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images |  | None |  | 😾 | 
+| None | Language of Stains: Tokenization Enhances Multiplex Immunofluorescence and Histology Image Synthesis |  | None |  | 😾 | 
+| None | Last Layer Laplacian Pseudocoresets for Robust Medical Image Analysis |  | None |  | 😾 | 
+| None | Latent Motion Profiling for Annotation-free Cardiac Phase Detection in Adult and Fetal Echocardiography Videos |  | None |  | 😾 | 
+| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  | None |  | 😾 | 
+| None | Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification |  | None |  | 😾 | 
+| None | Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction |  | None |  | 😾 | 
+| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  | None |  | 😾 | 
+| None | Learning Foundation Models from Multi-Organ Medical Images by Capturing Consistency and Diversity of Anatomical Structures |  | None |  | 😾 | 
+| None | Learning Segmentation from Radiology Reports |  | None |  | 😾 | 
+| None | Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment |  | None |  | 😾 | 
+| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  | None |  | 😾 | 
+| None | Lesion-Aware Post-Training of Latent Diffusion Models for Synthesizing Diffusion MRI from CT Perfusion |  | None |  | 😾 | 
+| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  | None |  | 😾 | 
+| None | LesionDiffusion: Towards Text-controlled General Lesion Synthesis |  | None |  | 😾 | 
+| None | Leveraging Diffusion Models for Continual Test-Time Adaptation in Fundus Image Classification |  | None |  | 😾 | 
+| None | Leveraging Semantic Asymmetry for Accurate Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT |  | None |  | 😾 | 
+| None | Leveraging Visual Prompt with Diffusion Adversarial Network for Radiotherapy Dose Prediction |  | None |  | 😾 | 
+| None | Localization Lens for Improving Medical Vision-Language Models |  | None |  | 😾 | 
+| None | Location-Aware Parameter Fine-Tuning for Multimodal Image Segmentation |  | None |  | 😾 | 
+| None | Location-Guided Automated Lesion Captioning in Whole-body PET/CT Images |  | None |  | 😾 | 
+| None | Longitudinal MRI-Clinical Multimodal Fusion for pCR Prediction in Breast Cancer |  | None |  | 😾 | 
+| None | Longitudinal anatomical attention maps for recognizing diagnostic errors from radiologists’ eye movements |  | None |  | 😾 | 
+| None | Lymph Node Metastasis Classification with Prototype-guided Multiple Instance Aggregation and Heterogeneous Feature Fusion |  | None |  | 😾 | 
+| None | Lymphoma Prognosis with Lesion-Anatomy Context Fusion and Attention-Based Multi-Lesion Aggregation |  | None |  | 😾 | 
+| None | M3HL: Mutual Mask Mix with High-Low Level Feature Consistency for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  | None |  | 😾 | 
+| None | MAK-GAN: Multi-level Adaptive Convolutional Kernels for Asymmetric Multi-modal PET Reconstruction |  | None |  | 😾 | 
+| None | MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment |  | None |  | 😾 | 
+| None | MAMBA-Based Weakly Supervised Medical Image Segmentation with Cross-Modal Textual Information |  | None |  | 😾 | 
+| None | MARSeg: Enhancing Medical Image Segmentation with MAR and Adaptive Feature Fusion |  | None |  | 😾 | 
+| None | MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts |  | None |  | 😾 | 
+| None | MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation |  | None |  | 😾 | 
+| None | MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation |  | None |  | 😾 | 
+| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  | None |  | 😾 | 
+| None | MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction |  | None |  | 😾 | 
+| None | MELON: Multimodal Mixture-of-Experts with Spectral-Temporal Fusion for Long-Term MObility EstimatioN in Critical Care |  | None |  | 😾 | 
+| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  | None |  | 😾 | 
+| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  | None |  | 😾 | 
+| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  | None |  | 😾 | 
+| None | MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis |  | None |  | 😾 | 
+| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  | None |  | 😾 | 
+| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  | None |  | 😾 | 
+| None | MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification |  | None |  | 😾 | 
+| None | MOSCARD - Multimodal Opportunistic Screening for Cardiovascular Adverse events with Causal Reasoning and De-confounding |  | None |  | 😾 | 
+| None | MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning |  | None |  | 😾 | 
+| None | MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering |  | None |  | 😾 | 
+| None | MRI Motion Artifact Correction via Frequency-Assisted Artifact Disentanglement and Confidence-Guided Knowledge Distillation |  | None |  | 😾 | 
+| None | MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis |  | None |  | 😾 | 
+| None | MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment |  | None |  | 😾 | 
+| None | MSDG-StyleNet: Multi-source Unsupervised Domain-Generalized CBCT-to-CT Translation with Style-Consistent Disentangled Representations |  | None |  | 😾 | 
+| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  | None |  | 😾 | 
+| None | MSWAL: 3D Multi-class Segmentation of Whole Abdominal Lesions Dataset |  | None |  | 😾 | 
+| None | MT-WilmsNet: A Multi-Level Transformer Fusion Network for Wilms’ Tumor Segmentation and Metastasis Prediction |  | None |  | 😾 | 
+| None | MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentation in 4D Ultrasound |  | None |  | 😾 | 
+| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  | None |  | 😾 | 
+| None | MadCLIP: Few-shot Medical Anomaly Detection with CLIP |  | None |  | 😾 | 
+| None | Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation |  | None |  | 😾 | 
+| None | MambaMER: Adaptive EEG-Guided Multimodal Emotion Recognition with Mamba |  | None |  | 😾 | 
+| None | MammoTracker: Mask-Guided Lesion Tracking in Temporal Mammograms |  | None |  | 😾 | 
+| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  | None |  | 😾 | 
+| None | Mask2Surface: Motion Correction and Super-Resolution for Cardiac Surface Reconstruction Using Latent Diffusion |  | None |  | 😾 | 
+| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  | None |  | 😾 | 
+| None | MatchGen: Detecting Medical Abnormal Region by Generating Matched Normal Regions |  | None |  | 😾 | 
+| None | MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification |  | None |  | 😾 | 
+| None | Med-BiasX: Robust Medical Visual Question Answering with Language Biases |  | None |  | 😾 | 
+| None | Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis |  | None |  | 😾 | 
+| None | MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions |  | None |  | 😾 | 
+| None | MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis |  | None |  | 😾 | 
+| None | MedGCD: Generalized Category Discovery in Medical Imaging |  | None |  | 😾 | 
+| None | MedGNN: General Medical Image Recognition Network via GNN Visual Representations |  | None |  | 😾 | 
+| None | MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization |  | None |  | 😾 | 
+| None | MedICL: In-Context Learning for Semantically Enhanced AKI Prediction in Cardiac Surgery |  | None |  | 😾 | 
+| None | MedIQA: A Scalable Foundation Model for Prompt-Driven Medical Image Quality Assessment |  | None |  | 😾 | 
+| None | MedPro-DG: Domain-Aware Masked Contrastive Prompt Learning of Institution Generalization for Outcome Prediction |  | None |  | 😾 | 
+| None | MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis |  | None |  | 😾 | 
+| None | MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning |  | None |  | 😾 | 
+| None | Medical Large Vision Language Models with Multi-Image Visual Ability |  | None |  | 😾 | 
+| None | Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound |  | None |  | 😾 | 
+| None | Memory-Augmented Incomplete Multimodal Survival Prediction via Cross-Slide and Gene-Attentive Hypergraph Learning |  | None |  | 😾 | 
+| None | Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation |  | None |  | 😾 | 
+| None | Mesh4D: A Motion-Aware Multi-View Variational Autoencoder for 3D+t Mesh Reconstruction |  | None |  | 😾 | 
+| None | Meta-Learning Physics-Informed Neural Networks for Personalized Cardiac Modeling |  | None |  | 😾 | 
+| None | Meta-Learning-Driven CT Morphology Disentangled Diffusion Model for Multi-Region SPECT Attenuation Correction |  | None |  | 😾 | 
+| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  | None |  | 😾 | 
+| None | Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts |  | None |  | 😾 | 
+| None | MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis |  | None |  | 😾 | 
+| None | MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images |  | None |  | 😾 | 
+| None | Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions |  | None |  | 😾 | 
+| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  | None |  | 😾 | 
+| None | Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing |  | None |  | 😾 | 
+| None | MixStyleFlow: Domain Generalization in Medical Image Segmentation using Normalizing Flows |  | None |  | 😾 | 
+| None | MoDiff: A Morphology-Emphasized Diffusion Model for Ambiguous Medical Image Segmentation |  | None |  | 😾 | 
+| None | MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts |  | None |  | 😾 | 
+| None | MoMIL: Mixture of Multi-Instance Learners for Modeling Multiple Compound Activities in High Content Imaging |  | None |  | 😾 | 
+| None | MoST-IG: Morphology-Guided Spatial Transcriptomics Integration via Visual-Genomic Graph Optimal Transport |  | None |  | 😾 | 
+| None | Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration |  | None |  | 😾 | 
+| None | More performant and scalable: Rethinking contrastive vision-language pre-training of radiology in the LLM era |  | None |  | 😾 | 
+| None | MorphoBoost: Morphology-Driven Boundary Enhancement Model for Accurate Segmentation of Langerhans Cells in Corneal Confocal Microscopy Images |  | None |  | 😾 | 
+| None | Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow |  | None |  | 😾 | 
+| None | MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy |  | None |  | 😾 | 
+| None | Multi-Agent Collaboration for Integrating Echocardiography Expertise in Multi-Modal Large Language Models |  | None |  | 😾 | 
+| None | Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis |  | None |  | 😾 | 
+| None | Multi-Level Gated U-Net for Denoising TMR Sensor-Based MCG Signals |  | None |  | 😾 | 
+| None | Multi-Masked Querying Network for Robust Emotion Recognition from Incomplete Multi-Modal Physiological Signals |  | None |  | 😾 | 
+| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  | None |  | 😾 | 
+| None | Multi-Modal Progressive Fusion for ASD Screening Using Smartphone Video |  | None |  | 😾 | 
+| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  | None |  | 😾 | 
+| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  | None |  | 😾 | 
+| None | Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing |  | None |  | 😾 | 
+| None | Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology |  | None |  | 😾 | 
+| None | Multi-modal MRI Translation via Evidential Regression and Distribution Calibration |  | None |  | 😾 | 
+| None | Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition |  | None |  | 😾 | 
+| None | Multi-scale Attention-based Multiple Instance Learning for Breast Cancer Diagnosis |  | None |  | 😾 | 
+| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  | None |  | 😾 | 
+| None | Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation |  | None |  | 😾 | 
+| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  | None |  | 😾 | 
+| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  | None |  | 😾 | 
+| None | Multifrequency Neural Network-based Wave Inversion in MR Elastography |  | None |  | 😾 | 
+| None | Multimodal Fusion Network with Distribution-based Tumor-Marker Imputation for Multi-Origin Metastatic Cervical Lymphadenopathy Classification |  | None |  | 😾 | 
+| None | Multimodal Hypergraph Guide Learning for Non-Invasive ccRCC Survival Prediction |  | None |  | 😾 | 
+| None | Multimodal Imputation of Imaging-derived Phenotypes from Genomic and Blood-based Biomarkers Enhances Common Disease Discovery |  | None |  | 😾 | 
+| None | Multimodal Prompt Sequence Learning for Interactive Segmentation of Vascular Structures |  | None |  | 😾 | 
+| None | Multiscale Graph and Multi-Step Cross-Frame Mamba for Myocarditis Lesion Segmentation |  | None |  | 😾 | 
+| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
+| None | Multiview Feature Fusion and Contrastive Learning for Drug-Target Interaction Prediction |  | None |  | 😾 | 
+| None | MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction |  | None |  | 😾 | 
+| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  | None |  | 😾 | 
+| None | NAVIUS: Navigated Augmented Reality Visualization for Ureteroscopic Surgery |  | None |  | 😾 | 
+| None | NERO: Explainable Out-of-Distribution Detection with Neuron-level Relevance in Gastrointestinal Imaging |  | None |  | 😾 | 
+| None | NQNN: Noise-aware Quantum Neural Networks for Medical Image Classification |  | None |  | 😾 | 
+| None | Navigational Bronchoscopy in Critical Care via End-to-End Pose Regression |  | None |  | 😾 | 
+| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  | None |  | 😾 | 
+| None | Neural Proteomics Fields for Super-resolved Spatial Proteomics Prediction |  | None |  | 😾 | 
+| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  | None |  | 😾 | 
+| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  | None |  | 😾 | 
+| None | New Multimodal Similarity Measure for Image Registration via Modeling Local Functional Dependence with Linear Combination of Learned Basis Functions |  | None |  | 😾 | 
+| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  | None |  | 😾 | 
+| None | No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-K Patch Sampling |  | None |  | 😾 | 
+| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  | None |  | 😾 | 
+| None | Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation |  | None |  | 😾 | 
+| None | Noisy Label Refinement Based on Discrete Diffusion Process in 3D Ossicle Segmentation |  | None |  | 😾 | 
+| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  | None |  | 😾 | 
+| None | Non-Salient Object Segmentation in Medical Images via Pre-trained Multi-Granularity Masked Autoencoders |  | None |  | 😾 | 
+| None | ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation |  | None |  | 😾 | 
+| None | OFF-CLIP: Improving Normal Detection Confidence in Radiology CLIP with Simple Off-Diagonal Term Auto-Adjustment |  | None |  | 😾 | 
+| None | OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport |  | None |  | 😾 | 
+| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  | None |  | 😾 | 
+| None | Occlusion-free 4D Gaussians for Open Surgery Videos Using Multi-Camera Shadowless Lamps |  | None |  | 😾 | 
+| None | Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation |  | None |  | 😾 | 
+| None | OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models |  | None |  | 😾 | 
+| None | Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins |  | None |  | 😾 | 
+| None | Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model |  | None |  | 😾 | 
+| None | Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration |  | None |  | 😾 | 
+| None | OralSAM: One-shot Segmentation for Intraoral Ultrasound Videos with Adaptive Feature Correlation and Self-prompting Strategy |  | None |  | 😾 | 
+| None | Out-of-Distribution Nuclei Segmentation in Histology Imaging via Liquid Neural Networks with Modern Hopfield Layer |  | None |  | 😾 | 
+| None | P2INR-FWI: an Implicit Neural Representation Method for Speed of Sound Image Reconstruction in Ultrasound Computed Tomography |  | None |  | 😾 | 
+| None | PATE: Enhancing Few-Shot Pathological Image Classification via Prompt-Based Text-Image Embedding Adaptation |  | None |  | 😾 | 
+| None | PCR-MIL: Phenotype Clustering Reinforced Multiple Instance Learning for Whole Slide Image Classification |  | None |  | 😾 | 
+| None | PD-INR: Prior-Driven Implicit Neural Representations for TOF-PET Reconstruction |  | None |  | 😾 | 
+| None | PD-UniST: Prompt-Driven Universal Model for Unpaired H&E-to-IHC Stain Translation |  | None |  | 😾 | 
+| None | PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation |  | None |  | 😾 | 
+| None | PDF-Net: Prototype-Aware Dynamic Fusion Network for Nasopharyngeal Carcinoma T-staging Classification with Epstein-Barr Virus DNA |  | None |  | 😾 | 
+| None | PFESA: FFT-based Parameter-Free Edge and Structure Attention for Medical Image Segmentation |  | None |  | 😾 | 
+| None | PLUS: Plug-and-Play Enhanced Liver Lesion Diagnosis Model on Non-Contrast CT Scans |  | None |  | 😾 | 
+| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  | None |  | 😾 | 
+| None | PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy |  | None |  | 😾 | 
+| None | PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development |  | None |  | 😾 | 
+| None | PRECISE-AS: Personalized Reinforcement Learning for Efficient Point-of-Care Echocardiography in Aortic Stenosis Diagnosis |  | None |  | 😾 | 
+| None | PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning |  | None |  | 😾 | 
+| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  | None |  | 😾 | 
+| None | PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning |  | None |  | 😾 | 
+| None | PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis |  | None |  | 😾 | 
+| None | Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling |  | None |  | 😾 | 
+| None | Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks |  | None |  | 😾 | 
+| None | Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading |  | None |  | 😾 | 
+| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  | None |  | 😾 | 
+| None | PathVG: A New Benchmark and Dataset for Pathology Visual Grounding |  | None |  | 😾 | 
+| None | PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting |  | None |  | 😾 | 
+| None | PathoPrompt: Cross-Granular Semantic Alignment for Medical Pathology Vision-Language Models |  | None |  | 😾 | 
+| None | Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions |  | None |  | 😾 | 
+| None | Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis |  | None |  | 😾 | 
+| None | Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis |  | None |  | 😾 | 
+| None | Pathology-aware Virtual H&E Staining of Section-free Thick Tissues with Semantic Contrastive Guidance |  | None |  | 😾 | 
+| None | Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images |  | None |  | 😾 | 
+| None | Pattern-Anchored Adaptive Prototype Learning for Gastroscopic Lesion Detection and Beyond |  | None |  | 😾 | 
+| None | PedCLIP: A Vision-Language model for Pediatric X-rays with Mixture of Body part Experts |  | None |  | 😾 | 
+| None | PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection |  | None |  | 😾 | 
+| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  | None |  | 😾 | 
+| None | Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications |  | None |  | 😾 | 
+| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  | None |  | 😾 | 
+| None | Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction |  | None |  | 😾 | 
+| None | Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging |  | None |  | 😾 | 
+| None | Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping |  | None |  | 😾 | 
+| None | Physics-Informed Neural Operators for Tissue Elasticity Reconstruction |  | None |  | 😾 | 
+| None | Physics-driven Signal Regularization in Diffusion Models for Multi-contrast MR Image Synthesis |  | None |  | 😾 | 
+| None | Physics-guided deep image prior network for general zero-shot stain deconvolution |  | None |  | 😾 | 
+| None | Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET |  | None |  | 😾 | 
+| None | PolarDETR: Enhancing Interpretability in Multi-modal Methods for Jawbone Lesion Detection in CBCT |  | None |  | 😾 | 
+| None | PolyMamba: Spatial-prior Guided Mamba for Polyp Segmentation with High-Frequency Enhancement |  | None |  | 😾 | 
+| None | PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis |  | None |  | 😾 | 
+| None | Pose as Clinical Prior: Learning Dual Representations for Scoliosis Screening |  | None |  | 😾 | 
+| None | Pre-to-Post Operative MRI Generation with Retrieval-based Visual In-Context Learning |  | None |  | 😾 | 
+| None | Predicting Femoral Head Collapse Risk in Osteonecrosis Using Label Tokenization: A Multi-Modality Survival Analysis Approach |  | None |  | 😾 | 
+| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  | None |  | 😾 | 
+| None | Predicting Radiation Therapy Response based on Dynamic Temporal Feature Difference Fusion from Longitudinal MRI |  | None |  | 😾 | 
+| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  | None |  | 😾 | 
+| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
+| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  | None |  | 😾 | 
+| None | ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection |  | None |  | 😾 | 
+| None | Probabilistic Integration of Renal Cancer Radiology and Pathology Using Graph Neural Networks |  | None |  | 😾 | 
+| None | Probabilistic Prior-Guided Anatomical Alignment for MRI Super-Resolution |  | None |  | 😾 | 
+| None | ProgreSpine: Inherently Explainable Prototypical Regression for Spine Age Estimation |  | None |  | 😾 | 
+| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  | None |  | 😾 | 
+| None | Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images |  | None |  | 😾 | 
+| None | PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer |  | None |  | 😾 | 
+| None | Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification |  | None |  | 😾 | 
+| None | Prototype-Guided Cross-Modal Knowledge Enhancement for Adaptive Survival Prediction |  | None |  | 😾 | 
+| None | Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis |  | None |  | 😾 | 
+| None | Query-Level Alignment for End-to-End Lesion Detection with Human Gaze |  | None |  | 😾 | 
+| None | R1Seg-3D: Rethinking Reasoning Segmentation for Medical 3D CTs |  | None |  | 😾 | 
+| None | RANDose: A Region-aware Attention Network for Accurate Radiation Dose Prediction |  | None |  | 😾 | 
+| None | RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways |  | None |  | 😾 | 
+| None | RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration |  | None |  | 😾 | 
+| None | RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis |  | None |  | 😾 | 
+| None | RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models |  | None |  | 😾 | 
+| None | RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation |  | None |  | 😾 | 
+| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  | None |  | 😾 | 
+| None | RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment |  | None |  | 😾 | 
+| None | RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration |  | None |  | 😾 | 
+| None | RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining |  | None |  | 😾 | 
+| None | RadKAM: Attention-Driven Kolmogorov-Arnold Model for Automatic Radiation-Induced Lymphopenia Prediction by Multimodal Learning |  | None |  | 😾 | 
+| None | RadSAM: Segmenting 3D radiological images with a 2D promptable model |  | None |  | 😾 | 
+| None | Radar-Based Imaging for Sign Language Recognition in Medical Communication |  | None |  | 😾 | 
+| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  | None |  | 😾 | 
+| None | RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features |  | None |  | 😾 | 
+| None | ReSeg-UNet: A Reconstruction-Guided Optimization Framework for Enhanced Medical Image Segmentation |  | None |  | 😾 | 
+| None | ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking |  | None |  | 😾 | 
+| None | Real-Time SLAM-Based Correction and 3D Visualization for Fluorescence Lifetime Imaging |  | None |  | 😾 | 
+| None | Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement |  | None |  | 😾 | 
+| None | Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction |  | None |  | 😾 | 
+| None | Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes |  | None |  | 😾 | 
+| None | RedDino: A foundation model for red blood cell analysis |  | None |  | 😾 | 
+| None | RefineNet: Elevating Medical Foundation Models through Quality-Centric Data Curation by MLLM-Annotated Proxy Distillation |  | None |  | 😾 | 
+| None | RefineSeg: Dual Coarse-to-Fine Learning for Medical Image Segmentation |  | None |  | 😾 | 
+| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  | None |  | 😾 | 
+| None | Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation |  | None |  | 😾 | 
+| None | Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation |  | None |  | 😾 | 
+| None | Reliable and Interpretable Visual Field Progression Prediction with Diffusion Models and Conformal Risk Control |  | None |  | 😾 | 
+| None | ResMAP: Restoring MRIs of Mixed Artifacts by Prompt Cascading Retrieval |  | None |  | 😾 | 
+| None | Restyled, Tuning, and Alignment: Taming VLMs for Federated Non-IID Medical Image Analysis |  | None |  | 😾 | 
+| None | RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models |  | None |  | 😾 | 
+| None | RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports |  | None |  | 😾 | 
+| None | Rethinking Multi-view Mammogram Representation Learning via Counterfactual Reasoning with Kolmogorov-Arnold Theorem |  | None |  | 😾 | 
+| None | RetiDiff: Diffusion-based Synthesis of Retinal OCT Images for Enhanced Segmentation |  | None |  | 😾 | 
+| None | RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions |  | None |  | 😾 | 
+| None | Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation |  | None |  | 😾 | 
+| None | Revisiting 3D Medical Scribble Supervision: Benchmarking Beyond Cardiac Segmentation |  | None |  | 😾 | 
+| None | Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology |  | None |  | 😾 | 
+| None | Revisiting Masked Image Modeling with Standardized Color Space for Domain Generalized Fundus Photography Classification |  | None |  | 😾 | 
+| None | Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images |  | None |  | 😾 | 
+| None | Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation |  | None |  | 😾 | 
+| None | Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport |  | None |  | 😾 | 
+| None | Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation |  | None |  | 😾 | 
+| None | Robust Sleep Stage Prediction from Electroencephalogram with Label Noise Using Multimodal Large Language Models |  | None |  | 😾 | 
+| None | SABPI-Net: A Novel Structure-Aware Network for Accurate and Domain-Invariant Retinopathy of Prematurity Diagnosis |  | None |  | 😾 | 
+| None | SAGCNet: Spatial-Aware Graph Completion Network for Missing Slice Imputation in Population CMR Imaging |  | None |  | 😾 | 
+| None | SAM2-ProMem: Enhancing Zero-Shot 3D Segmentation with Stochastic Propagation and Memory Search |  | None |  | 😾 | 
+| None | SAMASK-CLTR: A spatial-aware mask guided learning model for benign and malignant tumor classification in ABUS |  | None |  | 😾 | 
+| None | SAMSA: Segment Anything Model enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation |  | None |  | 😾 | 
+| None | SAMUSA: Segment Anything Model 2 for UltraSound Annotation |  | None |  | 😾 | 
+| None | SAMed-2: Selective Memory Enhanced Medical Segment Anything Model |  | None |  | 😾 | 
+| None | SIMPLE: Simultaneous Multi-plane Self-supervised Learning for Isotropic MRI Restoration from Anisotropic Data |  | None |  | 😾 | 
+| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  | None |  | 😾 | 
+| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  | None |  | 😾 | 
+| None | SPENet: Self-guided Prototype Enhancement Network for Few-shot Medical Image Segmentation |  | None |  | 😾 | 
+| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  | None |  | 😾 | 
+| None | SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model |  | None |  | 😾 | 
+| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  | None |  | 😾 | 
+| None | STEAM: Self-supervised TEeth Analysis and Modeling for Point Cloud Segmentation |  | None |  | 😾 | 
+| None | STMDiff: Spatiotemporal Matching Diffusion Model for Dual-Time-Point Total-body PET/CT Imaging via Contrastive Learning |  | None |  | 😾 | 
+| None | SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model |  | None |  | 😾 | 
+| None | SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus |  | None |  | 😾 | 
+| None | Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation |  | None |  | 😾 | 
+| None | Seeing Beyond the Surface: Retinal Thickness Prediction from Color Fundus Photography for DME Management |  | None |  | 😾 | 
+| None | Segmenting Vessels Encapsulating Tumor Clusters via Fine-Grained Visual Prompt |  | None |  | 😾 | 
+| None | Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning |  | None |  | 😾 | 
+| None | Self-Supervised Multiview Xray Matching |  | None |  | 😾 | 
+| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  | None |  | 😾 | 
+| None | Self-supervised Axial Super-Resolution for Volume Microscopy via Diffusion-Guided Structure Distillation |  | None |  | 😾 | 
+| None | Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos |  | None |  | 😾 | 
+| None | Semantic Interpolative Diffusion Model: Bridging the Interpolation to Masks and Colonoscopy Image Synthesis for Robust Generalization |  | None |  | 😾 | 
+| None | Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance |  | None |  | 😾 | 
+| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  | None |  | 😾 | 
+| None | Semi-Supervised Deformation-Free Image-to-Image Translation for Realistic CT Synthesis from CBCT |  | None |  | 😾 | 
+| None | Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations |  | None |  | 😾 | 
+| None | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition |  | None |  | 😾 | 
+| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  | None |  | 😾 | 
+| None | Sim-to-Real Transformer-Based Shape Reconstruction for Automated Orthopedic Fracture Reduction Planning |  | None |  | 😾 | 
+| None | SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training |  | None |  | 😾 | 
+| None | SlimFormer-3D: A Layer-Adaptive Lightweight Transformer for Efficient 3D Medical Image Segmentation |  | None |  | 😾 | 
+| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  | None |  | 😾 | 
+| None | Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial Learning with Class-Level Alignment |  | None |  | 😾 | 
+| None | Source-Free Active Domain Adaptation for Efficient Medical Video Polyp Segmentation |  | None |  | 😾 | 
+| None | Source-Free Domain Adaptation for Cross-Modality Cardiac Image Segmentation with Contrastive Class Relationship Consistency |  | None |  | 😾 | 
+| None | Sparse-XM: Spine Pose Adjustment with RGB-D Bone Segmentation via Cross-Modality Label Transfer |  | None |  | 😾 | 
+| None | Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging |  | None |  | 😾 | 
+| None | Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks |  | None |  | 😾 | 
+| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  | None |  | 😾 | 
+| None | Spatial Aggregation for Semi-supervised Active Learning in 3D Medical Image Segmentation |  | None |  | 😾 | 
+| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  | None |  | 😾 | 
+| None | Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos |  | None |  | 😾 | 
+| None | Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning |  | None |  | 😾 | 
+| None | Spatiotemporal-Sensitive Network for Microvascular Obstruction Segmentation from Cine Cardiac Magnetic Resonance |  | None |  | 😾 | 
+| None | Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder |  | None |  | 😾 | 
+| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  | None |  | 😾 | 
+| None | Steerable Anatomical Shape Synthesis with Implicit Neural Representations |  | None |  | 😾 | 
+| None | StepAL: Step-aware Active Learning for Cataract Surgical Videos |  | None |  | 😾 | 
+| None | Stronger Together: Registering Preoperative Imagery, LUS, and MIS Liver Images |  | None |  | 😾 | 
+| None | Structure and Smoothness Constrained Dual Networks for MR Bias Field Correction |  | None |  | 😾 | 
+| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  | None |  | 😾 | 
+| None | Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap |  | None |  | 😾 | 
+| None | Structure-aware MRI Translation: Multi-Modal Latent Diffusion Model with Arbitrary Missing Modalities |  | None |  | 😾 | 
+| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  | None |  | 😾 | 
+| None | Subtyping Breast Lesions via Generative Augmentation based Long-tailed Recognition in Ultrasound |  | None |  | 😾 | 
+| None | Super-resolution and segmentation of 4D Flow MRI using Deep learning and Weighted Mean Frequencies |  | None |  | 😾 | 
+| None | Supervised Diffusion-Model-Based PET Image Reconstruction |  | None |  | 😾 | 
+| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  | None |  | 😾 | 
+| None | SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation |  | None |  | 😾 | 
+| None | SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting |  | None |  | 😾 | 
+| None | SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition |  | None |  | 😾 | 
+| None | Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery |  | None |  | 😾 | 
+| None | SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction |  | None |  | 😾 | 
+| None | SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts |  | None |  | 😾 | 
+| None | Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images |  | None |  | 😾 | 
+| None | Synergy-Guided Regional Supervision of Pseudo Labels for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | Synthesis of Pathological Dual-Channel Color Doppler Echocardiograms for Equitable Diagnosis of Heart Diseases |  | None |  | 😾 | 
+| None | Synthesizing Delayed-Phase Contrast-Enhanced Breast MR Images from Early-Phase Images Using an Iterative Deep Network |  | None |  | 😾 | 
+| None | Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging |  | None |  | 😾 | 
+| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  | None |  | 😾 | 
+| None | T2GS: Comprehensive Reconstruction of Dynamic Surgical Scenes with Gaussian Splatting |  | None |  | 😾 | 
+| None | T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models |  | None |  | 😾 | 
+| None | T2WI-BCMIC: Non-Fat Saturated T2-Weighted Imaging Dataset for Bladder Cancer Muscle Invasion Classification |  | None |  | 😾 | 
+| None | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration |  | None |  | 😾 | 
+| None | TEGDA: Test-time Evaluation-Guided Dynamic Adaptation for Medical Image Segmentation |  | None |  | 😾 | 
+| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  | None |  | 😾 | 
+| None | TGSAM-2: Text-Guided Medical Image Segmentation using Segment Anything Model 2 |  | None |  | 😾 | 
+| None | TMSE: Tri-Modal Survival Estimation with Context-aware Tissue Prototype and Attention-Entropy Interaction |  | None |  | 😾 | 
+| None | TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency |  | None |  | 😾 | 
+| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  | None |  | 😾 | 
+| None | Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS |  | None |  | 😾 | 
+| None | Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling |  | None |  | 😾 | 
+| None | Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection |  | None |  | 😾 | 
+| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  | None |  | 😾 | 
+| None | Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer |  | None |  | 😾 | 
+| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  | None |  | 😾 | 
+| None | Temporal Atlas-Guided Generation of Longitudinal Data via Geometric Latent Embeddings |  | None |  | 😾 | 
+| None | Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis |  | None |  | 😾 | 
+| None | Temporal Model-Based Federated Active Medical Image Classification |  | None |  | 😾 | 
+| None | Temporal Modulated Multi-Scale Deformation Fusion via Knowledge Distillation for 4D Medical Image Interpolation |  | None |  | 😾 | 
+| None | Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI |  | None |  | 😾 | 
+| None | Temporal Representation Learning of Phenotype Trajectories for pCR Prediction in Breast Cancer |  | None |  | 😾 | 
+| None | Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy |  | None |  | 😾 | 
+| None | Test-Time Training with Local Contrast-Preserving Copy-Pasted Image for Domain Generalization in Retinal Vessel Segmentation |  | None |  | 😾 | 
+| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  | None |  | 😾 | 
+| None | Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis |  | None |  | 😾 | 
+| None | Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  | None |  | 😾 | 
+| None | The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection |  | None |  | 😾 | 
+| None | Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines |  | None |  | 😾 | 
+| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  | None |  | 😾 | 
+| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  | None |  | 😾 | 
+| None | ThyroidXL: Advancing Thyroid Nodule Diagnosis with an Expert-Labeled, Pathology-Validated Dataset |  | None |  | 😾 | 
+| None | Tied Prototype Model for Few-Shot Medical Image Segmentation |  | None |  | 😾 | 
+| None | Time-Contrastive Pretraining for In-Context Image and Video Segmentation |  | None |  | 😾 | 
+| None | Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining |  | None |  | 😾 | 
+| None | Top-Down Attention-based Multiple Instance Learning for Whole Slide Image Analysis |  | None |  | 😾 | 
+| None | Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection |  | None |  | 😾 | 
+| None | Toward Medical Deepfake Detection: A Comprehensive Dataset and Novel Method |  | None |  | 😾 | 
+| None | Towards Accurate Tumor Budding Detection: A Benchmark Dataset and A Detection Approach Based on Implicit Annotation Standardization and Positive-Negative Feature Coupling |  | None |  | 😾 | 
+| None | Towards Automated Pediatric Dental Development Staging: A Dataset and Model |  | None |  | 😾 | 
+| None | Towards Holistic Surgical Scene Graph |  | None |  | 😾 | 
+| None | Towards Interpretable Counterfactual Generation via Multimodal Autoregression |  | None |  | 😾 | 
+| None | Towards Multi-Scenario Generalization: Text-Guided Unified Framework for Low-Dose CT and Total-Body PET Reconstruction |  | None |  | 😾 | 
+| None | Towards Robust Medical Image Referring Segmentation with Incomplete Textual Prompts |  | None |  | 😾 | 
+| None | Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks |  | None |  | 😾 | 
+| None | Training-free Test-time Improvement for Explainable Medical Image Classification |  | None |  | 😾 | 
+| None | TransSino: Prior Sinogram Pattern-Based Transformer for Limited-Angle CT Image Segmentation |  | None |  | 😾 | 
+| None | Treat: A Unified Text-guided Conditioned Deep Learning Model for Generalized Radiotherapy Treatment Planning |  | None |  | 😾 | 
+| None | Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction |  | None |  | 😾 | 
+| None | Tumor Microenvironment-Guided Fine-Tuning of Pathology Foundation Models for Esophageal Squamous Cell Carcinoma Immunotherapy Response Prediction |  | None |  | 😾 | 
+| None | Tumor Segmentation with Heterogeneity Clustering in Non-contrast Breast MRI |  | None |  | 😾 | 
+| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  | None |  | 😾 | 
+| None | U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation |  | None |  | 😾 | 
+| None | U-RWKV: Lightweight medical image segmentation with direction-adaptive RWKV |  | None |  | 😾 | 
+| None | UM-SAM: Unsupervised Medical Image Segmentation using Knowledge Distillation from Segment Anything Model |  | None |  | 😾 | 
+| None | UltrON: Ultrasound Occupancy Networks |  | None |  | 😾 | 
+| None | Ultra-Low-Field MRI Enhancement via INR-Based Style Transfer |  | None |  | 😾 | 
+| None | UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation |  | None |  | 😾 | 
+| None | UltraTwin: Towards Cardiac Anatomical Twin Generation from Multi-view 2D Ultrasound |  | None |  | 😾 | 
+| None | Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading |  | None |  | 😾 | 
+| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  | None |  | 😾 | 
+| None | Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound |  | None |  | 😾 | 
+| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  | None |  | 😾 | 
+| None | UniMRG: Refining Medical Semantic Understanding Across Modalities via LLM-Orchestrated Synergistic Evolution |  | None |  | 😾 | 
+| None | UniOCTSeg: Towards Universal OCT Retinal Layer Segmentation via Hierarchical Prompting and Progressive Consistency Learning |  | None |  | 😾 | 
+| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  | None |  | 😾 | 
+| None | Unisyn: A Generative Foundation Model for Universal Medical Image Synthesis across MRI, CT and PET |  | None |  | 😾 | 
+| None | Unleashing SAM for Few-Shot Medical Image Segmentation with Dual-Encoder and Automated Prompting |  | None |  | 😾 | 
+| None | Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion |  | None |  | 😾 | 
+| None | Unleashing the Power of LLMs for Medical Video Answer Localization |  | None |  | 😾 | 
+| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  | None |  | 😾 | 
+| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  | None |  | 😾 | 
+| None | Unsupervised Anomaly Detection on Preclinical Liver H&E Whole Slide Images using Graph based Feature Distillation |  | None |  | 😾 | 
+| None | Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model |  | None |  | 😾 | 
+| None | Unsupervised Learning-Based Susceptibility Artifact Correction for Diffusion-Weighted MRI in Multiple Organs |  | None |  | 😾 | 
+| None | Unsupervised OCT image interpolation using deformable registration and generative models |  | None |  | 😾 | 
+| None | Unsupervised Quality Control and Enhancement of Polyp Segmentation in Colonoscopy Videos using Spatiotemporal Consistency |  | None |  | 😾 | 
+| None | Unsupervised Structure-Geometric Consistency for Monocular Endoscopic Depth Overestimation |  | None |  | 😾 | 
+| None | V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis |  | None |  | 😾 | 
+| None | VAMPIRE: Uncovering Vessel Directional and Morphological Information from OCTA Images for Cardiovascular Disease Risk Factor Prediction |  | None |  | 😾 | 
+| None | VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation |  | None |  | 😾 | 
+| None | VBCD: A Voxel-Based Framework for Personalized Dental Crown Design |  | None |  | 😾 | 
+| None | VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction |  | None |  | 😾 | 
+| None | VQ-SCD: Vector Quantization Meets Unknown Scan Condition Self-supervised Low-Dose CT Denoising |  | None |  | 😾 | 
+| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  | None |  | 😾 | 
+| None | Various Attention Mechanism Graph Convolutional Network with Multi-Source Domain Adaptation for Cross-Subject EEG Emotion Recognition |  | None |  | 😾 | 
+| None | Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection |  | None |  | 😾 | 
+| None | Vector-Quantization-Driven Active Learning for Efficient Multi-Modal Medical Segmentation with Cross-Modal Assistance |  | None |  | 😾 | 
+| None | Veriserum: A dual-plane fluoroscopic dataset with knee implant phantoms for deep learning in medical imaging |  | None |  | 😾 | 
+| None | VesselSDF: Distance Field Priors for Vascular Network Reconstruction |  | None |  | 😾 | 
+| None | ViTAL-CT: Vision Transformers for High-Risk Plaque Classification in Coronary CTA |  | None |  | 😾 | 
+| None | ViTexNet: Vision-Text Guided Dynamic Convolution Network for Medical Image Segmentation |  | None |  | 😾 | 
+| None | VisNet: A Human Visual System Inspired Lightweight Dual-Path Network for Medical Images Denoising |  | None |  | 😾 | 
+| None | Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering |  | None |  | 😾 | 
+| None | VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration |  | None |  | 😾 | 
+| None | WDNet: A Novel Wavelet-guided Hierarchical Diffusion Network for Multi-Target Segmentation in Colonoscopy Images |  | None |  | 😾 | 
+| None | WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis |  | None |  | 😾 | 
+| None | WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation |  | None |  | 😾 | 
+| None | Wavelet-driven Decoupling and Physics-informed Mapping Network for Accelerated Multi-parametric MR Imaging |  | None |  | 😾 | 
+| None | Weakly Semi-Supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning |  | None |  | 😾 | 
+| None | Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation |  | None |  | 😾 | 
+| None | Weighted Stratification in Multi-Label Contrastive Learning for Long-Tailed Medical Image Classification |  | None |  | 😾 | 
+| None | WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference |  | None |  | 😾 | 
+| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  | None |  | 😾 | 
+| None | XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification |  | None |  | 😾 | 
+| None | XOCT: Enhancing OCT to OCTA Translation via Cross-Dimensional Supervised Multi-Scale Feature Learning |  | None |  | 😾 | 
+| None | Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images |  | None |  | 😾 | 
+| None | pyOpenNFT: an open-source Python framework for ML-based real-time fMRI and EEG-fMRI neurofeedback |  | None |  | 😾 | 
+| None | tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation and Its Application in Medical Image Segmentation |  | None |  | 😾 | 
+| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  | None |  | 😾 | 
+| None | µ2 Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation |  | None |  | 😾 | 
 </details>
 
 <details>
@@ -1890,450 +1890,450 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | 3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the Fusemycells Challenge |  | None | 0 | 😾 | 
-| None | 3D Anatomical Structure-Guided Deep Learning for Accurate Diffusion Microstructure Imaging |  | None | 0 | 😾 | 
-| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  | None | 0 | 😾 | 
-| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  | None | 0 | 😾 | 
-| None | 3D Vertebrae Measurements: Assessing Vertebral Dimensions in Human Spine Models Using Automated Landmark Detection |  | None | 0 | 😾 | 
-| None | A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography |  | None | 0 | 😾 | 
-| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  | None | 0 | 😾 | 
-| None | A Dual-Track Framework for Enhancing Age-Related Macular Degeneration Diagnosis Through Embedding and Vision Classification |  | None | 0 | 😾 | 
-| None | A Foundation Model for Cell Segmentation from Immunohistochemistry: A Pilot Study |  | None | 0 | 😾 | 
-| None | A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans |  | None | 0 | 😾 | 
-| None | A Multi-Modal Fusion Method for 3-Hinge Gyrus Based on Bidirectional Cross-Attention |  | None | 0 | 😾 | 
-| None | A Novel Approach to Recognising Physical Activity Intensity in Adults: Gravity-Based Acceleration Imaging with Vision Transformer |  | None | 0 | 😾 | 
-| None | A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI |  | None | 0 | 😾 | 
-| None | A Self-Supervised Diffusion Bridge for MRI Reconstruction |  | None | 0 | 😾 | 
-| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  | None | 0 | 😾 | 
-| None | A Serial Image Segmentation and Registration Network (SISRN) for Dynamic Enhanced Magnetic Resonance Image Sequences |  | None | 0 | 😾 | 
-| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  | None | 0 | 😾 | 
-| None | AI-Based Thermal Video Analysis in Privacy-Preserving Healthcare: A Case Study on Detecting Time of Birth |  | None | 0 | 😾 | 
-| None | AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation |  | None | 0 | 😾 | 
-| None | ASAM: Anatomy-Encoded Segment Anything Model for Medical Images |  | None | 0 | 😾 | 
-| None | ASDC-NET: Anterior Segment Disease Classification Network Based on Slit-Lamp Images |  | None | 0 | 😾 | 
-| None | Accelerated 3D Thermometry Field Reconstruction from Tri-Planar Images via Cross-View Implicit Representation |  | None | 0 | 😾 | 
-| None | Accelerating the Whole-Brain Multi-Parametric Imaging Through Joint Deep Learning Reconstruction and Physical Model Integration |  | None | 0 | 😾 | 
-| None | Accurate 3D Medical Image Segmentation with Mambas |  | None | 0 | 😾 | 
-| None | Active Prompt Tuning Enables GPT-4O to do Efficient Classification of Microscopy Images |  | None | 0 | 😾 | 
-| None | Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially |  | None | 0 | 😾 | 
-| None | Adapting Segment Anything 2 for Diabetic Retinopathy Lesion Segmentation |  | None | 0 | 😾 | 
-| None | Adaptive Aggregation Weights for Federated Segmentation of Pancreas MRI |  | None | 0 | 😾 | 
-| None | Adaptive Collaborative Learning Polyp Segmentation Framework Based on Contour-Driven Parallel Attention Network |  | None | 0 | 😾 | 
-| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  | None | 0 | 😾 | 
-| None | Adaptive Whole-Body Pet Image Denoising Using 3D Diffusion Models with Controlnet |  | None | 0 | 😾 | 
-| None | Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement |  | None | 0 | 😾 | 
-| None | Advancing OCT-Based Retinal Disease Classification with XLSTM: A Framework for Variable-Length Volume Processing |  | None | 0 | 😾 | 
-| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Ai-Driven Automated Tool for Abdominal CT Body Composition Analysis in Gastrointestinal Cancer Management |  | None | 0 | 😾 | 
-| None | All-in-One Multi-Organ Segmentation in 3D CT Images via Self-Supervised and Cross-Dataset Learning |  | None | 0 | 😾 | 
-| None | An Attention Based Model for Histopathology Image Nuclei Segmentation |  | None | 0 | 😾 | 
-| None | An Automated Whole Torso Aortic and Iliac Artery Atherosclerotic Burden Assessment on Body CT |  | None | 0 | 😾 | 
-| None | An Interpretable X-Ray Style Transfer Via Trainable Local Laplacian Filter |  | None | 0 | 😾 | 
-| None | Anatomical Grounding Pre-Training for Medical Phrase Grounding |  | None | 0 | 😾 | 
-| None | Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes |  | None | 0 | 😾 | 
-| None | Anatosegnet: Anatomy Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation |  | None | 0 | 😾 | 
-| None | Annotation-Efficient Task Guidance for Medical Segment Anything |  | None | 0 | 😾 | 
-| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  | None | 0 | 😾 | 
-| None | Attention Aware Continual Learning in Digital Pathology Contexts |  | None | 0 | 😾 | 
-| None | Attention-Based Multiple Instance Learning for Achilles Tendinopathy Detection in Ultrasound Imaging |  | None | 0 | 😾 | 
-| None | Attention-Driven Multi-Sequence Mri Feature Learning and Fusion for Breast Cancer Diagnosis |  | None | 0 | 😾 | 
-| None | Attention-Enhanced UNet for Automated Gleason Score 3 Tumor Segmentation in Histopathological Whole Slide Images |  | None | 0 | 😾 | 
-| None | Attentive Latent Replay for Continual Learning in Pathology |  | None | 0 | 😾 | 
-| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  | None | 0 | 😾 | 
-| None | Autoencoder for 4-Dimensional Fiber Orientation Distributions from Diffusion MRI |  | None | 0 | 😾 | 
-| None | Automated 3D Segmentation of Glomeruli in Human Kidney Tissue Specimens Using 16.4 T MRI Without Contrast Agents |  | None | 0 | 😾 | 
-| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  | None | 0 | 😾 | 
-| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  | None | 0 | 😾 | 
-| None | Auxiliary Cyclegan-Guided Task-Aware Domain Translation from Duplex to Monoplex IHC Images |  | None | 0 | 😾 | 
-| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  | None | 0 | 😾 | 
-| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  | None | 0 | 😾 | 
-| None | Benchmarking 3D Multi-Coil NC-PDNet MRI Reconstruction |  | None | 0 | 😾 | 
-| None | Benchmarking Transferability of Self-Supervised Pretraining for Multi-Organ Segmentation on Different Modalities |  | None | 0 | 😾 | 
-| None | Beyond Occlusion: In Search for Near Real-Time Explainability of CNN-Based Prostate Cancer Classification |  | None | 0 | 😾 | 
-| None | Blending Parametric Model and Neural Refinement: A Coarse-to-Fine Approach for Predicting Facial Changes in Orthognathic Surgery |  | None | 0 | 😾 | 
-| None | BoxPolypSAM: Leveraging SAM in Box-Supervised Polyp Segmentation |  | None | 0 | 😾 | 
-| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  | None | 0 | 😾 | 
-| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  | None | 0 | 😾 | 
-| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  | None | 0 | 😾 | 
-| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  | None | 0 | 😾 | 
-| None | Breast Cancer Detection from Thermal Images Using Asymmetries in Learned Texture Vectors |  | None | 0 | 😾 | 
-| None | Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models |  | None | 0 | 😾 | 
-| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  | None | 0 | 😾 | 
-| None | CCIS-DIFF: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis |  | None | 0 | 😾 | 
-| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  | None | 0 | 😾 | 
-| None | CINEPRO: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops |  | None | 0 | 😾 | 
-| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  | None | 0 | 😾 | 
-| None | COMT: Co-Training Mean Teachers Semi-Supervised Training Framework for Cervical Segmentation |  | None | 0 | 😾 | 
-| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  | None | 0 | 😾 | 
-| None | CSMAE : Cataract Surgical Masked Autoencoder (MAE) Based Pre-Training |  | None | 0 | 😾 | 
-| None | CT Contrast Phase Identification by Predicting the Temporal Angle Using Circular Regression |  | None | 0 | 😾 | 
-| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  | None | 0 | 😾 | 
-| None | Ca-vqvae: Cortical Folding Aware Numerical Representation of White-Matter Structure |  | None | 0 | 😾 | 
-| None | CascadePLS-ViT: Cascade with Patch-Level Self-Supervised Vision Transformers for Breast Cancer Classification in Mammography |  | None | 0 | 😾 | 
-| None | Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation |  | None | 0 | 😾 | 
-| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  | None | 0 | 😾 | 
-| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  | None | 0 | 😾 | 
-| None | CellPilot: A Unified Approach to Automatic and Interactive Segmentation in Histopathology |  | None | 0 | 😾 | 
-| None | Cephalometric Landmark Detection Using Graph- and Image-Aware Network with Landmark Contrastive Regularization |  | None | 0 | 😾 | 
-| None | Cervical Cancer Lesion Grading Based on Clinical Diagnostic Criteria and Multi-View Approach Using Intraoperative Colposcopic Images |  | None | 0 | 😾 | 
-| None | Class Fusion of Support Vector Machines with Deep Learning Features for Oral Cancer Histopathology Classification |  | None | 0 | 😾 | 
-| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  | None | 0 | 😾 | 
-| None | Classification of Oral Potentially Malignant Disorders Using Multimodal Feature Integration |  | None | 0 | 😾 | 
-| None | Classification of Surgeons' Gender from Videos of the Surgical Field |  | None | 0 | 😾 | 
-| None | Classifying Coronary Artery Calcification Risk using Radiomics from Non-Gated CT Scans |  | None | 0 | 😾 | 
-| None | Clinical Inspired MRI Lesion Segmentation |  | None | 0 | 😾 | 
-| None | Clustering-Enhanced Multimodal Pre-Training for Histology-Gene Joint Representation Learning |  | None | 0 | 😾 | 
-| None | Combined Effect of Erythrocyte Aggregation and Leukocyte Presence on Quantitative Blood Ultrasound: a Simulation Study |  | None | 0 | 😾 | 
-| None | Combining 4D Hyperspectral Imaging With CNN for Nerve and Ligament Differentiation |  | None | 0 | 😾 | 
-| None | Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images |  | None | 0 | 😾 | 
-| None | Conditional Convolution of Clinical Data Embeddings for Multimodal Prostate Cancer Classification |  | None | 0 | 😾 | 
-| None | Conditional Diffusion Model for Abdominal CT Image Synthesis |  | None | 0 | 😾 | 
-| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  | None | 0 | 😾 | 
-| None | Conditional Visuo-Textual Prompt Learning for Medical Image Analysis |  | None | 0 | 😾 | 
-| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  | None | 0 | 😾 | 
-| None | Context-Aware LSTM for 3D Medical Image Localisation |  | None | 0 | 😾 | 
-| None | Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion |  | None | 0 | 😾 | 
-| None | Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection |  | None | 0 | 😾 | 
-| None | Contrastive Pretraining for Computational Pathology with Visual-Language Models |  | None | 0 | 😾 | 
-| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  | None | 0 | 😾 | 
-| None | Coupled Swin Transformers and Multi-Apertures Network(CSTA-NET) Improves Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  | None | 0 | 😾 | 
-| None | DAG-UNet: Dissimilarity-Aware Global Context Guided Lightweight UNet for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training |  | None | 0 | 😾 | 
-| None | DENSE-Guided Deep Motion Networks Accounted by Large Rotations to Improve Myocardial Strain Analysis from Routine Cine MRI |  | None | 0 | 😾 | 
-| None | DG-PPU: Dynamical Graphs Based Post-Processing of Point Clouds Extracted from Knee Ultrasounds |  | None | 0 | 😾 | 
-| None | Decentralized ComBat-Mega for Harmonizing FNC Data in Coinstac |  | None | 0 | 😾 | 
-| None | Deep Automatic Alignment of Mpox Dermatological Hand Photography |  | None | 0 | 😾 | 
-| None | Deep Learning-Driven Automated Aortic Valve Calcification Assessment in CT Calcium Score Screening Images |  | None | 0 | 😾 | 
-| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  | None | 0 | 😾 | 
-| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  | None | 0 | 😾 | 
-| None | Diagnosis with Nanoscale Protein Distributions: Single-Molecule Fluorescence Localization Microscopy and Attention-Based Learning |  | None | 0 | 😾 | 
-| None | Diaphragm-Net: 3D Full Automatic Segmentation of the Diaphragm Based on Deep Learning Methods for 3D-CT Images |  | None | 0 | 😾 | 
-| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  | None | 0 | 😾 | 
-| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  | None | 0 | 😾 | 
-| None | Diffusion-Based Multi-Degradation Remover for Fiber Bundle Image Restoration |  | None | 0 | 😾 | 
-| None | Diffusion-Driven 3D CECT-to-NCECT Conversion for Head and Neck Imaging |  | None | 0 | 😾 | 
-| None | Dilation-Assisted Contrastive Learning for Corneal Nerve Segmentation in Corneal Confocal Microscopy |  | None | 0 | 😾 | 
-| None | Dineuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction |  | None | 0 | 😾 | 
-| None | Discrepancy-Induced Cross-Subnet Interaction Network for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Display Field-of-View Agnostic Robust Ct Kernel Synthesis Using Model-Based Deep Learning |  | None | 0 | 😾 | 
-| None | Dose Reduction in Step-and-Shoot 4D CT Imaging via Breathing Signal-Guided Deep Learning-Driven Selective Data Acquisition: A Feasibility Study |  | None | 0 | 😾 | 
-| None | Drop and Align: Fusing Pathology and Genomics via Graph Learning for Cancer Survival Prediction |  | None | 0 | 😾 | 
-| None | Dual Invariance Self-Training for Reliable Semi-Supervised Surgical Phase Recognition |  | None | 0 | 😾 | 
-| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  | None | 0 | 😾 | 
-| None | Dual-Stream Pyramidal Attention Networks for Medical Image Registration |  | None | 0 | 😾 | 
-| None | Dynamic Fusion: Merging Structural and Functional Connectivity Dynamics Via Joint CMICA |  | None | 0 | 😾 | 
-| None | EDA: Enhanced Domain-Adversarial Training for Anatomical Landmark Detection |  | None | 0 | 😾 | 
-| None | EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis |  | None | 0 | 😾 | 
-| None | EMSSD: Two-Stage Model Enhancing Medical Image Segmentation Based on Stable Diffusion |  | None | 0 | 😾 | 
-| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  | None | 0 | 😾 | 
-| None | EPI-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions |  | None | 0 | 😾 | 
-| None | EViT-UNET: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices |  | None | 0 | 😾 | 
-| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  | None | 0 | 😾 | 
-| None | Efficient CMR Report Classification Through Synthetic Data Distillation and Metadata Fusion |  | None | 0 | 😾 | 
-| None | Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation |  | None | 0 | 😾 | 
-| None | Efficient Human-in-the-Loop Pancreatic Tumor Annotation via Large-Scale Pre-Trained Model with Adaptive Post-Processing |  | None | 0 | 😾 | 
-| None | Enhance Cardiac MRI Reconstruction via Unfolding Network with Hybrid Mamba-LSTM |  | None | 0 | 😾 | 
-| None | Enhanced Cervical Vertebral Maturation Assessment Using AI-Based Imaging Analysis System |  | None | 0 | 😾 | 
-| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  | None | 0 | 😾 | 
-| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  | None | 0 | 😾 | 
-| None | Enhancing Medical Image Segmentation with Mamba and UNet++ |  | None | 0 | 😾 | 
-| None | Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation |  | None | 0 | 😾 | 
-| None | Ensemble of Foundation Models for Pap Smear Cell Analysis |  | None | 0 | 😾 | 
-| None | Equivariance-Based Theoretical Analysis and Self-Supervised Learning Framework for Missing Wedge Problem in Cryo-Electron Tomography |  | None | 0 | 😾 | 
-| None | Evaluating Automated Radiology Report Quality Through Fine-Grained Phrasal Grounding of Clinical Findings |  | None | 0 | 😾 | 
-| None | Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam |  | None | 0 | 😾 | 
-| None | Evaluation Metric for Quality Control and Generative Models in Histopathology Images |  | None | 0 | 😾 | 
-| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  | None | 0 | 😾 | 
-| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  | None | 0 | 😾 | 
-| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  | None | 0 | 😾 | 
-| None | Exploiting Cross-Dimensional Dependency Using Vision-LSTM for Efficient Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Exploring Foundation Models Fine-Tuning for Cytology Classification |  | None | 0 | 😾 | 
-| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  | None | 0 | 😾 | 
-| None | F2UE-NET: An Uncertainty-Driven Dynamic Expert Network for Long-Tail Retinal Disease Classification |  | None | 0 | 😾 | 
-| None | FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention |  | None | 0 | 😾 | 
-| None | FMUNet: Frequency Modulation-Based UNet for Octa Segmentation |  | None | 0 | 😾 | 
-| None | Fairness Analysis of Clip-Based Foundation Models for X-Ray Image Classification |  | None | 0 | 😾 | 
-| None | Fast Multi-Contrast MRI Using Joint Multiscale Energy Model |  | None | 0 | 😾 | 
-| None | Fau-Net: Fourier Attention Based 3D U-Net For Medical Image Registration |  | None | 0 | 😾 | 
-| None | Feature-Driven LI-RADS Classification in Liver Cancer: A CNN-Based Approach for CT Imaging Under Data Scarcity |  | None | 0 | 😾 | 
-| None | Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation |  | None | 0 | 😾 | 
-| None | Few-Shot Sample-Specific Deep Learning Multiclass Segmentation and Fiber Tractography using 3D-Microscopy with Ultraviolet Surface Excitation (3D-Muse) Images of Human Vagus Nerve |  | None | 0 | 😾 | 
-| None | Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance |  | None | 0 | 😾 | 
-| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  | None | 0 | 😾 | 
-| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  | None | 0 | 😾 | 
-| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  | None | 0 | 😾 | 
-| None | GP-CPS: Gradient Penalty Cross Pseudo Supervision for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  | None | 0 | 😾 | 
-| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  | None | 0 | 😾 | 
-| None | Generating Customized Prompts for Zero-Shot Rare Event Medical Image Classification Using LLM |  | None | 0 | 😾 | 
-| None | Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency |  | None | 0 | 😾 | 
-| None | Generative Chained Label Propagation: A Semi-Supervised Approach for Enhanced 3D Segmentation of the Inferior Alveolar Nerve |  | None | 0 | 😾 | 
-| None | Generative Medical Image Anonymization Based on Latent Code Projection and Optimization |  | None | 0 | 😾 | 
-| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  | None | 0 | 😾 | 
-| None | Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate |  | None | 0 | 😾 | 
-| None | Gland Segmentation Using SAM with Cancer Grade As A Prompt |  | None | 0 | 😾 | 
-| None | Guiding the Classification of Hepatocellular Carcinoma on 3D CT-Scans Using Deep and Handcrafted Radiological Features |  | None | 0 | 😾 | 
-| None | HER2 Status Prediction in Breast Cancer: A Weak Supervision and Contrastive Learning Approach on H&E Stains |  | None | 0 | 😾 | 
-| None | Hallucination Analysis of Score-Based Diffusion Models for CT Denoising Through Spatial Frequency Decomposition |  | None | 0 | 😾 | 
-| None | Hierarchical Augmentation Consistency Learning for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | High-Resolution Histopathology Whole Slide Image Generation Using Wavelet Diffusion Model |  | None | 0 | 😾 | 
-| None | Human-in-the-Loop Semi-Supervised Uterine Cervix Ultrasound Image Segmentation |  | None | 0 | 😾 | 
-| None | Hybrid DL Classification Model Based on CNN and Transformer for Pap Smear Cells |  | None | 0 | 😾 | 
-| None | Hybrid-Frequency Feature Evolution Network for Endoscopic Ultrasound Image Segmentation |  | None | 0 | 😾 | 
-| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  | None | 0 | 😾 | 
-| None | IHA-YOLO: Inter-Head Attention for Real-Time Cell Detection |  | None | 0 | 😾 | 
-| None | IMITATE: Image Registration with Context for Unknown Time Frame Recovery |  | None | 0 | 😾 | 
-| None | IMJ-PLUS: Implicit Representation for Dynamic MRI and Coil Sensitivity Joint Reconstruction Using Low-Rank PLUS Sparse Regularization |  | None | 0 | 😾 | 
-| None | ISGM-DR: Important Slice-Guided Model for Diabetic Retinopathy Diagnosis Using 3D Oct Images |  | None | 0 | 😾 | 
-| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  | None | 0 | 😾 | 
-| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  | None | 0 | 😾 | 
-| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  | None | 0 | 😾 | 
-| None | Improved C-Index and Interpretability with KAN as Compared to COX: Application to Risk Prediction of Major Adverse Cardiovascular Events from CT Calcium Score |  | None | 0 | 😾 | 
-| None | Improving Cell Instance Segmentation in Scanning Electron Microscopy via Semantic Image Synthesis |  | None | 0 | 😾 | 
-| None | Improving Quality Control of MRI Images Using Synthetic Motion Data |  | None | 0 | 😾 | 
-| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  | None | 0 | 😾 | 
-| None | Integrations: Informed Subset Selection Based Generation for Medical Imaging in Resource Constrained Setting |  | None | 0 | 😾 | 
-| None | Introducing Learning Rate Adaptation CMA-ES into Rigid Intraoperative 2D/3D Registration for Spinal Surgery |  | None | 0 | 😾 | 
-| None | Joint Reconstruction of Activity and Attenuation for PET Imaging with Diffusion Prior |  | None | 0 | 😾 | 
-| None | Joint Reconstruction of Dynamic PET Activity and Kinetic Parametric Images Using Learnable Descent Framework |  | None | 0 | 😾 | 
-| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  | None | 0 | 😾 | 
-| None | K-Space Diffusion Model Based Mr Reconstruction Method for Simultaneous Multislice Imaging |  | None | 0 | 😾 | 
-| None | KALM: Knowledge-Driven Active Learning for Medical Image Segmentation Using Localized Similarity |  | None | 0 | 😾 | 
-| None | Knowledge-Aware Multi-Source Domain Adaptation Network for Osteoporosis Diagnosis from Ultrasonic Radio Frequency Signals |  | None | 0 | 😾 | 
-| None | LF-MAMBA: A State Space Model-Based Framework for Accurate Bilateral Hippocampi Segmentation in Low-Field Pediatric MRI |  | None | 0 | 😾 | 
-| None | LIMIS: Towards Language-Based Interactive Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | LLAMA-VG: A Video Vision LLaMA-Based Model for Endoscopy Video Generation |  | None | 0 | 😾 | 
-| None | LWV-UNet: Lightweight Vision Transformer UNet for Nasopharyngeal Carcinoma Image Segmentation |  | None | 0 | 😾 | 
-| None | Large-Scale Radiomics Analysis for Prostate Cancer Detection Harnessing Machine and Deep Learning Models |  | None | 0 | 😾 | 
-| None | Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction |  | None | 0 | 😾 | 
-| None | Legopet: Hierarchical Feature Guided Conditional Diffusion for Pet Image Reconstruction |  | None | 0 | 😾 | 
-| None | Leveraging Autoencoder Neural Networks to Improve Microbubble Detection and Localization in Ultrasound Localization Microscopy |  | None | 0 | 😾 | 
-| None | Leveraging Foundation Models for Clinically Instructed Tumor Image Synthesis in Renal Cell Carcinoma |  | None | 0 | 😾 | 
-| None | Leveraging Graph Attention Networks for Targeted Feedback from Operating Room Surgery Videos |  | None | 0 | 😾 | 
-| None | Leveraging Graph Neural Networks in Transferring Multimodal Knowledge for Unimodal Segmentation |  | None | 0 | 😾 | 
-| None | Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation |  | None | 0 | 😾 | 
-| None | Line Artifact Removal Over Medical X-Ray Images via Joint Dictionaries Sparse Decomposition with Structured Incoherence |  | None | 0 | 😾 | 
-| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  | None | 0 | 😾 | 
-| None | Locating Standard Planes in Endometrium Ultrasound Videos via Clinical Prior Knowledge of Key Anatomical Structures |  | None | 0 | 😾 | 
-| None | Logsage: Log-Based Saliency for Guided Encoding in Robust Nuclei Segmentation of Immunofluorescence Histology Images |  | None | 0 | 😾 | 
-| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  | None | 0 | 😾 | 
-| None | Longmambattn: A Novel Architecture for Enhanced Breast Cancer Risk Prediction Using Variable-Length Longitudinal Mammograms |  | None | 0 | 😾 | 
-| None | M3-Net: A Multi-Scale Nuclei Segmentation Model for Breast Cancer Histopathology Using Contextual Patches and Attention Mechanism |  | None | 0 | 😾 | 
-| None | MARIO: A Mixed Annotation Framework for Polyp Segmentation |  | None | 0 | 😾 | 
-| None | MEDL: Unsupervised Multi-Stage Ensemble Deep Learning With Diffusion Models for Denoising MRI Scans |  | None | 0 | 😾 | 
-| None | MIHCGENER: A Framework for Multiple Immunohistochemical Image Generation Based on the Combination of Pathological Foundation Model and Generative Model |  | None | 0 | 😾 | 
-| None | MO-CTranS: A Unified Multi-Organ Segmentation Model Learning from Multiple Heterogeneously Labelled Datasets |  | None | 0 | 😾 | 
-| None | MOSS: Learning from Multiple Organs Via Self-Supervision |  | None | 0 | 😾 | 
-| None | MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging |  | None | 0 | 😾 | 
-| None | MR-to-CT Translation Using Frequency-Separated Diffusion Models |  | None | 0 | 😾 | 
-| None | MSCAM-Net: A Multi-Scale and Context-Aware Model with Adaptive Fusion Module for Robust Skin Lesion Segmentation |  | None | 0 | 😾 | 
-| None | MTKD-LRS: Semi Supervised Knee Cartilage Segmentation using Eigen Low Rank Subspace Assisted Mean-Teacher Framework |  | None | 0 | 😾 | 
-| None | MUM: Enhancing Medical Diagnostics Through Unpaired Multimodal Data Integration |  | None | 0 | 😾 | 
-| None | MamUNet: Mamba Enhances Vessel Segmentation in NIR-II Fluorescence Imaging |  | None | 0 | 😾 | 
-| None | Mamba-Based Residual Generative Adversarial Network for Functional Connectivity Harmonization During Infancy |  | None | 0 | 😾 | 
-| None | Masked Momentum Contrastive Dynamic Transformer for Self-Supervised Functional Connectivity Representation Learning |  | None | 0 | 😾 | 
-| None | MedDataset: Synthesizing Infinite Image and Segmentation Data Using Diffusion Models |  | None | 0 | 😾 | 
-| None | MedSAGa: Few-Shot Memory Efficient Medical Image Segmentation Using Gradient Low-Rank Projection in SAM |  | None | 0 | 😾 | 
-| None | Medframealign: 3D Histological Reconstructions Using Video Frame Interpolation Techniques |  | None | 0 | 😾 | 
-| None | Medical Text and Image Reasoning for Radiation Oncology via Large Language Model |  | None | 0 | 😾 | 
-| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  | None | 0 | 😾 | 
-| None | Medxchat: A Unified Multimodal Large Language Model Framework Towards CXRS Understanding and Generation |  | None | 0 | 😾 | 
-| None | Metafusion: A Novel Method for Integrating Clinical Metadata with Imaging Modalities for Medical Applications |  | None | 0 | 😾 | 
-| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  | None | 0 | 😾 | 
-| None | Mitral Valve Deep Learning Localization in CT Scans for MIMVR Surgery |  | None | 0 | 😾 | 
-| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  | None | 0 | 😾 | 
-| None | Msapnet: Multi-Scale and Multi-Axial Perception Network for Retinal Layers and Lesion Segmentation |  | None | 0 | 😾 | 
-| None | Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets |  | None | 0 | 😾 | 
-| None | Multi-Label Neonatal EEG Segmentation Enriched with Semi-Synthetic Data |  | None | 0 | 😾 | 
-| None | Multi-Modal Deformable Image Registration Using Untrained Neural Networks |  | None | 0 | 😾 | 
-| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  | None | 0 | 😾 | 
-| None | Multi-Modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification |  | None | 0 | 😾 | 
-| None | Multi-Modal Integration for Predicting Biochemical Recurrence in Prostate Cancer |  | None | 0 | 😾 | 
-| None | Multi-Phase Attention for Early Stage Hepatocellular Carcinoma Segmentation from Contrast Enhanced Liver MRI |  | None | 0 | 😾 | 
-| None | Multi-Scale Boundary Enhanced Pseudo Label Refinement for Semi-Supervised Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  | None | 0 | 😾 | 
-| None | Multi-Sequence MRI to Multi-Tracer Pet Generation via Diffusion Model |  | None | 0 | 😾 | 
-| None | Multi-Stage Bidirectional Cross-Attention Model for Predicting Prognosis in Multiple Peritoneum Lesions with Clinical Information |  | None | 0 | 😾 | 
-| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  | None | 0 | 😾 | 
-| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  | None | 0 | 😾 | 
-| None | Multi-Volume Isotropic Super-Resolution Wrist MRI Using Fourier-Guided Implicit Fusion |  | None | 0 | 😾 | 
-| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  | None | 0 | 😾 | 
-| None | Multimodal Learning for Enhanced Detection in Oral Cancer Screening |  | None | 0 | 😾 | 
-| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  | None | 0 | 😾 | 
-| None | Multimodal Weakly Supervised Segmentation for Histopathology |  | None | 0 | 😾 | 
-| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  | None | 0 | 😾 | 
-| None | Nnmamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model |  | None | 0 | 😾 | 
-| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  | None | 0 | 😾 | 
-| None | OCT-Trans: A Novel Transformer Backbone with Multimodal Feature Extraction in OCT-Based Retinal Disease Classification |  | None | 0 | 😾 | 
-| None | OHIF -SAM2: Accelerating Radiology Workflows with Meta Segment Anything Model 2 |  | None | 0 | 😾 | 
-| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  | None | 0 | 😾 | 
-| None | On the Role of Adversarial Perturbations in Unsupervised Deep Learning for Enhancing Image Quality of Degraded Medical-Images |  | None | 0 | 😾 | 
-| None | One-Shot Tumour Synthesis for PET-CT Imaging |  | None | 0 | 😾 | 
-| None | Online Multispectral Neuron Tracing |  | None | 0 | 😾 | 
-| None | Optimizing Cell Recognition in Sarcoma Multiplex Immunohistochemistry Images via Pre-Training Strategies |  | None | 0 | 😾 | 
-| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  | None | 0 | 😾 | 
-| None | PET Partial Volume Correction Based on Unsupervised Deep Residual Compensation Model |  | None | 0 | 😾 | 
-| None | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | PI-RADS Inspired Architecture: A New Deep Learning Approach to Detect Clinically Significant Prostate Cancer on MRI |  | None | 0 | 😾 | 
-| None | PSO-NET: Development of an Automated Psoriasis Assessment System Using Attention-Based Interpretable Deep Neural Networks |  | None | 0 | 😾 | 
-| None | Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding |  | None | 0 | 😾 | 
-| None | Pathogen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images |  | None | 0 | 😾 | 
-| None | Photon-Counting CT Reconstruction Using Separable Attention-Based Tensor Neural Network Prior |  | None | 0 | 😾 | 
-| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  | None | 0 | 😾 | 
-| None | Plasma-CycleGAN: Plasma Biomarker-Guided MRI to Pet Cross-Modality Translation Using Conditional CycleGAN |  | None | 0 | 😾 | 
-| None | Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion |  | None | 0 | 😾 | 
-| None | Predicting Axillary Lymph Node Metastasis in Breast Cancer by Integrating Dual-ROI Features from Multi-Parametric MRI |  | None | 0 | 😾 | 
-| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  | None | 0 | 😾 | 
-| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  | None | 0 | 😾 | 
-| None | Predicting Response to Neoadjuvant Chemotherapy using Multi-Modal MRI Radiomics and Machine Learning Approaches |  | None | 0 | 😾 | 
-| None | Predicting Ulcer in H&E Images of Inflammatory Bowel Disease Using Domain-Knowledge-Driven Graph Neural Network |  | None | 0 | 😾 | 
-| None | Prism: Privacy-Preserving Inter-Site MRI Harmonization via Disentangled Representation Learning |  | None | 0 | 😾 | 
-| None | Prompt-Guided Radiology Report Generation Utilizing SAM |  | None | 0 | 😾 | 
-| None | Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images |  | None | 0 | 😾 | 
-| None | Psychosis Multiscale Functional Network Connectivity Subspace Encodes Sex Specificity and Identifies Sex Biotypes |  | None | 0 | 😾 | 
-| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  | None | 0 | 😾 | 
-| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  | None | 0 | 😾 | 
-| None | Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network |  | None | 0 | 😾 | 
-| None | Quantitative Imaging of 55CO and 18F-Labeled Tracers in a Single "Multiplexed" Pet Imaging Session |  | None | 0 | 😾 | 
-| None | R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation |  | None | 0 | 😾 | 
-| None | RDMP: A Reference Detection and Mask Propagation Pipeline for Numerous 3D Glomeruli Segmentation in Large Volumes |  | None | 0 | 😾 | 
-| None | RED-Net: Radiomics-Enhanced Diffusion Network for MRI-to-PET Cross-Modality Image Synthesis |  | None | 0 | 😾 | 
-| None | RICAU-NET: Residual-Block Inspired Coordinate Attention U-Net for Segmentation of Small and Sparse Calcium Lesions in Cardiac CT |  | None | 0 | 😾 | 
-| None | RIEMAE: Riemannian Masked Autoencoder for Classifying Malignant Prostate Cancer Patterns |  | None | 0 | 😾 | 
-| None | RVPD: An Automated System for Calculating the Tortuosity and Bifurcation Angles of Retinal Vessels to Predict Diseases |  | None | 0 | 😾 | 
-| None | RadHop-Net: A Lightweight Radiomics-to-Error Regression for False Positive Reduction in MRI Prostate Cancer Detection |  | None | 0 | 😾 | 
-| None | Ranking of Visual Attention Spread Improves Trypanosoma Cruzi Detection in Microscopy Videos |  | None | 0 | 😾 | 
-| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  | None | 0 | 😾 | 
-| None | Real-Time Image Reconstruction with Deep Denoising for Low-Field MRI-Guided Interventions |  | None | 0 | 😾 | 
-| None | Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting |  | None | 0 | 😾 | 
-| None | Reconstruct Dense Live-Cell Microscopy Images via Learning Continuous Fluorescence Field |  | None | 0 | 😾 | 
-| None | Reconstructing Heart Rate Variation from Bold-FMRI Using 1D-CNN and GRU Networks with Dynamic Functional Connectivity-Based ROIs |  | None | 0 | 😾 | 
-| None | Reference-Free 2D-to-3D Multiple Slice Transport Average Registration (MSTAR) for Late Gadolinium Enhancement Cardiac MRI |  | None | 0 | 😾 | 
-| None | Resection Margin Prediction in Pancreatic Ductal Adenocarcinoma: A Multi-Modal Machine Learning Approach Integrating Clinical and Computed Tomography Radiomics Data |  | None | 0 | 😾 | 
-| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  | None | 0 | 😾 | 
-| None | Revisiting Clip: Efficient Alignment of 3D MRI and Tabular Data Using Domain-Specific Foundation Models |  | None | 0 | 😾 | 
-| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  | None | 0 | 😾 | 
-| None | SACL: Semantics-Aware Contrastive Learning for One-Shot Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation |  | None | 0 | 😾 | 
-| None | SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM |  | None | 0 | 😾 | 
-| None | SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation |  | None | 0 | 😾 | 
-| None | SCONet: Convolutional Occupancy Networks for Multi-Organ Segmentation |  | None | 0 | 😾 | 
-| None | SEMISE: Semi-Supervised Learning for Severity Representation in Medical Image |  | None | 0 | 😾 | 
-| None | SEQSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation Using Sam |  | None | 0 | 😾 | 
-| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  | None | 0 | 😾 | 
-| None | SLIM-UAM - Semi-Supervised Learning In Medical Imaging: Uncertainty-Attention Model |  | None | 0 | 😾 | 
-| None | SRE-CONV: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification |  | None | 0 | 😾 | 
-| None | Salience-Enhanced Network for Metal Artifact Reduction in CT Imaging |  | None | 0 | 😾 | 
-| None | Salient Region Matching for Fully Automated MR-TRUS Registration |  | None | 0 | 😾 | 
-| None | SarcNet: A Novel AI-Based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged HIPSC-CMS |  | None | 0 | 😾 | 
-| None | Scalable Whole Slide Image Representation Using K-Means Clustering and Fisher Vector Aggregation |  | None | 0 | 😾 | 
-| None | Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension in Biomedical Image Analysis |  | None | 0 | 😾 | 
-| None | Scar-Aware Late Mechanical Activation Detection Network for Optimal Cardiac Resynchronization Therapy Planning |  | None | 0 | 😾 | 
-| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  | None | 0 | 😾 | 
-| None | Segmentation of Cardiovascular Structures from Screening Non-contrast CT Calcium Score Images Using the Tuned CardioNC-Segmentator on Virtual CTA Images |  | None | 0 | 😾 | 
-| None | Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB |  | None | 0 | 😾 | 
-| None | Self Pre-Training with Adaptive Mask Autoencoders for Variable-Contrast 3D Medical Imaging |  | None | 0 | 😾 | 
-| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  | None | 0 | 😾 | 
-| None | Self-Supervised Learning for Multi-Category Endoscopy Classification and Data Quality Evaluation Using Masked Autoencoders |  | None | 0 | 😾 | 
-| None | Self-Supervised Metric Learning for Gaussian Anomaly Detection in Fundus Images |  | None | 0 | 😾 | 
-| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  | None | 0 | 😾 | 
-| None | Self-supervised Prototype Learning for Spatio-Temporal Enhanced Ultrasound-based Prostate Cancer Detection |  | None | 0 | 😾 | 
-| None | SelfMedHPM: Self Pre-Training with Hard Patches Mining Masked Autoencoders for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Semi-Cervixseg: A Multi-Stage Training Strategy for Semi-Supervised Cervical Segmentation |  | None | 0 | 😾 | 
-| None | Semi-Supervised Cervical Segmentation on Ultrasound by a Dual Framework for Neural Networks |  | None | 0 | 😾 | 
-| None | Semi-Supervised Medical Image Classification with Neighborhood Adaptive Attention |  | None | 0 | 😾 | 
-| None | Semi-Supervised Multimodal Multi-Instance Learning for Aortic Stenosis Diagnosis |  | None | 0 | 😾 | 
-| None | Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head During Labor |  | None | 0 | 😾 | 
-| None | Sex Differences in Coupled Dynamic Functional Connectivity and Structural Brain Morphology: Insights from the ABCD Study |  | None | 0 | 😾 | 
-| None | Shoulder Rotator Cuff Tear Detection from Ultrasound Videos Using Deep Reinforcement Learning |  | None | 0 | 😾 | 
-| None | Signal Reconstructions for ECG-Transmembrane Voltage Potentials Using Transformers |  | None | 0 | 😾 | 
-| None | Simulating Post-Neoadjuvant Chemotherapy Breast Cancer MRI via Diffusion Model with Prompt Tuning |  | None | 0 | 😾 | 
-| None | Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology |  | None | 0 | 😾 | 
-| None | Source Free Domain Adaptation with Pseudo-Labeling Quality Assessed by Sam in Fundus Image Segmentation |  | None | 0 | 😾 | 
-| None | Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis |  | None | 0 | 😾 | 
-| None | SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation |  | None | 0 | 😾 | 
-| None | Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking |  | None | 0 | 😾 | 
-| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  | None | 0 | 😾 | 
-| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  | None | 0 | 😾 | 
-| None | Structurally Consistent MRI Colorization using Cross-Modal Fusion Learning |  | None | 0 | 😾 | 
-| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  | None | 0 | 😾 | 
-| None | Surgical Scene Segmentation by Transformer with Asymmetric Feature Enhancement |  | None | 0 | 😾 | 
-| None | Swin-Kat: Advancing Swin Transformer with Kolmogorov-Arnold Network for CT Image Quality Assessment |  | None | 0 | 😾 | 
-| None | SwinDiff_ConSeg: Automatic Segmentation of Ureters in Consecutive CT Urography Based on Swin Transformer and Diffusion Model |  | None | 0 | 😾 | 
-| None | SwinDiff_DAS: Data Augmentation for Segmentation of the Urinary Collecting System Based on the Shift-Window Transformer and Diffusion Model |  | None | 0 | 😾 | 
-| None | SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation |  | None | 0 | 😾 | 
-| None | SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching Using Synthetic Training Pairs and Indirect Supervision |  | None | 0 | 😾 | 
-| None | SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data |  | None | 0 | 😾 | 
-| None | Synthesizing Proton-Density Fat Fraction and $R_2^{\ast}$ from 2-Point Dixon MRI with Generative Machine Learning |  | None | 0 | 😾 | 
-| None | Synthetic CT Generation from Time-of-Flight Non-Attenuation-Corrected PET for Whole-Body PET Attenuation Correction |  | None | 0 | 😾 | 
-| None | Synthetic H&E Generation from Highly Multiplixed Immunofluorescence Imaging using Deep-Learning |  | None | 0 | 😾 | 
-| None | T2-Only Prostate Cancer Prediction by Meta-Learning from BI-Parametric MR Imaging |  | None | 0 | 😾 | 
-| None | T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction |  | None | 0 | 😾 | 
-| None | TA-MIR: Text Aggregation for Multimodal Feature Representation in Medical Image Registration |  | None | 0 | 😾 | 
-| None | TC-MNET: Multi-Magnification Network Using Pvt and Convnext for Microscopic Image Segmentation |  | None | 0 | 😾 | 
-| None | TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis from Imaging, Clinical, and Radiomic Data Fusion |  | None | 0 | 😾 | 
-| None | TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement |  | None | 0 | 😾 | 
-| None | TV-Based Deep 3D Self Super-Resolution for FMRI |  | None | 0 | 😾 | 
-| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  | None | 0 | 😾 | 
-| None | Targeting Prostate Biopsy: A Straightforward CNN Solution for 3D MR-Trus Image Registration |  | None | 0 | 😾 | 
-| None | Tau Pet Harmonization via Surface-Based Diffusion Model |  | None | 0 | 😾 | 
-| None | Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification |  | None | 0 | 😾 | 
-| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  | None | 0 | 😾 | 
-| None | Test-Time Fluorescein Angiography-Free Non-Perfusion Area Segmentation from Fundus Image |  | None | 0 | 😾 | 
-| None | Texlivernet: Leveraging Medical Knowledge and Spatial-Frequency Perception for Enhanced Liver Tumor Segmentation |  | None | 0 | 😾 | 
-| None | Text-Guided Cross Pseudo Supervision for Semi-Supervised Multi-Organ Segmentation in Abdominal CT Scans |  | None | 0 | 😾 | 
-| None | Three-Dimensional Diffusion-Weighted Multi-Slab MRI with Slice Profile Compensation Using Deep Energy Model |  | None | 0 | 😾 | 
-| None | Tissue Characterization and Attenuation Mapping Using Multifrequency Ultrasound Imaging |  | None | 0 | 😾 | 
-| None | Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation |  | None | 0 | 😾 | 
-| None | TopoEEG: A Timesformer-Based Topographic Image Representation Method for Single-Trial Early Detection of P300 |  | None | 0 | 😾 | 
-| None | Topological Image Analysis of Coronary Calcifications for Improved Cardiovascular Risk Prediction from Screening Non-Contrast CT |  | None | 0 | 😾 | 
-| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  | None | 0 | 😾 | 
-| None | Topology-Preserving Deep Supervision for 3D Axon Centerline Segmentation Using Partially Annotated Data |  | None | 0 | 😾 | 
-| None | Towards Classifying Histopathological Microscope Images as Time Series Data |  | None | 0 | 😾 | 
-| None | Towards Encoding 3D Abdominal MRI Acquisitions as Neural Fields |  | None | 0 | 😾 | 
-| None | Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability |  | None | 0 | 😾 | 
-| None | Towards Interactive 3D Surgical Scene Reconstruction: An Incremental Training and Monitoring Framework |  | None | 0 | 😾 | 
-| None | Towards Multi-Label Open Set Diagnosis for Medical Images |  | None | 0 | 😾 | 
-| None | Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair: Fully Automated Segmentation of the Aortic Valve in 4D CT |  | None | 0 | 😾 | 
-| None | Towards Polyp Counting in Full-Procedure Colonoscopy Videos |  | None | 0 | 😾 | 
-| None | Towards Spatial Transcriptomics-Guided Pathological Image Recognition with Batch-Agnostic Encoder |  | None | 0 | 😾 | 
-| None | Towards Zero-Shot Task-Generalizable Learning on FMRI |  | None | 0 | 😾 | 
-| None | TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds |  | None | 0 | 😾 | 
-| None | Tractogpt: A GPT Architecture for White Matter Tract Segmentation |  | None | 0 | 😾 | 
-| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  | None | 0 | 😾 | 
-| None | Transformer-Based T1-Tractography |  | None | 0 | 😾 | 
-| None | Trifuse: Triplet Encoders Network for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | U-Star: AN Asymmetric U-Shaped Network Based on Element-Wise Multiplication to Segment Nuclei in H&E Stained Histological Images |  | None | 0 | 😾 | 
-| None | UATTA-QSM: Uncertainty-Aware Test Time Adaptation for Improved Quantitative Susceptibility Mapping |  | None | 0 | 😾 | 
-| None | UNETVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM |  | None | 0 | 😾 | 
-| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  | None | 0 | 😾 | 
-| None | Ultrasound Nerve Segmentation with Deep Learning for Leprosy |  | None | 0 | 😾 | 
-| None | UnSegMedGAT: Unsupervised Medical Image Segmentation Using Graph Attention Networks Clustering |  | None | 0 | 😾 | 
-| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  | None | 0 | 😾 | 
-| None | UniCurvSeg: Learning Contextual Prompt for Universal Vessel-Like Curvilinear Structure Segmentation |  | None | 0 | 😾 | 
-| None | Unsupervised Anomaly Detection on Implicit Shape Representations for Sarcopenia Detection |  | None | 0 | 😾 | 
-| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  | None | 0 | 😾 | 
-| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  | None | 0 | 😾 | 
-| None | Utilizing Mask-Guided Cross-Image Attention for Zero-Shot In-Silico Histopathologic Image Generation with a Diffusion Model |  | None | 0 | 😾 | 
-| None | Utilizing Shape-features and GAN-Based Model for Renal Segmentation in DW-MRI |  | None | 0 | 😾 | 
-| None | Utilizing State Space Model for Diffusion Processes in Breast Tumor Pathological Image Super-Resolution |  | None | 0 | 😾 | 
-| None | VITG-VS: Preserving Spatial Heterogeneity in Virtual Staining of Renal Autofluorescence Images |  | None | 0 | 😾 | 
-| None | VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Versatile Stain Transfer in Histopathology Using a Unified Diffusion Framework |  | None | 0 | 😾 | 
-| None | Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models |  | None | 0 | 😾 | 
-| None | Visual Prompting Unsupervised Domain Adaptation for Medical Image Segmentation |  | None | 0 | 😾 | 
-| None | Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound |  | None | 0 | 😾 | 
-| None | WAVE-VNET: Enhancing Medical Image Segmentation with Wavelet Transformer |  | None | 0 | 😾 | 
-| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  | None | 0 | 😾 | 
-| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  | None | 0 | 😾 | 
-| None | White Light Specular Reflection Data Augmentation for Deep Learning Polyp Detection |  | None | 0 | 😾 | 
-| None | XAI-PSSGAN: Perception-Enhanced Spectrum Shift Generative Adversarial Network with Explainable AI System for NIR-II Fluorescence Molecular Imaging |  | None | 0 | 😾 | 
-| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  | None | 0 | 😾 | 
-| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  | None | 0 | 😾 | 
-| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  | None | 0 | 😾 | 
+| None | 3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the Fusemycells Challenge |  | None |  | 😾 | 
+| None | 3D Anatomical Structure-Guided Deep Learning for Accurate Diffusion Microstructure Imaging |  | None |  | 😾 | 
+| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
+| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  | None |  | 😾 | 
+| None | 3D Vertebrae Measurements: Assessing Vertebral Dimensions in Human Spine Models Using Automated Landmark Detection |  | None |  | 😾 | 
+| None | A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography |  | None |  | 😾 | 
+| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  | None |  | 😾 | 
+| None | A Dual-Track Framework for Enhancing Age-Related Macular Degeneration Diagnosis Through Embedding and Vision Classification |  | None |  | 😾 | 
+| None | A Foundation Model for Cell Segmentation from Immunohistochemistry: A Pilot Study |  | None |  | 😾 | 
+| None | A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans |  | None |  | 😾 | 
+| None | A Multi-Modal Fusion Method for 3-Hinge Gyrus Based on Bidirectional Cross-Attention |  | None |  | 😾 | 
+| None | A Novel Approach to Recognising Physical Activity Intensity in Adults: Gravity-Based Acceleration Imaging with Vision Transformer |  | None |  | 😾 | 
+| None | A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI |  | None |  | 😾 | 
+| None | A Self-Supervised Diffusion Bridge for MRI Reconstruction |  | None |  | 😾 | 
+| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  | None |  | 😾 | 
+| None | A Serial Image Segmentation and Registration Network (SISRN) for Dynamic Enhanced Magnetic Resonance Image Sequences |  | None |  | 😾 | 
+| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  | None |  | 😾 | 
+| None | AI-Based Thermal Video Analysis in Privacy-Preserving Healthcare: A Case Study on Detecting Time of Birth |  | None |  | 😾 | 
+| None | AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation |  | None |  | 😾 | 
+| None | ASAM: Anatomy-Encoded Segment Anything Model for Medical Images |  | None |  | 😾 | 
+| None | ASDC-NET: Anterior Segment Disease Classification Network Based on Slit-Lamp Images |  | None |  | 😾 | 
+| None | Accelerated 3D Thermometry Field Reconstruction from Tri-Planar Images via Cross-View Implicit Representation |  | None |  | 😾 | 
+| None | Accelerating the Whole-Brain Multi-Parametric Imaging Through Joint Deep Learning Reconstruction and Physical Model Integration |  | None |  | 😾 | 
+| None | Accurate 3D Medical Image Segmentation with Mambas |  | None |  | 😾 | 
+| None | Active Prompt Tuning Enables GPT-4O to do Efficient Classification of Microscopy Images |  | None |  | 😾 | 
+| None | Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially |  | None |  | 😾 | 
+| None | Adapting Segment Anything 2 for Diabetic Retinopathy Lesion Segmentation |  | None |  | 😾 | 
+| None | Adaptive Aggregation Weights for Federated Segmentation of Pancreas MRI |  | None |  | 😾 | 
+| None | Adaptive Collaborative Learning Polyp Segmentation Framework Based on Contour-Driven Parallel Attention Network |  | None |  | 😾 | 
+| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  | None |  | 😾 | 
+| None | Adaptive Whole-Body Pet Image Denoising Using 3D Diffusion Models with Controlnet |  | None |  | 😾 | 
+| None | Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement |  | None |  | 😾 | 
+| None | Advancing OCT-Based Retinal Disease Classification with XLSTM: A Framework for Variable-Length Volume Processing |  | None |  | 😾 | 
+| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
+| None | Ai-Driven Automated Tool for Abdominal CT Body Composition Analysis in Gastrointestinal Cancer Management |  | None |  | 😾 | 
+| None | All-in-One Multi-Organ Segmentation in 3D CT Images via Self-Supervised and Cross-Dataset Learning |  | None |  | 😾 | 
+| None | An Attention Based Model for Histopathology Image Nuclei Segmentation |  | None |  | 😾 | 
+| None | An Automated Whole Torso Aortic and Iliac Artery Atherosclerotic Burden Assessment on Body CT |  | None |  | 😾 | 
+| None | An Interpretable X-Ray Style Transfer Via Trainable Local Laplacian Filter |  | None |  | 😾 | 
+| None | Anatomical Grounding Pre-Training for Medical Phrase Grounding |  | None |  | 😾 | 
+| None | Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes |  | None |  | 😾 | 
+| None | Anatosegnet: Anatomy Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation |  | None |  | 😾 | 
+| None | Annotation-Efficient Task Guidance for Medical Segment Anything |  | None |  | 😾 | 
+| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  | None |  | 😾 | 
+| None | Attention Aware Continual Learning in Digital Pathology Contexts |  | None |  | 😾 | 
+| None | Attention-Based Multiple Instance Learning for Achilles Tendinopathy Detection in Ultrasound Imaging |  | None |  | 😾 | 
+| None | Attention-Driven Multi-Sequence Mri Feature Learning and Fusion for Breast Cancer Diagnosis |  | None |  | 😾 | 
+| None | Attention-Enhanced UNet for Automated Gleason Score 3 Tumor Segmentation in Histopathological Whole Slide Images |  | None |  | 😾 | 
+| None | Attentive Latent Replay for Continual Learning in Pathology |  | None |  | 😾 | 
+| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  | None |  | 😾 | 
+| None | Autoencoder for 4-Dimensional Fiber Orientation Distributions from Diffusion MRI |  | None |  | 😾 | 
+| None | Automated 3D Segmentation of Glomeruli in Human Kidney Tissue Specimens Using 16.4 T MRI Without Contrast Agents |  | None |  | 😾 | 
+| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  | None |  | 😾 | 
+| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  | None |  | 😾 | 
+| None | Auxiliary Cyclegan-Guided Task-Aware Domain Translation from Duplex to Monoplex IHC Images |  | None |  | 😾 | 
+| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  | None |  | 😾 | 
+| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  | None |  | 😾 | 
+| None | Benchmarking 3D Multi-Coil NC-PDNet MRI Reconstruction |  | None |  | 😾 | 
+| None | Benchmarking Transferability of Self-Supervised Pretraining for Multi-Organ Segmentation on Different Modalities |  | None |  | 😾 | 
+| None | Beyond Occlusion: In Search for Near Real-Time Explainability of CNN-Based Prostate Cancer Classification |  | None |  | 😾 | 
+| None | Blending Parametric Model and Neural Refinement: A Coarse-to-Fine Approach for Predicting Facial Changes in Orthognathic Surgery |  | None |  | 😾 | 
+| None | BoxPolypSAM: Leveraging SAM in Box-Supervised Polyp Segmentation |  | None |  | 😾 | 
+| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  | None |  | 😾 | 
+| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  | None |  | 😾 | 
+| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  | None |  | 😾 | 
+| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  | None |  | 😾 | 
+| None | Breast Cancer Detection from Thermal Images Using Asymmetries in Learned Texture Vectors |  | None |  | 😾 | 
+| None | Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models |  | None |  | 😾 | 
+| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  | None |  | 😾 | 
+| None | CCIS-DIFF: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis |  | None |  | 😾 | 
+| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  | None |  | 😾 | 
+| None | CINEPRO: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops |  | None |  | 😾 | 
+| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  | None |  | 😾 | 
+| None | COMT: Co-Training Mean Teachers Semi-Supervised Training Framework for Cervical Segmentation |  | None |  | 😾 | 
+| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  | None |  | 😾 | 
+| None | CSMAE : Cataract Surgical Masked Autoencoder (MAE) Based Pre-Training |  | None |  | 😾 | 
+| None | CT Contrast Phase Identification by Predicting the Temporal Angle Using Circular Regression |  | None |  | 😾 | 
+| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  | None |  | 😾 | 
+| None | Ca-vqvae: Cortical Folding Aware Numerical Representation of White-Matter Structure |  | None |  | 😾 | 
+| None | CascadePLS-ViT: Cascade with Patch-Level Self-Supervised Vision Transformers for Breast Cancer Classification in Mammography |  | None |  | 😾 | 
+| None | Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation |  | None |  | 😾 | 
+| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  | None |  | 😾 | 
+| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  | None |  | 😾 | 
+| None | CellPilot: A Unified Approach to Automatic and Interactive Segmentation in Histopathology |  | None |  | 😾 | 
+| None | Cephalometric Landmark Detection Using Graph- and Image-Aware Network with Landmark Contrastive Regularization |  | None |  | 😾 | 
+| None | Cervical Cancer Lesion Grading Based on Clinical Diagnostic Criteria and Multi-View Approach Using Intraoperative Colposcopic Images |  | None |  | 😾 | 
+| None | Class Fusion of Support Vector Machines with Deep Learning Features for Oral Cancer Histopathology Classification |  | None |  | 😾 | 
+| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  | None |  | 😾 | 
+| None | Classification of Oral Potentially Malignant Disorders Using Multimodal Feature Integration |  | None |  | 😾 | 
+| None | Classification of Surgeons' Gender from Videos of the Surgical Field |  | None |  | 😾 | 
+| None | Classifying Coronary Artery Calcification Risk using Radiomics from Non-Gated CT Scans |  | None |  | 😾 | 
+| None | Clinical Inspired MRI Lesion Segmentation |  | None |  | 😾 | 
+| None | Clustering-Enhanced Multimodal Pre-Training for Histology-Gene Joint Representation Learning |  | None |  | 😾 | 
+| None | Combined Effect of Erythrocyte Aggregation and Leukocyte Presence on Quantitative Blood Ultrasound: a Simulation Study |  | None |  | 😾 | 
+| None | Combining 4D Hyperspectral Imaging With CNN for Nerve and Ligament Differentiation |  | None |  | 😾 | 
+| None | Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images |  | None |  | 😾 | 
+| None | Conditional Convolution of Clinical Data Embeddings for Multimodal Prostate Cancer Classification |  | None |  | 😾 | 
+| None | Conditional Diffusion Model for Abdominal CT Image Synthesis |  | None |  | 😾 | 
+| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  | None |  | 😾 | 
+| None | Conditional Visuo-Textual Prompt Learning for Medical Image Analysis |  | None |  | 😾 | 
+| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  | None |  | 😾 | 
+| None | Context-Aware LSTM for 3D Medical Image Localisation |  | None |  | 😾 | 
+| None | Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion |  | None |  | 😾 | 
+| None | Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection |  | None |  | 😾 | 
+| None | Contrastive Pretraining for Computational Pathology with Visual-Language Models |  | None |  | 😾 | 
+| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  | None |  | 😾 | 
+| None | Coupled Swin Transformers and Multi-Apertures Network(CSTA-NET) Improves Medical Image Segmentation |  | None |  | 😾 | 
+| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  | None |  | 😾 | 
+| None | DAG-UNet: Dissimilarity-Aware Global Context Guided Lightweight UNet for Medical Image Segmentation |  | None |  | 😾 | 
+| None | DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training |  | None |  | 😾 | 
+| None | DENSE-Guided Deep Motion Networks Accounted by Large Rotations to Improve Myocardial Strain Analysis from Routine Cine MRI |  | None |  | 😾 | 
+| None | DG-PPU: Dynamical Graphs Based Post-Processing of Point Clouds Extracted from Knee Ultrasounds |  | None |  | 😾 | 
+| None | Decentralized ComBat-Mega for Harmonizing FNC Data in Coinstac |  | None |  | 😾 | 
+| None | Deep Automatic Alignment of Mpox Dermatological Hand Photography |  | None |  | 😾 | 
+| None | Deep Learning-Driven Automated Aortic Valve Calcification Assessment in CT Calcium Score Screening Images |  | None |  | 😾 | 
+| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  | None |  | 😾 | 
+| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  | None |  | 😾 | 
+| None | Diagnosis with Nanoscale Protein Distributions: Single-Molecule Fluorescence Localization Microscopy and Attention-Based Learning |  | None |  | 😾 | 
+| None | Diaphragm-Net: 3D Full Automatic Segmentation of the Diaphragm Based on Deep Learning Methods for 3D-CT Images |  | None |  | 😾 | 
+| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  | None |  | 😾 | 
+| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  | None |  | 😾 | 
+| None | Diffusion-Based Multi-Degradation Remover for Fiber Bundle Image Restoration |  | None |  | 😾 | 
+| None | Diffusion-Driven 3D CECT-to-NCECT Conversion for Head and Neck Imaging |  | None |  | 😾 | 
+| None | Dilation-Assisted Contrastive Learning for Corneal Nerve Segmentation in Corneal Confocal Microscopy |  | None |  | 😾 | 
+| None | Dineuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction |  | None |  | 😾 | 
+| None | Discrepancy-Induced Cross-Subnet Interaction Network for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | Display Field-of-View Agnostic Robust Ct Kernel Synthesis Using Model-Based Deep Learning |  | None |  | 😾 | 
+| None | Dose Reduction in Step-and-Shoot 4D CT Imaging via Breathing Signal-Guided Deep Learning-Driven Selective Data Acquisition: A Feasibility Study |  | None |  | 😾 | 
+| None | Drop and Align: Fusing Pathology and Genomics via Graph Learning for Cancer Survival Prediction |  | None |  | 😾 | 
+| None | Dual Invariance Self-Training for Reliable Semi-Supervised Surgical Phase Recognition |  | None |  | 😾 | 
+| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  | None |  | 😾 | 
+| None | Dual-Stream Pyramidal Attention Networks for Medical Image Registration |  | None |  | 😾 | 
+| None | Dynamic Fusion: Merging Structural and Functional Connectivity Dynamics Via Joint CMICA |  | None |  | 😾 | 
+| None | EDA: Enhanced Domain-Adversarial Training for Anatomical Landmark Detection |  | None |  | 😾 | 
+| None | EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis |  | None |  | 😾 | 
+| None | EMSSD: Two-Stage Model Enhancing Medical Image Segmentation Based on Stable Diffusion |  | None |  | 😾 | 
+| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  | None |  | 😾 | 
+| None | EPI-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions |  | None |  | 😾 | 
+| None | EViT-UNET: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices |  | None |  | 😾 | 
+| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  | None |  | 😾 | 
+| None | Efficient CMR Report Classification Through Synthetic Data Distillation and Metadata Fusion |  | None |  | 😾 | 
+| None | Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation |  | None |  | 😾 | 
+| None | Efficient Human-in-the-Loop Pancreatic Tumor Annotation via Large-Scale Pre-Trained Model with Adaptive Post-Processing |  | None |  | 😾 | 
+| None | Enhance Cardiac MRI Reconstruction via Unfolding Network with Hybrid Mamba-LSTM |  | None |  | 😾 | 
+| None | Enhanced Cervical Vertebral Maturation Assessment Using AI-Based Imaging Analysis System |  | None |  | 😾 | 
+| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  | None |  | 😾 | 
+| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  | None |  | 😾 | 
+| None | Enhancing Medical Image Segmentation with Mamba and UNet++ |  | None |  | 😾 | 
+| None | Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation |  | None |  | 😾 | 
+| None | Ensemble of Foundation Models for Pap Smear Cell Analysis |  | None |  | 😾 | 
+| None | Equivariance-Based Theoretical Analysis and Self-Supervised Learning Framework for Missing Wedge Problem in Cryo-Electron Tomography |  | None |  | 😾 | 
+| None | Evaluating Automated Radiology Report Quality Through Fine-Grained Phrasal Grounding of Clinical Findings |  | None |  | 😾 | 
+| None | Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam |  | None |  | 😾 | 
+| None | Evaluation Metric for Quality Control and Generative Models in Histopathology Images |  | None |  | 😾 | 
+| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  | None |  | 😾 | 
+| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  | None |  | 😾 | 
+| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  | None |  | 😾 | 
+| None | Exploiting Cross-Dimensional Dependency Using Vision-LSTM for Efficient Medical Image Segmentation |  | None |  | 😾 | 
+| None | Exploring Foundation Models Fine-Tuning for Cytology Classification |  | None |  | 😾 | 
+| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  | None |  | 😾 | 
+| None | F2UE-NET: An Uncertainty-Driven Dynamic Expert Network for Long-Tail Retinal Disease Classification |  | None |  | 😾 | 
+| None | FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention |  | None |  | 😾 | 
+| None | FMUNet: Frequency Modulation-Based UNet for Octa Segmentation |  | None |  | 😾 | 
+| None | Fairness Analysis of Clip-Based Foundation Models for X-Ray Image Classification |  | None |  | 😾 | 
+| None | Fast Multi-Contrast MRI Using Joint Multiscale Energy Model |  | None |  | 😾 | 
+| None | Fau-Net: Fourier Attention Based 3D U-Net For Medical Image Registration |  | None |  | 😾 | 
+| None | Feature-Driven LI-RADS Classification in Liver Cancer: A CNN-Based Approach for CT Imaging Under Data Scarcity |  | None |  | 😾 | 
+| None | Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation |  | None |  | 😾 | 
+| None | Few-Shot Sample-Specific Deep Learning Multiclass Segmentation and Fiber Tractography using 3D-Microscopy with Ultraviolet Surface Excitation (3D-Muse) Images of Human Vagus Nerve |  | None |  | 😾 | 
+| None | Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance |  | None |  | 😾 | 
+| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  | None |  | 😾 | 
+| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  | None |  | 😾 | 
+| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  | None |  | 😾 | 
+| None | GP-CPS: Gradient Penalty Cross Pseudo Supervision for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  | None |  | 😾 | 
+| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  | None |  | 😾 | 
+| None | Generating Customized Prompts for Zero-Shot Rare Event Medical Image Classification Using LLM |  | None |  | 😾 | 
+| None | Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency |  | None |  | 😾 | 
+| None | Generative Chained Label Propagation: A Semi-Supervised Approach for Enhanced 3D Segmentation of the Inferior Alveolar Nerve |  | None |  | 😾 | 
+| None | Generative Medical Image Anonymization Based on Latent Code Projection and Optimization |  | None |  | 😾 | 
+| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  | None |  | 😾 | 
+| None | Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate |  | None |  | 😾 | 
+| None | Gland Segmentation Using SAM with Cancer Grade As A Prompt |  | None |  | 😾 | 
+| None | Guiding the Classification of Hepatocellular Carcinoma on 3D CT-Scans Using Deep and Handcrafted Radiological Features |  | None |  | 😾 | 
+| None | HER2 Status Prediction in Breast Cancer: A Weak Supervision and Contrastive Learning Approach on H&E Stains |  | None |  | 😾 | 
+| None | Hallucination Analysis of Score-Based Diffusion Models for CT Denoising Through Spatial Frequency Decomposition |  | None |  | 😾 | 
+| None | Hierarchical Augmentation Consistency Learning for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | High-Resolution Histopathology Whole Slide Image Generation Using Wavelet Diffusion Model |  | None |  | 😾 | 
+| None | Human-in-the-Loop Semi-Supervised Uterine Cervix Ultrasound Image Segmentation |  | None |  | 😾 | 
+| None | Hybrid DL Classification Model Based on CNN and Transformer for Pap Smear Cells |  | None |  | 😾 | 
+| None | Hybrid-Frequency Feature Evolution Network for Endoscopic Ultrasound Image Segmentation |  | None |  | 😾 | 
+| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  | None |  | 😾 | 
+| None | IHA-YOLO: Inter-Head Attention for Real-Time Cell Detection |  | None |  | 😾 | 
+| None | IMITATE: Image Registration with Context for Unknown Time Frame Recovery |  | None |  | 😾 | 
+| None | IMJ-PLUS: Implicit Representation for Dynamic MRI and Coil Sensitivity Joint Reconstruction Using Low-Rank PLUS Sparse Regularization |  | None |  | 😾 | 
+| None | ISGM-DR: Important Slice-Guided Model for Diabetic Retinopathy Diagnosis Using 3D Oct Images |  | None |  | 😾 | 
+| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  | None |  | 😾 | 
+| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  | None |  | 😾 | 
+| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  | None |  | 😾 | 
+| None | Improved C-Index and Interpretability with KAN as Compared to COX: Application to Risk Prediction of Major Adverse Cardiovascular Events from CT Calcium Score |  | None |  | 😾 | 
+| None | Improving Cell Instance Segmentation in Scanning Electron Microscopy via Semantic Image Synthesis |  | None |  | 😾 | 
+| None | Improving Quality Control of MRI Images Using Synthetic Motion Data |  | None |  | 😾 | 
+| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  | None |  | 😾 | 
+| None | Integrations: Informed Subset Selection Based Generation for Medical Imaging in Resource Constrained Setting |  | None |  | 😾 | 
+| None | Introducing Learning Rate Adaptation CMA-ES into Rigid Intraoperative 2D/3D Registration for Spinal Surgery |  | None |  | 😾 | 
+| None | Joint Reconstruction of Activity and Attenuation for PET Imaging with Diffusion Prior |  | None |  | 😾 | 
+| None | Joint Reconstruction of Dynamic PET Activity and Kinetic Parametric Images Using Learnable Descent Framework |  | None |  | 😾 | 
+| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  | None |  | 😾 | 
+| None | K-Space Diffusion Model Based Mr Reconstruction Method for Simultaneous Multislice Imaging |  | None |  | 😾 | 
+| None | KALM: Knowledge-Driven Active Learning for Medical Image Segmentation Using Localized Similarity |  | None |  | 😾 | 
+| None | Knowledge-Aware Multi-Source Domain Adaptation Network for Osteoporosis Diagnosis from Ultrasonic Radio Frequency Signals |  | None |  | 😾 | 
+| None | LF-MAMBA: A State Space Model-Based Framework for Accurate Bilateral Hippocampi Segmentation in Low-Field Pediatric MRI |  | None |  | 😾 | 
+| None | LIMIS: Towards Language-Based Interactive Medical Image Segmentation |  | None |  | 😾 | 
+| None | LLAMA-VG: A Video Vision LLaMA-Based Model for Endoscopy Video Generation |  | None |  | 😾 | 
+| None | LWV-UNet: Lightweight Vision Transformer UNet for Nasopharyngeal Carcinoma Image Segmentation |  | None |  | 😾 | 
+| None | Large-Scale Radiomics Analysis for Prostate Cancer Detection Harnessing Machine and Deep Learning Models |  | None |  | 😾 | 
+| None | Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction |  | None |  | 😾 | 
+| None | Legopet: Hierarchical Feature Guided Conditional Diffusion for Pet Image Reconstruction |  | None |  | 😾 | 
+| None | Leveraging Autoencoder Neural Networks to Improve Microbubble Detection and Localization in Ultrasound Localization Microscopy |  | None |  | 😾 | 
+| None | Leveraging Foundation Models for Clinically Instructed Tumor Image Synthesis in Renal Cell Carcinoma |  | None |  | 😾 | 
+| None | Leveraging Graph Attention Networks for Targeted Feedback from Operating Room Surgery Videos |  | None |  | 😾 | 
+| None | Leveraging Graph Neural Networks in Transferring Multimodal Knowledge for Unimodal Segmentation |  | None |  | 😾 | 
+| None | Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation |  | None |  | 😾 | 
+| None | Line Artifact Removal Over Medical X-Ray Images via Joint Dictionaries Sparse Decomposition with Structured Incoherence |  | None |  | 😾 | 
+| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  | None |  | 😾 | 
+| None | Locating Standard Planes in Endometrium Ultrasound Videos via Clinical Prior Knowledge of Key Anatomical Structures |  | None |  | 😾 | 
+| None | Logsage: Log-Based Saliency for Guided Encoding in Robust Nuclei Segmentation of Immunofluorescence Histology Images |  | None |  | 😾 | 
+| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  | None |  | 😾 | 
+| None | Longmambattn: A Novel Architecture for Enhanced Breast Cancer Risk Prediction Using Variable-Length Longitudinal Mammograms |  | None |  | 😾 | 
+| None | M3-Net: A Multi-Scale Nuclei Segmentation Model for Breast Cancer Histopathology Using Contextual Patches and Attention Mechanism |  | None |  | 😾 | 
+| None | MARIO: A Mixed Annotation Framework for Polyp Segmentation |  | None |  | 😾 | 
+| None | MEDL: Unsupervised Multi-Stage Ensemble Deep Learning With Diffusion Models for Denoising MRI Scans |  | None |  | 😾 | 
+| None | MIHCGENER: A Framework for Multiple Immunohistochemical Image Generation Based on the Combination of Pathological Foundation Model and Generative Model |  | None |  | 😾 | 
+| None | MO-CTranS: A Unified Multi-Organ Segmentation Model Learning from Multiple Heterogeneously Labelled Datasets |  | None |  | 😾 | 
+| None | MOSS: Learning from Multiple Organs Via Self-Supervision |  | None |  | 😾 | 
+| None | MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging |  | None |  | 😾 | 
+| None | MR-to-CT Translation Using Frequency-Separated Diffusion Models |  | None |  | 😾 | 
+| None | MSCAM-Net: A Multi-Scale and Context-Aware Model with Adaptive Fusion Module for Robust Skin Lesion Segmentation |  | None |  | 😾 | 
+| None | MTKD-LRS: Semi Supervised Knee Cartilage Segmentation using Eigen Low Rank Subspace Assisted Mean-Teacher Framework |  | None |  | 😾 | 
+| None | MUM: Enhancing Medical Diagnostics Through Unpaired Multimodal Data Integration |  | None |  | 😾 | 
+| None | MamUNet: Mamba Enhances Vessel Segmentation in NIR-II Fluorescence Imaging |  | None |  | 😾 | 
+| None | Mamba-Based Residual Generative Adversarial Network for Functional Connectivity Harmonization During Infancy |  | None |  | 😾 | 
+| None | Masked Momentum Contrastive Dynamic Transformer for Self-Supervised Functional Connectivity Representation Learning |  | None |  | 😾 | 
+| None | MedDataset: Synthesizing Infinite Image and Segmentation Data Using Diffusion Models |  | None |  | 😾 | 
+| None | MedSAGa: Few-Shot Memory Efficient Medical Image Segmentation Using Gradient Low-Rank Projection in SAM |  | None |  | 😾 | 
+| None | Medframealign: 3D Histological Reconstructions Using Video Frame Interpolation Techniques |  | None |  | 😾 | 
+| None | Medical Text and Image Reasoning for Radiation Oncology via Large Language Model |  | None |  | 😾 | 
+| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  | None |  | 😾 | 
+| None | Medxchat: A Unified Multimodal Large Language Model Framework Towards CXRS Understanding and Generation |  | None |  | 😾 | 
+| None | Metafusion: A Novel Method for Integrating Clinical Metadata with Imaging Modalities for Medical Applications |  | None |  | 😾 | 
+| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  | None |  | 😾 | 
+| None | Mitral Valve Deep Learning Localization in CT Scans for MIMVR Surgery |  | None |  | 😾 | 
+| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  | None |  | 😾 | 
+| None | Msapnet: Multi-Scale and Multi-Axial Perception Network for Retinal Layers and Lesion Segmentation |  | None |  | 😾 | 
+| None | Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets |  | None |  | 😾 | 
+| None | Multi-Label Neonatal EEG Segmentation Enriched with Semi-Synthetic Data |  | None |  | 😾 | 
+| None | Multi-Modal Deformable Image Registration Using Untrained Neural Networks |  | None |  | 😾 | 
+| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  | None |  | 😾 | 
+| None | Multi-Modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification |  | None |  | 😾 | 
+| None | Multi-Modal Integration for Predicting Biochemical Recurrence in Prostate Cancer |  | None |  | 😾 | 
+| None | Multi-Phase Attention for Early Stage Hepatocellular Carcinoma Segmentation from Contrast Enhanced Liver MRI |  | None |  | 😾 | 
+| None | Multi-Scale Boundary Enhanced Pseudo Label Refinement for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
+| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  | None |  | 😾 | 
+| None | Multi-Sequence MRI to Multi-Tracer Pet Generation via Diffusion Model |  | None |  | 😾 | 
+| None | Multi-Stage Bidirectional Cross-Attention Model for Predicting Prognosis in Multiple Peritoneum Lesions with Clinical Information |  | None |  | 😾 | 
+| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  | None |  | 😾 | 
+| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  | None |  | 😾 | 
+| None | Multi-Volume Isotropic Super-Resolution Wrist MRI Using Fourier-Guided Implicit Fusion |  | None |  | 😾 | 
+| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  | None |  | 😾 | 
+| None | Multimodal Learning for Enhanced Detection in Oral Cancer Screening |  | None |  | 😾 | 
+| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  | None |  | 😾 | 
+| None | Multimodal Weakly Supervised Segmentation for Histopathology |  | None |  | 😾 | 
+| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  | None |  | 😾 | 
+| None | Nnmamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model |  | None |  | 😾 | 
+| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  | None |  | 😾 | 
+| None | OCT-Trans: A Novel Transformer Backbone with Multimodal Feature Extraction in OCT-Based Retinal Disease Classification |  | None |  | 😾 | 
+| None | OHIF -SAM2: Accelerating Radiology Workflows with Meta Segment Anything Model 2 |  | None |  | 😾 | 
+| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  | None |  | 😾 | 
+| None | On the Role of Adversarial Perturbations in Unsupervised Deep Learning for Enhancing Image Quality of Degraded Medical-Images |  | None |  | 😾 | 
+| None | One-Shot Tumour Synthesis for PET-CT Imaging |  | None |  | 😾 | 
+| None | Online Multispectral Neuron Tracing |  | None |  | 😾 | 
+| None | Optimizing Cell Recognition in Sarcoma Multiplex Immunohistochemistry Images via Pre-Training Strategies |  | None |  | 😾 | 
+| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  | None |  | 😾 | 
+| None | PET Partial Volume Correction Based on Unsupervised Deep Residual Compensation Model |  | None |  | 😾 | 
+| None | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation |  | None |  | 😾 | 
+| None | PI-RADS Inspired Architecture: A New Deep Learning Approach to Detect Clinically Significant Prostate Cancer on MRI |  | None |  | 😾 | 
+| None | PSO-NET: Development of an Automated Psoriasis Assessment System Using Attention-Based Interpretable Deep Neural Networks |  | None |  | 😾 | 
+| None | Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding |  | None |  | 😾 | 
+| None | Pathogen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images |  | None |  | 😾 | 
+| None | Photon-Counting CT Reconstruction Using Separable Attention-Based Tensor Neural Network Prior |  | None |  | 😾 | 
+| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  | None |  | 😾 | 
+| None | Plasma-CycleGAN: Plasma Biomarker-Guided MRI to Pet Cross-Modality Translation Using Conditional CycleGAN |  | None |  | 😾 | 
+| None | Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion |  | None |  | 😾 | 
+| None | Predicting Axillary Lymph Node Metastasis in Breast Cancer by Integrating Dual-ROI Features from Multi-Parametric MRI |  | None |  | 😾 | 
+| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  | None |  | 😾 | 
+| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  | None |  | 😾 | 
+| None | Predicting Response to Neoadjuvant Chemotherapy using Multi-Modal MRI Radiomics and Machine Learning Approaches |  | None |  | 😾 | 
+| None | Predicting Ulcer in H&E Images of Inflammatory Bowel Disease Using Domain-Knowledge-Driven Graph Neural Network |  | None |  | 😾 | 
+| None | Prism: Privacy-Preserving Inter-Site MRI Harmonization via Disentangled Representation Learning |  | None |  | 😾 | 
+| None | Prompt-Guided Radiology Report Generation Utilizing SAM |  | None |  | 😾 | 
+| None | Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images |  | None |  | 😾 | 
+| None | Psychosis Multiscale Functional Network Connectivity Subspace Encodes Sex Specificity and Identifies Sex Biotypes |  | None |  | 😾 | 
+| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  | None |  | 😾 | 
+| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  | None |  | 😾 | 
+| None | Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network |  | None |  | 😾 | 
+| None | Quantitative Imaging of 55CO and 18F-Labeled Tracers in a Single "Multiplexed" Pet Imaging Session |  | None |  | 😾 | 
+| None | R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation |  | None |  | 😾 | 
+| None | RDMP: A Reference Detection and Mask Propagation Pipeline for Numerous 3D Glomeruli Segmentation in Large Volumes |  | None |  | 😾 | 
+| None | RED-Net: Radiomics-Enhanced Diffusion Network for MRI-to-PET Cross-Modality Image Synthesis |  | None |  | 😾 | 
+| None | RICAU-NET: Residual-Block Inspired Coordinate Attention U-Net for Segmentation of Small and Sparse Calcium Lesions in Cardiac CT |  | None |  | 😾 | 
+| None | RIEMAE: Riemannian Masked Autoencoder for Classifying Malignant Prostate Cancer Patterns |  | None |  | 😾 | 
+| None | RVPD: An Automated System for Calculating the Tortuosity and Bifurcation Angles of Retinal Vessels to Predict Diseases |  | None |  | 😾 | 
+| None | RadHop-Net: A Lightweight Radiomics-to-Error Regression for False Positive Reduction in MRI Prostate Cancer Detection |  | None |  | 😾 | 
+| None | Ranking of Visual Attention Spread Improves Trypanosoma Cruzi Detection in Microscopy Videos |  | None |  | 😾 | 
+| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  | None |  | 😾 | 
+| None | Real-Time Image Reconstruction with Deep Denoising for Low-Field MRI-Guided Interventions |  | None |  | 😾 | 
+| None | Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting |  | None |  | 😾 | 
+| None | Reconstruct Dense Live-Cell Microscopy Images via Learning Continuous Fluorescence Field |  | None |  | 😾 | 
+| None | Reconstructing Heart Rate Variation from Bold-FMRI Using 1D-CNN and GRU Networks with Dynamic Functional Connectivity-Based ROIs |  | None |  | 😾 | 
+| None | Reference-Free 2D-to-3D Multiple Slice Transport Average Registration (MSTAR) for Late Gadolinium Enhancement Cardiac MRI |  | None |  | 😾 | 
+| None | Resection Margin Prediction in Pancreatic Ductal Adenocarcinoma: A Multi-Modal Machine Learning Approach Integrating Clinical and Computed Tomography Radiomics Data |  | None |  | 😾 | 
+| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  | None |  | 😾 | 
+| None | Revisiting Clip: Efficient Alignment of 3D MRI and Tabular Data Using Domain-Specific Foundation Models |  | None |  | 😾 | 
+| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  | None |  | 😾 | 
+| None | SACL: Semantics-Aware Contrastive Learning for One-Shot Medical Image Segmentation |  | None |  | 😾 | 
+| None | SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation |  | None |  | 😾 | 
+| None | SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM |  | None |  | 😾 | 
+| None | SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation |  | None |  | 😾 | 
+| None | SCONet: Convolutional Occupancy Networks for Multi-Organ Segmentation |  | None |  | 😾 | 
+| None | SEMISE: Semi-Supervised Learning for Severity Representation in Medical Image |  | None |  | 😾 | 
+| None | SEQSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation Using Sam |  | None |  | 😾 | 
+| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  | None |  | 😾 | 
+| None | SLIM-UAM - Semi-Supervised Learning In Medical Imaging: Uncertainty-Attention Model |  | None |  | 😾 | 
+| None | SRE-CONV: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification |  | None |  | 😾 | 
+| None | Salience-Enhanced Network for Metal Artifact Reduction in CT Imaging |  | None |  | 😾 | 
+| None | Salient Region Matching for Fully Automated MR-TRUS Registration |  | None |  | 😾 | 
+| None | SarcNet: A Novel AI-Based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged HIPSC-CMS |  | None |  | 😾 | 
+| None | Scalable Whole Slide Image Representation Using K-Means Clustering and Fisher Vector Aggregation |  | None |  | 😾 | 
+| None | Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension in Biomedical Image Analysis |  | None |  | 😾 | 
+| None | Scar-Aware Late Mechanical Activation Detection Network for Optimal Cardiac Resynchronization Therapy Planning |  | None |  | 😾 | 
+| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  | None |  | 😾 | 
+| None | Segmentation of Cardiovascular Structures from Screening Non-contrast CT Calcium Score Images Using the Tuned CardioNC-Segmentator on Virtual CTA Images |  | None |  | 😾 | 
+| None | Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB |  | None |  | 😾 | 
+| None | Self Pre-Training with Adaptive Mask Autoencoders for Variable-Contrast 3D Medical Imaging |  | None |  | 😾 | 
+| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  | None |  | 😾 | 
+| None | Self-Supervised Learning for Multi-Category Endoscopy Classification and Data Quality Evaluation Using Masked Autoencoders |  | None |  | 😾 | 
+| None | Self-Supervised Metric Learning for Gaussian Anomaly Detection in Fundus Images |  | None |  | 😾 | 
+| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  | None |  | 😾 | 
+| None | Self-supervised Prototype Learning for Spatio-Temporal Enhanced Ultrasound-based Prostate Cancer Detection |  | None |  | 😾 | 
+| None | SelfMedHPM: Self Pre-Training with Hard Patches Mining Masked Autoencoders for Medical Image Segmentation |  | None |  | 😾 | 
+| None | Semi-Cervixseg: A Multi-Stage Training Strategy for Semi-Supervised Cervical Segmentation |  | None |  | 😾 | 
+| None | Semi-Supervised Cervical Segmentation on Ultrasound by a Dual Framework for Neural Networks |  | None |  | 😾 | 
+| None | Semi-Supervised Medical Image Classification with Neighborhood Adaptive Attention |  | None |  | 😾 | 
+| None | Semi-Supervised Multimodal Multi-Instance Learning for Aortic Stenosis Diagnosis |  | None |  | 😾 | 
+| None | Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head During Labor |  | None |  | 😾 | 
+| None | Sex Differences in Coupled Dynamic Functional Connectivity and Structural Brain Morphology: Insights from the ABCD Study |  | None |  | 😾 | 
+| None | Shoulder Rotator Cuff Tear Detection from Ultrasound Videos Using Deep Reinforcement Learning |  | None |  | 😾 | 
+| None | Signal Reconstructions for ECG-Transmembrane Voltage Potentials Using Transformers |  | None |  | 😾 | 
+| None | Simulating Post-Neoadjuvant Chemotherapy Breast Cancer MRI via Diffusion Model with Prompt Tuning |  | None |  | 😾 | 
+| None | Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology |  | None |  | 😾 | 
+| None | Source Free Domain Adaptation with Pseudo-Labeling Quality Assessed by Sam in Fundus Image Segmentation |  | None |  | 😾 | 
+| None | Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis |  | None |  | 😾 | 
+| None | SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation |  | None |  | 😾 | 
+| None | Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking |  | None |  | 😾 | 
+| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  | None |  | 😾 | 
+| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  | None |  | 😾 | 
+| None | Structurally Consistent MRI Colorization using Cross-Modal Fusion Learning |  | None |  | 😾 | 
+| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  | None |  | 😾 | 
+| None | Surgical Scene Segmentation by Transformer with Asymmetric Feature Enhancement |  | None |  | 😾 | 
+| None | Swin-Kat: Advancing Swin Transformer with Kolmogorov-Arnold Network for CT Image Quality Assessment |  | None |  | 😾 | 
+| None | SwinDiff_ConSeg: Automatic Segmentation of Ureters in Consecutive CT Urography Based on Swin Transformer and Diffusion Model |  | None |  | 😾 | 
+| None | SwinDiff_DAS: Data Augmentation for Segmentation of the Urinary Collecting System Based on the Shift-Window Transformer and Diffusion Model |  | None |  | 😾 | 
+| None | SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation |  | None |  | 😾 | 
+| None | SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching Using Synthetic Training Pairs and Indirect Supervision |  | None |  | 😾 | 
+| None | SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data |  | None |  | 😾 | 
+| None | Synthesizing Proton-Density Fat Fraction and $R_2^{\ast}$ from 2-Point Dixon MRI with Generative Machine Learning |  | None |  | 😾 | 
+| None | Synthetic CT Generation from Time-of-Flight Non-Attenuation-Corrected PET for Whole-Body PET Attenuation Correction |  | None |  | 😾 | 
+| None | Synthetic H&E Generation from Highly Multiplixed Immunofluorescence Imaging using Deep-Learning |  | None |  | 😾 | 
+| None | T2-Only Prostate Cancer Prediction by Meta-Learning from BI-Parametric MR Imaging |  | None |  | 😾 | 
+| None | T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction |  | None |  | 😾 | 
+| None | TA-MIR: Text Aggregation for Multimodal Feature Representation in Medical Image Registration |  | None |  | 😾 | 
+| None | TC-MNET: Multi-Magnification Network Using Pvt and Convnext for Microscopic Image Segmentation |  | None |  | 😾 | 
+| None | TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis from Imaging, Clinical, and Radiomic Data Fusion |  | None |  | 😾 | 
+| None | TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement |  | None |  | 😾 | 
+| None | TV-Based Deep 3D Self Super-Resolution for FMRI |  | None |  | 😾 | 
+| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  | None |  | 😾 | 
+| None | Targeting Prostate Biopsy: A Straightforward CNN Solution for 3D MR-Trus Image Registration |  | None |  | 😾 | 
+| None | Tau Pet Harmonization via Surface-Based Diffusion Model |  | None |  | 😾 | 
+| None | Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification |  | None |  | 😾 | 
+| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  | None |  | 😾 | 
+| None | Test-Time Fluorescein Angiography-Free Non-Perfusion Area Segmentation from Fundus Image |  | None |  | 😾 | 
+| None | Texlivernet: Leveraging Medical Knowledge and Spatial-Frequency Perception for Enhanced Liver Tumor Segmentation |  | None |  | 😾 | 
+| None | Text-Guided Cross Pseudo Supervision for Semi-Supervised Multi-Organ Segmentation in Abdominal CT Scans |  | None |  | 😾 | 
+| None | Three-Dimensional Diffusion-Weighted Multi-Slab MRI with Slice Profile Compensation Using Deep Energy Model |  | None |  | 😾 | 
+| None | Tissue Characterization and Attenuation Mapping Using Multifrequency Ultrasound Imaging |  | None |  | 😾 | 
+| None | Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation |  | None |  | 😾 | 
+| None | TopoEEG: A Timesformer-Based Topographic Image Representation Method for Single-Trial Early Detection of P300 |  | None |  | 😾 | 
+| None | Topological Image Analysis of Coronary Calcifications for Improved Cardiovascular Risk Prediction from Screening Non-Contrast CT |  | None |  | 😾 | 
+| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  | None |  | 😾 | 
+| None | Topology-Preserving Deep Supervision for 3D Axon Centerline Segmentation Using Partially Annotated Data |  | None |  | 😾 | 
+| None | Towards Classifying Histopathological Microscope Images as Time Series Data |  | None |  | 😾 | 
+| None | Towards Encoding 3D Abdominal MRI Acquisitions as Neural Fields |  | None |  | 😾 | 
+| None | Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability |  | None |  | 😾 | 
+| None | Towards Interactive 3D Surgical Scene Reconstruction: An Incremental Training and Monitoring Framework |  | None |  | 😾 | 
+| None | Towards Multi-Label Open Set Diagnosis for Medical Images |  | None |  | 😾 | 
+| None | Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair: Fully Automated Segmentation of the Aortic Valve in 4D CT |  | None |  | 😾 | 
+| None | Towards Polyp Counting in Full-Procedure Colonoscopy Videos |  | None |  | 😾 | 
+| None | Towards Spatial Transcriptomics-Guided Pathological Image Recognition with Batch-Agnostic Encoder |  | None |  | 😾 | 
+| None | Towards Zero-Shot Task-Generalizable Learning on FMRI |  | None |  | 😾 | 
+| None | TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds |  | None |  | 😾 | 
+| None | Tractogpt: A GPT Architecture for White Matter Tract Segmentation |  | None |  | 😾 | 
+| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  | None |  | 😾 | 
+| None | Transformer-Based T1-Tractography |  | None |  | 😾 | 
+| None | Trifuse: Triplet Encoders Network for Medical Image Segmentation |  | None |  | 😾 | 
+| None | U-Star: AN Asymmetric U-Shaped Network Based on Element-Wise Multiplication to Segment Nuclei in H&E Stained Histological Images |  | None |  | 😾 | 
+| None | UATTA-QSM: Uncertainty-Aware Test Time Adaptation for Improved Quantitative Susceptibility Mapping |  | None |  | 😾 | 
+| None | UNETVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM |  | None |  | 😾 | 
+| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  | None |  | 😾 | 
+| None | Ultrasound Nerve Segmentation with Deep Learning for Leprosy |  | None |  | 😾 | 
+| None | UnSegMedGAT: Unsupervised Medical Image Segmentation Using Graph Attention Networks Clustering |  | None |  | 😾 | 
+| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  | None |  | 😾 | 
+| None | UniCurvSeg: Learning Contextual Prompt for Universal Vessel-Like Curvilinear Structure Segmentation |  | None |  | 😾 | 
+| None | Unsupervised Anomaly Detection on Implicit Shape Representations for Sarcopenia Detection |  | None |  | 😾 | 
+| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  | None |  | 😾 | 
+| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  | None |  | 😾 | 
+| None | Utilizing Mask-Guided Cross-Image Attention for Zero-Shot In-Silico Histopathologic Image Generation with a Diffusion Model |  | None |  | 😾 | 
+| None | Utilizing Shape-features and GAN-Based Model for Renal Segmentation in DW-MRI |  | None |  | 😾 | 
+| None | Utilizing State Space Model for Diffusion Processes in Breast Tumor Pathological Image Super-Resolution |  | None |  | 😾 | 
+| None | VITG-VS: Preserving Spatial Heterogeneity in Virtual Staining of Renal Autofluorescence Images |  | None |  | 😾 | 
+| None | VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation |  | None |  | 😾 | 
+| None | Versatile Stain Transfer in Histopathology Using a Unified Diffusion Framework |  | None |  | 😾 | 
+| None | Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models |  | None |  | 😾 | 
+| None | Visual Prompting Unsupervised Domain Adaptation for Medical Image Segmentation |  | None |  | 😾 | 
+| None | Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound |  | None |  | 😾 | 
+| None | WAVE-VNET: Enhancing Medical Image Segmentation with Wavelet Transformer |  | None |  | 😾 | 
+| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  | None |  | 😾 | 
+| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  | None |  | 😾 | 
+| None | White Light Specular Reflection Data Augmentation for Deep Learning Polyp Detection |  | None |  | 😾 | 
+| None | XAI-PSSGAN: Perception-Enhanced Spectrum Shift Generative Adversarial Network with Explainable AI System for NIR-II Fluorescence Molecular Imaging |  | None |  | 😾 | 
+| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  | None |  | 😾 | 
+| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  | None |  | 😾 | 
+| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  | None |  | 😾 | 
 </details>
 
 <details>
@@ -2343,178 +2343,178 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 06UlFIly8J | [MindCustomer: Multi-Context Image Generation Blended with Brain Signal](https://openreview.net/pdf?id=06UlFIly8J) | Muzhou Yu | Poster | -1 | 😾 | 
+| 06UlFIly8J | [MindCustomer: Multi-Context Image Generation Blended with Brain Signal](https://openreview.net/pdf?id=06UlFIly8J) | Muzhou Yu | Poster |  | 😾 | 
 | 09WRNhHYkM | [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://openreview.net/pdf?id=09WRNhHYkM) | Shixi Qin | Poster | 0 | 😾 | 
-| 0MpGi6IwZr | [CPCF: A Cross-Prompt Contrastive Framework for Referring Multimodal Large Language Models](https://openreview.net/pdf?id=0MpGi6IwZr) | Lanyun Zhu | Poster | -1 | 😾 | 
+| 0MpGi6IwZr | [CPCF: A Cross-Prompt Contrastive Framework for Referring Multimodal Large Language Models](https://openreview.net/pdf?id=0MpGi6IwZr) | Lanyun Zhu | Poster |  | 😾 | 
 | 0m4VsLwj5s | [sciLaMA: A Single-Cell Representation Learning Framework to Leverage Prior Knowledge from Large Language Models](https://openreview.net/pdf?id=0m4VsLwj5s) | Hongru Hu | Poster | 0 | 😾 | 
-| 0p86Mhg014 | [Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation](https://openreview.net/pdf?id=0p86Mhg014) | Yihao Yang | Poster | -1 | 😾 | 
+| 0p86Mhg014 | [Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation](https://openreview.net/pdf?id=0p86Mhg014) | Yihao Yang | Poster |  | 😾 | 
 | 1CK1kuH1he | [Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation](https://openreview.net/pdf?id=1CK1kuH1he) | CHUANQI CHENG | Poster | 0 | 😾 | 
 | 1W2WlYRq0K | [MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data](https://openreview.net/pdf?id=1W2WlYRq0K) | Yuqin Dai | Poster | 0 | 😾 | 
-| 1jd25AlvHS | [Test-Time Multimodal Backdoor Detection by Contrastive Prompting](https://openreview.net/pdf?id=1jd25AlvHS) | Yuwei Niu | Poster | -1 | 😾 | 
+| 1jd25AlvHS | [Test-Time Multimodal Backdoor Detection by Contrastive Prompting](https://openreview.net/pdf?id=1jd25AlvHS) | Yuwei Niu | Poster |  | 😾 | 
 | 28CwvrlpAR | [AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings](https://openreview.net/pdf?id=28CwvrlpAR) | Yilin Ye | Poster | 0 | 😾 | 
-| 2veJwf07RN | [L-Diffusion: Laplace Diffusion for Efficient Pathology Image Segmentation](https://openreview.net/pdf?id=2veJwf07RN) | Weihan Li | Poster | -1 | 😾 | 
-| 2wUQttiab3 | [WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction](https://openreview.net/pdf?id=2wUQttiab3) | Fanmeng Wang | Poster | -1 | 😾 | 
-| 3GOaybsKfJ | [A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method](https://openreview.net/pdf?id=3GOaybsKfJ) | Zhengzheng Lou | Poster | -1 | 😾 | 
+| 2veJwf07RN | [L-Diffusion: Laplace Diffusion for Efficient Pathology Image Segmentation](https://openreview.net/pdf?id=2veJwf07RN) | Weihan Li | Poster |  | 😾 | 
+| 2wUQttiab3 | [WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction](https://openreview.net/pdf?id=2wUQttiab3) | Fanmeng Wang | Poster |  | 😾 | 
+| 3GOaybsKfJ | [A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method](https://openreview.net/pdf?id=3GOaybsKfJ) | Zhengzheng Lou | Poster |  | 😾 | 
 | 3lsEeqmvpz | [HaploVL: A Single-Transformer Baseline for Multi-Modal Understanding](https://openreview.net/pdf?id=3lsEeqmvpz) | Rui Yang | Poster | 0 | 😾 | 
 | 3xdFvqsVnM | [MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning](https://openreview.net/pdf?id=3xdFvqsVnM) | Peter Eckmann | Poster | 0 | 😾 | 
 | 4aXfSLfM0Z | [Compositional Flows for 3D Molecule and Synthesis Pathway Co-design](https://openreview.net/pdf?id=4aXfSLfM0Z) | Tony Shen | Poster | 0 | 😾 | 
 | 4x7H7nwTZW | [Human Body Restoration with One-Step Diffusion Model and A New Benchmark](https://openreview.net/pdf?id=4x7H7nwTZW) | Jue Gong | Poster | 0 | 😾 | 
-| 4yHWV3B6g4 | [Raptor: Scalable Train-Free Embeddings for 3D Medical Volumes Leveraging Pretrained 2D Foundation Models](https://openreview.net/pdf?id=4yHWV3B6g4) | Ulzee An | Spotlight | -1 | 😾 | 
-| 55ysNwbOTI | [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/pdf?id=55ysNwbOTI) | Chenrui Wu | Poster | -1 | 😾 | 
-| 5TUa2UXSpp | [Learning Optimal Multimodal Information Bottleneck Representations](https://openreview.net/pdf?id=5TUa2UXSpp) | Qilong Wu | Poster | -1 | 😾 | 
-| 6Rvs8jluQP | [Efficient Multi-modal Long Context Learning for Training-free Adaptation](https://openreview.net/pdf?id=6Rvs8jluQP) | Zehong Ma | Poster | -1 | 😾 | 
-| 6SIymOqJlc | [PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation based Large Vision-Language Models](https://openreview.net/pdf?id=6SIymOqJlc) | Chenyang Zhang | Poster | -1 | 😾 | 
+| 4yHWV3B6g4 | [Raptor: Scalable Train-Free Embeddings for 3D Medical Volumes Leveraging Pretrained 2D Foundation Models](https://openreview.net/pdf?id=4yHWV3B6g4) | Ulzee An | Spotlight |  | 😾 | 
+| 55ysNwbOTI | [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/pdf?id=55ysNwbOTI) | Chenrui Wu | Poster |  | 😾 | 
+| 5TUa2UXSpp | [Learning Optimal Multimodal Information Bottleneck Representations](https://openreview.net/pdf?id=5TUa2UXSpp) | Qilong Wu | Poster |  | 😾 | 
+| 6Rvs8jluQP | [Efficient Multi-modal Long Context Learning for Training-free Adaptation](https://openreview.net/pdf?id=6Rvs8jluQP) | Zehong Ma | Poster |  | 😾 | 
+| 6SIymOqJlc | [PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation based Large Vision-Language Models](https://openreview.net/pdf?id=6SIymOqJlc) | Chenyang Zhang | Poster |  | 😾 | 
 | 6pNp7to8kW | [Cross-Modal Alignment via Variational Copula Modelling](https://openreview.net/pdf?id=6pNp7to8kW) | Feng Wu | Poster | 0 | 😾 | 
 | 6vk6Xg24ZC | [Imagine While Reasoning in Space: Multimodal Visualization-of-Thought](https://openreview.net/pdf?id=6vk6Xg24ZC) | Chengzu Li | Poster | 22 | 😾 | 
-| 77ziPGdQct | [Vision-Language Models Create Cross-Modal Task Representations](https://openreview.net/pdf?id=77ziPGdQct) | Grace Luo | Poster | -1 | 😾 | 
+| 77ziPGdQct | [Vision-Language Models Create Cross-Modal Task Representations](https://openreview.net/pdf?id=77ziPGdQct) | Grace Luo | Poster |  | 😾 | 
 | 7BKcLeHQsm | [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://openreview.net/pdf?id=7BKcLeHQsm) | Zhuowei Li | Poster | 0 | 😾 | 
-| 7UqNM85dD6 | [SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes](https://openreview.net/pdf?id=7UqNM85dD6) | Yishan Shen | Poster | -1 | 😾 | 
-| 7qvYLnJDRd | [Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance](https://openreview.net/pdf?id=7qvYLnJDRd) | Guoqing Chao | Poster | -1 | 😾 | 
-| 80faIPZ67S | [SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference](https://openreview.net/pdf?id=80faIPZ67S) | Yuan Zhang | Poster | -1 | 😾 | 
-| 859NdHQv0Z | [OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation](https://openreview.net/pdf?id=859NdHQv0Z) | Yaoxuan Feng | Poster | -1 | 😾 | 
+| 7UqNM85dD6 | [SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes](https://openreview.net/pdf?id=7UqNM85dD6) | Yishan Shen | Poster |  | 😾 | 
+| 7qvYLnJDRd | [Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance](https://openreview.net/pdf?id=7qvYLnJDRd) | Guoqing Chao | Poster |  | 😾 | 
+| 80faIPZ67S | [SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference](https://openreview.net/pdf?id=80faIPZ67S) | Yuan Zhang | Poster |  | 😾 | 
+| 859NdHQv0Z | [OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation](https://openreview.net/pdf?id=859NdHQv0Z) | Yaoxuan Feng | Poster |  | 😾 | 
 | 8EUR45XguK | [HetSSNet: Spatial-Spectral Heterogeneous Graph Learning Network for Panchromatic and Multispectral Images Fusion](https://openreview.net/pdf?id=8EUR45XguK) | Mengting Ma | Poster | 0 | 😾 | 
 | 8aChcUzAhI | [LMAct: A Benchmark for In-Context Imitation Learning with Long Multimodal Demonstrations](https://openreview.net/pdf?id=8aChcUzAhI) | Anian Ruoss | Poster | 5 | 😾 | 
 | 9CpeZ8BzPO | [MaskTwins: Dual-form Complementary Masking for Domain-Adaptive Image Segmentation](https://openreview.net/pdf?id=9CpeZ8BzPO) | Jiawen Wang | Poster | 0 | 😾 | 
-| 9c4YYoBS4N | [Towards the Causal Complete Cause of Multi-Modal Representation Learning](https://openreview.net/pdf?id=9c4YYoBS4N) | Jingyao Wang | Poster | -1 | 😾 | 
+| 9c4YYoBS4N | [Towards the Causal Complete Cause of Multi-Modal Representation Learning](https://openreview.net/pdf?id=9c4YYoBS4N) | Jingyao Wang | Poster |  | 😾 | 
 | 9cOtYlD5UA | [TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness](https://openreview.net/pdf?id=9cOtYlD5UA) | Cheng Huang | Poster | 1 | 😾 | 
-| 9hd5WA6QCn | [MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding](https://openreview.net/pdf?id=9hd5WA6QCn) | Zhicheng Zhang | Spotlight | -1 | 😾 | 
+| 9hd5WA6QCn | [MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding](https://openreview.net/pdf?id=9hd5WA6QCn) | Zhicheng Zhang | Spotlight |  | 😾 | 
 | AdWRA8faAO | [3D-LMVIC: Learning-based Multi-View Image Compression with 3D Gaussian Geometric Priors](https://openreview.net/pdf?id=AdWRA8faAO) | Yujun Huang | Poster | 0 | 😾 | 
-| AjbiIcRt6q | [Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces](https://openreview.net/pdf?id=AjbiIcRt6q) | Kevin Rojas | Poster | -1 | 😾 | 
+| AjbiIcRt6q | [Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces](https://openreview.net/pdf?id=AjbiIcRt6q) | Kevin Rojas | Poster |  | 😾 | 
 | BUhYurycps | [Topological Signatures of Adversaries in Multimodal Alignments](https://openreview.net/pdf?id=BUhYurycps) | Minh Vu | Poster | 0 | 😾 | 
 | BtRn4eayfE | [Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](https://openreview.net/pdf?id=BtRn4eayfE) | Zhengrui Guo | Poster | 1 | 😾 | 
 | CKQI3Nksxm | [Learning from True-False Labels via Multi-modal Prompt Retrieving](https://openreview.net/pdf?id=CKQI3Nksxm) | Zhongnian Li | Poster | 0 | 😾 | 
 | Cnfogmxymj | [EARTH: Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph](https://openreview.net/pdf?id=Cnfogmxymj) | Guancheng Wan | Poster | 9 | 😾 | 
-| DJcEoC9JpQ | [Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger](https://openreview.net/pdf?id=DJcEoC9JpQ) | Qi Yang | Spotlight | -1 | 😾 | 
+| DJcEoC9JpQ | [Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger](https://openreview.net/pdf?id=DJcEoC9JpQ) | Qi Yang | Spotlight |  | 😾 | 
 | DW8oTCk2nF | [Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models](https://openreview.net/pdf?id=DW8oTCk2nF) | Ruiyu Wang | Poster | 1 | 😾 | 
-| DtVVltU1ak | [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://openreview.net/pdf?id=DtVVltU1ak) | Eray Erturk | Poster | -1 | 😾 | 
+| DtVVltU1ak | [Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions](https://openreview.net/pdf?id=DtVVltU1ak) | Eray Erturk | Poster |  | 😾 | 
 | EVwMw2lVlw | [SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs](https://openreview.net/pdf?id=EVwMw2lVlw) | Xin Su | Oral | 5 | 😾 | 
 | EiAQrilPYP | [MindLLM: A Subject-Agnostic and Versatile Model for fMRI-to-text Decoding](https://openreview.net/pdf?id=EiAQrilPYP) | Weikang Qiu | Poster | 0 | 😾 | 
-| EuJaF5QsMP | [$\texttt{I$^2$MoE}$: Interpretable Multimodal Interaction-aware Mixture-of-Experts](https://openreview.net/pdf?id=EuJaF5QsMP) | Jiayi Xin | Poster | -1 | 😾 | 
+| EuJaF5QsMP | [$\texttt{I$^2$MoE}$: Interpretable Multimodal Interaction-aware Mixture-of-Experts](https://openreview.net/pdf?id=EuJaF5QsMP) | Jiayi Xin | Poster |  | 😾 | 
 | EvILcv2v8L | [DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra](https://openreview.net/pdf?id=EvILcv2v8L) | Montgomery Bohde | Poster | 0 | 😾 | 
-| F3Cbhb611p | [Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning](https://openreview.net/pdf?id=F3Cbhb611p) | Minqi Yu | Poster | -1 | 😾 | 
-| F7BOaYmWl7 | [How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](https://openreview.net/pdf?id=F7BOaYmWl7) | Yining Pan | Poster | -1 | 😾 | 
-| FB2e8PV6qg | [Graph4MM: Weaving Multimodal Learning with Structural Information](https://openreview.net/pdf?id=FB2e8PV6qg) | Xuying Ning | Poster | -1 | 😾 | 
+| F3Cbhb611p | [Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning](https://openreview.net/pdf?id=F3Cbhb611p) | Minqi Yu | Poster |  | 😾 | 
+| F7BOaYmWl7 | [How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](https://openreview.net/pdf?id=F7BOaYmWl7) | Yining Pan | Poster |  | 😾 | 
+| FB2e8PV6qg | [Graph4MM: Weaving Multimodal Learning with Structural Information](https://openreview.net/pdf?id=FB2e8PV6qg) | Xuying Ning | Poster |  | 😾 | 
 | FKqmIAnkrb | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb) | Wenke Huang | Poster | 9 | 😾 | 
-| FSlTEObdLl | [CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation](https://openreview.net/pdf?id=FSlTEObdLl) | Thibaud Southiratn | Poster | -1 | 😾 | 
+| FSlTEObdLl | [CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation](https://openreview.net/pdf?id=FSlTEObdLl) | Thibaud Southiratn | Poster |  | 😾 | 
 | FcTeo26AfZ | [Unifying 2D and 3D Vision-Language Understanding](https://openreview.net/pdf?id=FcTeo26AfZ) | Ayush Jain | Poster | 1 | 😾 | 
 | GB9XiKIwfp | [Learning Invariant Causal Mechanism from Vision-Language Models](https://openreview.net/pdf?id=GB9XiKIwfp) | Zeen Song | Poster | 0 | 😾 | 
-| GByP03IitA | [ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset](https://openreview.net/pdf?id=GByP03IitA) | Yilin Wang | Poster | -1 | 😾 | 
-| HT0PSgajyN | [CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language Models](https://openreview.net/pdf?id=HT0PSgajyN) | Qinsi Wang | Poster | 0 | 😾 | 
+| GByP03IitA | [ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset](https://openreview.net/pdf?id=GByP03IitA) | Yilin Wang | Poster |  | 😾 | 
+| HT0PSgajyN | [CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language Models](https://openreview.net/pdf?id=HT0PSgajyN) | Qinsi Wang | Poster |  | 😾 | 
 | HV8vZDDoYc | [PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models](https://openreview.net/pdf?id=HV8vZDDoYc) | Alex Velez-Arce | Poster | 0 | 😾 | 
-| HemldRNffY | [UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation](https://openreview.net/pdf?id=HemldRNffY) | Qin Guo | Poster | -1 | 😾 | 
-| HjVhSL76GM | [WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models](https://openreview.net/pdf?id=HjVhSL76GM) | Tan Songbai | Poster | -1 | 😾 | 
+| HemldRNffY | [UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation](https://openreview.net/pdf?id=HemldRNffY) | Qin Guo | Poster |  | 😾 | 
+| HjVhSL76GM | [WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models](https://openreview.net/pdf?id=HjVhSL76GM) | Tan Songbai | Poster |  | 😾 | 
 | IEyNrmICas | [AffinityFlow: Guided Flows for Antibody Affinity Maturation](https://openreview.net/pdf?id=IEyNrmICas) | Can Chen | Poster | 0 | 😾 | 
-| IOVzGtXiNr | [Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages](https://openreview.net/pdf?id=IOVzGtXiNr) | Michael Sun | Poster | -1 | 😾 | 
-| IkhJApkJQ3 | [3D Question Answering via only 2D Vision-Language Models](https://openreview.net/pdf?id=IkhJApkJQ3) | FENGYUN WANG | Poster | -1 | 😾 | 
+| IOVzGtXiNr | [Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages](https://openreview.net/pdf?id=IOVzGtXiNr) | Michael Sun | Poster |  | 😾 | 
+| IkhJApkJQ3 | [3D Question Answering via only 2D Vision-Language Models](https://openreview.net/pdf?id=IkhJApkJQ3) | FENGYUN WANG | Poster |  | 😾 | 
 | JWtcAlXkMN | [BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing](https://openreview.net/pdf?id=JWtcAlXkMN) | Dongliang Guo | Poster | 0 | 😾 | 
 | JXCiQteuOv | [DUNIA: Pixel-Sized Embeddings via Cross-Modal Alignment for Earth Observation Applications](https://openreview.net/pdf?id=JXCiQteuOv) | Ibrahim Fayad | Poster | 0 | 😾 | 
-| JZIJxr9KsO | [CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features](https://openreview.net/pdf?id=JZIJxr9KsO) | xiaokun Feng | Poster | -1 | 😾 | 
+| JZIJxr9KsO | [CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features](https://openreview.net/pdf?id=JZIJxr9KsO) | xiaokun Feng | Poster |  | 😾 | 
 | JiFfij5iv0 | [MedRAX: Medical Reasoning Agent for Chest X-ray](https://openreview.net/pdf?id=JiFfij5iv0) | Adibvafa Fallahpour | Poster | 5 | 😾 | 
-| K4GaB4fdIq | [Test-Time Adaptation for Online Vision-Language Navigation with Feedback-based Reinforcement Learning](https://openreview.net/pdf?id=K4GaB4fdIq) | Sung June Kim | Poster | -1 | 😾 | 
+| K4GaB4fdIq | [Test-Time Adaptation for Online Vision-Language Navigation with Feedback-based Reinforcement Learning](https://openreview.net/pdf?id=K4GaB4fdIq) | Sung June Kim | Poster |  | 😾 | 
 | KUN7A7Okb6 | [UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](https://openreview.net/pdf?id=KUN7A7Okb6) | Xiangzhe Kong | Poster | 0 | 😾 | 
-| KYiynifZUk | [FuseUNet: A Multi-Scale Feature Fusion Method for U-like Networks](https://openreview.net/pdf?id=KYiynifZUk) | Quansong He | Poster | -1 | 😾 | 
-| LB5F02kwAv | [LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation](https://openreview.net/pdf?id=LB5F02kwAv) | Piyush Lalitkumar Tiwary | Poster | -1 | 😾 | 
-| MzQed6QEmS | [Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing](https://openreview.net/pdf?id=MzQed6QEmS) | Jie Peng | Poster | -1 | 😾 | 
-| NEBa0bs5LR | [DS-VLM: Diffusion Supervision Vision Language Model](https://openreview.net/pdf?id=NEBa0bs5LR) | Zhen Sun | Poster | -1 | 😾 | 
-| Ne5brB1tKN | [Understanding Model Reprogramming for CLIP via Decoupling Visual Prompts](https://openreview.net/pdf?id=Ne5brB1tKN) | Chengyi Cai | Poster | -1 | 😾 | 
-| NxVuIhW2v1 | [TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging](https://openreview.net/pdf?id=NxVuIhW2v1) | Chuang Liu | Poster | -1 | 😾 | 
-| OcFsPBXREI | [Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion](https://openreview.net/pdf?id=OcFsPBXREI) | Yiming Sun | Poster | -1 | 😾 | 
+| KYiynifZUk | [FuseUNet: A Multi-Scale Feature Fusion Method for U-like Networks](https://openreview.net/pdf?id=KYiynifZUk) | Quansong He | Poster |  | 😾 | 
+| LB5F02kwAv | [LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation](https://openreview.net/pdf?id=LB5F02kwAv) | Piyush Lalitkumar Tiwary | Poster |  | 😾 | 
+| MzQed6QEmS | [Modalities Contribute Unequally: Enhancing Medical Multi-modal Learning through Adaptive Modality Token Re-balancing](https://openreview.net/pdf?id=MzQed6QEmS) | Jie Peng | Poster |  | 😾 | 
+| NEBa0bs5LR | [DS-VLM: Diffusion Supervision Vision Language Model](https://openreview.net/pdf?id=NEBa0bs5LR) | Zhen Sun | Poster |  | 😾 | 
+| Ne5brB1tKN | [Understanding Model Reprogramming for CLIP via Decoupling Visual Prompts](https://openreview.net/pdf?id=Ne5brB1tKN) | Chengyi Cai | Poster |  | 😾 | 
+| NxVuIhW2v1 | [TinyMIG: Transferring Generalization from Vision Foundation Models to Single-Domain Medical Imaging](https://openreview.net/pdf?id=NxVuIhW2v1) | Chuang Liu | Poster |  | 😾 | 
+| OcFsPBXREI | [Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion](https://openreview.net/pdf?id=OcFsPBXREI) | Yiming Sun | Poster |  | 😾 | 
 | Oji8jIBHgo | [From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection](https://openreview.net/pdf?id=Oji8jIBHgo) | Lincan Cai | Poster | 0 | 😾 | 
-| Ossg1IbHDT | [Scalable Generation of Spatial Transcriptomics from Histology Images via Whole-Slide Flow Matching](https://openreview.net/pdf?id=Ossg1IbHDT) | Tinglin Huang | Spotlight | -1 | 😾 | 
-| OwYVyOPrVU | [Staged and Physics-Grounded Learning Framework with Hyperintensity Prior for Pre-Contrast MRI Synthesis](https://openreview.net/pdf?id=OwYVyOPrVU) | Dayang Wang | Poster | -1 | 😾 | 
-| PQx66EJUu0 | [SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics](https://openreview.net/pdf?id=PQx66EJUu0) | Suyuan Zhao | Poster | -1 | 😾 | 
+| Ossg1IbHDT | [Scalable Generation of Spatial Transcriptomics from Histology Images via Whole-Slide Flow Matching](https://openreview.net/pdf?id=Ossg1IbHDT) | Tinglin Huang | Spotlight |  | 😾 | 
+| OwYVyOPrVU | [Staged and Physics-Grounded Learning Framework with Hyperintensity Prior for Pre-Contrast MRI Synthesis](https://openreview.net/pdf?id=OwYVyOPrVU) | Dayang Wang | Poster |  | 😾 | 
+| PQx66EJUu0 | [SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics](https://openreview.net/pdf?id=PQx66EJUu0) | Suyuan Zhao | Poster |  | 😾 | 
 | Q2av1PZmfT | [GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation](https://openreview.net/pdf?id=Q2av1PZmfT) | Mengzhu Wang | Poster | 0 | 😾 | 
 | Q3rGQUGgWo | [SynEVO: A neuro-inspired spatiotemporal evolutional framework for cross-domain adaptation](https://openreview.net/pdf?id=Q3rGQUGgWo) | jiayue Liu | Spotlight | 0 | 😾 | 
 | QIL44dSUPo | [Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin](https://openreview.net/pdf?id=QIL44dSUPo) | Yuchen Wang | Poster | 0 | 😾 | 
-| RLu1QIPiVr | [H-Tuning: Toward Low-Cost and Efficient ECG-based Cardiovascular Disease Detection with Pre-Trained Models](https://openreview.net/pdf?id=RLu1QIPiVr) | Rushuang Zhou | Poster | -1 | 😾 | 
-| RbsfEuYNTA | [Learning Compact Semantic Information for Incomplete Multi-View Missing Multi-Label Classification](https://openreview.net/pdf?id=RbsfEuYNTA) | Jie Wen | Poster | -1 | 😾 | 
-| SP43jVv7fJ | [Robust Multimodal Large Language Models Against Modality Conflict](https://openreview.net/pdf?id=SP43jVv7fJ) | Zongmeng Zhang | Poster | 0 | 😾 | 
-| SbyrpBNNs4 | [SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding](https://openreview.net/pdf?id=SbyrpBNNs4) | Woohyeon Park | Poster | -1 | 😾 | 
+| RLu1QIPiVr | [H-Tuning: Toward Low-Cost and Efficient ECG-based Cardiovascular Disease Detection with Pre-Trained Models](https://openreview.net/pdf?id=RLu1QIPiVr) | Rushuang Zhou | Poster |  | 😾 | 
+| RbsfEuYNTA | [Learning Compact Semantic Information for Incomplete Multi-View Missing Multi-Label Classification](https://openreview.net/pdf?id=RbsfEuYNTA) | Jie Wen | Poster |  | 😾 | 
+| SP43jVv7fJ | [Robust Multimodal Large Language Models Against Modality Conflict](https://openreview.net/pdf?id=SP43jVv7fJ) | Zongmeng Zhang | Poster |  | 😾 | 
+| SbyrpBNNs4 | [SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding](https://openreview.net/pdf?id=SbyrpBNNs4) | Woohyeon Park | Poster |  | 😾 | 
 | TJHhXzTcQe | [Retrieval-Augmented Language Model for Knowledge-aware Protein Encoding](https://openreview.net/pdf?id=TJHhXzTcQe) | Zhang Jiasheng | Poster | 0 | 😾 | 
-| TcvjOSePic | [CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://openreview.net/pdf?id=TcvjOSePic) | David Dai | Poster | 0 | 😾 | 
-| UCn7dyYa4h | [Super Deep Contrastive Information Bottleneck for Multi-modal Clustering](https://openreview.net/pdf?id=UCn7dyYa4h) | Zhengzheng Lou | Poster | -1 | 😾 | 
+| TcvjOSePic | [CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://openreview.net/pdf?id=TcvjOSePic) | David Dai | Poster |  | 😾 | 
+| UCn7dyYa4h | [Super Deep Contrastive Information Bottleneck for Multi-modal Clustering](https://openreview.net/pdf?id=UCn7dyYa4h) | Zhengzheng Lou | Poster |  | 😾 | 
 | UHF0km7R5M | [OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](https://openreview.net/pdf?id=UHF0km7R5M) | Huang Huang | Poster | 5 | 😾 | 
-| UHVk08XFkX | [Introducing 3D Representation for Dense Volume-to-Volume Translation via Score Fusion](https://openreview.net/pdf?id=UHVk08XFkX) | Xiyue Zhu | Poster | 0 | 😾 | 
+| UHVk08XFkX | [Introducing 3D Representation for Dense Volume-to-Volume Translation via Score Fusion](https://openreview.net/pdf?id=UHVk08XFkX) | Xiyue Zhu | Poster |  | 😾 | 
 | ULJ4gJJYFp | [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://openreview.net/pdf?id=ULJ4gJJYFp) | Yi-Fan Zhang | Poster | 13 | 😾 | 
 | UaTrcei5Ba | [Multimodal Medical Code Tokenizer](https://openreview.net/pdf?id=UaTrcei5Ba) | Xiaorui Su | Poster | 4 | 😾 | 
 | UoaxRN88oR | [Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://openreview.net/pdf?id=UoaxRN88oR) | Harrish Thasarathan | Poster | 4 | 😾 | 
-| WR0ahlhOoy | [Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices](https://openreview.net/pdf?id=WR0ahlhOoy) | Junhao Dong | Spotlight | 0 | 😾 | 
+| WR0ahlhOoy | [Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices](https://openreview.net/pdf?id=WR0ahlhOoy) | Junhao Dong | Spotlight |  | 😾 | 
 | WbP2OwMULq | [HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation](https://openreview.net/pdf?id=WbP2OwMULq) | Tianwei Lin | Spotlight | 5 | 😾 | 
-| X3ikghfWwD | [Diving into Self-Evolving Training for Multimodal Reasoning](https://openreview.net/pdf?id=X3ikghfWwD) | Wei Liu | Poster | 0 | 😾 | 
-| XCLZgbm99O | [FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models](https://openreview.net/pdf?id=XCLZgbm99O) | Xinting Liao | Poster | -1 | 😾 | 
+| X3ikghfWwD | [Diving into Self-Evolving Training for Multimodal Reasoning](https://openreview.net/pdf?id=X3ikghfWwD) | Wei Liu | Poster |  | 😾 | 
+| XCLZgbm99O | [FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models](https://openreview.net/pdf?id=XCLZgbm99O) | Xinting Liao | Poster |  | 😾 | 
 | XWC7JXHXvo | [SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics](https://openreview.net/pdf?id=XWC7JXHXvo) | Qingtian Zhu | Poster | 1 | 😾 | 
 | XzZC4gs1mf | [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://openreview.net/pdf?id=XzZC4gs1mf) | Xiaoqian Shen | Poster | 59 | 😾 | 
-| Y8lfuSoqQz | [OV-MER: Towards Open-Vocabulary Multimodal Emotion Recognition](https://openreview.net/pdf?id=Y8lfuSoqQz) | Zheng Lian | Poster | -1 | 😾 | 
-| YZvefQVLJI | [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://openreview.net/pdf?id=YZvefQVLJI) | Dongzhi Jiang | Poster | 0 | 😾 | 
-| ZRhi2hZWG4 | [Drug-TTA: Test-Time Adaptation for Drug Virtual Screening via Multi-task Meta-Auxiliary Learning](https://openreview.net/pdf?id=ZRhi2hZWG4) | Ao Shen | Poster | -1 | 😾 | 
+| Y8lfuSoqQz | [OV-MER: Towards Open-Vocabulary Multimodal Emotion Recognition](https://openreview.net/pdf?id=Y8lfuSoqQz) | Zheng Lian | Poster |  | 😾 | 
+| YZvefQVLJI | [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://openreview.net/pdf?id=YZvefQVLJI) | Dongzhi Jiang | Poster |  | 😾 | 
+| ZRhi2hZWG4 | [Drug-TTA: Test-Time Adaptation for Drug Virtual Screening via Multi-task Meta-Auxiliary Learning](https://openreview.net/pdf?id=ZRhi2hZWG4) | Ao Shen | Poster |  | 😾 | 
 | ZkybWzxvw9 | [MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition](https://openreview.net/pdf?id=ZkybWzxvw9) | Sungnyun Kim | Poster | 2 | 😾 | 
 | b5h60xQnzM | [Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting](https://openreview.net/pdf?id=b5h60xQnzM) | Siru Zhong | Poster | 3 | 😾 | 
-| ckbo9yutGO | [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://openreview.net/pdf?id=ckbo9yutGO) | Jun-En Ding | Poster | 0 | 😾 | 
-| dewR2augg2 | [FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification](https://openreview.net/pdf?id=dewR2augg2) | Zhen Sun | Poster | 0 | 😾 | 
-| dtmTQawQN2 | [Modularized Self-Reflected Video Reasoner for Multimodal LLM with Application to Video Question Answering](https://openreview.net/pdf?id=dtmTQawQN2) | Zihan Song | Poster | 0 | 😾 | 
+| ckbo9yutGO | [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://openreview.net/pdf?id=ckbo9yutGO) | Jun-En Ding | Poster |  | 😾 | 
+| dewR2augg2 | [FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification](https://openreview.net/pdf?id=dewR2augg2) | Zhen Sun | Poster |  | 😾 | 
+| dtmTQawQN2 | [Modularized Self-Reflected Video Reasoner for Multimodal LLM with Application to Video Question Answering](https://openreview.net/pdf?id=dtmTQawQN2) | Zihan Song | Poster |  | 😾 | 
 | e6vlZdLlIK | [MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization](https://openreview.net/pdf?id=e6vlZdLlIK) | Kangyu Zhu | Poster | 3 | 😾 | 
 | eIm0PQVu55 | [QMamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://openreview.net/pdf?id=eIm0PQVu55) | Fengbin Guan | Poster | 6 | 😾 | 
 | ekGV1VLuwB | [Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://openreview.net/pdf?id=ekGV1VLuwB) | Xin Zou | Poster | 13 | 😾 | 
 | f375uEmYDf | [ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation](https://openreview.net/pdf?id=f375uEmYDf) | Angxiao Yue | Poster | 3 | 😾 | 
 | fRoRsmPHUM | [LEMoN: Label Error Detection using Multimodal Neighbors](https://openreview.net/pdf?id=fRoRsmPHUM) | Haoran Zhang | Poster | 0 | 😾 | 
-| fUjkoGUre0 | [From Token to Rhythm: A Multi-Scale Approach for ECG-Language Pretraining](https://openreview.net/pdf?id=fUjkoGUre0) | Fuying Wang | Poster | -1 | 😾 | 
+| fUjkoGUre0 | [From Token to Rhythm: A Multi-Scale Approach for ECG-Language Pretraining](https://openreview.net/pdf?id=fUjkoGUre0) | Fuying Wang | Poster |  | 😾 | 
 | fbmj0EoeFk | [Modeling All-Atom Glycan Structures via Hierarchical Message Passing and Multi-Scale Pre-training](https://openreview.net/pdf?id=fbmj0EoeFk) | Minghao Xu | Poster | 0 | 😾 | 
-| fjXcRSfyIV | [BDC-CLIP: Brownian Distance Covariance for Adapting CLIP to Action Recognition](https://openreview.net/pdf?id=fjXcRSfyIV) | Fei Long | Poster | -1 | 😾 | 
+| fjXcRSfyIV | [BDC-CLIP: Brownian Distance Covariance for Adapting CLIP to Action Recognition](https://openreview.net/pdf?id=fjXcRSfyIV) | Fei Long | Poster |  | 😾 | 
 | gHzx2apaYD | [Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG](https://openreview.net/pdf?id=gHzx2apaYD) | Xinxu Wei | Poster | 0 | 😾 | 
-| gTYzm0Qchr | [PPDiff: Diffusing in Hybrid Sequence-Structure Space for Protein-Protein Complex Design](https://openreview.net/pdf?id=gTYzm0Qchr) | Zhenqiao Song | Poster | -1 | 😾 | 
-| gdE3HbHkIL | [GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models](https://openreview.net/pdf?id=gdE3HbHkIL) | Zhaohong Huang | Poster | -1 | 😾 | 
-| gqZO3eSZRy | [Galileo: Learning Global & Local Features of Many Remote Sensing Modalities](https://openreview.net/pdf?id=gqZO3eSZRy) | Gabriel Tseng | Poster | 0 | 😾 | 
-| hDH3KfZSsF | [Improving Multimodal Learning Balance and Sufficiency through Data Remixing](https://openreview.net/pdf?id=hDH3KfZSsF) | Xiaoyu Ma | Poster | -1 | 😾 | 
-| hcjXy7kLFd | [iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection](https://openreview.net/pdf?id=hcjXy7kLFd) | Huahui Yi | Poster | 0 | 😾 | 
+| gTYzm0Qchr | [PPDiff: Diffusing in Hybrid Sequence-Structure Space for Protein-Protein Complex Design](https://openreview.net/pdf?id=gTYzm0Qchr) | Zhenqiao Song | Poster |  | 😾 | 
+| gdE3HbHkIL | [GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models](https://openreview.net/pdf?id=gdE3HbHkIL) | Zhaohong Huang | Poster |  | 😾 | 
+| gqZO3eSZRy | [Galileo: Learning Global & Local Features of Many Remote Sensing Modalities](https://openreview.net/pdf?id=gqZO3eSZRy) | Gabriel Tseng | Poster |  | 😾 | 
+| hDH3KfZSsF | [Improving Multimodal Learning Balance and Sufficiency through Data Remixing](https://openreview.net/pdf?id=hDH3KfZSsF) | Xiaoyu Ma | Poster |  | 😾 | 
+| hcjXy7kLFd | [iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection](https://openreview.net/pdf?id=hcjXy7kLFd) | Huahui Yi | Poster |  | 😾 | 
 | i6uxIAAMje | [Human-Aligned Image Models Improve Visual Decoding from the Brain](https://openreview.net/pdf?id=i6uxIAAMje) | Nona Rajabi | Poster | 0 | 😾 | 
 | jEcQP3lGlq | [Elucidating the Design Space of Multimodal Protein Language Models](https://openreview.net/pdf?id=jEcQP3lGlq) | Cheng-Yen Hsieh | Spotlight | 0 | 😾 | 
-| jIci8mGVeh | [BoxLM: Unifying Structures and Semantics of Medical Concepts for Diagnosis Prediction in Healthcare](https://openreview.net/pdf?id=jIci8mGVeh) | Yanchao Tan | Poster | -1 | 😾 | 
+| jIci8mGVeh | [BoxLM: Unifying Structures and Semantics of Medical Concepts for Diagnosis Prediction in Healthcare](https://openreview.net/pdf?id=jIci8mGVeh) | Yanchao Tan | Poster |  | 😾 | 
 | jYmGi1175R | [Aggregation of Dependent Expert Distributions in Multimodal Variational Autoencoders](https://openreview.net/pdf?id=jYmGi1175R) | Rogelio A. Mancisidor | Poster | 0 | 😾 | 
 | jeJGH6UDOL | [Global Context-aware Representation Learning for Spatially Resolved Transcriptomics](https://openreview.net/pdf?id=jeJGH6UDOL) | Yunhak Oh | Poster | 0 | 😾 | 
-| jkyUbkNJyH | [Domain-Adapted Diffusion Model for PROTAC Linker Design Through the Lens of Density Ratio in Chemical Space](https://openreview.net/pdf?id=jkyUbkNJyH) | Zixing Song | Poster | -1 | 😾 | 
-| koGlzcbXt3 | [Explainable Concept Generation through Vision-Language Preference Learning for Understanding Neural Networks' Internal Representations](https://openreview.net/pdf?id=koGlzcbXt3) | Aditya Taparia | Poster | 0 | 😾 | 
+| jkyUbkNJyH | [Domain-Adapted Diffusion Model for PROTAC Linker Design Through the Lens of Density Ratio in Chemical Space](https://openreview.net/pdf?id=jkyUbkNJyH) | Zixing Song | Poster |  | 😾 | 
+| koGlzcbXt3 | [Explainable Concept Generation through Vision-Language Preference Learning for Understanding Neural Networks' Internal Representations](https://openreview.net/pdf?id=koGlzcbXt3) | Aditya Taparia | Poster |  | 😾 | 
 | kuIwMEHXMT | [LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in Multimodal Large Language Models](https://openreview.net/pdf?id=kuIwMEHXMT) | Tzu-Tao (Tommy) Chang | Poster | 0 | 😾 | 
-| l6mkb1LBVP | [LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models](https://openreview.net/pdf?id=l6mkb1LBVP) | Jinho Chang | Poster | 0 | 😾 | 
-| mM65b81LdM | [Boosting Masked ECG-Text Auto-Encoders as Discriminative Learners](https://openreview.net/pdf?id=mM65b81LdM) | Hung Manh Pham | Poster | -1 | 😾 | 
-| me6PfbATWM | [MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention](https://openreview.net/pdf?id=me6PfbATWM) | Yucheng Li | Poster | 0 | 😾 | 
-| muZEsBQzlA | [Tensorized Multi-View Multi-Label Classification via Laplace Tensor Rank](https://openreview.net/pdf?id=muZEsBQzlA) | Qiyu Zhong | Poster | -1 | 😾 | 
+| l6mkb1LBVP | [LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models](https://openreview.net/pdf?id=l6mkb1LBVP) | Jinho Chang | Poster |  | 😾 | 
+| mM65b81LdM | [Boosting Masked ECG-Text Auto-Encoders as Discriminative Learners](https://openreview.net/pdf?id=mM65b81LdM) | Hung Manh Pham | Poster |  | 😾 | 
+| me6PfbATWM | [MMInference: Accelerating Pre-filling for Long-Context Visual Language Models via Modality-Aware Permutation Sparse Attention](https://openreview.net/pdf?id=me6PfbATWM) | Yucheng Li | Poster |  | 😾 | 
+| muZEsBQzlA | [Tensorized Multi-View Multi-Label Classification via Laplace Tensor Rank](https://openreview.net/pdf?id=muZEsBQzlA) | Qiyu Zhong | Poster |  | 😾 | 
 | nKJGjovmZz | [SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models](https://openreview.net/pdf?id=nKJGjovmZz) | Jiawei Zhang | Poster | 0 | 😾 | 
-| oYyaVSqEFu | [When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network](https://openreview.net/pdf?id=oYyaVSqEFu) | Dong Xiao | Spotlight | -1 | 😾 | 
-| olzs3zVsE7 | [Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models](https://openreview.net/pdf?id=olzs3zVsE7) | Xuelin Shen | Poster | -1 | 😾 | 
+| oYyaVSqEFu | [When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network](https://openreview.net/pdf?id=oYyaVSqEFu) | Dong Xiao | Spotlight |  | 😾 | 
+| olzs3zVsE7 | [Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models](https://openreview.net/pdf?id=olzs3zVsE7) | Xuelin Shen | Poster |  | 😾 | 
 | oqPcOMafOF | [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://openreview.net/pdf?id=oqPcOMafOF) | Zhongyang Li | Poster | 0 | 😾 | 
-| pOAEfqa26i | [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/pdf?id=pOAEfqa26i) | Weihan Li | Oral | -1 | 😾 | 
-| q6f9Fg9LHe | [OmniBal: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance](https://openreview.net/pdf?id=q6f9Fg9LHe) | Yongqiang Yao | Poster | 0 | 😾 | 
-| r3ZLefVUMO | [Why Is There a Tumor?": Tell Me the Reason, Show Me the Evidence](https://openreview.net/pdf?id=r3ZLefVUMO) | Mengmeng Ma | Poster | -1 | 😾 | 
-| r4XfIgD77g | [Bridging Protein Sequences and Microscopy Images with Unified Diffusion Models](https://openreview.net/pdf?id=r4XfIgD77g) | Dihan Zheng | Poster | -1 | 😾 | 
-| reuShgiHdg | [ReferSplat: Referring Segmentation in 3D Gaussian Splatting](https://openreview.net/pdf?id=reuShgiHdg) | Shuting He | Oral | -1 | 😾 | 
+| pOAEfqa26i | [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/pdf?id=pOAEfqa26i) | Weihan Li | Oral |  | 😾 | 
+| q6f9Fg9LHe | [OmniBal: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance](https://openreview.net/pdf?id=q6f9Fg9LHe) | Yongqiang Yao | Poster |  | 😾 | 
+| r3ZLefVUMO | [Why Is There a Tumor?": Tell Me the Reason, Show Me the Evidence](https://openreview.net/pdf?id=r3ZLefVUMO) | Mengmeng Ma | Poster |  | 😾 | 
+| r4XfIgD77g | [Bridging Protein Sequences and Microscopy Images with Unified Diffusion Models](https://openreview.net/pdf?id=r4XfIgD77g) | Dihan Zheng | Poster |  | 😾 | 
+| reuShgiHdg | [ReferSplat: Referring Segmentation in 3D Gaussian Splatting](https://openreview.net/pdf?id=reuShgiHdg) | Shuting He | Oral |  | 😾 | 
 | sGQEOXlezg | [Contrastive Localized Language-Image Pre-Training](https://openreview.net/pdf?id=sGQEOXlezg) | Hong-You Chen | Poster | 10 | 😾 | 
-| ss5JNmJDkW | [Distributed Parallel Gradient Stacking(DPGS): Solving Whole Slide Image Stacking Challenge in Multi-Instance Learning](https://openreview.net/pdf?id=ss5JNmJDkW) | Boyuan Wu | Poster | -1 | 😾 | 
+| ss5JNmJDkW | [Distributed Parallel Gradient Stacking(DPGS): Solving Whole Slide Image Stacking Challenge in Multi-Instance Learning](https://openreview.net/pdf?id=ss5JNmJDkW) | Boyuan Wu | Poster |  | 😾 | 
 | t04D9bkKUq | [PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction](https://openreview.net/pdf?id=t04D9bkKUq) | Aaron Wenteler | Poster | 5 | 😾 | 
-| tStRKJKZEI | [Double-Filter: Efficient Fine-tuning of Pre-trained Vision-Language Models via Patch&Layer Filtering](https://openreview.net/pdf?id=tStRKJKZEI) | Yaoqin He | Poster | -1 | 😾 | 
+| tStRKJKZEI | [Double-Filter: Efficient Fine-tuning of Pre-trained Vision-Language Models via Patch&Layer Filtering](https://openreview.net/pdf?id=tStRKJKZEI) | Yaoqin He | Poster |  | 😾 | 
 | tVtgnSCTTS | [Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models](https://openreview.net/pdf?id=tVtgnSCTTS) | Shuoyuan Wang | Poster | 1 | 😾 | 
-| tYwKQMMjJA | [M3-JEPA: Multimodal Alignment via Multi-gate MoE based on the Joint-Embedding Predictive Architecture](https://openreview.net/pdf?id=tYwKQMMjJA) | Hongyang Lei | Poster | 0 | 😾 | 
+| tYwKQMMjJA | [M3-JEPA: Multimodal Alignment via Multi-gate MoE based on the Joint-Embedding Predictive Architecture](https://openreview.net/pdf?id=tYwKQMMjJA) | Hongyang Lei | Poster |  | 😾 | 
 | teJdFzLnKh | [SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning](https://openreview.net/pdf?id=teJdFzLnKh) | Jinpeng Chen | Poster | 0 | 😾 | 
-| tnyxtaSve5 | [Visual and Domain Knowledge for Professional-level Graph-of-Thought Medical Reasoning](https://openreview.net/pdf?id=tnyxtaSve5) | Rina Bao | Spotlight | -1 | 😾 | 
+| tnyxtaSve5 | [Visual and Domain Knowledge for Professional-level Graph-of-Thought Medical Reasoning](https://openreview.net/pdf?id=tnyxtaSve5) | Rina Bao | Spotlight |  | 😾 | 
 | v0Ui6SJ1d4 | [AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment](https://openreview.net/pdf?id=v0Ui6SJ1d4) | Yuqin Cao | Poster | 2 | 😾 | 
-| vDB2oX3Wl3 | [Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection](https://openreview.net/pdf?id=vDB2oX3Wl3) | Peipeng Yu | Poster | 0 | 😾 | 
+| vDB2oX3Wl3 | [Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection](https://openreview.net/pdf?id=vDB2oX3Wl3) | Peipeng Yu | Poster |  | 😾 | 
 | w0xYx9CJhY | [Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance](https://openreview.net/pdf?id=w0xYx9CJhY) | Linxi Zhao | Spotlight | 0 | 😾 | 
-| w7lm8AjzH6 | [A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features](https://openreview.net/pdf?id=w7lm8AjzH6) | Ihab Bendidi | Poster | -1 | 😾 | 
-| w8MCYYAvQD | [From Thousands to Billions: 3D Visual Language Grounding via Render-Supervised Distillation from 2D VLMs](https://openreview.net/pdf?id=w8MCYYAvQD) | Ang Cao | Poster | 0 | 😾 | 
+| w7lm8AjzH6 | [A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features](https://openreview.net/pdf?id=w7lm8AjzH6) | Ihab Bendidi | Poster |  | 😾 | 
+| w8MCYYAvQD | [From Thousands to Billions: 3D Visual Language Grounding via Render-Supervised Distillation from 2D VLMs](https://openreview.net/pdf?id=w8MCYYAvQD) | Ang Cao | Poster |  | 😾 | 
 | wex0vL4c2Y | [DocVXQA: Context-Aware Visual Explanations for Document Question Answering](https://openreview.net/pdf?id=wex0vL4c2Y) | Mohamed Ali Souibgui | Poster | 0 | 😾 | 
 | wpbNczwAwV | [Hierarchical Graph Tokenization for Molecule-Language Alignment](https://openreview.net/pdf?id=wpbNczwAwV) | Yongqiang Chen | Poster | 0 | 😾 | 
-| xAhUoyb5eU | [Ex-VAD: Explainable Fine-grained Video Anomaly Detection Based on Visual-Language Models](https://openreview.net/pdf?id=xAhUoyb5eU) | Chao Huang | Poster | -1 | 😾 | 
+| xAhUoyb5eU | [Ex-VAD: Explainable Fine-grained Video Anomaly Detection Based on Visual-Language Models](https://openreview.net/pdf?id=xAhUoyb5eU) | Chao Huang | Poster |  | 😾 | 
 | xWu5qpDK6U | [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://openreview.net/pdf?id=xWu5qpDK6U) | Sreyan Ghosh | Poster | 9 | 😾 | 
 | xiVuqZZ59O | [Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion](https://openreview.net/pdf?id=xiVuqZZ59O) | Anle Ke | Poster | 0 | 😾 | 
 | xmbdACI0xu | [AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models](https://openreview.net/pdf?id=xmbdACI0xu) | Zheng Lian | Oral | 3 | 😾 | 
 | xyVevDUsb6 | [ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization](https://openreview.net/pdf?id=xyVevDUsb6) | Wenhao Shen | Poster | 0 | 😾 | 
 | y62fhuA69I | [video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model](https://openreview.net/pdf?id=y62fhuA69I) | Guangzhi Sun | Poster | 3 | 😾 | 
 | yWDvVl9Wtp | [MTSTRec: Multimodal Time-Aligned Shared Token Recommender](https://openreview.net/pdf?id=yWDvVl9Wtp) | Ming-Yi Hong | Poster | 0 | 😾 | 
-| yaI2ZYFmeD | [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/pdf?id=yaI2ZYFmeD) | Sam Gijsen | Poster | 0 | 😾 | 
+| yaI2ZYFmeD | [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/pdf?id=yaI2ZYFmeD) | Sam Gijsen | Poster |  | 😾 | 
 | z7lApwS4nV | [CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning](https://openreview.net/pdf?id=z7lApwS4nV) | Qingqing Cao | Poster | 2 | 😾 | 
-| zltxOTEtfm | [Aligning Multimodal Representations through an Information Bottleneck](https://openreview.net/pdf?id=zltxOTEtfm) | Antonio Almudévar | Poster | -1 | 😾 | 
-| zpGK1bOlHt | [Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning](https://openreview.net/pdf?id=zpGK1bOlHt) | Chendi Ge | Poster | 0 | 😾 | 
+| zltxOTEtfm | [Aligning Multimodal Representations through an Information Bottleneck](https://openreview.net/pdf?id=zltxOTEtfm) | Antonio Almudévar | Poster |  | 😾 | 
+| zpGK1bOlHt | [Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning](https://openreview.net/pdf?id=zpGK1bOlHt) | Chendi Ge | Poster |  | 😾 | 
 | zuXCQRhbl4 | [Visual Attention Never Fades: Selective Progressive Attention ReCalibration for Detailed Image Captioning in Multimodal Large Language Models](https://openreview.net/pdf?id=zuXCQRhbl4) | Mingi Jung | Poster | 0 | 😾 | 
-| zvZTIXkzDe | [DAMA: Data- and Model-aware Alignment of Multi-modal LLMs](https://openreview.net/pdf?id=zvZTIXkzDe) | Jinda Lu | Poster | 0 | 😾 | 
+| zvZTIXkzDe | [DAMA: Data- and Model-aware Alignment of Multi-modal LLMs](https://openreview.net/pdf?id=zvZTIXkzDe) | Jinda Lu | Poster |  | 😾 | 
 </details>
 
 <details>
@@ -2543,7 +2543,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 4sJ2FYE65U | [Neural Multi-Objective Combinatorial Optimization via Graph-Image Multimodal Fusion](https://openreview.net/pdf?id=4sJ2FYE65U) | Jinbiao Chen | Poster | 0 | 😾 | 
 | 5GgjiRzYp3 | [Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention](https://openreview.net/pdf?id=5GgjiRzYp3) | Weitai Kang | Poster | 11 | 😾 | 
 | 5z9GjHgerY | [DPLM-2: A Multimodal Diffusion Protein Language Model](https://openreview.net/pdf?id=5z9GjHgerY) | Xinyou Wang | Poster | 12 | 😾 | 
-| 67sSPPAZiG | [MMEgo: Towards Building Egocentric Multimodal LLMs for Video QA](https://openreview.net/pdf?id=67sSPPAZiG) | Hanrong Ye | Poster | -1 | 😾 | 
+| 67sSPPAZiG | [MMEgo: Towards Building Egocentric Multimodal LLMs for Video QA](https://openreview.net/pdf?id=67sSPPAZiG) | Hanrong Ye | Poster |  | 😾 | 
 | 6Hz1Ko087B | [Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model](https://openreview.net/pdf?id=6Hz1Ko087B) | Jiarui Jin | Poster | 5 | 😾 | 
 | 6U2KI1dpfl | [UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting](https://openreview.net/pdf?id=6U2KI1dpfl) | Haoyuan Li | Poster | 0 | 😾 | 
 | 6cQ6cBqzV3 | [LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation](https://openreview.net/pdf?id=6cQ6cBqzV3) | Farzad Farhadzadeh | Poster | 0 | 😾 | 
@@ -2551,7 +2551,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 71XtUhazG0 | [Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight MLLMs via Complementary Image Pyramid](https://openreview.net/pdf?id=71XtUhazG0) | Mingxin Huang | Poster | 6 | 😾 | 
 | 7UgQjFEadn | [Modality-Specialized Synergizers for Interleaved Vision-Language Generalists](https://openreview.net/pdf?id=7UgQjFEadn) | Zhiyang Xu | Poster | 0 | 😾 | 
 | 7lpDn2MhM2 | [CHiP: Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs](https://openreview.net/pdf?id=7lpDn2MhM2) | Jinlan Fu | Poster | 3 | 😾 | 
-| 84pDoCD4lH | [Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities](https://openreview.net/pdf?id=84pDoCD4lH) | Zheyuan Zhang | Oral | -1 | 😾 | 
+| 84pDoCD4lH | [Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities](https://openreview.net/pdf?id=84pDoCD4lH) | Zheyuan Zhang | Oral |  | 😾 | 
 | 8bF1Vaj9tm | [ViSAGe: Video-to-Spatial Audio Generation](https://openreview.net/pdf?id=8bF1Vaj9tm) | Jaeyeon Kim | Poster | 0 | 😾 | 
 | 8fLgt7PQza | [Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval](https://openreview.net/pdf?id=8fLgt7PQza) | Pengcheng Jiang | Poster | 3 | 😾 | 
 | 94kQgWXojH | [Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations](https://openreview.net/pdf?id=94kQgWXojH) | Nick Jiang | Poster | 12 | 😾 | 
@@ -2659,7 +2659,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | b20VK2GnSs | [Adapting Multi-modal Large Language Model to Concept Drift From Pre-training Onwards](https://openreview.net/pdf?id=b20VK2GnSs) | Xiaoyu Yang | Poster | 1 | 😾 | 
 | b42wmsdwmB | [X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing](https://openreview.net/pdf?id=b42wmsdwmB) | Xinyan Chen | Poster | 1 | 😾 | 
 | b57IG6N20B | [The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG](https://openreview.net/pdf?id=b57IG6N20B) | Francesco Carzaniga | Poster | 0 | 😾 | 
-| bBNUiErs26 | [$\text{I}^2\text{AM}$: Interpreting Image-to-Image Latent Diffusion Models via Bi-Attribution Maps](https://openreview.net/pdf?id=bBNUiErs26) | Junseo Park | Poster | -1 | 😾 | 
+| bBNUiErs26 | [$\text{I}^2\text{AM}$: Interpreting Image-to-Image Latent Diffusion Models via Bi-Attribution Maps](https://openreview.net/pdf?id=bBNUiErs26) | Junseo Park | Poster |  | 😾 | 
 | bqoHdVMIbt | [Multimodal Unsupervised Domain Generalization by Retrieving Across the Modality Gap](https://openreview.net/pdf?id=bqoHdVMIbt) | Christopher Liao | Poster | 0 | 😾 | 
 | cJQ1K2fjpD | [Fine-Grained Verifiers: Preference Modeling as Next-token Prediction in Vision-Language Alignment](https://openreview.net/pdf?id=cJQ1K2fjpD) | Chenhang Cui | Poster | 6 | 😾 | 
 | eGqQyTAbXC | [3D-MolT5: Leveraging Discrete Structural Information for Molecule-Text Modeling](https://openreview.net/pdf?id=eGqQyTAbXC) | Qizhi Pei | Poster | 0 | 😾 | 
@@ -2763,462 +2763,462 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 17 | [Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics](2411.13587) | Taowen Wang | Poster | -1 | 😾 | 
-| 19 | [AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?](2412.03002) | Shouwei Ruan | Poster | -1 | 😾 | 
-| 24 | [MetaMorph: Multimodal Understanding and Generation via Instruction Tuning](https://openaccess.thecvf.com/content/ICCV2025/papers/Tong_MetaMorph_Multimodal_Understanding_and_Generation_via_Instruction_Tuning_ICCV_2025_paper.pdf) | Shengbang Tong | Poster | -1 | 😾 | 
-| 26 | [Feature Decomposition-Recomposition in Large Vision-Language Model for Few-Shot Class-Incremental Learning](https://iccv.thecvf.com/virtual/2025/poster/26) | Zongyao Xue | Poster | -1 | 😾 | 
-| 35 | [PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_PriOr-Flow_Enhancing_Primitive_Panoramic_Optical_Flow_with_Orthogonal_View_ICCV_2025_paper.pdf) | Longliang Liu | Poster | -1 | 😾 | 
-| 49 | [MorphoGen: Efficient Unconditional Generation of Long-Range Projection Neuronal Morphology via a Global-to-Local Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_MorphoGen_Efficient_Unconditional_Generation_of_Long-Range_Projection_Neuronal_Morphology_via_ICCV_2025_paper.pdf) | Tianfang Zhu | Poster | -1 | 😾 | 
-| 50 | [SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](2503.14530) | Jiahui Geng | Poster | -1 | 😾 | 
-| 59 | [VideoVAE+: Large Motion Video Autoencoding with Cross-modal Video VAE](https://openaccess.thecvf.com/content/ICCV2025/papers/Xing_VideoVAE_Large_Motion_Video_Autoencoding_with_Cross-modal_Video_VAE_ICCV_2025_paper.pdf) | Yazhou Xing | Poster | -1 | 😾 | 
-| 66 | [VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_VTimeCoT_Thinking_by_Drawing_for_Video_Temporal_Grounding_and_Reasoning_ICCV_2025_paper.pdf) | Jinglei Zhang | Poster | -1 | 😾 | 
-| 73 | [G2D: Boosting Multimodal Learning with Gradient-Guided Distillation](https://openaccess.thecvf.com/content/ICCV2025/papers/Rakib_G2D_Boosting_Multimodal_Learning_with_Gradient-Guided_Distillation_ICCV_2025_paper.pdf) | Mohammed Rakib | Poster | -1 | 😾 | 
-| 77 | [MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_MP-HSIR_A_Multi-Prompt_Framework_for_Universal_Hyperspectral_Image_Restoration_ICCV_2025_paper.pdf) | Zhehui Wu | Poster | -1 | 😾 | 
-| 80 | [UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer](2503.09277) | Haoxuan Wang | Poster | -1 | 😾 | 
-| 91 | [Bridging the Skeleton-Text Modality Gap: Diffusion-Powered Modality Alignment for Zero-shot Skeleton-based Action Recognition](2411.10745) | Jeonghyeok Do | Poster | -1 | 😾 | 
-| 100 | [AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs](2503.22884) | Yi-Ting Shen | Poster | -1 | 😾 | 
-| 111 | [DreamFuse: Adaptive Image Fusion with Diffusion Transformer](2504.08291) | Junjia Huang | Poster | -1 | 😾 | 
-| 116 | [PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions](2506.23440) | Mahesh Bhosale | Poster | -1 | 😾 | 
-| 128 | [VLDrive: Vision-Augmented Lightweight MLLMs for Efficient Language-grounded Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_VLDrive_Vision-Augmented_Lightweight_MLLMs_for_Efficient_Language-grounded_Autonomous_Driving_ICCV_2025_paper.pdf) | Ruifei Zhang | Poster | -1 | 😾 | 
-| 138 | [Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles](https://openaccess.thecvf.com/content/ICCV2025/papers/Slyman_Calibrating_MLLM-as-a-judge_via_Multimodal_Bayesian_Prompt_Ensembles_ICCV_2025_paper.pdf) | Eric Slyman | Poster | -1 | 😾 | 
-| 149 | [CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Pham_CT-ScanGaze_A_Dataset_and_Baselines_for_3D_Volumetric_Scanpath_Modeling_ICCV_2025_paper.pdf) | Trong-Thang Pham | Poster | -1 | 😾 | 
-| 157 | [Vision-Language Neural Graph Featurization for Extracting Retinal Lesions](https://openaccess.thecvf.com/content/ICCV2025/papers/Hassan_Vision-Language_Neural_Graph_Featurization_for_Extracting_Retinal_Lesions_ICCV_2025_paper.pdf) | Taimur Hassan | Poster | -1 | 😾 | 
-| 159 | [VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models](2503.07478) | JIACHENG RUAN | Poster | -1 | 😾 | 
-| 166 | [STDDNet: Harnessing Mamba for Video Polyp Segmentation via Spatial-aligned Temporal Modeling and Discriminative Dynamic Representation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_STDDNet_Harnessing_Mamba_for_Video_Polyp_Segmentation_via_Spatial-aligned_Temporal_ICCV_2025_paper.pdf) | Guilian Chen | Poster | -1 | 😾 | 
-| 178 | [CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval](https://iccv.thecvf.com/virtual/2025/poster/178) | Zelong Sun | Poster | -1 | 😾 | 
-| 186 | [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](2507.06510) | Yupeng Hu | Poster | -1 | 😾 | 
-| 201 | [InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models](2412.14006) | Cong Wei | Poster | -1 | 😾 | 
-| 203 | [Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves](2507.09207) | Alexander Ogren | Poster | -1 | 😾 | 
-| 210 | [MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_MGSR_2D3D_Mutual-boosted_Gaussian_Splatting_for_High-fidelity_Surface_Reconstruction_under_ICCV_2025_paper.pdf) | Qingyuan Zhou | Poster | -1 | 😾 | 
-| 214 | [FedMVP: Federated Multimodal Visual Prompt Tuning for Vision-Language Models](2504.20860) | Mainak Singha | Poster | -1 | 😾 | 
-| 215 | [QK-Edit: Revisiting Attention-based Injection in MM-DiT for Image and Video Editing](https://openaccess.thecvf.com/content/ICCV2025/papers/Shen_QK-Edit_Revisiting_Attention-based_Injection_in_MM-DiT_for_Image_and_Video_ICCV_2025_paper.pdf) | Tiancheng SHEN | Poster | -1 | 😾 | 
-| 220 | [Intra-modal and Cross-modal Synchronization for Audio-visual Deepfake Detection and Temporal Localization](https://openaccess.thecvf.com/content/ICCV2025/papers/Anshul_Intra-modal_and_Cross-modal_Synchronization_for_Audio-visual_Deepfake_Detection_and_Temporal_ICCV_2025_paper.pdf) | Ashutosh Anshul | Poster | -1 | 😾 | 
-| 223 | [ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking](2507.19875) | Xiaokun Feng | Poster | -1 | 😾 | 
-| 227 | [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) | Yuxuan Cai | Poster | -1 | 😾 | 
-| 229 | [MM-IFEngine: Towards Multimodal Instruction Following](https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_MM-IFEngine_Towards_Multimodal_Instruction_Following_ICCV_2025_paper.pdf) | Shengyuan Ding | Poster | -1 | 😾 | 
-| 241 | [SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](2504.00139) | Yannick Burkhardt | Poster | -1 | 😾 | 
-| 246 | [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](2507.13019) | Liuyi Wang | Poster | -1 | 😾 | 
-| 248 | [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance](2501.02430) | Haicheng Wang | Poster | -1 | 😾 | 
-| 261 | [Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction](2503.11167) | Haonan Wang | Poster | -1 | 😾 | 
-| 263 | [Unified Open-World Segmentation with Multi-Modal Prompts](2510.10524) | Yang Liu | Poster | -1 | 😾 | 
-| 274 | [PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos](2503.17973) | Hanxiao Jiang | Poster | -1 | 😾 | 
-| 277 | [Cross-View Isolated Sign Language Recognition via View Synthesis and Feature Disentanglement](https://openaccess.thecvf.com/content/ICCV2025/papers/Shen_Cross-View_Isolated_Sign_Language_Recognition_via_View_Synthesis_and_Feature_ICCV_2025_paper.pdf) | Xin Shen | Poster | -1 | 😾 | 
-| 290 | [CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_CCL-LGS_Contrastive_Codebook_Learning_for_3D_Language_Gaussian_Splatting_ICCV_2025_paper.pdf) | Lei Tian | Poster | -1 | 😾 | 
-| 294 | [SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning](2507.19359) | Lanmiao Liu | Poster | -1 | 😾 | 
-| 299 | [3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_3D_Gaussian_Map_with_Open-Set_Semantic_Grouping_for_Vision-Language_Navigation_ICCV_2025_paper.pdf) | Jianzhe Gao | Poster | -1 | 😾 | 
-| 304 | [Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation](2411.09219) | Yuheng Shi | Poster | -1 | 😾 | 
-| 305 | [Semantic Causality-Aware Vision-Based 3D Occupancy Prediction](2509.08388) | Dubing Chen | Poster | -1 | 😾 | 
-| 316 | [FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection](2507.04511) | Xinhua Lu | Poster | -1 | 😾 | 
-| 327 | [ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](2503.17564) | Vishwesh Ramanathan | Poster | -1 | 😾 | 
-| 330 | [MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation](2503.11026) | Sungwoo Cho | Poster | -1 | 😾 | 
-| 331 | [DALIP: Distribution Alignment-based Language-Image Pre-Training for Domain-Specific Data](2504.01386) | Junjie Wu | Poster | -1 | 😾 | 
-| 335 | [Hints of Prompt: Enhancing Visual Representation for Multimodal LLMs in Autonomous Driving](2411.13076) | Hao Zhou | Poster | -1 | 😾 | 
-| 339 | [Social Debiasing for Fair Multi-modal LLMs](2408.06569) | Harry Cheng | Poster | -1 | 😾 | 
-| 346 | [Towards Effective Foundation Model Adaptation for Extreme Cross-Domain Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_Towards_Effective_Foundation_Model_Adaptation_for_Extreme_Cross-Domain_Few-Shot_Learning_ICCV_2025_paper.pdf) | Fei Zhou | Poster | -1 | 😾 | 
-| 360 | [LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs](https://iccv.thecvf.com/virtual/2025/poster/360) | Jiarui Wang | Poster | -1 | 😾 | 
-| 364 | [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](2505.23186) | Junyi Guo | Poster | -1 | 😾 | 
-| 376 | [How Can Objects Help Video-Language Understanding?](2504.07454) | Zitian Tang | Poster | -1 | 😾 | 
-| 392 | [InfoBridge: Balanced Multimodal Integration through Conditional Dependency Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_InfoBridge_Balanced_Multimodal_Integration_through_Conditional_Dependency_Modeling_ICCV_2025_paper.pdf) | Chenxin Li | Poster | -1 | 😾 | 
-| 400 | [When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning](2503.07588) | Junwei Luo | Poster | -1 | 😾 | 
-| 401 | [Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models](2507.09209) | Xiao Liang | Poster | -1 | 😾 | 
-| 407 | [SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://openaccess.thecvf.com/content/ICCV2025/papers/Wen_SEGS-SLAM_Structure-enhanced_3D_Gaussian_Splatting_SLAM_with_Appearance_Embedding_ICCV_2025_paper.pdf) | Tianci Wen | Poster | -1 | 😾 | 
-| 412 | [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Shang_LLaVA-PruMerge_Adaptive_Token_Reduction_for_Efficient_Large_Multimodal_Models_ICCV_2025_paper.pdf) | Yuzhang Shang | Poster | -1 | 😾 | 
-| 420 | [TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Simon_TITAN-Guide_Taming_Inference-Time_Alignment_for_Guided_Text-to-Video_Diffusion_Models_ICCV_2025_paper.pdf) | Christian Simon | Poster | -1 | 😾 | 
-| 423 | [Augmented and Softened Matching for Unsupervised Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2025/papers/Pang_Augmented_and_Softened_Matching_for_Unsupervised_Visible-Infrared_Person_Re-Identification_ICCV_2025_paper.pdf) | Zhiqi Pang | Poster | -1 | 😾 | 
-| 426 | [TruthPrInt: Mitigating Large Vision-Language Models Object Hallucination Via Latent Truthful-Guided Pre-Intervention](https://openaccess.thecvf.com/content/ICCV2025/papers/Duan_TruthPrInt_Mitigating_Large_Vision-Language_Models_Object_Hallucination_Via_Latent_Truthful-Guided_ICCV_2025_paper.pdf) | Jinhao Duan | Poster | -1 | 😾 | 
-| 428 | [CompCap: Improving Multimodal Large Language Models with Composite Captions](2412.05243) | Xiaohui Chen | Poster | -1 | 😾 | 
-| 435 | [CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization](2411.17845) | Soorena Salari | Poster | -1 | 😾 | 
-| 441 | [Is Visual in-Context Learning for Compositional Medical Tasks within Reach?](https://openaccess.thecvf.com/content/ICCV2025/papers/Reiss_Is_Visual_in-Context_Learning_for_Compositional_Medical_Tasks_within_Reach_ICCV_2025_paper.pdf) | Simon Reiß | Poster | -1 | 😾 | 
-| 452 | [Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines](2507.10737) | Jiayuan Chen | Poster | -1 | 😾 | 
-| 454 | [Head2Body: Body Pose Generation from Multi-sensory Head-mounted Inputs](https://openaccess.thecvf.com/content/ICCV2025/papers/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.pdf) | Minh Tran | Poster | -1 | 😾 | 
-| 455 | [IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance](2509.26231) | Jiayi Guo | Poster | -1 | 😾 | 
-| 456 | [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](2507.01367) | Tianrui Lou | Poster | -1 | 😾 | 
-| 481 | [TemCoCo: Temporally Consistent Multi-modal Video Fusion with Visual-Semantic Collaboration](https://iccv.thecvf.com/virtual/2025/poster/481) | Gong Meiqi | Poster | -1 | 😾 | 
-| 483 | [MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs](2504.06897) | Jiawei Mao | Poster | -1 | 😾 | 
-| 495 | [ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](2507.10223) | Xiangyu Yin | Poster | -1 | 😾 | 
-| 499 | [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Q-Frame_Query-aware_Frame_Selection_and_Multi-Resolution_Adaptation_for_Video-LLMs_ICCV_2025_paper.pdf) | Shaojie Zhang | Poster | -1 | 😾 | 
-| 508 | [WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images](2503.08407) | Yansong Guo | Poster | -1 | 😾 | 
-| 524 | [Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning](2507.21588) | Jiong Yin | Poster | -1 | 😾 | 
-| 526 | [Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](2503.20309) | Zitian Wang | Poster | -1 | 😾 | 
-| 540 | [Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment](2502.11079) | Lijie Liu | Poster | -1 | 😾 | 
-| 542 | [CoA-VLA: Improving Vision-Language-Action Models via Visual-Text Chain-of-Affordance](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_CoA-VLA_Improving_Vision-Language-Action_Models_via_Visual-Text_Chain-of-Affordance_ICCV_2025_paper.pdf) | Jinming Li | Poster | -1 | 😾 | 
-| 544 | [GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space](https://openaccess.thecvf.com/content/ICCV2025/papers/Shatwell_GT-Loc_Unifying_When_and_Where_in_Images_Through_a_Joint_ICCV_2025_paper.pdf) | David Shatwell | Poster | -1 | 😾 | 
-| 559 | [MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing](2507.01384) | Langyu Wang | Poster | -1 | 😾 | 
-| 561 | [Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification](https://iccv.thecvf.com/virtual/2025/poster/561) | Yuan Tian | Poster | -1 | 😾 | 
-| 571 | [CoStoDet-DDPM: Collaborative Training of Stochastic and Deterministic Models Improves Surgical Workflow Anticipation and Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CoStoDet-DDPM_Collaborative_Training_of_Stochastic_and_Deterministic_Models_Improves_Surgical_ICCV_2025_paper.pdf) | Kaixiang Yang | Poster | -1 | 😾 | 
-| 574 | [COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation](2503.24065) | Siqi Zhang | Poster | -1 | 😾 | 
-| 597 | [Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features](2412.00142) | Chancharik Mitra | Poster | -1 | 😾 | 
-| 598 | [PRISM: Reducing Spurious Implicit Biases in Vision-Language Models with LLM-Guided Embedding Projection](2507.08979) | Mahdiyar Molahasani | Poster | -1 | 😾 | 
-| 599 | [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](2507.01738) | Ming Dai | Poster | -1 | 😾 | 
-| 600 | [DiMPLe - Disentangled Multi-Modal Prompt Learning: Enhancing Out-Of-Distribution Alignment with Invariant and Spurious Feature Separation](https://openaccess.thecvf.com/content/ICCV2025/papers/Rahman_DiMPLe_-_Disentangled_Multi-Modal_Prompt_Learning_Enhancing_Out-Of-Distribution_Alignment_with_ICCV_2025_paper.pdf) | Umaima Rahman | Poster | -1 | 😾 | 
-| 614 | [DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs](2507.10302) | JIAHE ZHAO | Poster | -1 | 😾 | 
-| 622 | [MeasureXpert: Automatic Anthropometric Measurement Extraction from Two Unregistered, Partial, Posed, and Dressed Body Scans](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_MeasureXpert_Automatic_Anthropometric_Measurement_Extraction_from_Two_Unregistered_Partial_Posed_ICCV_2025_paper.pdf) | Ran Zhao | Poster | -1 | 😾 | 
-| 625 | [LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs](2503.06934) | Hanyu Zhou | Poster | -1 | 😾 | 
-| 647 | [The Inter-Intra Modal Measure: A Predictive Lens on Fine-Tuning Outcomes in Vision-Language Models](2407.15731) | Laura Niss | Poster | -1 | 😾 | 
-| 656 | [SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion](2503.11576) | Ahmed Nassar | Poster | -1 | 😾 | 
-| 661 | [OURO: A Self-Bootstrapped Framework for Enhancing Multimodal Scene Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_OURO_A_Self-Bootstrapped_Framework_for_Enhancing_Multimodal_Scene_Understanding_ICCV_2025_paper.pdf) | Tianrun Xu | Poster | -1 | 😾 | 
-| 662 | [Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning](2507.21494) | Wenxuan Bao | Poster | -1 | 😾 | 
-| 663 | [LDPose: Towards Inclusive Human Pose Estimation for Limb-Deficient Individuals in the Wild](https://openaccess.thecvf.com/content/ICCV2025/papers/Ying_LDPose_Towards_Inclusive_Human_Pose_Estimation_for_Limb-Deficient_Individuals_in_ICCV_2025_paper.pdf) | Jiaying Ying | Poster | -1 | 😾 | 
-| 664 | [Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning](2507.09118) | Linlan Huang | Poster | -1 | 😾 | 
-| 669 | [Improving SAM for Camouflaged Object Detection via Dual Stream Adapters](2503.06042) | Jiaming Liu | Poster | -1 | 😾 | 
-| 673 | [Controllable Latent Space Augmentation for Digital Pathology](2508.14588) | Sofiène Boutaj | Poster | -1 | 😾 | 
-| 679 | [EEGMirror: Leveraging EEG Data in the Wild via Montage-Agnostic Self-Supervision for EEG to Video Decoding](https://iccv.thecvf.com/virtual/2025/poster/679) | Xuan-Hao Liu | Poster | -1 | 😾 | 
-| 701 | [Visual-Oriented Fine-Grained Knowledge Editing for MultiModal Large Language Models](2411.12790) | Zhen Zeng | Poster | -1 | 😾 | 
-| 709 | [HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss](2504.07827) | Ke Zhang | Poster | -1 | 😾 | 
-| 712 | [MRGen: Segmentation Data Engine For Underrepresented MRI Modalities](2412.04106) | Haoning Wu | Poster | -1 | 😾 | 
-| 716 | [FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers](2501.16297) | Renshan Zhang | Poster | -1 | 😾 | 
-| 718 | [Harmonizing Visual Representations for Unified Multimodal Understanding and Generation](2503.21979) | Size Wu | Poster | -1 | 😾 | 
-| 721 | [Implicit Counterfactual Learning for Audio-Visual Segmentation](2507.20740) | Mingfeng Zha | Poster | -1 | 😾 | 
-| 725 | [CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiao_CLIP-GS_Unifying_Vision-Language_Representation_with_3D_Gaussian_Splatting_ICCV_2025_paper.pdf) | Siyu Jiao | Poster | -1 | 😾 | 
-| 734 | [LIRA: Inferring Segmentation in Large Multi-modal Models with Local Interleaved Region Assistance](2507.06272) | Zhang Li | Poster | -1 | 😾 | 
-| 748 | [MemDistill: Distilling LiDAR Knowledge into Memory for Camera-Only 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Kwon_MemDistill_Distilling_LiDAR_Knowledge_into_Memory_for_Camera-Only_3D_Object_ICCV_2025_paper.pdf) | Donghyeon Kwon | Poster | -1 | 😾 | 
-| 752 | [HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis](2508.09137) | Timo Teufel | Poster | -1 | 😾 | 
-| 753 | [Mastering Collaborative Multi-modal Data Selection: A Focus on Informativeness, Uniqueness, and Representativeness](2412.06293) | Qifan Yu | Poster | -1 | 😾 | 
-| 763 | [Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models](2508.00260) | Hyundong Jin | Poster | -1 | 😾 | 
-| 783 | [WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection](2507.18173) | Haodong Zhu | Poster | -1 | 😾 | 
-| 784 | [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.pdf) | Bo Liu | Poster | -1 | 😾 | 
-| 785 | [X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation](2503.06134) | jian ma | Poster | -1 | 😾 | 
-| 799 | [Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](2503.12972) | Junming Liu | Poster | -1 | 😾 | 
-| 800 | [LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](2503.10200) | Boyu Chen | Poster | -1 | 😾 | 
-| 812 | [Multimodal LLM Guided Exploration and Active Mapping using Fisher Information](2410.17422) | Wen Jiang | Poster | -1 | 😾 | 
-| 814 | [ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations](2501.14607) | Tianming Liang | Poster | -1 | 😾 | 
-| 822 | [MDP-Omni: Parameter-free Multimodal Depth Prior-based Sampling for Omnidirectional Stereo Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Son_MDP-Omni_Parameter-free_Multimodal_Depth_Prior-based_Sampling_for_Omnidirectional_Stereo_Matching_ICCV_2025_paper.pdf) | Eunjin Son | Poster | -1 | 😾 | 
-| 830 | [Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images](2503.13439) | Tianhao Wu | Poster | -1 | 😾 | 
-| 835 | [Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Highlight_What_You_Want_Weakly-Supervised_Instance-Level_Controllable_Infrared-Visible_Image_Fusion_ICCV_2025_paper.pdf) | Zeyu Wang | Poster | -1 | 😾 | 
-| 839 | [Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](2507.12942) | Yafei Zhang | Poster | -1 | 😾 | 
-| 849 | [CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image](2412.12906) | Wonseok Roh | Poster | -1 | 😾 | 
-| 852 | [When Lighting Deceives: Exposing Vision-Language Models' Illumination Vulnerability Through Illumination Transformation Attack](https://iccv.thecvf.com/virtual/2025/poster/852) | Hanqing Liu | Poster | -1 | 😾 | 
-| 858 | [Boosting Multimodal Learning via Disentangled Gradient Learning](2507.10213) | Shicai Wei | Poster | -1 | 😾 | 
-| 859 | [DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Duan_DIH-CLIP_Unleashing_the_Diversity_of_Multi-Head_Self-Attention_for_Training-Free_Open-Vocabulary_ICCV_2025_paper.pdf) | Songsong Duan | Poster | -1 | 😾 | 
-| 861 | [GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_GS-LIVM_Real-Time_Photo-Realistic_LiDAR-Inertial-Visual_Mapping_with_Gaussian_Splatting_ICCV_2025_paper.pdf) | Yusen XIE | Poster | -1 | 😾 | 
-| 863 | [SAM4D: Segment Anything in Camera and LiDAR Streams](2506.21547) | Jianyun Xu | Poster | -1 | 😾 | 
-| 870 | [Causality-guided Prompt Learning for Vision-language Models via Visual Granulation](2509.03803) | Mengyu Gao | Poster | -1 | 😾 | 
-| 871 | [HOMO-Feature: Cross-Arbitrary-Modal Image Matching with Homomorphism of Organized Major Orientation](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_HOMO-Feature_Cross-Arbitrary-Modal_Image_Matching_with_Homomorphism_of_Organized_Major_Orientation_ICCV_2025_paper.pdf) | Chenzhong Gao | Poster | -1 | 😾 | 
-| 874 | [Player-Centric Multimodal Prompt Generation for Large Language Model Based Identity-Aware Basketball Video Captioning](2507.20163) | Zeyu Xi | Poster | -1 | 😾 | 
-| 892 | [Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer](2506.21880) | Yuansheng Li | Poster | -1 | 😾 | 
-| 894 | [ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition](2507.11261) | Ronggang Huang | Poster | -1 | 😾 | 
-| 923 | [CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models](2411.06869) | Junho Kim | Poster | -1 | 😾 | 
-| 924 | [JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers](2505.00482) | Kwon Byung-Ki | Poster | -1 | 😾 | 
-| 934 | [WalkVLM: Aid Visually Impaired People Walking by Vision Language Model](2412.20903) | Zhiqiang Yuan | Poster | -1 | 😾 | 
-| 940 | [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf) | Mingyang Liu | Poster | -1 | 😾 | 
-| 950 | [Doppler-Aware LiDAR-RADAR Fusion for Weather-Robust 3D Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Chae_Doppler-Aware_LiDAR-RADAR_Fusion_for_Weather-Robust_3D_Detection_ICCV_2025_paper.pdf) | Yujeong Chae | Poster | -1 | 😾 | 
-| 952 | [HAMSt3R: Human-Aware Multi-view Stereo 3D Reconstruction](https://openaccess.thecvf.com/content/ICCV2025/papers/Rojas_HAMSt3R_Human-Aware_Multi-view_Stereo_3D_Reconstruction_ICCV_2025_paper.pdf) | Sara Rojas Martinez | Poster | -1 | 😾 | 
-| 955 | [OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation](2503.07098) | Ding Zhong | Poster | -1 | 😾 | 
-| 960 | [Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation](2411.19331) | Luca Barsellotti | Poster | -1 | 😾 | 
-| 976 | [2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update](2507.11069) | Jeongyun Kim | Poster | -1 | 😾 | 
-| 983 | [Scaling Omni-modal Pretraining with Multimodal Context: Advancing Universal Representation Learning Across Modalities](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Scaling_Omni-modal_Pretraining_with_Multimodal_Context_Advancing_Universal_Representation_Learning_ICCV_2025_paper.pdf) | Yiyuan Zhang | Poster | -1 | 😾 | 
-| 988 | [LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing](2503.21541) | Achint Soni | Poster | -1 | 😾 | 
-| 989 | [VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization](2508.05211) | Sihan Yang | Poster | -1 | 😾 | 
-| 996 | [Seeing 3D Through 2D Lenses: 3D Few-Shot Class-Incremental Learning via Cross-Modal Geometric Rectification](https://iccv.thecvf.com/virtual/2025/poster/996) | Tuo Xiang | Poster | -1 | 😾 | 
-| 1010 | [OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning](2505.04601) | Xianhang Li | Poster | -1 | 😾 | 
-| 1016 | [Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator](2411.17799) | Ronglai Zuo | Poster | -1 | 😾 | 
-| 1018 | [SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation](2411.15513) | Jiayuan Zhu | Poster | -1 | 😾 | 
-| 1020 | [Multi-Modal Multi-Task Unified Embedding Model (M3T-UEM): A Task-Adaptive Representation Learning Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Sharma_Multi-Modal_Multi-Task_Unified_Embedding_Model_M3T-UEM_A_Task-Adaptive_Representation_Learning_ICCV_2025_paper.pdf) | Rohan Sharma | Poster | -1 | 😾 | 
-| 1040 | [FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration](2412.01427) | Hao Li | Poster | -1 | 😾 | 
-| 1041 | [CVPT: Cross Visual Prompt Tuning](2408.14961) | Lingyun Huang | Poster | -1 | 😾 | 
-| 1045 | [IntrinsicControlNet: Cross-distribution Image Generation with Real and Unreal](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_IntrinsicControlNet_Cross-distribution_Image_Generation_with_Real_and_Unreal_ICCV_2025_paper.pdf) | Jiayuan Lu | Poster | -1 | 😾 | 
-| 1049 | [One Perturbation is Enough: On Generating Universal Adversarial Perturbations against Vision-Language Pre-training Models](2406.05491) | Hao Fang | Poster | -1 | 😾 | 
-| 1056 | [Unbiased Missing-modality Multimodal Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Unbiased_Missing-modality_Multimodal_Learning_ICCV_2025_paper.pdf) | Raiting Dai | Poster | -1 | 😾 | 
-| 1057 | [SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality](2507.19264) | Sijie Li | Poster | -1 | 😾 | 
-| 1064 | [Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning](2507.09102) | Yiyang Chen | Poster | -1 | 😾 | 
-| 1068 | [DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers](2503.22796) | Hanling Zhang | Poster | -1 | 😾 | 
-| 1073 | [How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_How_Do_Optical_Flow_and_Textual_Prompts_Collaborate_to_Assist_ICCV_2025_paper.pdf) | Yujian Lee | Poster | -1 | 😾 | 
-| 1083 | [From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision](2412.11154) | Chuang Yu | Poster | -1 | 😾 | 
-| 1086 | [Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology](2503.14911) | Siyuan Yan | Poster | -1 | 😾 | 
-| 1095 | [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_AIGI-Holmes_Towards_Explainable_and_Generalizable_AI-Generated_Image_Detection_via_Multimodal_ICCV_2025_paper.pdf) | Ziyin Zhou | Poster | -1 | 😾 | 
-| 1101 | [X-Fusion: Introducing New Modality to Frozen Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Mo_X-Fusion_Introducing_New_Modality_to_Frozen_Large_Language_Models_ICCV_2025_paper.pdf) | Sicheng Mo | Poster | -1 | 😾 | 
-| 1125 | [egoPPG: Heart Rate Estimation from Eye-Tracking Cameras in Egocentric Systems to Benefit Downstream Vision Tasks](2502.20879) | Björn Braun | Poster | -1 | 😾 | 
-| 1130 | [Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation](2503.15877) | Tiange Xiang | Poster | -1 | 😾 | 
-| 1134 | [What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models](2505.20405) | Lorenzo Baraldi | Poster | -1 | 😾 | 
-| 1137 | [Text-IRSTD: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Text-IRSTD_Leveraging_Semantic_Text_to_Promote_Infrared_Small_Target_Detection_ICCV_2025_paper.pdf) | Feng Huang | Poster | -1 | 😾 | 
-| 1140 | [Conditional Visual Autoregressive Modeling for Pathological Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Conditional_Visual_Autoregressive_Modeling_for_Pathological_Image_Restoration_ICCV_2025_paper.pdf) | Ziyi Liu | Poster | -1 | 😾 | 
-| 1143 | [X2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_X2-Gaussian_4D_Radiative_Gaussian_Splatting_for_Continuous-time_Tomographic_Reconstruction_ICCV_2025_paper.pdf) | Weihao Yu | Poster | -1 | 😾 | 
-| 1154 | [InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation](https://iccv.thecvf.com/virtual/2025/poster/1154) | Jungmin Lee | Poster | -1 | 😾 | 
-| 1160 | [R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_R1-Onevision_Advancing_Generalized_Multimodal_Reasoning_through_Cross-Modal_Formalization_ICCV_2025_paper.pdf) | yi yang | Poster | -1 | 😾 | 
-| 1177 | [Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models](2508.01225) | Xinyu Chen | Poster | -1 | 😾 | 
-| 1188 | [Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing](2503.10663) | Yang Xiao | Poster | -1 | 😾 | 
-| 1190 | [Seeing the Trees for the Forest: Rethinking Weakly-Supervised Medical Visual Grounding](2505.15123) | Ta Duc Huy | Poster | -1 | 😾 | 
-| 1192 | [VAFlow: Video-to-Audio Generation with Cross-Modality Flow Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VAFlow_Video-to-Audio_Generation_with_Cross-Modality_Flow_Matching_ICCV_2025_paper.pdf) | Xihua Wang | Poster | -1 | 😾 | 
-| 1195 | [EgoMLVM: An Egocentric Multitask Large Video Model](https://iccv.thecvf.com/virtual/2025/poster/1195) | Gen Li | Poster | 0 | 😾 | 
-| 1196 | [Agent-free Breast Cancer Diagnosis and Prognosis via Latent Diffusion Enhancement](https://iccv.thecvf.com/virtual/2025/poster/1196) | Yuhan Wang | Poster | 0 | 😾 | 
-| 1197 | [VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data](2312.08871) | Jian Shi | Poster | -1 | 😾 | 
-| 1199 | [MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](2501.13667) | Fu Rong | Poster | -1 | 😾 | 
-| 1204 | [GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs](2412.11258) | Xinli Xu | Poster | -1 | 😾 | 
-| 1218 | [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_R1-VL_Learning_to_Reason_with_Multimodal_Large_Language_Models_via_ICCV_2025_paper.pdf) | Jingyi Zhang | Poster | -1 | 😾 | 
-| 1225 | [HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model](2503.13026) | Tao Wang | Poster | -1 | 😾 | 
-| 1226 | [Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation](2507.11055) | Shuchang Ye | Poster | -1 | 😾 | 
-| 1238 | [Wave-MambaAD: Wavelet-driven State Space Model for Multi-class Unsupervised Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Wave-MambaAD_Wavelet-driven_State_Space_Model_for_Multi-class_Unsupervised_Anomaly_Detection_ICCV_2025_paper.pdf) | Qiao Zhang | Poster | -1 | 😾 | 
-| 1242 | [Keep Your Friends Close, and Your Enemies Farther: Distance-aware Voxel-wise Contrastive Learning for Semi-supervised Multi-organ Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Keep_Your_Friends_Close_and_Your_Enemies_Farther_Distance-aware_Voxel-wise_ICCV_2025_paper.pdf) | Haochen Zhao | Poster | -1 | 😾 | 
-| 1247 | [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](2410.13861) | Rongyao Fang | Poster | -1 | 😾 | 
-| 1249 | [Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](2411.13610) | Hao Ju | Poster | -1 | 😾 | 
-| 1254 | [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.pdf) | Yuci Liang | Poster | -1 | 😾 | 
-| 1273 | [Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning](2508.03102) | Tianjiao Jiang | Poster | -1 | 😾 | 
-| 1274 | [Breaking Grid Constraints: Dynamic Graph Reconstruction Network for Multi-organ Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Xiao_Breaking_Grid_Constraints_Dynamic_Graph_Reconstruction_Network_for_Multi-organ_Segmentation_ICCV_2025_paper.pdf) | Junhao Xiao | Poster | -1 | 😾 | 
-| 1287 | [Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates](2504.02008) | Kecheng Chen | Poster | -1 | 😾 | 
-| 1289 | [Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](2403.09333) | Yufei Zhan | Poster | -1 | 😾 | 
-| 1293 | [Few-Shot Image Quality Assessment via Adaptation of Vision-Language Models](2409.05381) | Xudong Li | Poster | -1 | 😾 | 
-| 1295 | [XTrack: Multimodal Training Boosts RGB-X Video Object Trackers](https://openaccess.thecvf.com/content/ICCV2025/papers/Tan_XTrack_Multimodal_Training_Boosts_RGB-X_Video_Object_Trackers_ICCV_2025_paper.pdf) | Yuedong Tan | Poster | -1 | 😾 | 
-| 1298 | [ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges](2503.06553) | Jiaxin Ai | Poster | -1 | 😾 | 
-| 1301 | [Factorized Learning for Temporally Grounded Video-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Factorized_Learning_for_Temporally_Grounded_Video-Language_Models_ICCV_2025_paper.pdf) | Wenzheng Zeng | Poster | -1 | 😾 | 
-| 1307 | [VLM4D: Towards Spatiotemporal Awareness in Vision Language Models](2508.02095) | Shijie Zhou | Poster | -1 | 😾 | 
-| 1310 | [AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs](2503.23219) | Sanjoy Chowdhury | Poster | -1 | 😾 | 
-| 1315 | [Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D](2503.02410) | Jiesi Hu | Poster | -1 | 😾 | 
-| 1316 | [Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba for End-to-end Whole Slide Image Analysis](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Bridging_Local_Inductive_Bias_and_Long-Range_Dependencies_with_Pixel-Mamba_for_ICCV_2025_paper.pdf) | Zhongwei Qiu | Poster | -1 | 😾 | 
-| 1317 | [R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception](https://openaccess.thecvf.com/content/ICCV2025/papers/Mirlach_R-LiViT_A_LiDAR-Visual-Thermal_Dataset_Enabling_Vulnerable_Road_User_Focused_Roadside_ICCV_2025_paper.pdf) | Jonas Mirlach | Poster | -1 | 😾 | 
-| 1318 | [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](2502.08916) | Fatemeh Ghezloo | Poster | -1 | 😾 | 
-| 1322 | [Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](2507.13344) | Yudong Jin | Poster | -1 | 😾 | 
-| 1323 | [ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering](2507.16403) | Thuy-Duong Tran | Poster | -1 | 😾 | 
-| 1325 | [FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation](2508.02190) | Cui Miao | Poster | -1 | 😾 | 
-| 1332 | [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://iccv.thecvf.com/virtual/2025/poster/1332) | Yating Wang | Poster | -1 | 😾 | 
-| 1341 | [Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing](2503.10742) | Yudong Liu | Poster | -1 | 😾 | 
-| 1347 | [Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Overcoming_Dual_Drift_for_Continual_Long-Tailed_Visual_Question_Answering_ICCV_2025_paper.pdf) | Feifei Zhang | Poster | -1 | 😾 | 
-| 1361 | [4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_4D-Bench_Benchmarking_Multi-modal_Large_Language_Models_for_4D_Object_Understanding_ICCV_2025_paper.pdf) | Wenxuan Zhu | Poster | -1 | 😾 | 
-| 1364 | [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_2.5_Years_in_Class_A_Multimodal_Textbook_for_Vision-Language_Pretraining_ICCV_2025_paper.pdf) | Wenqi Zhang | Poster | -1 | 😾 | 
-| 1367 | [Exploring The Visual Feature Space for Multimodal Neural Decoding](2505.15755) | Weihao Xia | Poster | -1 | 😾 | 
-| 1372 | [GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation](2507.22731) | Quanwei Yang | Poster | -1 | 😾 | 
-| 1375 | [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://iccv.thecvf.com/virtual/2025/poster/1375) | Hai Huang | Poster | -1 | 😾 | 
-| 1378 | [FullDiT: Video Generative Foundation Models with Multimodal Control via Full Attention](https://openaccess.thecvf.com/content/ICCV2025/papers/Ju_FullDiT_Video_Generative_Foundation_Models_with_Multimodal_Control_via_Full_ICCV_2025_paper.pdf) | Xuan Ju | Poster | -1 | 😾 | 
-| 1384 | [TWIST & SCOUT: Grounding Multimodal LLM-Experts by Forget-Free Tuning](2410.10491) | Aritra Bhowmik | Poster | -1 | 😾 | 
-| 1385 | [VALLR: Visual ASR Language Model for Lip Reading](2503.21408) | Marshall Thomas | Poster | -1 | 😾 | 
-| 1398 | [STD-GS: Exploring Frame-Event Interaction for SpatioTemporal-Disentangled Gaussian Splatting to Reconstruct High-Dynamic Scene](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_STD-GS_Exploring_Frame-Event_Interaction_for_SpatioTemporal-Disentangled_Gaussian_Splatting_to_Reconstruct_ICCV_2025_paper.pdf) | Hanyu Zhou | Poster | -1 | 😾 | 
-| 1401 | [LUT-Fuse: Towards Extremely Fast Infrared and Visible Image Fusion via Distillation to Learnable Look-Up Tables](https://openaccess.thecvf.com/content/ICCV2025/papers/Yi_LUT-Fuse_Towards_Extremely_Fast_Infrared_and_Visible_Image_Fusion_via_ICCV_2025_paper.pdf) | Xunpeng Yi | Poster | -1 | 😾 | 
-| 1407 | [Multimodal Large Language Model-Guided ISP Hyperparameter Optimization with Dynamic Preference Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Multimodal_Large_Language_Model-Guided_ISP_Hyperparameter_Optimization_with_Dynamic_Preference_ICCV_2025_paper.pdf) | Xinyu Sun | Poster | -1 | 😾 | 
-| 1418 | [Enrich and Detect: Video Temporal Grounding with Multimodal LLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Pramanick_Enrich_and_Detect_Video_Temporal_Grounding_with_Multimodal_LLMs_ICCV_2025_paper.pdf) | Shraman Pramanick | Poster | -1 | 😾 | 
-| 1422 | [Free2Guide: Training-Free Text-to-Video Alignment using Image LVLM](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_Free2Guide_Training-Free_Text-to-Video_Alignment_using_Image_LVLM_ICCV_2025_paper.pdf) | Jaemin Kim | Poster | -1 | 😾 | 
-| 1424 | [DeFSS: Image-to-Mask Denoising Learning for Few-shot Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_DeFSS_Image-to-Mask_Denoising_Learning_for_Few-shot_Segmentation_ICCV_2025_paper.pdf) | Zishu Qin | Poster | -1 | 😾 | 
-| 1427 | [Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models](2405.14715) | Young Kyun Jang | Poster | -1 | 😾 | 
-| 1429 | [Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation](2508.20265) | Zhixiang Chi | Poster | -1 | 😾 | 
-| 1436 | [Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing](https://openaccess.thecvf.com/content/ICCV2025/papers/Forte_Contact-Aware_Refinement_of_Human_Pose_Pseudo-Ground_Truth_via_Bioimpedance_Sensing_ICCV_2025_paper.pdf) | Maria-Paola Forte | Poster | -1 | 😾 | 
-| 1442 | [TopoTTA: Topology-Enhanced Test-Time Adaptation for Tubular Structure Segmentation](https://iccv.thecvf.com/virtual/2025/poster/1442) | Jiale Zhou | Poster | -1 | 😾 | 
-| 1448 | [SDFormer: Vision-based 3D Semantic Scene Completion via SAM-assisted Dual-channel Voxel Transformer](https://openaccess.thecvf.com/content/ICCV2025/papers/Xue_SDFormer_Vision-based_3D_Semantic_Scene_Completion_via_SAM-assisted_Dual-channel_Voxel_ICCV_2025_paper.pdf) | Yujie Xue | Poster | -1 | 😾 | 
-| 1449 | [Improving Large Vision and Language Models by Learning from a Panel of Peers](2509.01610) | Jefferson Hernandez | Poster | -1 | 😾 | 
-| 1459 | [Scaling Tumor Segmentation: Best Lessons from Real and Synthetic Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Scaling_Tumor_Segmentation_Best_Lessons_from_Real_and_Synthetic_Data_ICCV_2025_paper.pdf) | Qi Chen | Poster | -1 | 😾 | 
-| 1467 | [Noise-Modeled Diffusion Models for Low-Light Spike Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Noise-Modeled_Diffusion_Models_for_Low-Light_Spike_Image_Restoration_ICCV_2025_paper.pdf) | Ruonan Liu | Poster | -1 | 😾 | 
-| 1469 | [TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation](https://iccv.thecvf.com/virtual/2025/poster/1469) | Changsong Lei | Poster | -1 | 😾 | 
-| 1488 | [Robustifying Zero-Shot Vision Language Models by Subspaces Alignment](https://openaccess.thecvf.com/content/ICCV2025/papers/Dong_Robustifying_Zero-Shot_Vision_Language_Models_by_Subspaces_Alignment_ICCV_2025_paper.pdf) | Junhao Dong | Poster | -1 | 😾 | 
-| 1507 | [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](2504.01308) | Jiawei Wang | Poster | -1 | 😾 | 
-| 1510 | [Unified Multimodal Understanding via Byte-Pair Visual Encoding](2506.23639) | Wanpeng Zhang | Poster | -1 | 😾 | 
-| 1512 | [SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking](https://openaccess.thecvf.com/content/ICCV2025/papers/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.pdf) | Sixian Chan | Poster | -1 | 😾 | 
-| 1529 | [Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection](2410.10289) | Jiawen Zhu | Poster | -1 | 😾 | 
-| 1531 | [MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling](2503.13440) | Yingyue Li | Poster | -1 | 😾 | 
-| 1540 | [B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_B-VLLM_A_Vision_Large_Language_Model_with_Balanced_Spatio-Temporal_Tokens_ICCV_2025_paper.pdf) | Zhuqiang Lu | Poster | -1 | 😾 | 
-| 1542 | [Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Skip-Vision_Efficient_and_Scalable_Acceleration_of_Vision-Language_Models_via_Adaptive_ICCV_2025_paper.pdf) | Weili Zeng | Poster | -1 | 😾 | 
-| 1552 | [Triad: Empowering LMM-based Anomaly Detection with Expert-guided Region-of-Interest Tokenizer and Manufacturing Process](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Triad_Empowering_LMM-based_Anomaly_Detection_with_Expert-guided_Region-of-Interest_Tokenizer_and_ICCV_2025_paper.pdf) | Yuanze Li | Poster | -1 | 😾 | 
-| 1554 | [GMMamba: Group Masking Mamba for Whole Slide Image Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_GMMamba_Group_Masking_Mamba_for_Whole_Slide_Image_Classification_ICCV_2025_paper.pdf) | Tingting Zheng | Poster | -1 | 😾 | 
-| 1555 | [DexVLG: Dexterous Vision-Language-Grasp Model at Scale](2507.02747) | Jiawei He | Poster | -1 | 😾 | 
-| 1557 | [ReMP-AD: Retrieval-enhanced Multi-modal Prompt Fusion for Few-Shot Industrial Visual Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_ReMP-AD_Retrieval-enhanced_Multi-modal_Prompt_Fusion_for_Few-Shot_Industrial_Visual_Anomaly_ICCV_2025_paper.pdf) | Hongchi Ma | Poster | -1 | 😾 | 
-| 1562 | [Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation](2507.07568) | Qin Zhou | Poster | -1 | 😾 | 
-| 1573 | [DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding](2508.08589) | Wenwen Yu | Poster | -1 | 😾 | 
-| 1580 | [Fusion Meets Diverse Conditions: A High-diversity Benchmark and Baseline for UAV-based Multimodal Object Detection with Condition Cues](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Fusion_Meets_Diverse_Conditions_A_High-diversity_Benchmark_and_Baseline_for_ICCV_2025_paper.pdf) | Chen Chen | Poster | -1 | 😾 | 
-| 1584 | [Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](2410.20806) | DongZhenXing DongZhenXing | Poster | -1 | 😾 | 
-| 1594 | [LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_LLaVA-SP_Enhancing_Visual_Representation_with_Visual_Spatial_Tokens_for_MLLMs_ICCV_2025_paper.pdf) | Haoran Lou | Poster | -1 | 😾 | 
-| 1599 | [M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_M-Net_MRI_Brain_Tumor_Sequential_Segmentation_Network_via_Mesh-Cast_ICCV_2025_paper.pdf) | Jiacheng Lu | Poster | -1 | 😾 | 
-| 1601 | [ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](2505.04963) | Onkar Susladkar | Poster | -1 | 😾 | 
-| 1610 | [Textured 3D Regenerative Morphing with 3D Diffusion Prior](2502.14316) | Songlin Yang | Poster | -1 | 😾 | 
-| 1622 | [Equipping Vision Foundation Model with Mixture of Experts for Out-of-Distribution Detection](2510.10584) | Shizhen Zhao | Poster | -1 | 😾 | 
-| 1625 | [Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization](2505.06635) | Xu Zheng | Poster | -1 | 😾 | 
-| 1632 | [MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance](2412.15058) | Hallee Wong | Poster | -1 | 😾 | 
-| 1638 | [UniDxMD: Towards Unified Representation for Cross-Modal Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_UniDxMD_Towards_Unified_Representation_for_Cross-Modal_Unsupervised_Domain_Adaptation_in_ICCV_2025_paper.pdf) | Zhengyin Liang | Poster | -1 | 😾 | 
-| 1644 | [AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance](2503.07360) | Yilin Wei | Poster | -1 | 😾 | 
-| 1647 | [COME: Dual Structure-Semantic Learning with Collaborative MoE for Universal Lesion Detection Across Heterogeneous Ultrasound Datasets](2508.09886) | Lingyu Chen | Poster | -1 | 😾 | 
-| 1649 | [Efficient Visual Place Recognition Through Multimodal Semantic Knowledge Integration](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Efficient_Visual_Place_Recognition_Through_Multimodal_Semantic_Knowledge_Integration_ICCV_2025_paper.pdf) | Sitao Zhang | Poster | -1 | 😾 | 
-| 1653 | [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Lafon_ViLU_Learning_Vision-Language_Uncertainties_for_Failure_Prediction_ICCV_2025_paper.pdf) | Marc Lafon | Poster | -1 | 😾 | 
-| 1655 | [Unsupervised Histopathological Image Semantic Segmentation with Overlapping Patches Consistency Constraint](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Unsupervised_Histopathological_Image_Semantic_Segmentation_with_Overlapping_Patches_Consistency_Constraint_ICCV_2025_paper.pdf) | Wentian Cai | Poster | -1 | 😾 | 
-| 1656 | [MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation](2508.16911) | Prerit Gupta | Poster | -1 | 😾 | 
-| 1666 | [TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_TPG-INR_Target_Prior-Guided_Implicit_3D_CT_Reconstruction_for_Enhanced_Sparse-view_ICCV_2025_paper.pdf) | QingleiCao QingleiCao | Poster | -1 | 😾 | 
-| 1667 | [Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning](2507.17539) | Xinyao Liu | Poster | -1 | 😾 | 
-| 1670 | [DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image](2504.01596) | Jijun Xiang | Poster | -1 | 😾 | 
-| 1675 | [Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching](2503.14953) | Yang Liu | Poster | -1 | 😾 | 
-| 1676 | [Depth Any Event Stream: Enhancing Event-based Monocular Depth Estimation via Dense-to-Sparse Distillation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_Depth_Any_Event_Stream_Enhancing_Event-based_Monocular_Depth_Estimation_via_ICCV_2025_paper.pdf) | Jinjing Zhu | Poster | -1 | 😾 | 
-| 1678 | [MaskSAM: Auto-prompt SAM with Mask Classification for Volumetric Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_MaskSAM_Auto-prompt_SAM_with_Mask_Classification_for_Volumetric_Medical_Image_ICCV_2025_paper.pdf) | Bin Xie | Poster | -1 | 😾 | 
-| 1683 | [IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark](2507.14449) | Zhe Cao | Poster | -1 | 😾 | 
-| 1688 | [Hierarchical Cross-modal Prompt Learning for Vision-Language Models](2507.14976) | Hao Zheng | Poster | -1 | 😾 | 
-| 1689 | [GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_GaussianReg_Rapid_2D3D_Registration_for_Emergency_Surgery_via_Explicit_3D_ICCV_2025_paper.pdf) | Weihao Yu | Poster | -1 | 😾 | 
-| 1694 | [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](2507.15212) | Yusuke Yoshiyasu | Poster | -1 | 😾 | 
-| 1698 | [M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_M-SpecGene_Generalized_Foundation_Model_for_RGBT_Multispectral_Vision_ICCV_2025_paper.pdf) | Kailai Zhou | Poster | -1 | 😾 | 
-| 1701 | [ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](2507.00898) | Zifu Wan | Poster | -1 | 😾 | 
-| 1722 | [DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Kreutz_DeSPITE_Exploring_Contrastive_Deep_Skeleton-Pointcloud-IMU-Text_Embeddings_for_Advanced_Point_Cloud_ICCV_2025_paper.pdf) | Thomas Kreutz | Poster | -1 | 😾 | 
-| 1729 | [ReCoT: Reflective Self-Correction Training for Mitigating Confirmation Bias in Large Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Qu_ReCoT_Reflective_Self-Correction_Training_for_Mitigating_Confirmation_Bias_in_Large_ICCV_2025_paper.pdf) | Mengxue Qu | Poster | -1 | 😾 | 
-| 1731 | [RIOcc: Efficient Cross-Modal Fusion Transformer with Collaborative Feature Refinement for 3D Semantic Occupancy Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_RIOcc_Efficient_Cross-Modal_Fusion_Transformer_with_Collaborative_Feature_Refinement_for_ICCV_2025_paper.pdf) | Baojie Fan | Poster | -1 | 😾 | 
-| 1733 | [FROSS: Faster-Than-Real-Time Online 3D Semantic Scene Graph Generation from RGB-D Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Hou_FROSS_Faster-Than-Real-Time_Online_3D_Semantic_Scene_Graph_Generation_from_RGB-D_ICCV_2025_paper.pdf) | Hao-Yu Hou | Poster | -1 | 😾 | 
-| 1734 | [Egocentric Action-aware Inertial Localization in Point Clouds with Vision-Language Guidance](2505.14346) | Mingfang Zhang | Poster | -1 | 😾 | 
-| 1736 | [INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling](2507.05056) | Xin Dong | Poster | -1 | 😾 | 
-| 1750 | [Kestrel: 3D Multimodal LLM for Part-Aware Grounded Description](2405.18937) | Mahmoud Ahmed | Poster | -1 | 😾 | 
-| 1764 | [MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance](2503.14944) | Zihan Cao | Poster | -1 | 😾 | 
-| 1771 | [An OpenMind for 3D Medical Vision Self-supervised Learning](2412.17041) | Tassilo Wald | Poster | -1 | 😾 | 
-| 1780 | [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf) | Peng Ren | Poster | -1 | 😾 | 
-| 1791 | [Streaming VideoLLMs for Real-Time Procedural Video Understanding](2504.13915) | Dibyadip Chatterjee | Poster | -1 | 😾 | 
-| 1800 | [Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](2507.23284) | Dohwan Ko | Poster | -1 | 😾 | 
-| 1814 | [CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model](2503.06472) | Yuxuan Luo | Poster | -1 | 😾 | 
-| 1823 | [PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](2509.20022) | Manahil Raza | Poster | -1 | 😾 | 
-| 1824 | [End-to-End Multi-Modal Diffusion Mamba](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_End-to-End_Multi-Modal_Diffusion_Mamba_ICCV_2025_paper.pdf) | Chunhao Lu | Poster | -1 | 😾 | 
-| 1827 | [FusionPhys: A Flexible Framework for Fusing Complementary Sensing Modalities in Remote Physiological Measurement](https://openaccess.thecvf.com/content/ICCV2025/papers/Ying_FusionPhys_A_Flexible_Framework_for_Fusing_Complementary_Sensing_Modalities_in_ICCV_2025_paper.pdf) | Chenhang Ying | Poster | -1 | 😾 | 
-| 1834 | [VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling](2503.15855) | Hyojun Go | Poster | -1 | 😾 | 
-| 1846 | [Hyper-Depth: Hypergraph-based Multi-Scale Representation Fusion for Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Bie_Hyper-Depth_Hypergraph-based_Multi-Scale_Representation_Fusion_for_Monocular_Depth_Estimation_ICCV_2025_paper.pdf) | Lin Bie | Poster | -1 | 😾 | 
-| 1856 | [HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_HIS-GPT_Towards_3D_Human-In-Scene_Multimodal_Understanding_ICCV_2025_paper.pdf) | JIAHE ZHAO | Poster | -1 | 😾 | 
-| 1858 | [V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding](2412.09616) | Junqi Ge | Poster | -1 | 😾 | 
-| 1861 | [External Knowledge Injection for CLIP-Based Class-Incremental Learning](2503.08510) | Da-Wei Zhou | Poster | -1 | 😾 | 
-| 1869 | [GLEAM: Enhanced Transferable Adversarial Attacks for Vision-Language Pre-training Models via Global-Local Transformations](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GLEAM_Enhanced_Transferable_Adversarial_Attacks_for_Vision-Language_Pre-training_Models_via_ICCV_2025_paper.pdf) | Yunqi Liu | Poster | -1 | 😾 | 
-| 1876 | [POMATO: Marrying Pointmap Matching with Temporal Motions for Dynamic 3D Reconstruction](2504.05692) | Songyan Zhang | Poster | -1 | 😾 | 
-| 1879 | [Structured Policy Optimization: Enhance Large Vision-Language Model via Self-referenced Dialogue](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Structured_Policy_Optimization_Enhance_Large_Vision-Language_Model_via_Self-referenced_Dialogue_ICCV_2025_paper.pdf) | Guohao Sun | Poster | -1 | 😾 | 
-| 1887 | [RCTDistill: Cross-Modal Knowledge Distillation Framework for Radar-Camera 3D Object Detection with Temporal Fusion](2509.17712) | Geonho Bang | Poster | -1 | 😾 | 
-| 1890 | [Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation](2506.22979) | Jie Liu | Poster | -1 | 😾 | 
-| 1891 | [MetaScope: Optics-Driven Neural Network for Ultra-Micro Metalens Endoscopy](2508.03596) | Wuyang Li | Poster | -1 | 😾 | 
-| 1892 | [Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](2507.02859) | Jiaer Xia | Poster | -1 | 😾 | 
-| 1895 | [Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2025/papers/Khalid_Bridging_the_Sky_and_Ground_Towards_View-Invariant_Feature_Learning_for_ICCV_2025_paper.pdf) | Wajahat Khalid | Poster | -1 | 😾 | 
-| 1906 | [Federated Prompt-Tuning with Heterogeneous and Incomplete Multimodal Client Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Phung_Federated_Prompt-Tuning_with_Heterogeneous_and_Incomplete_Multimodal_Client_Data_ICCV_2025_paper.pdf) | Thu Hang Phung | Poster | -1 | 😾 | 
-| 1912 | [FlexGen: Flexible Multi-View Generation from Text and Image Inputs](2410.10745) | Xinli Xu | Poster | -1 | 😾 | 
-| 1913 | [UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments](2506.22736) | Dayong Su | Poster | -1 | 😾 | 
-| 1915 | [Towards Long-Horizon Vision-Language-Action System: Reasoning, Acting and Memory](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Towards_Long-Horizon_Vision-Language-Action_System_Reasoning_Acting_and_Memory_ICCV_2025_paper.pdf) | Daixun Li | Poster | -1 | 😾 | 
-| 1918 | [DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_DAP-MAE_Domain-Adaptive_Point_Cloud_Masked_Autoencoder_for_Effective_Cross-Domain_Learning_ICCV_2025_paper.pdf) | Ziqi Gao | Poster | -1 | 😾 | 
-| 1929 | [Dynamic Multimodal Prototype Learning in Vision-Language Models](2507.03657) | Xingyu Zhu | Poster | -1 | 😾 | 
-| 1936 | [ViLLa: Video Reasoning Segmentation with Large Language Model](2407.14500) | rongkun Zheng | Poster | -1 | 😾 | 
-| 1937 | [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](2506.23565) | Ji mingqian | Poster | -1 | 😾 | 
-| 1942 | [DistillDrive: End-to-End Multi-Mode Autonomous Driving Distillation by Isomorphic Hetero-Source Planning Model](2508.05402) | Rui Yu | Poster | -1 | 😾 | 
-| 1945 | [Recover Biological Structure from Sparse-View Diffraction Images with Neural Volumetric Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/He_Recover_Biological_Structure_from_Sparse-View_Diffraction_Images_with_Neural_Volumetric_ICCV_2025_paper.pdf) | Renzhi He | Poster | -1 | 😾 | 
-| 1956 | [Superpowering Open-Vocabulary Object Detectors for X-ray Vision](https://openaccess.thecvf.com/content/ICCV2025/papers/Garcia-Fernandez_Superpowering_Open-Vocabulary_Object_Detectors_for_X-ray_Vision_ICCV_2025_paper.pdf) | Pablo Garcia-Fernandez | Poster | -1 | 😾 | 
-| 1960 | [Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder](https://openaccess.thecvf.com/content/ICCV2025/papers/Cho_Att-Adapter_A_Robust_and_Precise_Domain-Specific_Multi-Attributes_T2I_Diffusion_Adapter_ICCV_2025_paper.pdf) | Wonwoong Cho | Poster | -1 | 😾 | 
-| 1961 | [Bridging the Gap between Brain and Machine in Interpreting Visual Semantics: Towards Self-adaptive Brain-to-Text Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Bridging_the_Gap_between_Brain_and_Machine_in_Interpreting_Visual_ICCV_2025_paper.pdf) | Jiaxuan Chen | Poster | -1 | 😾 | 
-| 1979 | [EVT: Efficient View Transformation for Multi-Modal 3D Object Detection](2411.10715) | Yongjin Lee | Poster | -1 | 😾 | 
-| 1981 | [UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving](2412.04842) | Rui Chen | Poster | -1 | 😾 | 
-| 2004 | [Deciphering Cross-Modal Alignment in Large Vision-Language Models via Modality Integration Rate](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Deciphering_Cross-Modal_Alignment_in_Large_Vision-Language_Models_via_Modality_Integration_ICCV_2025_paper.pdf) | Qidong Huang | Poster | -1 | 😾 | 
-| 2005 | [Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation](2507.22886) | Kaining Ying | Poster | -1 | 😾 | 
-| 2006 | [ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models](2502.19958) | Ke Niu | Poster | -1 | 😾 | 
-| 2014 | [Ask and Remember: A Questions-Only Replay Strategy for Continual Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Marouf_Ask_and_Remember_A_Questions-Only_Replay_Strategy_for_Continual_Visual_ICCV_2025_paper.pdf) | Imad Eddine MAROUF | Poster | -1 | 😾 | 
-| 2017 | [OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining](2411.15421) | Ming Hu | Poster | -1 | 😾 | 
-| 2019 | [Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning](2507.02581) | Tan Pan | Poster | -1 | 😾 | 
-| 2024 | [TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models](2412.18675) | Pooyan Rahmanzadehgervi | Poster | -1 | 😾 | 
-| 2025 | [SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images](2502.14351) | Yichi Zhang | Poster | -1 | 😾 | 
-| 2027 | [MolParser: End-to-end Visual Recognition of Molecule Structures in the Wild](2411.11098) | Xi Fang | Poster | -1 | 😾 | 
-| 2031 | [Teeth Reconstruction and Performance Capture Using a Phone Camera](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Teeth_Reconstruction_and_Performance_Capture_Using_a_Phone_Camera_ICCV_2025_paper.pdf) | Weixi Zheng | Poster | -1 | 😾 | 
-| 2035 | [Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction](2411.14001) | Yuntao Shou | Poster | -1 | 😾 | 
-| 2043 | [TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models](https://iccv.thecvf.com/virtual/2025/poster/2043) | Ziyang Luo | Poster | -1 | 😾 | 
-| 2049 | [MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation](2509.21265) | Xinyu Liu | Poster | -1 | 😾 | 
-| 2052 | [NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning](2502.00372) | Zhixi Cai | Poster | -1 | 😾 | 
-| 2055 | [WeaveSeg: Iterative Contrast-weaving and Spectral Feature-refining for Nuclei Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_WeaveSeg_Iterative_Contrast-weaving_and_Spectral_Feature-refining_for_Nuclei_Instance_Segmentation_ICCV_2025_paper.pdf) | Jiajia Li | Poster | -1 | 😾 | 
-| 2061 | [SplatTalk: 3D VQA with Gaussian Splatting](2503.06271) | Anh Thai | Poster | -1 | 😾 | 
-| 2082 | [Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation](2411.16789) | Jungeun Kim | Poster | -1 | 😾 | 
-| 2083 | [AVAM: a Universal Training-free Adaptive Visual Anchoring Embedded into Multimodal Large Language Model for Multi-image Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_AVAM_a_Universal_Training-free_Adaptive_Visual_Anchoring_Embedded_into_Multimodal_ICCV_2025_paper.pdf) | Kang Zeng | Poster | -1 | 😾 | 
-| 2084 | [SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.pdf) | Shuhang Chen | Poster | -1 | 😾 | 
-| 2085 | [FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_FDPT_Federated_Discrete_Prompt_Tuning_for_Black-Box_Visual-Language_Models_ICCV_2025_paper.pdf) | Jiaqi Wu | Poster | -1 | 😾 | 
-| 2091 | [Fuzzy Contrastive Decoding to Alleviate Object Hallucination in Large Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_Fuzzy_Contrastive_Decoding_to_Alleviate_Object_Hallucination_in_Large_Vision-Language_ICCV_2025_paper.pdf) | Jieun Kim | Poster | -1 | 😾 | 
-| 2097 | [D-Attn: Decomposed Attention for Large Vision-and-Language Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Kuo_D-Attn_Decomposed_Attention_for_Large_Vision-and-Language_Model_ICCV_2025_paper.pdf) | Chia-Wen Kuo | Poster | -1 | 😾 | 
-| 2099 | [ProbMED: A Probabilistic Framework for Medical Multimodal Binding](2509.25711) | Yuan Gao | Poster | -1 | 😾 | 
-| 2105 | [Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation](2504.02542) | Fating Hong | Poster | -1 | 😾 | 
-| 2111 | [One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](2507.16337) | Xinyu Mao | Poster | -1 | 😾 | 
-| 2118 | [GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](2504.01009) | Saarthak Kapse | Poster | -1 | 😾 | 
-| 2134 | [GDKVM: Echocardiography Video Segmentation via Spatiotemporal Key-Value Memory with Gated Delta Rule](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_GDKVM_Echocardiography_Video_Segmentation_via_Spatiotemporal_Key-Value_Memory_with_Gated_ICCV_2025_paper.pdf) | Rui Wang | Poster | -1 | 😾 | 
-| 2135 | [AMDANet: Attention-Driven Multi-Perspective Discrepancy Alignment for RGB-Infrared Image Fusion and Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_AMDANet_Attention-Driven_Multi-Perspective_Discrepancy_Alignment_for_RGB-Infrared_Image_Fusion_and_ICCV_2025_paper.pdf) | Haifeng Zhong | Poster | -1 | 😾 | 
-| 2156 | [Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings](https://openaccess.thecvf.com/content/ICCV2025/papers/Yao_Unsupervised_Visible-Infrared_Person_Re-identification_under_Unpaired_Settings_ICCV_2025_paper.pdf) | Haoyu Yao | Poster | -1 | 😾 | 
-| 2161 | [METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](2507.20842) | Yuchen Liu | Poster | -1 | 😾 | 
-| 2164 | [DWIM: Towards Tool-aware Visual Reasoning via Discrepancy-aware Workflow Generation & Instruct-Masking Tuning](2503.19263) | Fucai Ke | Poster | -1 | 😾 | 
-| 2165 | [RA-BUSSeg: Relation-aware Semi-supervised Breast Ultrasound Image Segmentation via Adjacent Propagation and Cross-layer Alignment](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_RA-BUSSeg_Relation-aware_Semi-supervised_Breast_Ultrasound_Image_Segmentation_via_Adjacent_Propagation_ICCV_2025_paper.pdf) | Wanting ZHANG | Poster | -1 | 😾 | 
-| 2166 | [CMAD: Correlation-Aware and Modalities-Aware Distillation for Multimodal Sentiment Analysis with Missing Modalities](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhuang_CMAD_Correlation-Aware_and_Modalities-Aware_Distillation_for_Multimodal_Sentiment_Analysis_with_ICCV_2025_paper.pdf) | Yan Zhuang | Poster | -1 | 😾 | 
-| 2172 | [AcZeroTS: Active Learning for Zero-shot Tissue Segmentation in Pathology Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_AcZeroTS_Active_Learning_for_Zero-shot_Tissue_Segmentation_in_Pathology_Images_ICCV_2025_paper.pdf) | Jiao Tang | Poster | -1 | 😾 | 
-| 2179 | [Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation](2411.16719) | Xiaoling Hu | Poster | -1 | 😾 | 
-| 2183 | [Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation](2411.06106) | Zhaorui Tan | Poster | -1 | 😾 | 
-| 2186 | [Multi-modal Segment Anything Model for Camouflaged Scene Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Multi-modal_Segment_Anything_Model_for_Camouflaged_Scene_Segmentation_ICCV_2025_paper.pdf) | Guangyu Ren | Poster | -1 | 😾 | 
-| 2205 | [VLR-Driver: Large Vision-Language-Reasoning Models for Embodied Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2025/papers/Kong_VLR-Driver_Large_Vision-Language-Reasoning_Models_for_Embodied_Autonomous_Driving_ICCV_2025_paper.pdf) | Fanjie Kong | Poster | -1 | 😾 | 
-| 2224 | [Token Activation Map to Visually Explain Multimodal LLMs](2506.23270) | Yi Li | Poster | -1 | 😾 | 
-| 2229 | [PhysSplat: Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_PhysSplat_Efficient_Physics_Simulation_for_3D_Scenes_via_MLLM-Guided_Gaussian_ICCV_2025_paper.pdf) | Haoyu Zhao | Poster | -1 | 😾 | 
-| 2230 | [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_MotionCtrl_A_Real-time_Controllable_Vision-Language-Motion_Model_ICCV_2025_paper.pdf) | Bin Cao | Poster | -1 | 😾 | 
-| 2232 | [Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program](2504.06606) | Minghe Gao | Poster | -1 | 😾 | 
-| 2236 | [MMAT-1M: A Large Reasoning Dataset for Multimodal Agent Tuning](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_MMAT-1M_A_Large_Reasoning_Dataset_for_Multimodal_Agent_Tuning_ICCV_2025_paper.pdf) | Tianhong Gao | Poster | -1 | 😾 | 
-| 2246 | [Auxiliary Prompt Tuning of Vision-Language Models for Few-Shot Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Miao_Auxiliary_Prompt_Tuning_of_Vision-Language_Models_for_Few-Shot_Out-of-Distribution_Detection_ICCV_2025_paper.pdf) | Wenjun Miao | Poster | -1 | 😾 | 
-| 2247 | [MMGeo: Multimodal Compositional Geo-Localization for UAVs](https://openaccess.thecvf.com/content/ICCV2025/papers/Ji_MMGeo_Multimodal_Compositional_Geo-Localization_for_UAVs_ICCV_2025_paper.pdf) | Yuxiang Ji | Poster | -1 | 😾 | 
-| 2249 | [EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Clients](2412.00334) | meihan wu | Poster | -1 | 😾 | 
-| 2250 | [Modeling Human Gaze Behavior with Diffusion Models for Unified Scanpath Prediction](2507.23021) | Giuseppe Cartella | Poster | -1 | 😾 | 
-| 2252 | [Not Only Vision: Evolve Visual Speech Recognition via Peripheral Information](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_Not_Only_Vision_Evolve_Visual_Speech_Recognition_via_Peripheral_Information_ICCV_2025_paper.pdf) | Zhaoxin Yuan | Poster | -1 | 😾 | 
-| 2263 | [BASIC: Boosting Visual Alignment with Intrinsic Refined Embeddings in Multimodal Large Language Models](2508.06895) | Jianting Tang | Poster | -1 | 😾 | 
-| 2266 | [Dynamic Reconstruction of Hand-Object Interaction with Distributed Force-aware Contact Representation](2411.09572) | Zhenjun Yu | Poster | -1 | 😾 | 
-| 2272 | [Dream-to-Real: Leveraging Image Generation for Single-View Volumetric Reconstruction](https://iccv.thecvf.com/virtual/2025/poster/2272) | Philipp Wulff | Poster | 0 | 😾 | 
-| 2288 | [Benchmarking Multimodal Large Language Models Against Image Corruptions](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Benchmarking_Multimodal_Large_Language_Models_Against_Image_Corruptions_ICCV_2025_paper.pdf) | Xinkuan Qiu | Poster | -1 | 😾 | 
-| 2290 | [Differential-informed Sample Selection Accelerates Multimodal Contrastive Learning](2507.12998) | Zihua Zhao | Poster | -1 | 😾 | 
-| 2297 | [ZipVL: Accelerating Vision-Language Models through Dynamic Token Sparsity](https://openaccess.thecvf.com/content/ICCV2025/papers/He_ZipVL_Accelerating_Vision-Language_Models_through_Dynamic_Token_Sparsity_ICCV_2025_paper.pdf) | Yefei He | Poster | -1 | 😾 | 
-| 2298 | [Vector Contrastive Learning For Pixel-Wise Pretraining In Medical Vision](2506.20850) | Yuting He | Poster | -1 | 😾 | 
-| 2300 | [OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations](2508.20063) | Peng-Hao Hsu | Poster | -1 | 😾 | 
-| 2304 | [EVOLVE: Event-Guided Deformable Feature Transfer and Dual-Memory Refinement for Low-Light Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Baek_EVOLVE_Event-Guided_Deformable_Feature_Transfer_and_Dual-Memory_Refinement_for_Low-Light_ICCV_2025_paper.pdf) | Jong Hyeon Baek | Poster | -1 | 😾 | 
-| 2305 | [AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion](2505.24877) | Yangyi Huang | Poster | -1 | 😾 | 
-| 2306 | [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://openaccess.thecvf.com/content/ICCV2025/papers/Mallis_CAD-Assistant_Tool-Augmented_VLLMs_as_Generic_CAD_Task_Solvers_ICCV_2025_paper.pdf) | Dimitrios Mallis | Poster | -1 | 😾 | 
-| 2310 | [MamTiff-CAD: Multi-Scale Latent Diffusion with Mamba+ for Complex Parametric Sequence](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_MamTiff-CAD_Multi-Scale_Latent_Diffusion_with_Mamba_for_Complex_Parametric_Sequence_ICCV_2025_paper.pdf) | Liyuan Deng | Poster | -1 | 😾 | 
-| 2320 | [MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Daxberger_MM-Spatial_Exploring_3D_Spatial_Understanding_in_Multimodal_LLMs_ICCV_2025_paper.pdf) | Erik Daxberger | Poster | -1 | 😾 | 
-| 2323 | [Bridging Domain Generalization to Multimodal Domain Generalization via Unified Representations](2507.03304) | Hai Huang | Poster | -1 | 😾 | 
-| 2327 | [Test-Time Retrieval-Augmented Adaptation for Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_Test-Time_Retrieval-Augmented_Adaptation_for_Vision-Language_Models_ICCV_2025_paper.pdf) | Xinqi Fan | Poster | -1 | 😾 | 
-| 2333 | [MobileViCLIP: An Efficient Video-Text Model for Mobile Devices](2508.07312) | Min Yang | Poster | -1 | 😾 | 
-| 2338 | [SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models](2502.13059) | Xianfu Cheng | Poster | -1 | 😾 | 
-| 2346 | [SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining](2503.18052) | Yue Li | Poster | -1 | 😾 | 
-| 2350 | [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](2506.23563) | Huanjin Yao | Poster | -1 | 😾 | 
-| 2351 | [Mamba-3VL: Taming State Space Model for 3D Vision Language Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Mamba-3VL_Taming_State_Space_Model_for_3D_Vision_Language_Learning_ICCV_2025_paper.pdf) | Yuan Wang | Poster | -1 | 😾 | 
-| 2354 | [G2PDiffusion: Cross-Species Genotype-to-Phenotype Prediction via Evolutionary Diffusion](2502.04684) | Mengdi Liu | Poster | -1 | 😾 | 
-| 2356 | [Improving Multimodal Learning via Imbalanced Learning](2507.10203) | Shicai Wei | Poster | -1 | 😾 | 
-| 2369 | [Spatial Alignment and Temporal Matching Adapter for Video-Radar Remote Physiological Measurement](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_Spatial_Alignment_and_Temporal_Matching_Adapter_for_Video-Radar_Remote_Physiological_ICCV_2025_paper.pdf) | Qian Liang | Poster | -1 | 😾 | 
-| 2383 | [MOBIUS: Big-to-Mobile Universal Instance Segmentation via Multi-modal Bottleneck Fusion and Calibrated Decoder Pruning](https://openaccess.thecvf.com/content/ICCV2025/papers/Segu_MOBIUS_Big-to-Mobile_Universal_Instance_Segmentation_via_Multi-modal_Bottleneck_Fusion_and_ICCV_2025_paper.pdf) | Mattia Segu | Poster | -1 | 😾 | 
-| 2386 | [FIND: Few-Shot Anomaly Inspection with Normal-Only Multi-Modal Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FIND_Few-Shot_Anomaly_Inspection_with_Normal-Only_Multi-Modal_Data_ICCV_2025_paper.pdf) | YITING LI | Poster | -1 | 😾 | 
-| 2391 | [AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm](https://iccv.thecvf.com/virtual/2025/poster/2391) | Xinyue Li | Poster | -1 | 😾 | 
-| 2394 | [Similarity Memory Prior is All You Need for Medical Image Segmentation](2507.00585) | Hao Tang | Poster | -1 | 😾 | 
-| 2395 | [Corvid: Improving Multimodal Large Language Models Towards Chain-of-Thought Reasoning](2507.07424) | JINGJING JIANG | Poster | -1 | 😾 | 
-| 2396 | [OVG-HQ: Online Video Grounding with Hybrid-modal Queries](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_OVG-HQ_Online_Video_Grounding_with_Hybrid-modal_Queries_ICCV_2025_paper.pdf) | Runhao Zeng | Poster | -1 | 😾 | 
-| 2405 | [Zero-AVSR: Zero-Shot Audio-Visual Speech Recognition with LLMs by Learning Language-Agnostic Speech Representations](https://openaccess.thecvf.com/content/ICCV2025/papers/Yeo_Zero-AVSR_Zero-Shot_Audio-Visual_Speech_Recognition_with_LLMs_by_Learning_Language-Agnostic_ICCV_2025_paper.pdf) | Jeong Hun Yeo | Poster | -1 | 😾 | 
-| 2411 | [ShortV: Freezing Visual Tokens in Ineffective Layers of Multimodal Large Language Models](https://iccv.thecvf.com/virtual/2025/poster/2411) | Qianhao Yuan | Poster | 0 | 😾 | 
-| 2413 | [MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Tan_MPBR_Multimodal_Progressive_Bidirectional_Reasoning_for_Open-Set_Fine-Grained_Recognition_ICCV_2025_paper.pdf) | Junfu Tan | Poster | -1 | 😾 | 
-| 2415 | [3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding](2412.18450) | Tatiana Zemskova | Poster | -1 | 😾 | 
-| 2416 | [Synergistic Prompting for Robust Visual Recognition with Missing Modalities](2507.07802) | Zhihui Zhang | Poster | -1 | 😾 | 
-| 2418 | [Pseudo-SD: Pseudo Controlled Stable Diffusion for Semi-Supervised and Cross-Domain Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Pseudo-SD_Pseudo_Controlled_Stable_Diffusion_for_Semi-Supervised_and_Cross-Domain_Semantic_ICCV_2025_paper.pdf) | Dong Zhao | Poster | -1 | 😾 | 
-| 2421 | [SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.pdf) | Sudong Wang | Poster | -1 | 😾 | 
-| 2423 | [Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior](2403.18878) | YoungSeok Jeon | Poster | -1 | 😾 | 
-| 2427 | [Leveraging Debiased Cross-modal Attention Maps and Code-based Reasoning for Zero-shot Referring Expression Comprehension](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Leveraging_Debiased_Cross-modal_Attention_Maps_and_Code-based_Reasoning_for_Zero-shot_ICCV_2025_paper.pdf) | Juntao Chen | Poster | -1 | 😾 | 
-| 2436 | [Learning to Inference Adaptively for Multimodal Large Language Models](2503.10905) | Zhuoyan Xu | Poster | -1 | 😾 | 
-| 2437 | [CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection](https://iccv.thecvf.com/virtual/2025/poster/2437) | Hanzhi Zhong | Poster | -1 | 😾 | 
-| 2438 | [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning](2412.03248) | Yiwu Zhong | Poster | -1 | 😾 | 
-| 2441 | [CogCM: Cognition-Inspired Contextual Modeling for Audio-Visual Speech Enhancement](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_CogCM_Cognition-Inspired_Contextual_Modeling_for_Audio-Visual_Speech_Enhancement_ICCV_2025_paper.pdf) | Feixiang Wang | Poster | -1 | 😾 | 
-| 2443 | [Beyond Brain Decoding: Visual-Semantic Reconstructions to Mental Creation Extension Based on fMRI](https://openaccess.thecvf.com/content/ICCV2025/papers/Jing_Beyond_Brain_Decoding_Visual-Semantic_Reconstructions_to_Mental_Creation_Extension_Based_ICCV_2025_paper.pdf) | Haodong Jing | Poster | -1 | 😾 | 
-| 2446 | [Multimodal Prompt Alignment for Facial Expression Recognition](2506.21017) | Fuyan Ma | Poster | -1 | 😾 | 
-| 2449 | [Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Mu_Diff2I2P_Differentiable_Image-to-Point_Cloud_Registration_with_Diffusion_Prior_ICCV_2025_paper.pdf) | Juncheng Mu | Poster | -1 | 😾 | 
-| 2452 | [OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_OV3D-CG_Open-vocabulary_3D_Instance_Segmentation_with_Contextual_Guidance_ICCV_2025_paper.pdf) | Mingquan Zhou | Poster | -1 | 😾 | 
-| 2454 | [SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SC-Captioner_Improving_Image_Captioning_with_Self-Correction_by_Reinforcement_Learning_ICCV_2025_paper.pdf) | Lin Zhang | Poster | -1 | 😾 | 
-| 2462 | [ASCENT: Annotation-free Self-supervised Contrastive Embeddings for 3D Neuron Tracking in Fluorescence Microscopy](https://openaccess.thecvf.com/content/ICCV2025/papers/Han_ASCENT_Annotation-free_Self-supervised_Contrastive_Embeddings_for_3D_Neuron_Tracking_in_ICCV_2025_paper.pdf) | Haejun Han | Poster | -1 | 😾 | 
-| 2466 | [Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Kang_Dynamic_Multi-Layer_Null_Space_Projection_for_Vision-Language_Continual_Learning_ICCV_2025_paper.pdf) | Borui Kang | Poster | -1 | 😾 | 
-| 2471 | [RadGPT: Constructing 3D Image-Text Tumor Datasets](https://openaccess.thecvf.com/content/ICCV2025/papers/Bassi_RadGPT_Constructing_3D_Image-Text_Tumor_Datasets_ICCV_2025_paper.pdf) | Pedro Bassi | Poster | -1 | 😾 | 
-| 2477 | [MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) | Tao Wang | Poster | -1 | 😾 | 
-| 2490 | [Flow-MIL: Constructing Highly-expressive Latent Feature Space For Whole Slide Image Classification Using Normalizing Flow](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Flow-MIL_Constructing_Highly-expressive_Latent_Feature_Space_For_Whole_Slide_Image_ICCV_2025_paper.pdf) | Yingfan MA | Poster | -1 | 😾 | 
-| 2505 | [Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](2504.01901) | Haochen Wang | Poster | -1 | 😾 | 
-| 2507 | [FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FED-PsyAU_Privacy-Preserving_Micro-Expression_Recognition_via_Psychological_AU_Coordination_and_Dynamic_ICCV_2025_paper.pdf) | Jingting Li | Poster | -1 | 😾 | 
-| 2508 | [Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](2508.15256) | Jinsol Song | Poster | -1 | 😾 | 
-| 2512 | [HypDAE: Hyperbolic Diffusion Autoencoders for Hierarchical Few-shot Image Generation](2411.17784) | Lingxiao Li | Poster | -1 | 😾 | 
-| 2514 | [CoSMIC: Continual Self-supervised Learning for Multi-Domain Medical Imaging via Conditional Mutual Information Maximization](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_CoSMIC_Continual_Self-supervised_Learning_for_Multi-Domain_Medical_Imaging_via_Conditional_ICCV_2025_paper.pdf) | Yihang Liu | Poster | -1 | 😾 | 
-| 2524 | [Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](2507.02395) | Byung Lee Lee | Poster | -1 | 😾 | 
-| 2531 | [LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](https://iccv.thecvf.com/virtual/2025/poster/2531) | Li Huaqiu | Poster | -1 | 😾 | 
-| 2537 | [Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation](2509.15224) | Luca Bartolomei | Poster | -1 | 😾 | 
-| 2543 | [AutoOcc: Automatic Open-Ended Semantic Occupancy Annotation via Vision-Language Guided Gaussian Splatting](2502.04981) | Xiaoyu Zhou | Poster | -1 | 😾 | 
-| 2545 | [3DRealCar: An In-the-wild RGB-D Car Dataset with 360-degree Views](https://openaccess.thecvf.com/content/ICCV2025/papers/Du_3DRealCar_An_In-the-wild_RGB-D_Car_Dataset_with_360-degree_Views_ICCV_2025_paper.pdf) | Xiaobiao Du | Poster | -1 | 😾 | 
-| 2548 | [InvRGB+L: Inverse Rendering of Complex Scenes with Unified Color and LiDAR Reflectance Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_InvRGBL_Inverse_Rendering_of_Complex_Scenes_with_Unified_Color_and_ICCV_2025_paper.pdf) | Xiaoxue Chen | Poster | -1 | 😾 | 
-| 2549 | [FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging](https://openaccess.thecvf.com/content/ICCV2025/papers/You_FB-Diff_Fourier_Basis-guided_Diffusion_for_Temporal_Interpolation_of_4D_Medical_ICCV_2025_paper.pdf) | Xin You | Poster | -1 | 😾 | 
-| 2568 | [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Haji-Ali_AV-Link_Temporally-Aligned_Diffusion_Features_for_Cross-Modal_Audio-Video_Generation_ICCV_2025_paper.pdf) | Moayed Haji-Ali | Poster | -1 | 😾 | 
-| 2569 | [Exploiting Frequency Dynamics for Enhanced Multimodal Event-based Action Recognition](https://iccv.thecvf.com/virtual/2025/poster/2569) | Meiqi Cao | Poster | -1 | 😾 | 
-| 2571 | [FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf) | Tao Gong | Poster | -1 | 😾 | 
-| 2573 | [Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers](2506.07986) | Zhengyao Lyu | Poster | -1 | 😾 | 
-| 2576 | [VGMamba: Attribute-to-Location Clue Reasoning for Quantity-Agnostic 3D Visual Grounding](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_VGMamba_Attribute-to-Location_Clue_Reasoning_for_Quantity-Agnostic_3D_Visual_Grounding_ICCV_2025_paper.pdf) | Zhu Yihang | Poster | -1 | 😾 | 
-| 2577 | [TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning In Text-to-Image Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Hsiao_TF-TI2I_Training-Free_Text-and-Image-to-Image_Generation_via_Multi-Modal_Implicit-Context_Learning_In_Text-to-Image_ICCV_2025_paper.pdf) | Teng-Fang Hsiao | Poster | -1 | 😾 | 
-| 2579 | [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](2506.23468) | Xuan Yao | Poster | -1 | 😾 | 
-| 2580 | [SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_SVG-Head_Hybrid_Surface-Volumetric_Gaussians_for_High-Fidelity_Head_Reconstruction_and_Real-Time_ICCV_2025_paper.pdf) | Heyi Sun | Poster | -1 | 😾 | 
-| 2584 | [LIRA: Reasoning Reconstruction via Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_LIRA_Reasoning_Reconstruction_via_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) | Zhen Zhou | Poster | -1 | 😾 | 
-| 2596 | [SAMPLE: Semantic Alignment through Temporal-Adaptive Multimodal Prompt Learning for Event-Based Open-Vocabulary Action Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_SAMPLE_Semantic_Alignment_through_Temporal-Adaptive_Multimodal_Prompt_Learning_for_Event-Based_ICCV_2025_paper.pdf) | Jing Wang | Poster | -1 | 😾 | 
-| 2597 | [Boosting Vision Semantic Density with Anatomy Normality Modeling for Medical Vision-language Pre-training](2508.03742) | Weiwei Cao | Poster | -1 | 😾 | 
-| 2618 | [BlueNeg: A 35mm Negative Film Dataset for Restoring Channel-Heterogeneous Deterioration](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_BlueNeg_A_35mm_Negative_Film_Dataset_for_Restoring_Channel-Heterogeneous_Deterioration_ICCV_2025_paper.pdf) | Hanyuan Liu | Poster | -1 | 😾 | 
-| 2624 | [Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](2412.05934) | Ma Teng | Poster | -1 | 😾 | 
-| 2629 | [CLIP-Adapted Region-to-Text Learning for Generative Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ge_CLIP-Adapted_Region-to-Text_Learning_for_Generative_Open-Vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf) | Jiannan Ge | Poster | -1 | 😾 | 
-| 2630 | [Toward Fair and Accurate Cross-Domain Medical Image Segmentation: A VLM-Driven Active Domain Adaptation Paradigm](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Toward_Fair_and_Accurate_Cross-Domain_Medical_Image_Segmentation_A_VLM-Driven_ICCV_2025_paper.pdf) | Hongqiu Wang | Poster | -1 | 😾 | 
-| 2642 | [Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving](2503.21505) | Yue Li | Poster | -1 | 😾 | 
-| 2650 | [UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction](2510.01669) | Jin Cao | Poster | -1 | 😾 | 
-| 2651 | [UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation](2504.06908) | Emmanuelle Bourigault | Poster | -1 | 😾 | 
-| 2656 | [LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](2506.23502) | Meng Tian | Poster | -1 | 😾 | 
-| 2657 | [AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference](2503.23956) | Kai Huang | Poster | -1 | 😾 | 
-| 2674 | [SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark](2506.21549) | Alex Costanzino | Poster | -1 | 😾 | 
-| 2686 | [MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization](2507.20562) | Hyung Kim | Poster | -1 | 😾 | 
-| 2689 | [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](2506.22375) | Tiankai Chen | Poster | -1 | 😾 | 
-| 2711 | [CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation](2504.20830) | Jianyu Wu | Poster | -1 | 😾 | 
-| 8312e8e7a8 | [EgoM2P: Egocentric Multimodal Multitask Pretraining](2506.07886) | Gen Li | None | -1 | 😾 | 
-| d283a8d992 | [ShortV: Efficient Multimodal Large Language Models by Freezing Visual Tokens in Ineffective Layers](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_ShortV_Efficient_Multimodal_Large_Language_Models_by_Freezing_Visual_Tokens_ICCV_2025_paper.html) |  | None | -1 | 😾 | 
+| 17 | [Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics](2411.13587) | Taowen Wang | Poster |  | 😾 | 
+| 19 | [AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?](2412.03002) | Shouwei Ruan | Poster |  | 😾 | 
+| 24 | [MetaMorph: Multimodal Understanding and Generation via Instruction Tuning](https://openaccess.thecvf.com/content/ICCV2025/papers/Tong_MetaMorph_Multimodal_Understanding_and_Generation_via_Instruction_Tuning_ICCV_2025_paper.pdf) | Shengbang Tong | Poster |  | 😾 | 
+| 26 | [Feature Decomposition-Recomposition in Large Vision-Language Model for Few-Shot Class-Incremental Learning](https://iccv.thecvf.com/virtual/2025/poster/26) | Zongyao Xue | Poster |  | 😾 | 
+| 35 | [PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_PriOr-Flow_Enhancing_Primitive_Panoramic_Optical_Flow_with_Orthogonal_View_ICCV_2025_paper.pdf) | Longliang Liu | Poster |  | 😾 | 
+| 49 | [MorphoGen: Efficient Unconditional Generation of Long-Range Projection Neuronal Morphology via a Global-to-Local Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_MorphoGen_Efficient_Unconditional_Generation_of_Long-Range_Projection_Neuronal_Morphology_via_ICCV_2025_paper.pdf) | Tianfang Zhu | Poster |  | 😾 | 
+| 50 | [SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](2503.14530) | Jiahui Geng | Poster |  | 😾 | 
+| 59 | [VideoVAE+: Large Motion Video Autoencoding with Cross-modal Video VAE](https://openaccess.thecvf.com/content/ICCV2025/papers/Xing_VideoVAE_Large_Motion_Video_Autoencoding_with_Cross-modal_Video_VAE_ICCV_2025_paper.pdf) | Yazhou Xing | Poster |  | 😾 | 
+| 66 | [VTimeCoT: Thinking by Drawing for Video Temporal Grounding and Reasoning](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_VTimeCoT_Thinking_by_Drawing_for_Video_Temporal_Grounding_and_Reasoning_ICCV_2025_paper.pdf) | Jinglei Zhang | Poster |  | 😾 | 
+| 73 | [G2D: Boosting Multimodal Learning with Gradient-Guided Distillation](https://openaccess.thecvf.com/content/ICCV2025/papers/Rakib_G2D_Boosting_Multimodal_Learning_with_Gradient-Guided_Distillation_ICCV_2025_paper.pdf) | Mohammed Rakib | Poster |  | 😾 | 
+| 77 | [MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_MP-HSIR_A_Multi-Prompt_Framework_for_Universal_Hyperspectral_Image_Restoration_ICCV_2025_paper.pdf) | Zhehui Wu | Poster |  | 😾 | 
+| 80 | [UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer](2503.09277) | Haoxuan Wang | Poster |  | 😾 | 
+| 91 | [Bridging the Skeleton-Text Modality Gap: Diffusion-Powered Modality Alignment for Zero-shot Skeleton-based Action Recognition](2411.10745) | Jeonghyeok Do | Poster |  | 😾 | 
+| 100 | [AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs](2503.22884) | Yi-Ting Shen | Poster |  | 😾 | 
+| 111 | [DreamFuse: Adaptive Image Fusion with Diffusion Transformer](2504.08291) | Junjia Huang | Poster |  | 😾 | 
+| 116 | [PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions](2506.23440) | Mahesh Bhosale | Poster |  | 😾 | 
+| 128 | [VLDrive: Vision-Augmented Lightweight MLLMs for Efficient Language-grounded Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_VLDrive_Vision-Augmented_Lightweight_MLLMs_for_Efficient_Language-grounded_Autonomous_Driving_ICCV_2025_paper.pdf) | Ruifei Zhang | Poster |  | 😾 | 
+| 138 | [Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles](https://openaccess.thecvf.com/content/ICCV2025/papers/Slyman_Calibrating_MLLM-as-a-judge_via_Multimodal_Bayesian_Prompt_Ensembles_ICCV_2025_paper.pdf) | Eric Slyman | Poster |  | 😾 | 
+| 149 | [CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Pham_CT-ScanGaze_A_Dataset_and_Baselines_for_3D_Volumetric_Scanpath_Modeling_ICCV_2025_paper.pdf) | Trong-Thang Pham | Poster |  | 😾 | 
+| 157 | [Vision-Language Neural Graph Featurization for Extracting Retinal Lesions](https://openaccess.thecvf.com/content/ICCV2025/papers/Hassan_Vision-Language_Neural_Graph_Featurization_for_Extracting_Retinal_Lesions_ICCV_2025_paper.pdf) | Taimur Hassan | Poster |  | 😾 | 
+| 159 | [VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models](2503.07478) | JIACHENG RUAN | Poster |  | 😾 | 
+| 166 | [STDDNet: Harnessing Mamba for Video Polyp Segmentation via Spatial-aligned Temporal Modeling and Discriminative Dynamic Representation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_STDDNet_Harnessing_Mamba_for_Video_Polyp_Segmentation_via_Spatial-aligned_Temporal_ICCV_2025_paper.pdf) | Guilian Chen | Poster |  | 😾 | 
+| 178 | [CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval](https://iccv.thecvf.com/virtual/2025/poster/178) | Zelong Sun | Poster |  | 😾 | 
+| 186 | [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](2507.06510) | Yupeng Hu | Poster |  | 😾 | 
+| 201 | [InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models](2412.14006) | Cong Wei | Poster |  | 😾 | 
+| 203 | [Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves](2507.09207) | Alexander Ogren | Poster |  | 😾 | 
+| 210 | [MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_MGSR_2D3D_Mutual-boosted_Gaussian_Splatting_for_High-fidelity_Surface_Reconstruction_under_ICCV_2025_paper.pdf) | Qingyuan Zhou | Poster |  | 😾 | 
+| 214 | [FedMVP: Federated Multimodal Visual Prompt Tuning for Vision-Language Models](2504.20860) | Mainak Singha | Poster |  | 😾 | 
+| 215 | [QK-Edit: Revisiting Attention-based Injection in MM-DiT for Image and Video Editing](https://openaccess.thecvf.com/content/ICCV2025/papers/Shen_QK-Edit_Revisiting_Attention-based_Injection_in_MM-DiT_for_Image_and_Video_ICCV_2025_paper.pdf) | Tiancheng SHEN | Poster |  | 😾 | 
+| 220 | [Intra-modal and Cross-modal Synchronization for Audio-visual Deepfake Detection and Temporal Localization](https://openaccess.thecvf.com/content/ICCV2025/papers/Anshul_Intra-modal_and_Cross-modal_Synchronization_for_Audio-visual_Deepfake_Detection_and_Temporal_ICCV_2025_paper.pdf) | Ashutosh Anshul | Poster |  | 😾 | 
+| 223 | [ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking](2507.19875) | Xiaokun Feng | Poster |  | 😾 | 
+| 227 | [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) | Yuxuan Cai | Poster |  | 😾 | 
+| 229 | [MM-IFEngine: Towards Multimodal Instruction Following](https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_MM-IFEngine_Towards_Multimodal_Instruction_Following_ICCV_2025_paper.pdf) | Shengyuan Ding | Poster |  | 😾 | 
+| 241 | [SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](2504.00139) | Yannick Burkhardt | Poster |  | 😾 | 
+| 246 | [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](2507.13019) | Liuyi Wang | Poster |  | 😾 | 
+| 248 | [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance](2501.02430) | Haicheng Wang | Poster |  | 😾 | 
+| 261 | [Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction](2503.11167) | Haonan Wang | Poster |  | 😾 | 
+| 263 | [Unified Open-World Segmentation with Multi-Modal Prompts](2510.10524) | Yang Liu | Poster |  | 😾 | 
+| 274 | [PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos](2503.17973) | Hanxiao Jiang | Poster |  | 😾 | 
+| 277 | [Cross-View Isolated Sign Language Recognition via View Synthesis and Feature Disentanglement](https://openaccess.thecvf.com/content/ICCV2025/papers/Shen_Cross-View_Isolated_Sign_Language_Recognition_via_View_Synthesis_and_Feature_ICCV_2025_paper.pdf) | Xin Shen | Poster |  | 😾 | 
+| 290 | [CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_CCL-LGS_Contrastive_Codebook_Learning_for_3D_Language_Gaussian_Splatting_ICCV_2025_paper.pdf) | Lei Tian | Poster |  | 😾 | 
+| 294 | [SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning](2507.19359) | Lanmiao Liu | Poster |  | 😾 | 
+| 299 | [3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_3D_Gaussian_Map_with_Open-Set_Semantic_Grouping_for_Vision-Language_Navigation_ICCV_2025_paper.pdf) | Jianzhe Gao | Poster |  | 😾 | 
+| 304 | [Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation](2411.09219) | Yuheng Shi | Poster |  | 😾 | 
+| 305 | [Semantic Causality-Aware Vision-Based 3D Occupancy Prediction](2509.08388) | Dubing Chen | Poster |  | 😾 | 
+| 316 | [FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection](2507.04511) | Xinhua Lu | Poster |  | 😾 | 
+| 327 | [ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](2503.17564) | Vishwesh Ramanathan | Poster |  | 😾 | 
+| 330 | [MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation](2503.11026) | Sungwoo Cho | Poster |  | 😾 | 
+| 331 | [DALIP: Distribution Alignment-based Language-Image Pre-Training for Domain-Specific Data](2504.01386) | Junjie Wu | Poster |  | 😾 | 
+| 335 | [Hints of Prompt: Enhancing Visual Representation for Multimodal LLMs in Autonomous Driving](2411.13076) | Hao Zhou | Poster |  | 😾 | 
+| 339 | [Social Debiasing for Fair Multi-modal LLMs](2408.06569) | Harry Cheng | Poster |  | 😾 | 
+| 346 | [Towards Effective Foundation Model Adaptation for Extreme Cross-Domain Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_Towards_Effective_Foundation_Model_Adaptation_for_Extreme_Cross-Domain_Few-Shot_Learning_ICCV_2025_paper.pdf) | Fei Zhou | Poster |  | 😾 | 
+| 360 | [LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs](https://iccv.thecvf.com/virtual/2025/poster/360) | Jiarui Wang | Poster |  | 😾 | 
+| 364 | [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](2505.23186) | Junyi Guo | Poster |  | 😾 | 
+| 376 | [How Can Objects Help Video-Language Understanding?](2504.07454) | Zitian Tang | Poster |  | 😾 | 
+| 392 | [InfoBridge: Balanced Multimodal Integration through Conditional Dependency Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_InfoBridge_Balanced_Multimodal_Integration_through_Conditional_Dependency_Modeling_ICCV_2025_paper.pdf) | Chenxin Li | Poster |  | 😾 | 
+| 400 | [When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning](2503.07588) | Junwei Luo | Poster |  | 😾 | 
+| 401 | [Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models](2507.09209) | Xiao Liang | Poster |  | 😾 | 
+| 407 | [SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://openaccess.thecvf.com/content/ICCV2025/papers/Wen_SEGS-SLAM_Structure-enhanced_3D_Gaussian_Splatting_SLAM_with_Appearance_Embedding_ICCV_2025_paper.pdf) | Tianci Wen | Poster |  | 😾 | 
+| 412 | [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Shang_LLaVA-PruMerge_Adaptive_Token_Reduction_for_Efficient_Large_Multimodal_Models_ICCV_2025_paper.pdf) | Yuzhang Shang | Poster |  | 😾 | 
+| 420 | [TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Simon_TITAN-Guide_Taming_Inference-Time_Alignment_for_Guided_Text-to-Video_Diffusion_Models_ICCV_2025_paper.pdf) | Christian Simon | Poster |  | 😾 | 
+| 423 | [Augmented and Softened Matching for Unsupervised Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2025/papers/Pang_Augmented_and_Softened_Matching_for_Unsupervised_Visible-Infrared_Person_Re-Identification_ICCV_2025_paper.pdf) | Zhiqi Pang | Poster |  | 😾 | 
+| 426 | [TruthPrInt: Mitigating Large Vision-Language Models Object Hallucination Via Latent Truthful-Guided Pre-Intervention](https://openaccess.thecvf.com/content/ICCV2025/papers/Duan_TruthPrInt_Mitigating_Large_Vision-Language_Models_Object_Hallucination_Via_Latent_Truthful-Guided_ICCV_2025_paper.pdf) | Jinhao Duan | Poster |  | 😾 | 
+| 428 | [CompCap: Improving Multimodal Large Language Models with Composite Captions](2412.05243) | Xiaohui Chen | Poster |  | 😾 | 
+| 435 | [CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization](2411.17845) | Soorena Salari | Poster |  | 😾 | 
+| 441 | [Is Visual in-Context Learning for Compositional Medical Tasks within Reach?](https://openaccess.thecvf.com/content/ICCV2025/papers/Reiss_Is_Visual_in-Context_Learning_for_Compositional_Medical_Tasks_within_Reach_ICCV_2025_paper.pdf) | Simon Reiß | Poster |  | 😾 | 
+| 452 | [Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines](2507.10737) | Jiayuan Chen | Poster |  | 😾 | 
+| 454 | [Head2Body: Body Pose Generation from Multi-sensory Head-mounted Inputs](https://openaccess.thecvf.com/content/ICCV2025/papers/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.pdf) | Minh Tran | Poster |  | 😾 | 
+| 455 | [IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance](2509.26231) | Jiayi Guo | Poster |  | 😾 | 
+| 456 | [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](2507.01367) | Tianrui Lou | Poster |  | 😾 | 
+| 481 | [TemCoCo: Temporally Consistent Multi-modal Video Fusion with Visual-Semantic Collaboration](https://iccv.thecvf.com/virtual/2025/poster/481) | Gong Meiqi | Poster |  | 😾 | 
+| 483 | [MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs](2504.06897) | Jiawei Mao | Poster |  | 😾 | 
+| 495 | [ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](2507.10223) | Xiangyu Yin | Poster |  | 😾 | 
+| 499 | [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Q-Frame_Query-aware_Frame_Selection_and_Multi-Resolution_Adaptation_for_Video-LLMs_ICCV_2025_paper.pdf) | Shaojie Zhang | Poster |  | 😾 | 
+| 508 | [WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images](2503.08407) | Yansong Guo | Poster |  | 😾 | 
+| 524 | [Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning](2507.21588) | Jiong Yin | Poster |  | 😾 | 
+| 526 | [Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](2503.20309) | Zitian Wang | Poster |  | 😾 | 
+| 540 | [Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment](2502.11079) | Lijie Liu | Poster |  | 😾 | 
+| 542 | [CoA-VLA: Improving Vision-Language-Action Models via Visual-Text Chain-of-Affordance](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_CoA-VLA_Improving_Vision-Language-Action_Models_via_Visual-Text_Chain-of-Affordance_ICCV_2025_paper.pdf) | Jinming Li | Poster |  | 😾 | 
+| 544 | [GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space](https://openaccess.thecvf.com/content/ICCV2025/papers/Shatwell_GT-Loc_Unifying_When_and_Where_in_Images_Through_a_Joint_ICCV_2025_paper.pdf) | David Shatwell | Poster |  | 😾 | 
+| 559 | [MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing](2507.01384) | Langyu Wang | Poster |  | 😾 | 
+| 561 | [Semantic versus Identity: A Divide-and-Conquer Approach towards Adjustable Medical Image De-Identification](https://iccv.thecvf.com/virtual/2025/poster/561) | Yuan Tian | Poster |  | 😾 | 
+| 571 | [CoStoDet-DDPM: Collaborative Training of Stochastic and Deterministic Models Improves Surgical Workflow Anticipation and Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CoStoDet-DDPM_Collaborative_Training_of_Stochastic_and_Deterministic_Models_Improves_Surgical_ICCV_2025_paper.pdf) | Kaixiang Yang | Poster |  | 😾 | 
+| 574 | [COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation](2503.24065) | Siqi Zhang | Poster |  | 😾 | 
+| 597 | [Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features](2412.00142) | Chancharik Mitra | Poster |  | 😾 | 
+| 598 | [PRISM: Reducing Spurious Implicit Biases in Vision-Language Models with LLM-Guided Embedding Projection](2507.08979) | Mahdiyar Molahasani | Poster |  | 😾 | 
+| 599 | [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](2507.01738) | Ming Dai | Poster |  | 😾 | 
+| 600 | [DiMPLe - Disentangled Multi-Modal Prompt Learning: Enhancing Out-Of-Distribution Alignment with Invariant and Spurious Feature Separation](https://openaccess.thecvf.com/content/ICCV2025/papers/Rahman_DiMPLe_-_Disentangled_Multi-Modal_Prompt_Learning_Enhancing_Out-Of-Distribution_Alignment_with_ICCV_2025_paper.pdf) | Umaima Rahman | Poster |  | 😾 | 
+| 614 | [DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs](2507.10302) | JIAHE ZHAO | Poster |  | 😾 | 
+| 622 | [MeasureXpert: Automatic Anthropometric Measurement Extraction from Two Unregistered, Partial, Posed, and Dressed Body Scans](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_MeasureXpert_Automatic_Anthropometric_Measurement_Extraction_from_Two_Unregistered_Partial_Posed_ICCV_2025_paper.pdf) | Ran Zhao | Poster |  | 😾 | 
+| 625 | [LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs](2503.06934) | Hanyu Zhou | Poster |  | 😾 | 
+| 647 | [The Inter-Intra Modal Measure: A Predictive Lens on Fine-Tuning Outcomes in Vision-Language Models](2407.15731) | Laura Niss | Poster |  | 😾 | 
+| 656 | [SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion](2503.11576) | Ahmed Nassar | Poster |  | 😾 | 
+| 661 | [OURO: A Self-Bootstrapped Framework for Enhancing Multimodal Scene Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_OURO_A_Self-Bootstrapped_Framework_for_Enhancing_Multimodal_Scene_Understanding_ICCV_2025_paper.pdf) | Tianrun Xu | Poster |  | 😾 | 
+| 662 | [Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning](2507.21494) | Wenxuan Bao | Poster |  | 😾 | 
+| 663 | [LDPose: Towards Inclusive Human Pose Estimation for Limb-Deficient Individuals in the Wild](https://openaccess.thecvf.com/content/ICCV2025/papers/Ying_LDPose_Towards_Inclusive_Human_Pose_Estimation_for_Limb-Deficient_Individuals_in_ICCV_2025_paper.pdf) | Jiaying Ying | Poster |  | 😾 | 
+| 664 | [Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning](2507.09118) | Linlan Huang | Poster |  | 😾 | 
+| 669 | [Improving SAM for Camouflaged Object Detection via Dual Stream Adapters](2503.06042) | Jiaming Liu | Poster |  | 😾 | 
+| 673 | [Controllable Latent Space Augmentation for Digital Pathology](2508.14588) | Sofiène Boutaj | Poster |  | 😾 | 
+| 679 | [EEGMirror: Leveraging EEG Data in the Wild via Montage-Agnostic Self-Supervision for EEG to Video Decoding](https://iccv.thecvf.com/virtual/2025/poster/679) | Xuan-Hao Liu | Poster |  | 😾 | 
+| 701 | [Visual-Oriented Fine-Grained Knowledge Editing for MultiModal Large Language Models](2411.12790) | Zhen Zeng | Poster |  | 😾 | 
+| 709 | [HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss](2504.07827) | Ke Zhang | Poster |  | 😾 | 
+| 712 | [MRGen: Segmentation Data Engine For Underrepresented MRI Modalities](2412.04106) | Haoning Wu | Poster |  | 😾 | 
+| 716 | [FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers](2501.16297) | Renshan Zhang | Poster |  | 😾 | 
+| 718 | [Harmonizing Visual Representations for Unified Multimodal Understanding and Generation](2503.21979) | Size Wu | Poster |  | 😾 | 
+| 721 | [Implicit Counterfactual Learning for Audio-Visual Segmentation](2507.20740) | Mingfeng Zha | Poster |  | 😾 | 
+| 725 | [CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiao_CLIP-GS_Unifying_Vision-Language_Representation_with_3D_Gaussian_Splatting_ICCV_2025_paper.pdf) | Siyu Jiao | Poster |  | 😾 | 
+| 734 | [LIRA: Inferring Segmentation in Large Multi-modal Models with Local Interleaved Region Assistance](2507.06272) | Zhang Li | Poster |  | 😾 | 
+| 748 | [MemDistill: Distilling LiDAR Knowledge into Memory for Camera-Only 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Kwon_MemDistill_Distilling_LiDAR_Knowledge_into_Memory_for_Camera-Only_3D_Object_ICCV_2025_paper.pdf) | Donghyeon Kwon | Poster |  | 😾 | 
+| 752 | [HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis](2508.09137) | Timo Teufel | Poster |  | 😾 | 
+| 753 | [Mastering Collaborative Multi-modal Data Selection: A Focus on Informativeness, Uniqueness, and Representativeness](2412.06293) | Qifan Yu | Poster |  | 😾 | 
+| 763 | [Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models](2508.00260) | Hyundong Jin | Poster |  | 😾 | 
+| 783 | [WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection](2507.18173) | Haodong Zhu | Poster |  | 😾 | 
+| 784 | [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.pdf) | Bo Liu | Poster |  | 😾 | 
+| 785 | [X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation](2503.06134) | jian ma | Poster |  | 😾 | 
+| 799 | [Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning](2503.12972) | Junming Liu | Poster |  | 😾 | 
+| 800 | [LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](2503.10200) | Boyu Chen | Poster |  | 😾 | 
+| 812 | [Multimodal LLM Guided Exploration and Active Mapping using Fisher Information](2410.17422) | Wen Jiang | Poster |  | 😾 | 
+| 814 | [ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations](2501.14607) | Tianming Liang | Poster |  | 😾 | 
+| 822 | [MDP-Omni: Parameter-free Multimodal Depth Prior-based Sampling for Omnidirectional Stereo Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Son_MDP-Omni_Parameter-free_Multimodal_Depth_Prior-based_Sampling_for_Omnidirectional_Stereo_Matching_ICCV_2025_paper.pdf) | Eunjin Son | Poster |  | 😾 | 
+| 830 | [Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images](2503.13439) | Tianhao Wu | Poster |  | 😾 | 
+| 835 | [Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Highlight_What_You_Want_Weakly-Supervised_Instance-Level_Controllable_Infrared-Visible_Image_Fusion_ICCV_2025_paper.pdf) | Zeyu Wang | Poster |  | 😾 | 
+| 839 | [Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](2507.12942) | Yafei Zhang | Poster |  | 😾 | 
+| 849 | [CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image](2412.12906) | Wonseok Roh | Poster |  | 😾 | 
+| 852 | [When Lighting Deceives: Exposing Vision-Language Models' Illumination Vulnerability Through Illumination Transformation Attack](https://iccv.thecvf.com/virtual/2025/poster/852) | Hanqing Liu | Poster |  | 😾 | 
+| 858 | [Boosting Multimodal Learning via Disentangled Gradient Learning](2507.10213) | Shicai Wei | Poster |  | 😾 | 
+| 859 | [DIH-CLIP: Unleashing the Diversity of Multi-Head Self-Attention for Training-Free Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Duan_DIH-CLIP_Unleashing_the_Diversity_of_Multi-Head_Self-Attention_for_Training-Free_Open-Vocabulary_ICCV_2025_paper.pdf) | Songsong Duan | Poster |  | 😾 | 
+| 861 | [GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_GS-LIVM_Real-Time_Photo-Realistic_LiDAR-Inertial-Visual_Mapping_with_Gaussian_Splatting_ICCV_2025_paper.pdf) | Yusen XIE | Poster |  | 😾 | 
+| 863 | [SAM4D: Segment Anything in Camera and LiDAR Streams](2506.21547) | Jianyun Xu | Poster |  | 😾 | 
+| 870 | [Causality-guided Prompt Learning for Vision-language Models via Visual Granulation](2509.03803) | Mengyu Gao | Poster |  | 😾 | 
+| 871 | [HOMO-Feature: Cross-Arbitrary-Modal Image Matching with Homomorphism of Organized Major Orientation](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_HOMO-Feature_Cross-Arbitrary-Modal_Image_Matching_with_Homomorphism_of_Organized_Major_Orientation_ICCV_2025_paper.pdf) | Chenzhong Gao | Poster |  | 😾 | 
+| 874 | [Player-Centric Multimodal Prompt Generation for Large Language Model Based Identity-Aware Basketball Video Captioning](2507.20163) | Zeyu Xi | Poster |  | 😾 | 
+| 892 | [Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer](2506.21880) | Yuansheng Li | Poster |  | 😾 | 
+| 894 | [ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition](2507.11261) | Ronggang Huang | Poster |  | 😾 | 
+| 923 | [CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models](2411.06869) | Junho Kim | Poster |  | 😾 | 
+| 924 | [JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers](2505.00482) | Kwon Byung-Ki | Poster |  | 😾 | 
+| 934 | [WalkVLM: Aid Visually Impaired People Walking by Vision Language Model](2412.20903) | Zhiqiang Yuan | Poster |  | 😾 | 
+| 940 | [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf) | Mingyang Liu | Poster |  | 😾 | 
+| 950 | [Doppler-Aware LiDAR-RADAR Fusion for Weather-Robust 3D Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Chae_Doppler-Aware_LiDAR-RADAR_Fusion_for_Weather-Robust_3D_Detection_ICCV_2025_paper.pdf) | Yujeong Chae | Poster |  | 😾 | 
+| 952 | [HAMSt3R: Human-Aware Multi-view Stereo 3D Reconstruction](https://openaccess.thecvf.com/content/ICCV2025/papers/Rojas_HAMSt3R_Human-Aware_Multi-view_Stereo_3D_Reconstruction_ICCV_2025_paper.pdf) | Sara Rojas Martinez | Poster |  | 😾 | 
+| 955 | [OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation](2503.07098) | Ding Zhong | Poster |  | 😾 | 
+| 960 | [Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation](2411.19331) | Luca Barsellotti | Poster |  | 😾 | 
+| 976 | [2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update](2507.11069) | Jeongyun Kim | Poster |  | 😾 | 
+| 983 | [Scaling Omni-modal Pretraining with Multimodal Context: Advancing Universal Representation Learning Across Modalities](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Scaling_Omni-modal_Pretraining_with_Multimodal_Context_Advancing_Universal_Representation_Learning_ICCV_2025_paper.pdf) | Yiyuan Zhang | Poster |  | 😾 | 
+| 988 | [LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing](2503.21541) | Achint Soni | Poster |  | 😾 | 
+| 989 | [VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization](2508.05211) | Sihan Yang | Poster |  | 😾 | 
+| 996 | [Seeing 3D Through 2D Lenses: 3D Few-Shot Class-Incremental Learning via Cross-Modal Geometric Rectification](https://iccv.thecvf.com/virtual/2025/poster/996) | Tuo Xiang | Poster |  | 😾 | 
+| 1010 | [OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning](2505.04601) | Xianhang Li | Poster |  | 😾 | 
+| 1016 | [Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator](2411.17799) | Ronglai Zuo | Poster |  | 😾 | 
+| 1018 | [SPA: Efficient User-Preference Alignment against Uncertainty in Medical Image Segmentation](2411.15513) | Jiayuan Zhu | Poster |  | 😾 | 
+| 1020 | [Multi-Modal Multi-Task Unified Embedding Model (M3T-UEM): A Task-Adaptive Representation Learning Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Sharma_Multi-Modal_Multi-Task_Unified_Embedding_Model_M3T-UEM_A_Task-Adaptive_Representation_Learning_ICCV_2025_paper.pdf) | Rohan Sharma | Poster |  | 😾 | 
+| 1040 | [FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration](2412.01427) | Hao Li | Poster |  | 😾 | 
+| 1041 | [CVPT: Cross Visual Prompt Tuning](2408.14961) | Lingyun Huang | Poster |  | 😾 | 
+| 1045 | [IntrinsicControlNet: Cross-distribution Image Generation with Real and Unreal](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_IntrinsicControlNet_Cross-distribution_Image_Generation_with_Real_and_Unreal_ICCV_2025_paper.pdf) | Jiayuan Lu | Poster |  | 😾 | 
+| 1049 | [One Perturbation is Enough: On Generating Universal Adversarial Perturbations against Vision-Language Pre-training Models](2406.05491) | Hao Fang | Poster |  | 😾 | 
+| 1056 | [Unbiased Missing-modality Multimodal Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Unbiased_Missing-modality_Multimodal_Learning_ICCV_2025_paper.pdf) | Raiting Dai | Poster |  | 😾 | 
+| 1057 | [SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality](2507.19264) | Sijie Li | Poster |  | 😾 | 
+| 1064 | [Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning](2507.09102) | Yiyang Chen | Poster |  | 😾 | 
+| 1068 | [DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers](2503.22796) | Hanling Zhang | Poster |  | 😾 | 
+| 1073 | [How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_How_Do_Optical_Flow_and_Textual_Prompts_Collaborate_to_Assist_ICCV_2025_paper.pdf) | Yujian Lee | Poster |  | 😾 | 
+| 1083 | [From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision](2412.11154) | Chuang Yu | Poster |  | 😾 | 
+| 1086 | [Derm1M: A Million-scale Vision-Language Dataset Aligned with Clinical Ontology Knowledge for Dermatology](2503.14911) | Siyuan Yan | Poster |  | 😾 | 
+| 1095 | [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_AIGI-Holmes_Towards_Explainable_and_Generalizable_AI-Generated_Image_Detection_via_Multimodal_ICCV_2025_paper.pdf) | Ziyin Zhou | Poster |  | 😾 | 
+| 1101 | [X-Fusion: Introducing New Modality to Frozen Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Mo_X-Fusion_Introducing_New_Modality_to_Frozen_Large_Language_Models_ICCV_2025_paper.pdf) | Sicheng Mo | Poster |  | 😾 | 
+| 1125 | [egoPPG: Heart Rate Estimation from Eye-Tracking Cameras in Egocentric Systems to Benefit Downstream Vision Tasks](2502.20879) | Björn Braun | Poster |  | 😾 | 
+| 1130 | [Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation](2503.15877) | Tiange Xiang | Poster |  | 😾 | 
+| 1134 | [What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models](2505.20405) | Lorenzo Baraldi | Poster |  | 😾 | 
+| 1137 | [Text-IRSTD: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Text-IRSTD_Leveraging_Semantic_Text_to_Promote_Infrared_Small_Target_Detection_ICCV_2025_paper.pdf) | Feng Huang | Poster |  | 😾 | 
+| 1140 | [Conditional Visual Autoregressive Modeling for Pathological Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Conditional_Visual_Autoregressive_Modeling_for_Pathological_Image_Restoration_ICCV_2025_paper.pdf) | Ziyi Liu | Poster |  | 😾 | 
+| 1143 | [X2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_X2-Gaussian_4D_Radiative_Gaussian_Splatting_for_Continuous-time_Tomographic_Reconstruction_ICCV_2025_paper.pdf) | Weihao Yu | Poster |  | 😾 | 
+| 1154 | [InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation](https://iccv.thecvf.com/virtual/2025/poster/1154) | Jungmin Lee | Poster |  | 😾 | 
+| 1160 | [R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_R1-Onevision_Advancing_Generalized_Multimodal_Reasoning_through_Cross-Modal_Formalization_ICCV_2025_paper.pdf) | yi yang | Poster |  | 😾 | 
+| 1177 | [Multi-Cache Enhanced Prototype Learning for Test-Time Generalization of Vision-Language Models](2508.01225) | Xinyu Chen | Poster |  | 😾 | 
+| 1188 | [Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing](2503.10663) | Yang Xiao | Poster |  | 😾 | 
+| 1190 | [Seeing the Trees for the Forest: Rethinking Weakly-Supervised Medical Visual Grounding](2505.15123) | Ta Duc Huy | Poster |  | 😾 | 
+| 1192 | [VAFlow: Video-to-Audio Generation with Cross-Modality Flow Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VAFlow_Video-to-Audio_Generation_with_Cross-Modality_Flow_Matching_ICCV_2025_paper.pdf) | Xihua Wang | Poster |  | 😾 | 
+| 1195 | [EgoMLVM: An Egocentric Multitask Large Video Model](https://iccv.thecvf.com/virtual/2025/poster/1195) | Gen Li | Poster |  | 😾 | 
+| 1196 | [Agent-free Breast Cancer Diagnosis and Prognosis via Latent Diffusion Enhancement](https://iccv.thecvf.com/virtual/2025/poster/1196) | Yuhan Wang | Poster |  | 😾 | 
+| 1197 | [VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data](2312.08871) | Jian Shi | Poster |  | 😾 | 
+| 1199 | [MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](2501.13667) | Fu Rong | Poster |  | 😾 | 
+| 1204 | [GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs](2412.11258) | Xinli Xu | Poster |  | 😾 | 
+| 1218 | [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_R1-VL_Learning_to_Reason_with_Multimodal_Large_Language_Models_via_ICCV_2025_paper.pdf) | Jingyi Zhang | Poster |  | 😾 | 
+| 1225 | [HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model](2503.13026) | Tao Wang | Poster |  | 😾 | 
+| 1226 | [Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation](2507.11055) | Shuchang Ye | Poster |  | 😾 | 
+| 1238 | [Wave-MambaAD: Wavelet-driven State Space Model for Multi-class Unsupervised Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Wave-MambaAD_Wavelet-driven_State_Space_Model_for_Multi-class_Unsupervised_Anomaly_Detection_ICCV_2025_paper.pdf) | Qiao Zhang | Poster |  | 😾 | 
+| 1242 | [Keep Your Friends Close, and Your Enemies Farther: Distance-aware Voxel-wise Contrastive Learning for Semi-supervised Multi-organ Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Keep_Your_Friends_Close_and_Your_Enemies_Farther_Distance-aware_Voxel-wise_ICCV_2025_paper.pdf) | Haochen Zhao | Poster |  | 😾 | 
+| 1247 | [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](2410.13861) | Rongyao Fang | Poster |  | 😾 | 
+| 1249 | [Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization](2411.13610) | Hao Ju | Poster |  | 😾 | 
+| 1254 | [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.pdf) | Yuci Liang | Poster |  | 😾 | 
+| 1273 | [Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning](2508.03102) | Tianjiao Jiang | Poster |  | 😾 | 
+| 1274 | [Breaking Grid Constraints: Dynamic Graph Reconstruction Network for Multi-organ Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Xiao_Breaking_Grid_Constraints_Dynamic_Graph_Reconstruction_Network_for_Multi-organ_Segmentation_ICCV_2025_paper.pdf) | Junhao Xiao | Poster |  | 😾 | 
+| 1287 | [Test-time Adaptation for Foundation Medical Segmentation Model Without Parametric Updates](2504.02008) | Kecheng Chen | Poster |  | 😾 | 
+| 1289 | [Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](2403.09333) | Yufei Zhan | Poster |  | 😾 | 
+| 1293 | [Few-Shot Image Quality Assessment via Adaptation of Vision-Language Models](2409.05381) | Xudong Li | Poster |  | 😾 | 
+| 1295 | [XTrack: Multimodal Training Boosts RGB-X Video Object Trackers](https://openaccess.thecvf.com/content/ICCV2025/papers/Tan_XTrack_Multimodal_Training_Boosts_RGB-X_Video_Object_Trackers_ICCV_2025_paper.pdf) | Yuedong Tan | Poster |  | 😾 | 
+| 1298 | [ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges](2503.06553) | Jiaxin Ai | Poster |  | 😾 | 
+| 1301 | [Factorized Learning for Temporally Grounded Video-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Factorized_Learning_for_Temporally_Grounded_Video-Language_Models_ICCV_2025_paper.pdf) | Wenzheng Zeng | Poster |  | 😾 | 
+| 1307 | [VLM4D: Towards Spatiotemporal Awareness in Vision Language Models](2508.02095) | Shijie Zhou | Poster |  | 😾 | 
+| 1310 | [AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs](2503.23219) | Sanjoy Chowdhury | Poster |  | 😾 | 
+| 1315 | [Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D](2503.02410) | Jiesi Hu | Poster |  | 😾 | 
+| 1316 | [Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba for End-to-end Whole Slide Image Analysis](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Bridging_Local_Inductive_Bias_and_Long-Range_Dependencies_with_Pixel-Mamba_for_ICCV_2025_paper.pdf) | Zhongwei Qiu | Poster |  | 😾 | 
+| 1317 | [R-LiViT: A LiDAR-Visual-Thermal Dataset Enabling Vulnerable Road User Focused Roadside Perception](https://openaccess.thecvf.com/content/ICCV2025/papers/Mirlach_R-LiViT_A_LiDAR-Visual-Thermal_Dataset_Enabling_Vulnerable_Road_User_Focused_Roadside_ICCV_2025_paper.pdf) | Jonas Mirlach | Poster |  | 😾 | 
+| 1318 | [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](2502.08916) | Fatemeh Ghezloo | Poster |  | 😾 | 
+| 1322 | [Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](2507.13344) | Yudong Jin | Poster |  | 😾 | 
+| 1323 | [ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering](2507.16403) | Thuy-Duong Tran | Poster |  | 😾 | 
+| 1325 | [FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation](2508.02190) | Cui Miao | Poster |  | 😾 | 
+| 1332 | [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://iccv.thecvf.com/virtual/2025/poster/1332) | Yating Wang | Poster |  | 😾 | 
+| 1341 | [Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing](2503.10742) | Yudong Liu | Poster |  | 😾 | 
+| 1347 | [Overcoming Dual Drift for Continual Long-Tailed Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Overcoming_Dual_Drift_for_Continual_Long-Tailed_Visual_Question_Answering_ICCV_2025_paper.pdf) | Feifei Zhang | Poster |  | 😾 | 
+| 1361 | [4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_4D-Bench_Benchmarking_Multi-modal_Large_Language_Models_for_4D_Object_Understanding_ICCV_2025_paper.pdf) | Wenxuan Zhu | Poster |  | 😾 | 
+| 1364 | [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_2.5_Years_in_Class_A_Multimodal_Textbook_for_Vision-Language_Pretraining_ICCV_2025_paper.pdf) | Wenqi Zhang | Poster |  | 😾 | 
+| 1367 | [Exploring The Visual Feature Space for Multimodal Neural Decoding](2505.15755) | Weihao Xia | Poster |  | 😾 | 
+| 1372 | [GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation](2507.22731) | Quanwei Yang | Poster |  | 😾 | 
+| 1375 | [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://iccv.thecvf.com/virtual/2025/poster/1375) | Hai Huang | Poster |  | 😾 | 
+| 1378 | [FullDiT: Video Generative Foundation Models with Multimodal Control via Full Attention](https://openaccess.thecvf.com/content/ICCV2025/papers/Ju_FullDiT_Video_Generative_Foundation_Models_with_Multimodal_Control_via_Full_ICCV_2025_paper.pdf) | Xuan Ju | Poster |  | 😾 | 
+| 1384 | [TWIST & SCOUT: Grounding Multimodal LLM-Experts by Forget-Free Tuning](2410.10491) | Aritra Bhowmik | Poster |  | 😾 | 
+| 1385 | [VALLR: Visual ASR Language Model for Lip Reading](2503.21408) | Marshall Thomas | Poster |  | 😾 | 
+| 1398 | [STD-GS: Exploring Frame-Event Interaction for SpatioTemporal-Disentangled Gaussian Splatting to Reconstruct High-Dynamic Scene](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_STD-GS_Exploring_Frame-Event_Interaction_for_SpatioTemporal-Disentangled_Gaussian_Splatting_to_Reconstruct_ICCV_2025_paper.pdf) | Hanyu Zhou | Poster |  | 😾 | 
+| 1401 | [LUT-Fuse: Towards Extremely Fast Infrared and Visible Image Fusion via Distillation to Learnable Look-Up Tables](https://openaccess.thecvf.com/content/ICCV2025/papers/Yi_LUT-Fuse_Towards_Extremely_Fast_Infrared_and_Visible_Image_Fusion_via_ICCV_2025_paper.pdf) | Xunpeng Yi | Poster |  | 😾 | 
+| 1407 | [Multimodal Large Language Model-Guided ISP Hyperparameter Optimization with Dynamic Preference Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Multimodal_Large_Language_Model-Guided_ISP_Hyperparameter_Optimization_with_Dynamic_Preference_ICCV_2025_paper.pdf) | Xinyu Sun | Poster |  | 😾 | 
+| 1418 | [Enrich and Detect: Video Temporal Grounding with Multimodal LLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Pramanick_Enrich_and_Detect_Video_Temporal_Grounding_with_Multimodal_LLMs_ICCV_2025_paper.pdf) | Shraman Pramanick | Poster |  | 😾 | 
+| 1422 | [Free2Guide: Training-Free Text-to-Video Alignment using Image LVLM](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_Free2Guide_Training-Free_Text-to-Video_Alignment_using_Image_LVLM_ICCV_2025_paper.pdf) | Jaemin Kim | Poster |  | 😾 | 
+| 1424 | [DeFSS: Image-to-Mask Denoising Learning for Few-shot Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_DeFSS_Image-to-Mask_Denoising_Learning_for_Few-shot_Segmentation_ICCV_2025_paper.pdf) | Zishu Qin | Poster |  | 😾 | 
+| 1427 | [Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models](2405.14715) | Young Kyun Jang | Poster |  | 😾 | 
+| 1429 | [Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation](2508.20265) | Zhixiang Chi | Poster |  | 😾 | 
+| 1436 | [Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing](https://openaccess.thecvf.com/content/ICCV2025/papers/Forte_Contact-Aware_Refinement_of_Human_Pose_Pseudo-Ground_Truth_via_Bioimpedance_Sensing_ICCV_2025_paper.pdf) | Maria-Paola Forte | Poster |  | 😾 | 
+| 1442 | [TopoTTA: Topology-Enhanced Test-Time Adaptation for Tubular Structure Segmentation](https://iccv.thecvf.com/virtual/2025/poster/1442) | Jiale Zhou | Poster |  | 😾 | 
+| 1448 | [SDFormer: Vision-based 3D Semantic Scene Completion via SAM-assisted Dual-channel Voxel Transformer](https://openaccess.thecvf.com/content/ICCV2025/papers/Xue_SDFormer_Vision-based_3D_Semantic_Scene_Completion_via_SAM-assisted_Dual-channel_Voxel_ICCV_2025_paper.pdf) | Yujie Xue | Poster |  | 😾 | 
+| 1449 | [Improving Large Vision and Language Models by Learning from a Panel of Peers](2509.01610) | Jefferson Hernandez | Poster |  | 😾 | 
+| 1459 | [Scaling Tumor Segmentation: Best Lessons from Real and Synthetic Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Scaling_Tumor_Segmentation_Best_Lessons_from_Real_and_Synthetic_Data_ICCV_2025_paper.pdf) | Qi Chen | Poster |  | 😾 | 
+| 1467 | [Noise-Modeled Diffusion Models for Low-Light Spike Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Noise-Modeled_Diffusion_Models_for_Low-Light_Spike_Image_Restoration_ICCV_2025_paper.pdf) | Ruonan Liu | Poster |  | 😾 | 
+| 1469 | [TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation](https://iccv.thecvf.com/virtual/2025/poster/1469) | Changsong Lei | Poster |  | 😾 | 
+| 1488 | [Robustifying Zero-Shot Vision Language Models by Subspaces Alignment](https://openaccess.thecvf.com/content/ICCV2025/papers/Dong_Robustifying_Zero-Shot_Vision_Language_Models_by_Subspaces_Alignment_ICCV_2025_paper.pdf) | Junhao Dong | Poster |  | 😾 | 
+| 1507 | [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](2504.01308) | Jiawei Wang | Poster |  | 😾 | 
+| 1510 | [Unified Multimodal Understanding via Byte-Pair Visual Encoding](2506.23639) | Wanpeng Zhang | Poster |  | 😾 | 
+| 1512 | [SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking](https://openaccess.thecvf.com/content/ICCV2025/papers/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.pdf) | Sixian Chan | Poster |  | 😾 | 
+| 1529 | [Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection](2410.10289) | Jiawen Zhu | Poster |  | 😾 | 
+| 1531 | [MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling](2503.13440) | Yingyue Li | Poster |  | 😾 | 
+| 1540 | [B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_B-VLLM_A_Vision_Large_Language_Model_with_Balanced_Spatio-Temporal_Tokens_ICCV_2025_paper.pdf) | Zhuqiang Lu | Poster |  | 😾 | 
+| 1542 | [Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Skip-Vision_Efficient_and_Scalable_Acceleration_of_Vision-Language_Models_via_Adaptive_ICCV_2025_paper.pdf) | Weili Zeng | Poster |  | 😾 | 
+| 1552 | [Triad: Empowering LMM-based Anomaly Detection with Expert-guided Region-of-Interest Tokenizer and Manufacturing Process](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Triad_Empowering_LMM-based_Anomaly_Detection_with_Expert-guided_Region-of-Interest_Tokenizer_and_ICCV_2025_paper.pdf) | Yuanze Li | Poster |  | 😾 | 
+| 1554 | [GMMamba: Group Masking Mamba for Whole Slide Image Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_GMMamba_Group_Masking_Mamba_for_Whole_Slide_Image_Classification_ICCV_2025_paper.pdf) | Tingting Zheng | Poster |  | 😾 | 
+| 1555 | [DexVLG: Dexterous Vision-Language-Grasp Model at Scale](2507.02747) | Jiawei He | Poster |  | 😾 | 
+| 1557 | [ReMP-AD: Retrieval-enhanced Multi-modal Prompt Fusion for Few-Shot Industrial Visual Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_ReMP-AD_Retrieval-enhanced_Multi-modal_Prompt_Fusion_for_Few-Shot_Industrial_Visual_Anomaly_ICCV_2025_paper.pdf) | Hongchi Ma | Poster |  | 😾 | 
+| 1562 | [Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation](2507.07568) | Qin Zhou | Poster |  | 😾 | 
+| 1573 | [DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding](2508.08589) | Wenwen Yu | Poster |  | 😾 | 
+| 1580 | [Fusion Meets Diverse Conditions: A High-diversity Benchmark and Baseline for UAV-based Multimodal Object Detection with Condition Cues](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Fusion_Meets_Diverse_Conditions_A_High-diversity_Benchmark_and_Baseline_for_ICCV_2025_paper.pdf) | Chen Chen | Poster |  | 😾 | 
+| 1584 | [Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](2410.20806) | DongZhenXing DongZhenXing | Poster |  | 😾 | 
+| 1594 | [LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Lou_LLaVA-SP_Enhancing_Visual_Representation_with_Visual_Spatial_Tokens_for_MLLMs_ICCV_2025_paper.pdf) | Haoran Lou | Poster |  | 😾 | 
+| 1599 | [M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_M-Net_MRI_Brain_Tumor_Sequential_Segmentation_Network_via_Mesh-Cast_ICCV_2025_paper.pdf) | Jiacheng Lu | Poster |  | 😾 | 
+| 1601 | [ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](2505.04963) | Onkar Susladkar | Poster |  | 😾 | 
+| 1610 | [Textured 3D Regenerative Morphing with 3D Diffusion Prior](2502.14316) | Songlin Yang | Poster |  | 😾 | 
+| 1622 | [Equipping Vision Foundation Model with Mixture of Experts for Out-of-Distribution Detection](2510.10584) | Shizhen Zhao | Poster |  | 😾 | 
+| 1625 | [Reducing Unimodal Bias in Multi-Modal Semantic Segmentation with Multi-Scale Functional Entropy Regularization](2505.06635) | Xu Zheng | Poster |  | 😾 | 
+| 1632 | [MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance](2412.15058) | Hallee Wong | Poster |  | 😾 | 
+| 1638 | [UniDxMD: Towards Unified Representation for Cross-Modal Unsupervised Domain Adaptation in 3D Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_UniDxMD_Towards_Unified_Representation_for_Cross-Modal_Unsupervised_Domain_Adaptation_in_ICCV_2025_paper.pdf) | Zhengyin Liang | Poster |  | 😾 | 
+| 1644 | [AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance](2503.07360) | Yilin Wei | Poster |  | 😾 | 
+| 1647 | [COME: Dual Structure-Semantic Learning with Collaborative MoE for Universal Lesion Detection Across Heterogeneous Ultrasound Datasets](2508.09886) | Lingyu Chen | Poster |  | 😾 | 
+| 1649 | [Efficient Visual Place Recognition Through Multimodal Semantic Knowledge Integration](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Efficient_Visual_Place_Recognition_Through_Multimodal_Semantic_Knowledge_Integration_ICCV_2025_paper.pdf) | Sitao Zhang | Poster |  | 😾 | 
+| 1653 | [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Lafon_ViLU_Learning_Vision-Language_Uncertainties_for_Failure_Prediction_ICCV_2025_paper.pdf) | Marc Lafon | Poster |  | 😾 | 
+| 1655 | [Unsupervised Histopathological Image Semantic Segmentation with Overlapping Patches Consistency Constraint](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Unsupervised_Histopathological_Image_Semantic_Segmentation_with_Overlapping_Patches_Consistency_Constraint_ICCV_2025_paper.pdf) | Wentian Cai | Poster |  | 😾 | 
+| 1656 | [MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation](2508.16911) | Prerit Gupta | Poster |  | 😾 | 
+| 1666 | [TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_TPG-INR_Target_Prior-Guided_Implicit_3D_CT_Reconstruction_for_Enhanced_Sparse-view_ICCV_2025_paper.pdf) | QingleiCao QingleiCao | Poster |  | 😾 | 
+| 1667 | [Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning](2507.17539) | Xinyao Liu | Poster |  | 😾 | 
+| 1670 | [DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image](2504.01596) | Jijun Xiang | Poster |  | 😾 | 
+| 1675 | [Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching](2503.14953) | Yang Liu | Poster |  | 😾 | 
+| 1676 | [Depth Any Event Stream: Enhancing Event-based Monocular Depth Estimation via Dense-to-Sparse Distillation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_Depth_Any_Event_Stream_Enhancing_Event-based_Monocular_Depth_Estimation_via_ICCV_2025_paper.pdf) | Jinjing Zhu | Poster |  | 😾 | 
+| 1678 | [MaskSAM: Auto-prompt SAM with Mask Classification for Volumetric Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_MaskSAM_Auto-prompt_SAM_with_Mask_Classification_for_Volumetric_Medical_Image_ICCV_2025_paper.pdf) | Bin Xie | Poster |  | 😾 | 
+| 1683 | [IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark](2507.14449) | Zhe Cao | Poster |  | 😾 | 
+| 1688 | [Hierarchical Cross-modal Prompt Learning for Vision-Language Models](2507.14976) | Hao Zheng | Poster |  | 😾 | 
+| 1689 | [GaussianReg: Rapid 2D/3D Registration for Emergency Surgery via Explicit 3D Modeling with Gaussian Primitives](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_GaussianReg_Rapid_2D3D_Registration_for_Emergency_Surgery_via_Explicit_3D_ICCV_2025_paper.pdf) | Weihao Yu | Poster |  | 😾 | 
+| 1694 | [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](2507.15212) | Yusuke Yoshiyasu | Poster |  | 😾 | 
+| 1698 | [M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_M-SpecGene_Generalized_Foundation_Model_for_RGBT_Multispectral_Vision_ICCV_2025_paper.pdf) | Kailai Zhou | Poster |  | 😾 | 
+| 1701 | [ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](2507.00898) | Zifu Wan | Poster |  | 😾 | 
+| 1722 | [DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Kreutz_DeSPITE_Exploring_Contrastive_Deep_Skeleton-Pointcloud-IMU-Text_Embeddings_for_Advanced_Point_Cloud_ICCV_2025_paper.pdf) | Thomas Kreutz | Poster |  | 😾 | 
+| 1729 | [ReCoT: Reflective Self-Correction Training for Mitigating Confirmation Bias in Large Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Qu_ReCoT_Reflective_Self-Correction_Training_for_Mitigating_Confirmation_Bias_in_Large_ICCV_2025_paper.pdf) | Mengxue Qu | Poster |  | 😾 | 
+| 1731 | [RIOcc: Efficient Cross-Modal Fusion Transformer with Collaborative Feature Refinement for 3D Semantic Occupancy Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_RIOcc_Efficient_Cross-Modal_Fusion_Transformer_with_Collaborative_Feature_Refinement_for_ICCV_2025_paper.pdf) | Baojie Fan | Poster |  | 😾 | 
+| 1733 | [FROSS: Faster-Than-Real-Time Online 3D Semantic Scene Graph Generation from RGB-D Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Hou_FROSS_Faster-Than-Real-Time_Online_3D_Semantic_Scene_Graph_Generation_from_RGB-D_ICCV_2025_paper.pdf) | Hao-Yu Hou | Poster |  | 😾 | 
+| 1734 | [Egocentric Action-aware Inertial Localization in Point Clouds with Vision-Language Guidance](2505.14346) | Mingfang Zhang | Poster |  | 😾 | 
+| 1736 | [INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling](2507.05056) | Xin Dong | Poster |  | 😾 | 
+| 1750 | [Kestrel: 3D Multimodal LLM for Part-Aware Grounded Description](2405.18937) | Mahmoud Ahmed | Poster |  | 😾 | 
+| 1764 | [MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance](2503.14944) | Zihan Cao | Poster |  | 😾 | 
+| 1771 | [An OpenMind for 3D Medical Vision Self-supervised Learning](2412.17041) | Tassilo Wald | Poster |  | 😾 | 
+| 1780 | [Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.pdf) | Peng Ren | Poster |  | 😾 | 
+| 1791 | [Streaming VideoLLMs for Real-Time Procedural Video Understanding](2504.13915) | Dibyadip Chatterjee | Poster |  | 😾 | 
+| 1800 | [Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](2507.23284) | Dohwan Ko | Poster |  | 😾 | 
+| 1814 | [CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model](2503.06472) | Yuxuan Luo | Poster |  | 😾 | 
+| 1823 | [PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](2509.20022) | Manahil Raza | Poster |  | 😾 | 
+| 1824 | [End-to-End Multi-Modal Diffusion Mamba](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_End-to-End_Multi-Modal_Diffusion_Mamba_ICCV_2025_paper.pdf) | Chunhao Lu | Poster |  | 😾 | 
+| 1827 | [FusionPhys: A Flexible Framework for Fusing Complementary Sensing Modalities in Remote Physiological Measurement](https://openaccess.thecvf.com/content/ICCV2025/papers/Ying_FusionPhys_A_Flexible_Framework_for_Fusing_Complementary_Sensing_Modalities_in_ICCV_2025_paper.pdf) | Chenhang Ying | Poster |  | 😾 | 
+| 1834 | [VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling](2503.15855) | Hyojun Go | Poster |  | 😾 | 
+| 1846 | [Hyper-Depth: Hypergraph-based Multi-Scale Representation Fusion for Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Bie_Hyper-Depth_Hypergraph-based_Multi-Scale_Representation_Fusion_for_Monocular_Depth_Estimation_ICCV_2025_paper.pdf) | Lin Bie | Poster |  | 😾 | 
+| 1856 | [HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_HIS-GPT_Towards_3D_Human-In-Scene_Multimodal_Understanding_ICCV_2025_paper.pdf) | JIAHE ZHAO | Poster |  | 😾 | 
+| 1858 | [V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding](2412.09616) | Junqi Ge | Poster |  | 😾 | 
+| 1861 | [External Knowledge Injection for CLIP-Based Class-Incremental Learning](2503.08510) | Da-Wei Zhou | Poster |  | 😾 | 
+| 1869 | [GLEAM: Enhanced Transferable Adversarial Attacks for Vision-Language Pre-training Models via Global-Local Transformations](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GLEAM_Enhanced_Transferable_Adversarial_Attacks_for_Vision-Language_Pre-training_Models_via_ICCV_2025_paper.pdf) | Yunqi Liu | Poster |  | 😾 | 
+| 1876 | [POMATO: Marrying Pointmap Matching with Temporal Motions for Dynamic 3D Reconstruction](2504.05692) | Songyan Zhang | Poster |  | 😾 | 
+| 1879 | [Structured Policy Optimization: Enhance Large Vision-Language Model via Self-referenced Dialogue](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Structured_Policy_Optimization_Enhance_Large_Vision-Language_Model_via_Self-referenced_Dialogue_ICCV_2025_paper.pdf) | Guohao Sun | Poster |  | 😾 | 
+| 1887 | [RCTDistill: Cross-Modal Knowledge Distillation Framework for Radar-Camera 3D Object Detection with Temporal Fusion](2509.17712) | Geonho Bang | Poster |  | 😾 | 
+| 1890 | [Probabilistic Prototype Calibration of Vision-language Models for Generalized Few-shot Semantic Segmentation](2506.22979) | Jie Liu | Poster |  | 😾 | 
+| 1891 | [MetaScope: Optics-Driven Neural Network for Ultra-Micro Metalens Endoscopy](2508.03596) | Wuyang Li | Poster |  | 😾 | 
+| 1892 | [Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](2507.02859) | Jiaer Xia | Poster |  | 😾 | 
+| 1895 | [Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification](https://openaccess.thecvf.com/content/ICCV2025/papers/Khalid_Bridging_the_Sky_and_Ground_Towards_View-Invariant_Feature_Learning_for_ICCV_2025_paper.pdf) | Wajahat Khalid | Poster |  | 😾 | 
+| 1906 | [Federated Prompt-Tuning with Heterogeneous and Incomplete Multimodal Client Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Phung_Federated_Prompt-Tuning_with_Heterogeneous_and_Incomplete_Multimodal_Client_Data_ICCV_2025_paper.pdf) | Thu Hang Phung | Poster |  | 😾 | 
+| 1912 | [FlexGen: Flexible Multi-View Generation from Text and Image Inputs](2410.10745) | Xinli Xu | Poster |  | 😾 | 
+| 1913 | [UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments](2506.22736) | Dayong Su | Poster |  | 😾 | 
+| 1915 | [Towards Long-Horizon Vision-Language-Action System: Reasoning, Acting and Memory](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Towards_Long-Horizon_Vision-Language-Action_System_Reasoning_Acting_and_Memory_ICCV_2025_paper.pdf) | Daixun Li | Poster |  | 😾 | 
+| 1918 | [DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_DAP-MAE_Domain-Adaptive_Point_Cloud_Masked_Autoencoder_for_Effective_Cross-Domain_Learning_ICCV_2025_paper.pdf) | Ziqi Gao | Poster |  | 😾 | 
+| 1929 | [Dynamic Multimodal Prototype Learning in Vision-Language Models](2507.03657) | Xingyu Zhu | Poster |  | 😾 | 
+| 1936 | [ViLLa: Video Reasoning Segmentation with Large Language Model](2407.14500) | rongkun Zheng | Poster |  | 😾 | 
+| 1937 | [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](2506.23565) | Ji mingqian | Poster |  | 😾 | 
+| 1942 | [DistillDrive: End-to-End Multi-Mode Autonomous Driving Distillation by Isomorphic Hetero-Source Planning Model](2508.05402) | Rui Yu | Poster |  | 😾 | 
+| 1945 | [Recover Biological Structure from Sparse-View Diffraction Images with Neural Volumetric Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/He_Recover_Biological_Structure_from_Sparse-View_Diffraction_Images_with_Neural_Volumetric_ICCV_2025_paper.pdf) | Renzhi He | Poster |  | 😾 | 
+| 1956 | [Superpowering Open-Vocabulary Object Detectors for X-ray Vision](https://openaccess.thecvf.com/content/ICCV2025/papers/Garcia-Fernandez_Superpowering_Open-Vocabulary_Object_Detectors_for_X-ray_Vision_ICCV_2025_paper.pdf) | Pablo Garcia-Fernandez | Poster |  | 😾 | 
+| 1960 | [Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder](https://openaccess.thecvf.com/content/ICCV2025/papers/Cho_Att-Adapter_A_Robust_and_Precise_Domain-Specific_Multi-Attributes_T2I_Diffusion_Adapter_ICCV_2025_paper.pdf) | Wonwoong Cho | Poster |  | 😾 | 
+| 1961 | [Bridging the Gap between Brain and Machine in Interpreting Visual Semantics: Towards Self-adaptive Brain-to-Text Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Bridging_the_Gap_between_Brain_and_Machine_in_Interpreting_Visual_ICCV_2025_paper.pdf) | Jiaxuan Chen | Poster |  | 😾 | 
+| 1979 | [EVT: Efficient View Transformation for Multi-Modal 3D Object Detection](2411.10715) | Yongjin Lee | Poster |  | 😾 | 
+| 1981 | [UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving](2412.04842) | Rui Chen | Poster |  | 😾 | 
+| 2004 | [Deciphering Cross-Modal Alignment in Large Vision-Language Models via Modality Integration Rate](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Deciphering_Cross-Modal_Alignment_in_Large_Vision-Language_Models_via_Modality_Integration_ICCV_2025_paper.pdf) | Qidong Huang | Poster |  | 😾 | 
+| 2005 | [Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation](2507.22886) | Kaining Ying | Poster |  | 😾 | 
+| 2006 | [ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models](2502.19958) | Ke Niu | Poster |  | 😾 | 
+| 2014 | [Ask and Remember: A Questions-Only Replay Strategy for Continual Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Marouf_Ask_and_Remember_A_Questions-Only_Replay_Strategy_for_Continual_Visual_ICCV_2025_paper.pdf) | Imad Eddine MAROUF | Poster |  | 😾 | 
+| 2017 | [OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining](2411.15421) | Ming Hu | Poster |  | 😾 | 
+| 2019 | [Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning](2507.02581) | Tan Pan | Poster |  | 😾 | 
+| 2024 | [TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models](2412.18675) | Pooyan Rahmanzadehgervi | Poster |  | 😾 | 
+| 2025 | [SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images](2502.14351) | Yichi Zhang | Poster |  | 😾 | 
+| 2027 | [MolParser: End-to-end Visual Recognition of Molecule Structures in the Wild](2411.11098) | Xi Fang | Poster |  | 😾 | 
+| 2031 | [Teeth Reconstruction and Performance Capture Using a Phone Camera](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Teeth_Reconstruction_and_Performance_Capture_Using_a_Phone_Camera_ICCV_2025_paper.pdf) | Weixi Zheng | Poster |  | 😾 | 
+| 2035 | [Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction](2411.14001) | Yuntao Shou | Poster |  | 😾 | 
+| 2043 | [TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models](https://iccv.thecvf.com/virtual/2025/poster/2043) | Ziyang Luo | Poster |  | 😾 | 
+| 2049 | [MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation](2509.21265) | Xinyu Liu | Poster |  | 😾 | 
+| 2052 | [NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning](2502.00372) | Zhixi Cai | Poster |  | 😾 | 
+| 2055 | [WeaveSeg: Iterative Contrast-weaving and Spectral Feature-refining for Nuclei Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_WeaveSeg_Iterative_Contrast-weaving_and_Spectral_Feature-refining_for_Nuclei_Instance_Segmentation_ICCV_2025_paper.pdf) | Jiajia Li | Poster |  | 😾 | 
+| 2061 | [SplatTalk: 3D VQA with Gaussian Splatting](2503.06271) | Anh Thai | Poster |  | 😾 | 
+| 2082 | [Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation](2411.16789) | Jungeun Kim | Poster |  | 😾 | 
+| 2083 | [AVAM: a Universal Training-free Adaptive Visual Anchoring Embedded into Multimodal Large Language Model for Multi-image Question Answering](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_AVAM_a_Universal_Training-free_Adaptive_Visual_Anchoring_Embedded_into_Multimodal_ICCV_2025_paper.pdf) | Kang Zeng | Poster |  | 😾 | 
+| 2084 | [SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.pdf) | Shuhang Chen | Poster |  | 😾 | 
+| 2085 | [FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_FDPT_Federated_Discrete_Prompt_Tuning_for_Black-Box_Visual-Language_Models_ICCV_2025_paper.pdf) | Jiaqi Wu | Poster |  | 😾 | 
+| 2091 | [Fuzzy Contrastive Decoding to Alleviate Object Hallucination in Large Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_Fuzzy_Contrastive_Decoding_to_Alleviate_Object_Hallucination_in_Large_Vision-Language_ICCV_2025_paper.pdf) | Jieun Kim | Poster |  | 😾 | 
+| 2097 | [D-Attn: Decomposed Attention for Large Vision-and-Language Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Kuo_D-Attn_Decomposed_Attention_for_Large_Vision-and-Language_Model_ICCV_2025_paper.pdf) | Chia-Wen Kuo | Poster |  | 😾 | 
+| 2099 | [ProbMED: A Probabilistic Framework for Medical Multimodal Binding](2509.25711) | Yuan Gao | Poster |  | 😾 | 
+| 2105 | [Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation](2504.02542) | Fating Hong | Poster |  | 😾 | 
+| 2111 | [One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](2507.16337) | Xinyu Mao | Poster |  | 😾 | 
+| 2118 | [GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](2504.01009) | Saarthak Kapse | Poster |  | 😾 | 
+| 2134 | [GDKVM: Echocardiography Video Segmentation via Spatiotemporal Key-Value Memory with Gated Delta Rule](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_GDKVM_Echocardiography_Video_Segmentation_via_Spatiotemporal_Key-Value_Memory_with_Gated_ICCV_2025_paper.pdf) | Rui Wang | Poster |  | 😾 | 
+| 2135 | [AMDANet: Attention-Driven Multi-Perspective Discrepancy Alignment for RGB-Infrared Image Fusion and Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_AMDANet_Attention-Driven_Multi-Perspective_Discrepancy_Alignment_for_RGB-Infrared_Image_Fusion_and_ICCV_2025_paper.pdf) | Haifeng Zhong | Poster |  | 😾 | 
+| 2156 | [Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings](https://openaccess.thecvf.com/content/ICCV2025/papers/Yao_Unsupervised_Visible-Infrared_Person_Re-identification_under_Unpaired_Settings_ICCV_2025_paper.pdf) | Haoyu Yao | Poster |  | 😾 | 
+| 2161 | [METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](2507.20842) | Yuchen Liu | Poster |  | 😾 | 
+| 2164 | [DWIM: Towards Tool-aware Visual Reasoning via Discrepancy-aware Workflow Generation & Instruct-Masking Tuning](2503.19263) | Fucai Ke | Poster |  | 😾 | 
+| 2165 | [RA-BUSSeg: Relation-aware Semi-supervised Breast Ultrasound Image Segmentation via Adjacent Propagation and Cross-layer Alignment](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_RA-BUSSeg_Relation-aware_Semi-supervised_Breast_Ultrasound_Image_Segmentation_via_Adjacent_Propagation_ICCV_2025_paper.pdf) | Wanting ZHANG | Poster |  | 😾 | 
+| 2166 | [CMAD: Correlation-Aware and Modalities-Aware Distillation for Multimodal Sentiment Analysis with Missing Modalities](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhuang_CMAD_Correlation-Aware_and_Modalities-Aware_Distillation_for_Multimodal_Sentiment_Analysis_with_ICCV_2025_paper.pdf) | Yan Zhuang | Poster |  | 😾 | 
+| 2172 | [AcZeroTS: Active Learning for Zero-shot Tissue Segmentation in Pathology Images](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_AcZeroTS_Active_Learning_for_Zero-shot_Tissue_Segmentation_in_Pathology_Images_ICCV_2025_paper.pdf) | Jiao Tang | Poster |  | 😾 | 
+| 2179 | [Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation](2411.16719) | Xiaoling Hu | Poster |  | 😾 | 
+| 2183 | [Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation](2411.06106) | Zhaorui Tan | Poster |  | 😾 | 
+| 2186 | [Multi-modal Segment Anything Model for Camouflaged Scene Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Multi-modal_Segment_Anything_Model_for_Camouflaged_Scene_Segmentation_ICCV_2025_paper.pdf) | Guangyu Ren | Poster |  | 😾 | 
+| 2205 | [VLR-Driver: Large Vision-Language-Reasoning Models for Embodied Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2025/papers/Kong_VLR-Driver_Large_Vision-Language-Reasoning_Models_for_Embodied_Autonomous_Driving_ICCV_2025_paper.pdf) | Fanjie Kong | Poster |  | 😾 | 
+| 2224 | [Token Activation Map to Visually Explain Multimodal LLMs](2506.23270) | Yi Li | Poster |  | 😾 | 
+| 2229 | [PhysSplat: Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_PhysSplat_Efficient_Physics_Simulation_for_3D_Scenes_via_MLLM-Guided_Gaussian_ICCV_2025_paper.pdf) | Haoyu Zhao | Poster |  | 😾 | 
+| 2230 | [MotionCtrl: A Real-time Controllable Vision-Language-Motion Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_MotionCtrl_A_Real-time_Controllable_Vision-Language-Motion_Model_ICCV_2025_paper.pdf) | Bin Cao | Poster |  | 😾 | 
+| 2232 | [Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program](2504.06606) | Minghe Gao | Poster |  | 😾 | 
+| 2236 | [MMAT-1M: A Large Reasoning Dataset for Multimodal Agent Tuning](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_MMAT-1M_A_Large_Reasoning_Dataset_for_Multimodal_Agent_Tuning_ICCV_2025_paper.pdf) | Tianhong Gao | Poster |  | 😾 | 
+| 2246 | [Auxiliary Prompt Tuning of Vision-Language Models for Few-Shot Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Miao_Auxiliary_Prompt_Tuning_of_Vision-Language_Models_for_Few-Shot_Out-of-Distribution_Detection_ICCV_2025_paper.pdf) | Wenjun Miao | Poster |  | 😾 | 
+| 2247 | [MMGeo: Multimodal Compositional Geo-Localization for UAVs](https://openaccess.thecvf.com/content/ICCV2025/papers/Ji_MMGeo_Multimodal_Compositional_Geo-Localization_for_UAVs_ICCV_2025_paper.pdf) | Yuxiang Ji | Poster |  | 😾 | 
+| 2249 | [EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Clients](2412.00334) | meihan wu | Poster |  | 😾 | 
+| 2250 | [Modeling Human Gaze Behavior with Diffusion Models for Unified Scanpath Prediction](2507.23021) | Giuseppe Cartella | Poster |  | 😾 | 
+| 2252 | [Not Only Vision: Evolve Visual Speech Recognition via Peripheral Information](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_Not_Only_Vision_Evolve_Visual_Speech_Recognition_via_Peripheral_Information_ICCV_2025_paper.pdf) | Zhaoxin Yuan | Poster |  | 😾 | 
+| 2263 | [BASIC: Boosting Visual Alignment with Intrinsic Refined Embeddings in Multimodal Large Language Models](2508.06895) | Jianting Tang | Poster |  | 😾 | 
+| 2266 | [Dynamic Reconstruction of Hand-Object Interaction with Distributed Force-aware Contact Representation](2411.09572) | Zhenjun Yu | Poster |  | 😾 | 
+| 2272 | [Dream-to-Real: Leveraging Image Generation for Single-View Volumetric Reconstruction](https://iccv.thecvf.com/virtual/2025/poster/2272) | Philipp Wulff | Poster |  | 😾 | 
+| 2288 | [Benchmarking Multimodal Large Language Models Against Image Corruptions](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Benchmarking_Multimodal_Large_Language_Models_Against_Image_Corruptions_ICCV_2025_paper.pdf) | Xinkuan Qiu | Poster |  | 😾 | 
+| 2290 | [Differential-informed Sample Selection Accelerates Multimodal Contrastive Learning](2507.12998) | Zihua Zhao | Poster |  | 😾 | 
+| 2297 | [ZipVL: Accelerating Vision-Language Models through Dynamic Token Sparsity](https://openaccess.thecvf.com/content/ICCV2025/papers/He_ZipVL_Accelerating_Vision-Language_Models_through_Dynamic_Token_Sparsity_ICCV_2025_paper.pdf) | Yefei He | Poster |  | 😾 | 
+| 2298 | [Vector Contrastive Learning For Pixel-Wise Pretraining In Medical Vision](2506.20850) | Yuting He | Poster |  | 😾 | 
+| 2300 | [OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations](2508.20063) | Peng-Hao Hsu | Poster |  | 😾 | 
+| 2304 | [EVOLVE: Event-Guided Deformable Feature Transfer and Dual-Memory Refinement for Low-Light Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Baek_EVOLVE_Event-Guided_Deformable_Feature_Transfer_and_Dual-Memory_Refinement_for_Low-Light_ICCV_2025_paper.pdf) | Jong Hyeon Baek | Poster |  | 😾 | 
+| 2305 | [AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion](2505.24877) | Yangyi Huang | Poster |  | 😾 | 
+| 2306 | [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://openaccess.thecvf.com/content/ICCV2025/papers/Mallis_CAD-Assistant_Tool-Augmented_VLLMs_as_Generic_CAD_Task_Solvers_ICCV_2025_paper.pdf) | Dimitrios Mallis | Poster |  | 😾 | 
+| 2310 | [MamTiff-CAD: Multi-Scale Latent Diffusion with Mamba+ for Complex Parametric Sequence](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_MamTiff-CAD_Multi-Scale_Latent_Diffusion_with_Mamba_for_Complex_Parametric_Sequence_ICCV_2025_paper.pdf) | Liyuan Deng | Poster |  | 😾 | 
+| 2320 | [MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs](https://openaccess.thecvf.com/content/ICCV2025/papers/Daxberger_MM-Spatial_Exploring_3D_Spatial_Understanding_in_Multimodal_LLMs_ICCV_2025_paper.pdf) | Erik Daxberger | Poster |  | 😾 | 
+| 2323 | [Bridging Domain Generalization to Multimodal Domain Generalization via Unified Representations](2507.03304) | Hai Huang | Poster |  | 😾 | 
+| 2327 | [Test-Time Retrieval-Augmented Adaptation for Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_Test-Time_Retrieval-Augmented_Adaptation_for_Vision-Language_Models_ICCV_2025_paper.pdf) | Xinqi Fan | Poster |  | 😾 | 
+| 2333 | [MobileViCLIP: An Efficient Video-Text Model for Mobile Devices](2508.07312) | Min Yang | Poster |  | 😾 | 
+| 2338 | [SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models](2502.13059) | Xianfu Cheng | Poster |  | 😾 | 
+| 2346 | [SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining](2503.18052) | Yue Li | Poster |  | 😾 | 
+| 2350 | [MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](2506.23563) | Huanjin Yao | Poster |  | 😾 | 
+| 2351 | [Mamba-3VL: Taming State Space Model for 3D Vision Language Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Mamba-3VL_Taming_State_Space_Model_for_3D_Vision_Language_Learning_ICCV_2025_paper.pdf) | Yuan Wang | Poster |  | 😾 | 
+| 2354 | [G2PDiffusion: Cross-Species Genotype-to-Phenotype Prediction via Evolutionary Diffusion](2502.04684) | Mengdi Liu | Poster |  | 😾 | 
+| 2356 | [Improving Multimodal Learning via Imbalanced Learning](2507.10203) | Shicai Wei | Poster |  | 😾 | 
+| 2369 | [Spatial Alignment and Temporal Matching Adapter for Video-Radar Remote Physiological Measurement](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_Spatial_Alignment_and_Temporal_Matching_Adapter_for_Video-Radar_Remote_Physiological_ICCV_2025_paper.pdf) | Qian Liang | Poster |  | 😾 | 
+| 2383 | [MOBIUS: Big-to-Mobile Universal Instance Segmentation via Multi-modal Bottleneck Fusion and Calibrated Decoder Pruning](https://openaccess.thecvf.com/content/ICCV2025/papers/Segu_MOBIUS_Big-to-Mobile_Universal_Instance_Segmentation_via_Multi-modal_Bottleneck_Fusion_and_ICCV_2025_paper.pdf) | Mattia Segu | Poster |  | 😾 | 
+| 2386 | [FIND: Few-Shot Anomaly Inspection with Normal-Only Multi-Modal Data](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FIND_Few-Shot_Anomaly_Inspection_with_Normal-Only_Multi-Modal_Data_ICCV_2025_paper.pdf) | YITING LI | Poster |  | 😾 | 
+| 2391 | [AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm](https://iccv.thecvf.com/virtual/2025/poster/2391) | Xinyue Li | Poster |  | 😾 | 
+| 2394 | [Similarity Memory Prior is All You Need for Medical Image Segmentation](2507.00585) | Hao Tang | Poster |  | 😾 | 
+| 2395 | [Corvid: Improving Multimodal Large Language Models Towards Chain-of-Thought Reasoning](2507.07424) | JINGJING JIANG | Poster |  | 😾 | 
+| 2396 | [OVG-HQ: Online Video Grounding with Hybrid-modal Queries](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_OVG-HQ_Online_Video_Grounding_with_Hybrid-modal_Queries_ICCV_2025_paper.pdf) | Runhao Zeng | Poster |  | 😾 | 
+| 2405 | [Zero-AVSR: Zero-Shot Audio-Visual Speech Recognition with LLMs by Learning Language-Agnostic Speech Representations](https://openaccess.thecvf.com/content/ICCV2025/papers/Yeo_Zero-AVSR_Zero-Shot_Audio-Visual_Speech_Recognition_with_LLMs_by_Learning_Language-Agnostic_ICCV_2025_paper.pdf) | Jeong Hun Yeo | Poster |  | 😾 | 
+| 2411 | [ShortV: Freezing Visual Tokens in Ineffective Layers of Multimodal Large Language Models](https://iccv.thecvf.com/virtual/2025/poster/2411) | Qianhao Yuan | Poster |  | 😾 | 
+| 2413 | [MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Tan_MPBR_Multimodal_Progressive_Bidirectional_Reasoning_for_Open-Set_Fine-Grained_Recognition_ICCV_2025_paper.pdf) | Junfu Tan | Poster |  | 😾 | 
+| 2415 | [3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding](2412.18450) | Tatiana Zemskova | Poster |  | 😾 | 
+| 2416 | [Synergistic Prompting for Robust Visual Recognition with Missing Modalities](2507.07802) | Zhihui Zhang | Poster |  | 😾 | 
+| 2418 | [Pseudo-SD: Pseudo Controlled Stable Diffusion for Semi-Supervised and Cross-Domain Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Pseudo-SD_Pseudo_Controlled_Stable_Diffusion_for_Semi-Supervised_and_Cross-Domain_Semantic_ICCV_2025_paper.pdf) | Dong Zhao | Poster |  | 😾 | 
+| 2421 | [SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.pdf) | Sudong Wang | Poster |  | 😾 | 
+| 2423 | [Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior](2403.18878) | YoungSeok Jeon | Poster |  | 😾 | 
+| 2427 | [Leveraging Debiased Cross-modal Attention Maps and Code-based Reasoning for Zero-shot Referring Expression Comprehension](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Leveraging_Debiased_Cross-modal_Attention_Maps_and_Code-based_Reasoning_for_Zero-shot_ICCV_2025_paper.pdf) | Juntao Chen | Poster |  | 😾 | 
+| 2436 | [Learning to Inference Adaptively for Multimodal Large Language Models](2503.10905) | Zhuoyan Xu | Poster |  | 😾 | 
+| 2437 | [CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection](https://iccv.thecvf.com/virtual/2025/poster/2437) | Hanzhi Zhong | Poster |  | 😾 | 
+| 2438 | [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning](2412.03248) | Yiwu Zhong | Poster |  | 😾 | 
+| 2441 | [CogCM: Cognition-Inspired Contextual Modeling for Audio-Visual Speech Enhancement](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_CogCM_Cognition-Inspired_Contextual_Modeling_for_Audio-Visual_Speech_Enhancement_ICCV_2025_paper.pdf) | Feixiang Wang | Poster |  | 😾 | 
+| 2443 | [Beyond Brain Decoding: Visual-Semantic Reconstructions to Mental Creation Extension Based on fMRI](https://openaccess.thecvf.com/content/ICCV2025/papers/Jing_Beyond_Brain_Decoding_Visual-Semantic_Reconstructions_to_Mental_Creation_Extension_Based_ICCV_2025_paper.pdf) | Haodong Jing | Poster |  | 😾 | 
+| 2446 | [Multimodal Prompt Alignment for Facial Expression Recognition](2506.21017) | Fuyan Ma | Poster |  | 😾 | 
+| 2449 | [Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Mu_Diff2I2P_Differentiable_Image-to-Point_Cloud_Registration_with_Diffusion_Prior_ICCV_2025_paper.pdf) | Juncheng Mu | Poster |  | 😾 | 
+| 2452 | [OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_OV3D-CG_Open-vocabulary_3D_Instance_Segmentation_with_Contextual_Guidance_ICCV_2025_paper.pdf) | Mingquan Zhou | Poster |  | 😾 | 
+| 2454 | [SC-Captioner: Improving Image Captioning with Self-Correction by Reinforcement Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SC-Captioner_Improving_Image_Captioning_with_Self-Correction_by_Reinforcement_Learning_ICCV_2025_paper.pdf) | Lin Zhang | Poster |  | 😾 | 
+| 2462 | [ASCENT: Annotation-free Self-supervised Contrastive Embeddings for 3D Neuron Tracking in Fluorescence Microscopy](https://openaccess.thecvf.com/content/ICCV2025/papers/Han_ASCENT_Annotation-free_Self-supervised_Contrastive_Embeddings_for_3D_Neuron_Tracking_in_ICCV_2025_paper.pdf) | Haejun Han | Poster |  | 😾 | 
+| 2466 | [Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Kang_Dynamic_Multi-Layer_Null_Space_Projection_for_Vision-Language_Continual_Learning_ICCV_2025_paper.pdf) | Borui Kang | Poster |  | 😾 | 
+| 2471 | [RadGPT: Constructing 3D Image-Text Tumor Datasets](https://openaccess.thecvf.com/content/ICCV2025/papers/Bassi_RadGPT_Constructing_3D_Image-Text_Tumor_Datasets_ICCV_2025_paper.pdf) | Pedro Bassi | Poster |  | 😾 | 
+| 2477 | [MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) | Tao Wang | Poster |  | 😾 | 
+| 2490 | [Flow-MIL: Constructing Highly-expressive Latent Feature Space For Whole Slide Image Classification Using Normalizing Flow](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Flow-MIL_Constructing_Highly-expressive_Latent_Feature_Space_For_Whole_Slide_Image_ICCV_2025_paper.pdf) | Yingfan MA | Poster |  | 😾 | 
+| 2505 | [Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](2504.01901) | Haochen Wang | Poster |  | 😾 | 
+| 2507 | [FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FED-PsyAU_Privacy-Preserving_Micro-Expression_Recognition_via_Psychological_AU_Coordination_and_Dynamic_ICCV_2025_paper.pdf) | Jingting Li | Poster |  | 😾 | 
+| 2508 | [Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](2508.15256) | Jinsol Song | Poster |  | 😾 | 
+| 2512 | [HypDAE: Hyperbolic Diffusion Autoencoders for Hierarchical Few-shot Image Generation](2411.17784) | Lingxiao Li | Poster |  | 😾 | 
+| 2514 | [CoSMIC: Continual Self-supervised Learning for Multi-Domain Medical Imaging via Conditional Mutual Information Maximization](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_CoSMIC_Continual_Self-supervised_Learning_for_Multi-Domain_Medical_Imaging_via_Conditional_ICCV_2025_paper.pdf) | Yihang Liu | Poster |  | 😾 | 
+| 2524 | [Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](2507.02395) | Byung Lee Lee | Poster |  | 😾 | 
+| 2531 | [LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](https://iccv.thecvf.com/virtual/2025/poster/2531) | Li Huaqiu | Poster |  | 😾 | 
+| 2537 | [Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation](2509.15224) | Luca Bartolomei | Poster |  | 😾 | 
+| 2543 | [AutoOcc: Automatic Open-Ended Semantic Occupancy Annotation via Vision-Language Guided Gaussian Splatting](2502.04981) | Xiaoyu Zhou | Poster |  | 😾 | 
+| 2545 | [3DRealCar: An In-the-wild RGB-D Car Dataset with 360-degree Views](https://openaccess.thecvf.com/content/ICCV2025/papers/Du_3DRealCar_An_In-the-wild_RGB-D_Car_Dataset_with_360-degree_Views_ICCV_2025_paper.pdf) | Xiaobiao Du | Poster |  | 😾 | 
+| 2548 | [InvRGB+L: Inverse Rendering of Complex Scenes with Unified Color and LiDAR Reflectance Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_InvRGBL_Inverse_Rendering_of_Complex_Scenes_with_Unified_Color_and_ICCV_2025_paper.pdf) | Xiaoxue Chen | Poster |  | 😾 | 
+| 2549 | [FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging](https://openaccess.thecvf.com/content/ICCV2025/papers/You_FB-Diff_Fourier_Basis-guided_Diffusion_for_Temporal_Interpolation_of_4D_Medical_ICCV_2025_paper.pdf) | Xin You | Poster |  | 😾 | 
+| 2568 | [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Haji-Ali_AV-Link_Temporally-Aligned_Diffusion_Features_for_Cross-Modal_Audio-Video_Generation_ICCV_2025_paper.pdf) | Moayed Haji-Ali | Poster |  | 😾 | 
+| 2569 | [Exploiting Frequency Dynamics for Enhanced Multimodal Event-based Action Recognition](https://iccv.thecvf.com/virtual/2025/poster/2569) | Meiqi Cao | Poster |  | 😾 | 
+| 2571 | [FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf) | Tao Gong | Poster |  | 😾 | 
+| 2573 | [Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers](2506.07986) | Zhengyao Lyu | Poster |  | 😾 | 
+| 2576 | [VGMamba: Attribute-to-Location Clue Reasoning for Quantity-Agnostic 3D Visual Grounding](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_VGMamba_Attribute-to-Location_Clue_Reasoning_for_Quantity-Agnostic_3D_Visual_Grounding_ICCV_2025_paper.pdf) | Zhu Yihang | Poster |  | 😾 | 
+| 2577 | [TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning In Text-to-Image Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Hsiao_TF-TI2I_Training-Free_Text-and-Image-to-Image_Generation_via_Multi-Modal_Implicit-Context_Learning_In_Text-to-Image_ICCV_2025_paper.pdf) | Teng-Fang Hsiao | Poster |  | 😾 | 
+| 2579 | [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](2506.23468) | Xuan Yao | Poster |  | 😾 | 
+| 2580 | [SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_SVG-Head_Hybrid_Surface-Volumetric_Gaussians_for_High-Fidelity_Head_Reconstruction_and_Real-Time_ICCV_2025_paper.pdf) | Heyi Sun | Poster |  | 😾 | 
+| 2584 | [LIRA: Reasoning Reconstruction via Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_LIRA_Reasoning_Reconstruction_via_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) | Zhen Zhou | Poster |  | 😾 | 
+| 2596 | [SAMPLE: Semantic Alignment through Temporal-Adaptive Multimodal Prompt Learning for Event-Based Open-Vocabulary Action Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_SAMPLE_Semantic_Alignment_through_Temporal-Adaptive_Multimodal_Prompt_Learning_for_Event-Based_ICCV_2025_paper.pdf) | Jing Wang | Poster |  | 😾 | 
+| 2597 | [Boosting Vision Semantic Density with Anatomy Normality Modeling for Medical Vision-language Pre-training](2508.03742) | Weiwei Cao | Poster |  | 😾 | 
+| 2618 | [BlueNeg: A 35mm Negative Film Dataset for Restoring Channel-Heterogeneous Deterioration](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_BlueNeg_A_35mm_Negative_Film_Dataset_for_Restoring_Channel-Heterogeneous_Deterioration_ICCV_2025_paper.pdf) | Hanyuan Liu | Poster |  | 😾 | 
+| 2624 | [Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](2412.05934) | Ma Teng | Poster |  | 😾 | 
+| 2629 | [CLIP-Adapted Region-to-Text Learning for Generative Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ge_CLIP-Adapted_Region-to-Text_Learning_for_Generative_Open-Vocabulary_Semantic_Segmentation_ICCV_2025_paper.pdf) | Jiannan Ge | Poster |  | 😾 | 
+| 2630 | [Toward Fair and Accurate Cross-Domain Medical Image Segmentation: A VLM-Driven Active Domain Adaptation Paradigm](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Toward_Fair_and_Accurate_Cross-Domain_Medical_Image_Segmentation_A_VLM-Driven_ICCV_2025_paper.pdf) | Hongqiu Wang | Poster |  | 😾 | 
+| 2642 | [Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving](2503.21505) | Yue Li | Poster |  | 😾 | 
+| 2650 | [UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction](2510.01669) | Jin Cao | Poster |  | 😾 | 
+| 2651 | [UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation](2504.06908) | Emmanuelle Bourigault | Poster |  | 😾 | 
+| 2656 | [LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](2506.23502) | Meng Tian | Poster |  | 😾 | 
+| 2657 | [AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference](2503.23956) | Kai Huang | Poster |  | 😾 | 
+| 2674 | [SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark](2506.21549) | Alex Costanzino | Poster |  | 😾 | 
+| 2686 | [MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization](2507.20562) | Hyung Kim | Poster |  | 😾 | 
+| 2689 | [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](2506.22375) | Tiankai Chen | Poster |  | 😾 | 
+| 2711 | [CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation](2504.20830) | Jianyu Wu | Poster |  | 😾 | 
+| 8312e8e7a8 | [EgoM2P: Egocentric Multimodal Multitask Pretraining](2506.07886) | Gen Li | None |  | 😾 | 
+| d283a8d992 | [ShortV: Efficient Multimodal Large Language Models by Freezing Visual Tokens in Ineffective Layers](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_ShortV_Efficient_Multimodal_Large_Language_Models_by_Freezing_Visual_Tokens_ICCV_2025_paper.html) |  | None |  | 😾 | 
 </details>
 
 <details>
@@ -3280,7 +3280,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 32598 | [Rethinking Noisy Video-Text Retrieval via Relation-aware Alignment](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Rethinking_Noisy_Video-Text_Retrieval_via_Relation-aware_Alignment_CVPR_2025_paper.pdf) | Huakai Lai | Poster | 0 | 😾 | 
 | 32609 | [FisherTune: Fisher-Guided Robust Tuning of Vision Foundation Models for Domain Generalized Segmentation](2503.17940) | Dong Zhao | Poster | 0 | 😾 | 
 | 32619 | [S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_S4-Driver_Scalable_Self-Supervised_Driving_Multimodal_Large_Language_Model_with_Spatio-Temporal_CVPR_2025_paper.pdf) | Yichen Xie | Poster | 0 | 😾 | 
-| 32624 | [DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DiET-GS_Diffusion_Prior_and_Event_Stream-Assisted_Motion_Deblurring_3D_Gaussian_CVPR_2025_paper.pdf) | Seungjun Lee | Poster | -1 | 😾 | 
+| 32624 | [DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DiET-GS_Diffusion_Prior_and_Event_Stream-Assisted_Motion_Deblurring_3D_Gaussian_CVPR_2025_paper.pdf) | Seungjun Lee | Poster |  | 😾 | 
 | 32626 | [Towards Open-Vocabulary Audio-Visual Event Localization](2411.11278) | Jinxing Zhou | Poster | 8 | [Code😻](https://github.com/jasongief/OV-AVEL) | 
 | 32627 | [Fine-Grained Image-Text Correspondence with Cost Aggregation for Open-Vocabulary Part Segmentation](2501.09688) | Jiho Choi | Poster | 0 | 😾 | 
 | 32630 | [EffiDec3D: An Optimized Decoder for High-Performance and Efficient 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Rahman_EffiDec3D_An_Optimized_Decoder_for_High-Performance_and_Efficient_3D_Medical_CVPR_2025_paper.pdf) | Md Mostafijur Rahman | Highlight | 0 | [Code😻](https://github.com/SLDGroup/EffiDec3D) | 
@@ -4273,7 +4273,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 348 | [CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01541.pdf) | Qilang Ye | Poster | 28 | 😾 | 
 | 349 | [CPM: Class-conditional Prompting Machine for Audio-visual Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01634.pdf) | Yuanhong Chen | Poster | 2 | 😾 | 
 | 352 | [WRIM-Net: Wide-Ranging Information Mining Network for Visible-Infrared Person Re-Identification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06947.pdf) | Yonggan Wu | Poster | 4 | 😾 | 
-| 362 | [Any2Point: Empowering Any-modality Transformers for Efficient 3D Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05360.pdf) | YIWEN TANG | Poster | -1 | 😾 | 
+| 362 | [Any2Point: Empowering Any-modality Transformers for Efficient 3D Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05360.pdf) | YIWEN TANG | Poster |  | 😾 | 
 | 363 | [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06356.pdf) | Zhiyuan You | Poster | 44 | 😾 | 
 | 364 | [HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09919.pdf) | Zhecan Wang | Poster | 16 | 😾 | 
 | 367 | [GENIXER: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03355.pdf) | Hengyuan Zhao | Poster | 0 | 😾 | 
@@ -4308,7 +4308,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 563 | [Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00111.pdf) | Yuanhao Cai | Poster | 31 | 😾 | 
 | 602 | [Osmosis: RGBD Diffusion Prior for Underwater Image Restoration](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07932.pdf) | Opher Bar Nathan | Poster | 5 | 😾 | 
 | 615 | [EgoPoseFormer: A Simple Baseline for Stereo Egocentric 3D Human Pose Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07241.pdf) | Chenhongyi Yang | Poster | 7 | 😾 | 
-| 654 | [Nymeria: A Massive Collection of Egocentric Multi-modal Human Motion in the Wild](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03541.pdf) | Lingni Ma | Poster | -1 | 😾 | 
+| 654 | [Nymeria: A Massive Collection of Egocentric Multi-modal Human Motion in the Wild](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03541.pdf) | Lingni Ma | Poster |  | 😾 | 
 | 699 | [Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06903.pdf) | Junxiong Lin | Poster | 3 | 😾 | 
 | 707 | [Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11241.pdf) | Wenhua Wu | Poster | 1 | 😾 | 
 | 708 | [NePhi: Neural Deformation Fields for Approximately Diffeomorphic Medical Image Registration](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12148.pdf) | Lin Tian | Poster | 4 | 😾 | 
@@ -4421,7 +4421,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 1482 | [Domain Shifting: A Generalized Solution for Heterogeneous Cross-Modality Person Re-Identification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09119.pdf) | Yan Jiang | Poster | 6 | 😾 | 
 | 1489 | [ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01267.pdf) | CHENMING ZHU | Poster | 11 | 😾 | 
 | 1490 | [Uni3DL: A Unified Model for 3D Vision-Language Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03330.pdf) | Xiang Li | Poster | 1 | 😾 | 
-| 1491 | [CrossScore: A Multi-View Approach to Image Evaluation and Scoring](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01470.pdf) | Zirui Wang | Poster | -1 | 😾 | 
+| 1491 | [CrossScore: A Multi-View Approach to Image Evaluation and Scoring](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01470.pdf) | Zirui Wang | Poster |  | 😾 | 
 | 1494 | [X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-modal Reasoning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06140.pdf) | Artemis Panagopoulou | Poster | 3 | 😾 | 
 | 1495 | [ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07792.pdf) | Siming Yan | Poster | 23 | 😾 | 
 | 1498 | [MoAI: Mixture of All Intelligence for Large Language and Vision Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06579.pdf) | Byung-Kwan Lee | Poster | 19 | 😾 | 
