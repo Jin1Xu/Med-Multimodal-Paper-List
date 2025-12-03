@@ -75,173 +75,173 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  | None |  | 😾 | 
-| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  | None |  | 😾 | 
-| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  | None |  | 😾 | 
-| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  | None |  | 😾 | 
-| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  | None |  | 😾 | 
-| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  | None |  | 😾 | 
-| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  | None |  | 😾 | 
-| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  | None |  | 😾 | 
-| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  | None |  | 😾 | 
-| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  | None |  | 😾 | 
-| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  | None |  | 😾 | 
-| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  | None |  | 😾 | 
-| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  | None |  | 😾 | 
-| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  | None |  | 😾 | 
-| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  | None |  | 😾 | 
-| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  | None |  | 😾 | 
-| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  | None |  | 😾 | 
-| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  | None |  | 😾 | 
-| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  | None |  | 😾 | 
-| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  | None |  | 😾 | 
-| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
-| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  | None |  | 😾 | 
-| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  | None |  | 😾 | 
-| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  | None |  | 😾 | 
-| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  | None |  | 😾 | 
-| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  | None |  | 😾 | 
-| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  | None |  | 😾 | 
-| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  | None |  | 😾 | 
-| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  | None |  | 😾 | 
-| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  | None |  | 😾 | 
-| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  | None |  | 😾 | 
-| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  | None |  | 😾 | 
-| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  | None |  | 😾 | 
-| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  | None |  | 😾 | 
-| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  | None |  | 😾 | 
-| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  | None |  | 😾 | 
-| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  | None |  | 😾 | 
-| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  | None |  | 😾 | 
-| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  | None |  | 😾 | 
-| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  | None |  | 😾 | 
-| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  | None |  | 😾 | 
-| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  | None |  | 😾 | 
-| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  | None |  | 😾 | 
-| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  | None |  | 😾 | 
-| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  | None |  | 😾 | 
-| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
-| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  | None |  | 😾 | 
-| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  | None |  | 😾 | 
-| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  | None |  | 😾 | 
-| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  | None |  | 😾 | 
-| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  | None |  | 😾 | 
-| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  | None |  | 😾 | 
-| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  | None |  | 😾 | 
-| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  | None |  | 😾 | 
-| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  | None |  | 😾 | 
-| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  | None |  | 😾 | 
-| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  | None |  | 😾 | 
-| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  | None |  | 😾 | 
-| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  | None |  | 😾 | 
-| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  | None |  | 😾 | 
-| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  | None |  | 😾 | 
-| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  | None |  | 😾 | 
-| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  | None |  | 😾 | 
-| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  | None |  | 😾 | 
-| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  | None |  | 😾 | 
-| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  | None |  | 😾 | 
-| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  | None |  | 😾 | 
-| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  | None |  | 😾 | 
-| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  | None |  | 😾 | 
-| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  | None |  | 😾 | 
-| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  | None |  | 😾 | 
-| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  | None |  | 😾 | 
-| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  | None |  | 😾 | 
-| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  | None |  | 😾 | 
-| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  | None |  | 😾 | 
-| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  | None |  | 😾 | 
-| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  | None |  | 😾 | 
-| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
-| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  | None |  | 😾 | 
-| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  | None |  | 😾 | 
-| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  | None |  | 😾 | 
-| None | Improving Autism Detection with Multimodal Behavioral Analysis |  | None |  | 😾 | 
-| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  | None |  | 😾 | 
-| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  | None |  | 😾 | 
-| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  | None |  | 😾 | 
-| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  | None |  | 😾 | 
-| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  | None |  | 😾 | 
-| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  | None |  | 😾 | 
-| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  | None |  | 😾 | 
-| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  | None |  | 😾 | 
-| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  | None |  | 😾 | 
-| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  | None |  | 😾 | 
-| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  | None |  | 😾 | 
-| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  | None |  | 😾 | 
-| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  | None |  | 😾 | 
-| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  | None |  | 😾 | 
-| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  | None |  | 😾 | 
-| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  | None |  | 😾 | 
-| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  | None |  | 😾 | 
-| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  | None |  | 😾 | 
-| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  | None |  | 😾 | 
-| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  | None |  | 😾 | 
-| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  | None |  | 😾 | 
-| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  | None |  | 😾 | 
-| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  | None |  | 😾 | 
-| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  | None |  | 😾 | 
-| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  | None |  | 😾 | 
-| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  | None |  | 😾 | 
-| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  | None |  | 😾 | 
-| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  | None |  | 😾 | 
-| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
-| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  | None |  | 😾 | 
-| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  | None |  | 😾 | 
-| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  | None |  | 😾 | 
-| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  | None |  | 😾 | 
-| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  | None |  | 😾 | 
-| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  | None |  | 😾 | 
-| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  | None |  | 😾 | 
-| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  | None |  | 😾 | 
-| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  | None |  | 😾 | 
-| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  | None |  | 😾 | 
-| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  | None |  | 😾 | 
-| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  | None |  | 😾 | 
-| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  | None |  | 😾 | 
-| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  | None |  | 😾 | 
-| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  | None |  | 😾 | 
-| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
-| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  | None |  | 😾 | 
-| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  | None |  | 😾 | 
-| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  | None |  | 😾 | 
-| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  | None |  | 😾 | 
-| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  | None |  | 😾 | 
-| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  | None |  | 😾 | 
-| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  | None |  | 😾 | 
-| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  | None |  | 😾 | 
-| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  | None |  | 😾 | 
-| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  | None |  | 😾 | 
-| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  | None |  | 😾 | 
-| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  | None |  | 😾 | 
-| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  | None |  | 😾 | 
-| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  | None |  | 😾 | 
-| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  | None |  | 😾 | 
-| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  | None |  | 😾 | 
-| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  | None |  | 😾 | 
-| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  | None |  | 😾 | 
-| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  | None |  | 😾 | 
-| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  | None |  | 😾 | 
-| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  | None |  | 😾 | 
-| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  | None |  | 😾 | 
-| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  | None |  | 😾 | 
-| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  | None |  | 😾 | 
-| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  | None |  | 😾 | 
-| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  | None |  | 😾 | 
-| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  | None |  | 😾 | 
-| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  | None |  | 😾 | 
-| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  | None |  | 😾 | 
-| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  | None |  | 😾 | 
-| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  | None |  | 😾 | 
-| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  | None |  | 😾 | 
-| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  | None |  | 😾 | 
-| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  | None |  | 😾 | 
-| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  | None |  | 😾 | 
-| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  | None |  | 😾 | 
-| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  | None |  | 😾 | 
+| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  |  |  | 😾 | 
+| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  |  |  | 😾 | 
+| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  |  |  | 😾 | 
+| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  |  |  | 😾 | 
+| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  |  |  | 😾 | 
+| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  |  |  | 😾 | 
+| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  |  |  | 😾 | 
+| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  |  |  | 😾 | 
+| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  |  |  | 😾 | 
+| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  |  |  | 😾 | 
+| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  |  |  | 😾 | 
+| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  |  |  | 😾 | 
+| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  |  |  | 😾 | 
+| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  |  |  | 😾 | 
+| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  |  |  | 😾 | 
+| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  |  |  | 😾 | 
+| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  |  |  | 😾 | 
+| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  |  |  | 😾 | 
+| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  |  |  | 😾 | 
+| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  |  |  | 😾 | 
+| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  |  |  | 😾 | 
+| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  |  |  | 😾 | 
+| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  |  |  | 😾 | 
+| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  |  |  | 😾 | 
+| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  |  |  | 😾 | 
+| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  |  |  | 😾 | 
+| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  |  |  | 😾 | 
+| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  |  |  | 😾 | 
+| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  |  |  | 😾 | 
+| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  |  |  | 😾 | 
+| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  |  |  | 😾 | 
+| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  |  |  | 😾 | 
+| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  |  |  | 😾 | 
+| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  |  |  | 😾 | 
+| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  |  |  | 😾 | 
+| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  |  |  | 😾 | 
+| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  |  |  | 😾 | 
+| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  |  |  | 😾 | 
+| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  |  |  | 😾 | 
+| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  |  |  | 😾 | 
+| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  |  |  | 😾 | 
+| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  |  |  | 😾 | 
+| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  |  |  | 😾 | 
+| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  |  |  | 😾 | 
+| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  |  |  | 😾 | 
+| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  |  |  | 😾 | 
+| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  |  |  | 😾 | 
+| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  |  |  | 😾 | 
+| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  |  |  | 😾 | 
+| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  |  |  | 😾 | 
+| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  |  |  | 😾 | 
+| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  |  |  | 😾 | 
+| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  |  |  | 😾 | 
+| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  |  |  | 😾 | 
+| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  |  |  | 😾 | 
+| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  |  |  | 😾 | 
+| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  |  |  | 😾 | 
+| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  |  |  | 😾 | 
+| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  |  |  | 😾 | 
+| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  |  |  | 😾 | 
+| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  |  |  | 😾 | 
+| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  |  |  | 😾 | 
+| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  |  |  | 😾 | 
+| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  |  |  | 😾 | 
+| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  |  |  | 😾 | 
+| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  |  |  | 😾 | 
+| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  |  |  | 😾 | 
+| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  |  |  | 😾 | 
+| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  |  |  | 😾 | 
+| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  |  |  | 😾 | 
+| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  |  |  | 😾 | 
+| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  |  |  | 😾 | 
+| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  |  |  | 😾 | 
+| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  |  |  | 😾 | 
+| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  |  |  | 😾 | 
+| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  |  |  | 😾 | 
+| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  |  |  | 😾 | 
+| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  |  |  | 😾 | 
+| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  |  |  | 😾 | 
+| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  |  |  | 😾 | 
+| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  |  |  | 😾 | 
+| None | Improving Autism Detection with Multimodal Behavioral Analysis |  |  |  | 😾 | 
+| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  |  |  | 😾 | 
+| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  |  |  | 😾 | 
+| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  |  |  | 😾 | 
+| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  |  |  | 😾 | 
+| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  |  |  | 😾 | 
+| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  |  |  | 😾 | 
+| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  |  |  | 😾 | 
+| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  |  |  | 😾 | 
+| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  |  |  | 😾 | 
+| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  |  |  | 😾 | 
+| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  |  |  | 😾 | 
+| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  |  |  | 😾 | 
+| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  |  |  | 😾 | 
+| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  |  |  | 😾 | 
+| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  |  |  | 😾 | 
+| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  |  |  | 😾 | 
+| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  |  |  | 😾 | 
+| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  |  |  | 😾 | 
+| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  |  |  | 😾 | 
+| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  |  |  | 😾 | 
+| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  |  |  | 😾 | 
+| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  |  |  | 😾 | 
+| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  |  |  | 😾 | 
+| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  |  |  | 😾 | 
+| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  |  |  | 😾 | 
+| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  |  |  | 😾 | 
+| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  |  |  | 😾 | 
+| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  |  |  | 😾 | 
+| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  |  |  | 😾 | 
+| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  |  |  | 😾 | 
+| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  |  |  | 😾 | 
+| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  |  |  | 😾 | 
+| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  |  |  | 😾 | 
+| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  |  |  | 😾 | 
+| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  |  |  | 😾 | 
+| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  |  |  | 😾 | 
+| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  |  |  | 😾 | 
+| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  |  |  | 😾 | 
+| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  |  |  | 😾 | 
+| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  |  |  | 😾 | 
+| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  |  |  | 😾 | 
+| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  |  |  | 😾 | 
+| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  |  |  | 😾 | 
+| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  |  |  | 😾 | 
+| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  |  |  | 😾 | 
+| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  |  |  | 😾 | 
+| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  |  |  | 😾 | 
+| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  |  |  | 😾 | 
+| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  |  |  | 😾 | 
+| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  |  |  | 😾 | 
+| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  |  |  | 😾 | 
+| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  |  |  | 😾 | 
+| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  |  |  | 😾 | 
+| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  |  |  | 😾 | 
+| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  |  |  | 😾 | 
+| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  |  |  | 😾 | 
+| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  |  |  | 😾 | 
+| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  |  |  | 😾 | 
+| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  |  |  | 😾 | 
+| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  |  |  | 😾 | 
+| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  |  |  | 😾 | 
+| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  |  |  | 😾 | 
+| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  |  |  | 😾 | 
+| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  |  |  | 😾 | 
+| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  |  |  | 😾 | 
+| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  |  |  | 😾 | 
+| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  |  |  | 😾 | 
+| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  |  |  | 😾 | 
+| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  |  |  | 😾 | 
+| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  |  |  | 😾 | 
+| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  |  |  | 😾 | 
+| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  |  |  | 😾 | 
+| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  |  |  | 😾 | 
+| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  |  |  | 😾 | 
+| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  |  |  | 😾 | 
+| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  |  |  | 😾 | 
+| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  |  |  | 😾 | 
+| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  |  |  | 😾 | 
+| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  |  |  | 😾 | 
+| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  |  |  | 😾 | 
+| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  |  |  | 😾 | 
+| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  |  |  | 😾 | 
 </details>
 
 <details>
@@ -251,105 +251,105 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
-| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  | None |  | 😾 | 
-| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  | None |  | 😾 | 
-| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  | None |  | 😾 | 
-| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  | None |  | 😾 | 
-| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  | None |  | 😾 | 
-| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
-| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  | None |  | 😾 | 
-| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  | None |  | 😾 | 
-| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  | None |  | 😾 | 
-| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  | None |  | 😾 | 
-| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  | None |  | 😾 | 
-| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  | None |  | 😾 | 
-| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  | None |  | 😾 | 
-| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  | None |  | 😾 | 
-| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  | None |  | 😾 | 
-| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  | None |  | 😾 | 
-| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  | None |  | 😾 | 
-| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  | None |  | 😾 | 
-| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  | None |  | 😾 | 
-| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  | None |  | 😾 | 
-| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  | None |  | 😾 | 
-| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  | None |  | 😾 | 
-| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  | None |  | 😾 | 
-| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  | None |  | 😾 | 
-| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  | None |  | 😾 | 
-| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  | None |  | 😾 | 
-| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  | None |  | 😾 | 
-| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  | None |  | 😾 | 
-| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  | None |  | 😾 | 
-| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  | None |  | 😾 | 
-| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  | None |  | 😾 | 
-| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  | None |  | 😾 | 
-| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  | None |  | 😾 | 
-| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  | None |  | 😾 | 
-| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  | None |  | 😾 | 
-| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  | None |  | 😾 | 
-| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  | None |  | 😾 | 
-| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  | None |  | 😾 | 
-| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  | None |  | 😾 | 
-| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  | None |  | 😾 | 
-| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  | None |  | 😾 | 
-| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  | None |  | 😾 | 
-| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  | None |  | 😾 | 
-| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  | None |  | 😾 | 
-| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  | None |  | 😾 | 
-| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  | None |  | 😾 | 
-| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  | None |  | 😾 | 
-| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  | None |  | 😾 | 
-| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  | None |  | 😾 | 
-| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  | None |  | 😾 | 
-| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  | None |  | 😾 | 
-| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  | None |  | 😾 | 
-| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  | None |  | 😾 | 
-| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  | None |  | 😾 | 
-| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  | None |  | 😾 | 
-| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  | None |  | 😾 | 
-| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  | None |  | 😾 | 
-| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  | None |  | 😾 | 
-| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  | None |  | 😾 | 
-| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  | None |  | 😾 | 
-| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  | None |  | 😾 | 
-| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  | None |  | 😾 | 
-| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  | None |  | 😾 | 
-| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  | None |  | 😾 | 
-| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  | None |  | 😾 | 
-| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  | None |  | 😾 | 
-| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  | None |  | 😾 | 
-| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  | None |  | 😾 | 
-| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  | None |  | 😾 | 
-| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  | None |  | 😾 | 
-| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  | None |  | 😾 | 
-| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  | None |  | 😾 | 
-| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  | None |  | 😾 | 
-| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  | None |  | 😾 | 
-| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  | None |  | 😾 | 
-| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  | None |  | 😾 | 
-| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  | None |  | 😾 | 
-| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  | None |  | 😾 | 
-| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  | None |  | 😾 | 
-| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  | None |  | 😾 | 
-| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  | None |  | 😾 | 
-| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  | None |  | 😾 | 
-| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  | None |  | 😾 | 
-| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  | None |  | 😾 | 
-| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  | None |  | 😾 | 
-| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  | None |  | 😾 | 
-| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  | None |  | 😾 | 
-| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  | None |  | 😾 | 
-| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  | None |  | 😾 | 
-| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  | None |  | 😾 | 
-| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  | None |  | 😾 | 
-| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  | None |  | 😾 | 
-| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  | None |  | 😾 | 
-| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  | None |  | 😾 | 
-| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  | None |  | 😾 | 
+| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  |  |  | 😾 | 
+| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  |  |  | 😾 | 
+| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  |  |  | 😾 | 
+| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  |  |  | 😾 | 
+| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  |  |  | 😾 | 
+| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  |  |  | 😾 | 
+| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  |  |  | 😾 | 
+| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  |  |  | 😾 | 
+| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  |  |  | 😾 | 
+| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  |  |  | 😾 | 
+| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  |  |  | 😾 | 
+| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  |  |  | 😾 | 
+| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  |  |  | 😾 | 
+| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  |  |  | 😾 | 
+| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  |  |  | 😾 | 
+| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  |  |  | 😾 | 
+| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  |  |  | 😾 | 
+| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  |  |  | 😾 | 
+| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  |  |  | 😾 | 
+| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  |  |  | 😾 | 
+| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  |  |  | 😾 | 
+| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  |  |  | 😾 | 
+| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  |  |  | 😾 | 
+| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  |  |  | 😾 | 
+| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  |  |  | 😾 | 
+| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  |  |  | 😾 | 
+| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  |  |  | 😾 | 
+| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  |  |  | 😾 | 
+| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  |  |  | 😾 | 
+| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  |  |  | 😾 | 
+| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  |  |  | 😾 | 
+| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  |  |  | 😾 | 
+| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  |  |  | 😾 | 
+| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  |  |  | 😾 | 
+| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  |  |  | 😾 | 
+| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  |  |  | 😾 | 
+| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  |  |  | 😾 | 
+| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  |  |  | 😾 | 
+| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  |  |  | 😾 | 
+| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  |  |  | 😾 | 
+| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  |  |  | 😾 | 
+| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  |  |  | 😾 | 
+| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  |  |  | 😾 | 
+| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  |  |  | 😾 | 
+| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  |  |  | 😾 | 
+| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  |  |  | 😾 | 
+| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  |  |  | 😾 | 
+| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  |  |  | 😾 | 
+| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  |  |  | 😾 | 
+| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  |  |  | 😾 | 
+| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  |  |  | 😾 | 
+| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  |  |  | 😾 | 
+| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  |  |  | 😾 | 
+| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  |  |  | 😾 | 
+| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  |  |  | 😾 | 
+| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  |  |  | 😾 | 
+| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  |  |  | 😾 | 
+| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  |  |  | 😾 | 
+| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  |  |  | 😾 | 
+| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  |  |  | 😾 | 
+| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  |  |  | 😾 | 
+| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  |  |  | 😾 | 
+| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  |  |  | 😾 | 
+| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  |  |  | 😾 | 
+| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  |  |  | 😾 | 
+| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  |  |  | 😾 | 
+| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  |  |  | 😾 | 
+| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  |  |  | 😾 | 
+| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  |  |  | 😾 | 
+| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  |  |  | 😾 | 
+| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  |  |  | 😾 | 
+| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  |  |  | 😾 | 
+| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  |  |  | 😾 | 
+| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  |  |  | 😾 | 
+| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  |  |  | 😾 | 
+| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  |  |  | 😾 | 
+| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  |  |  | 😾 | 
+| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  |  |  | 😾 | 
+| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  |  |  | 😾 | 
+| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  |  |  | 😾 | 
+| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  |  |  | 😾 | 
+| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  |  |  | 😾 | 
+| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  |  |  | 😾 | 
+| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  |  |  | 😾 | 
+| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  |  |  | 😾 | 
+| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  |  |  | 😾 | 
+| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  |  |  | 😾 | 
+| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  |  |  | 😾 | 
+| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  |  |  | 😾 | 
+| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  |  |  | 😾 | 
+| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  |  |  | 😾 | 
+| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  |  |  | 😾 | 
+| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  |  |  | 😾 | 
+| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  |  |  | 😾 | 
+| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  |  |  | 😾 | 
+| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  |  |  | 😾 | 
 </details>
 
 <details>
@@ -1020,867 +1020,867 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | 3D Acetabular Surface Reconstruction from 2D Pre-operative X-ray Images using SRVF Elastic Registration and Deformation Graph |  | None |  | 😾 | 
-| None | 3D Dynamic Prediction of Missing Teeth in Diverse Patterns via Centroid-prompted Diffusion Model |  | None |  | 😾 | 
-| None | 4D CardioSynth: Synthesising Dynamic Virtual Heart Populations through Spatiotemporal Disentanglement |  | None |  | 😾 | 
-| None | 6D Object Pose Tracking for Orthopedic Surgical Training using Visual-Inertial Sensor Fusion |  | None |  | 😾 | 
-| None | A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation |  | None |  | 😾 | 
-| None | A Causal-holistic Adaptive Intervention Network for Tailoring Automated Coronary Artery Disease Diagnosis to Individual Patients |  | None |  | 😾 | 
-| None | A Causality-Inspired Model for Intima-Media Thickening Assessment in Ultrasound Videos |  | None |  | 😾 | 
-| None | A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images |  | None |  | 😾 | 
-| None | A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging |  | None |  | 😾 | 
-| None | A Holistic Time-Aware Classification Model for Multimodal Longitudinal Patient Data |  | None |  | 😾 | 
-| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  | None |  | 😾 | 
-| None | A Multi-Branch Framework for Cross-Domain Vessel Segmentation via the Few-Shot Paradigm |  | None |  | 😾 | 
-| None | A Multimodal Contrastive Learning for Detecting Aortic Dissection on 3D Non-Contrast CT with Anatomy Simplification |  | None |  | 😾 | 
-| None | A New Paradigm for Low-dose PET/CT Reconstruction with Mamba-powered Progressive Network and Physics-informed Consistency |  | None |  | 😾 | 
-| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  | None |  | 😾 | 
-| None | A Novel ED Triage Framework Using Conditional Imputation, Multi-Scale Semantic Learning, and Cross-Modal Fusion |  | None |  | 😾 | 
-| None | A Novel Framework for Integrating 3D Ultrasound into Percutaneous Liver Tumour Ablation |  | None |  | 😾 | 
-| None | A Semi-Supervised Knowledge Distillation Framework for Left Ventricle Segmentation and Landmark Detection in Echocardiograms |  | None |  | 😾 | 
-| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  | None |  | 😾 | 
-| None | A Unified Missing Modality Imputation Model with Inter-Modality Contrastive and Consistent Learning |  | None |  | 😾 | 
-| None | A Uniform Multi-mode Fused Framework for Velocity Field Estimation in Ultrasound Imaging |  | None |  | 😾 | 
-| None | A Virtual Domain Collaborative Learning Framework for Semi-supervised Microscopic Hyperspectral Image Segmentation |  | None |  | 😾 | 
-| None | ADAptation: Reconstruction-based Unsupervised Active Learning for Breast Ultrasound Diagnosis |  | None |  | 😾 | 
-| None | AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification |  | None |  | 😾 | 
-| None | AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis |  | None |  | 😾 | 
-| None | Abnormality-Driven Representation Learning for Radiology Imaging |  | None |  | 😾 | 
-| None | Accelerated Free-Breathing 5D Multi-Echo Respiratory Motion-Resolved R2*, PDFF, and QSM Using Novel Composite Total Variation |  | None |  | 😾 | 
-| None | Accurate Boundary Alignment and Realism Enhancement for Colonoscopic Polyp Image-Mask Pair Generation |  | None |  | 😾 | 
-| None | Active Source-Free Cross-Domain and Cross-Modality Adaptation for Volumetric Medical Image Segmentation by Image Sensitivity and Organ Heterogeneity Sampling |  | None |  | 😾 | 
-| None | AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-rays |  | None |  | 😾 | 
-| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  | None |  | 😾 | 
-| None | Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision |  | None |  | 😾 | 
-| None | Adapting Foundation Model for Dental Caries Detection with Dual-View Co-Training |  | None |  | 😾 | 
-| None | Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation |  | None |  | 😾 | 
-| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  | None |  | 😾 | 
-| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  | None |  | 😾 | 
-| None | Adaptive Frame Selection for Gestational Age Estimation from Blind Sweep Fetal Ultrasound Videos |  | None |  | 😾 | 
-| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  | None |  | 😾 | 
-| None | Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling |  | None |  | 😾 | 
-| None | Adaptive Stain Normalization for Cross-Domain Medical Histology |  | None |  | 😾 | 
-| None | Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis |  | None |  | 😾 | 
-| None | AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations |  | None |  | 😾 | 
-| None | All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior |  | None |  | 😾 | 
-| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  | None |  | 😾 | 
-| None | Ambiguous Medical Image Segmentation Using Diffusion Schrödinger Bridge |  | None |  | 😾 | 
-| None | An Anatomical Significance-Aware Architecture for Explainable Myocardial Infarction Prediction via Multi-Task Learning |  | None |  | 😾 | 
-| None | Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications |  | None |  | 😾 | 
-| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  | None |  | 😾 | 
-| None | Anatomical Structure Few-Shot Detection Utilizing Enhanced Human Anatomy Knowledge in Ultrasound Images |  | None |  | 😾 | 
-| None | Anatomy-Aware Frequency-Attention Transformer Networks for Liver Couinaud CT/MR Segmentation |  | None |  | 😾 | 
-| None | Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning |  | None |  | 😾 | 
-| None | Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge |  | None |  | 😾 | 
-| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  | None |  | 😾 | 
-| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  | None |  | 😾 | 
-| None | Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection |  | None |  | 😾 | 
-| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  | None |  | 😾 | 
-| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  | None |  | 😾 | 
-| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | Augmented Reality-based Guidance with Deformable Registration in Head and Neck Tumor Resection |  | None |  | 😾 | 
-| None | Automated Characterization of Myocardial Scar Topological Patterns for Ventricular Tachycardia Screening |  | None |  | 😾 | 
-| None | Automated Detection of BK Virus in H&E Whole-Slide Images Using Weakly-Supervised Deep Learning and Interpretable Morphological Biomarkers |  | None |  | 😾 | 
-| None | Automated Integration of Surgical Implants into Digital Twins for Trauma Surgery |  | None |  | 😾 | 
-| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  | None |  | 😾 | 
-| None | BME2: A Plug-and-Play Bridge-Based Module for Misalignment Estimation and Elimination in Multi-Scan Image Restoration |  | None |  | 😾 | 
-| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  | None |  | 😾 | 
-| None | BaMCo: Balanced Multimodal Contrastive Learning for Knowledge-Driven Medical VQA |  | None |  | 😾 | 
-| None | Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification |  | None |  | 😾 | 
-| None | BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images |  | None |  | 😾 | 
-| None | Bayesian Transformers and Higher-Order Graph Matching for Cell Tracking in Serial Tissue Sections |  | None |  | 😾 | 
-| None | Beyond Shadows: Learning Physics-inspired Ultrasound Confidence Maps from Sparse Annotations |  | None |  | 😾 | 
-| None | BiMSRec: A Progressive Image Reconstruction Framework for Medical Image Fusion Guided by Multi-Scale Deformation Fields |  | None |  | 😾 | 
-| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  | None |  | 😾 | 
-| None | Bias and Generalizability of Foundation Models across Datasets in Breast Mammography |  | None |  | 😾 | 
-| None | BiasICL: In-Context Learning and Demographic Biases of Vision Language Models |  | None |  | 😾 | 
-| None | Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation |  | None |  | 😾 | 
-| None | BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA |  | None |  | 😾 | 
-| None | Bipartite Patient-Modality Graph Learning with Event-Conditional Modelling of Censoring for Cancer Survival Prediction |  | None |  | 😾 | 
-| None | Blaze3DM: Integrating Triplane Representation with Diffusion for Solving 3D Inverse Problems in Medical Imaging |  | None |  | 😾 | 
-| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  | None |  | 😾 | 
-| None | Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations |  | None |  | 😾 | 
-| None | Boosting Generalizability in NPC ART Prediction via Multi-Omics Feature Mapping |  | None |  | 😾 | 
-| None | Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning |  | None |  | 😾 | 
-| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  | None |  | 😾 | 
-| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  | None |  | 😾 | 
-| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  | None |  | 😾 | 
-| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
-| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  | None |  | 😾 | 
-| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  | None |  | 😾 | 
-| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  | None |  | 😾 | 
-| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  | None |  | 😾 | 
-| None | BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation |  | None |  | 😾 | 
-| None | Bridging Knowledge Discrepancy in Retinal Image Analysis through Federated Multi-Task Learning |  | None |  | 😾 | 
-| None | Bridging Radiological Images and Factors with Vision-Language Model for Accurate Diagnosis of Proliferative Hepatocellular Carcinoma |  | None |  | 😾 | 
-| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | C-NCA: Chained Neural Cellular Automata for Fast and Accurate Thermal Ablation Estimation |  | None |  | 😾 | 
-| None | CA-SAM2: SAM2-based Context-Aware Network with Auto-Prompting for Nuclei Instance Segmentation |  | None |  | 😾 | 
-| None | CARE-VL: A Domain-Specialized Vision-Language Model for Early ASD Screening |  | None |  | 😾 | 
-| None | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery |  | None |  | 😾 | 
-| None | CAUDA-MI: Cross Attention-Guided Unsupervised Domain Adaptation with Mutual Information for Cardiac MRI Segmentation |  | None |  | 😾 | 
-| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  | None |  | 😾 | 
-| None | CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model |  | None |  | 😾 | 
-| None | CENet: Context Enhancement Network for Medical Image Segmentation |  | None |  | 😾 | 
-| None | CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis |  | None |  | 😾 | 
-| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  | None |  | 😾 | 
-| None | CSAL-3D: Cold-start Active Learning for 3D Medical Image Segmentation via SSL-driven Uncertainty-Reinforced Diversity Sampling |  | None |  | 😾 | 
-| None | CSAP-Assist: Instrument-Agent Dialogue Empowered Vision-Language Models for Collaborative Surgical Action Planning |  | None |  | 😾 | 
-| None | CS²C: Collaborative Spatial and Spectral Neural Clustering for Organelle Segmentation from Volumetric Electron Microscopy |  | None |  | 😾 | 
-| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  | None |  | 😾 | 
-| None | CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs |  | None |  | 😾 | 
-| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  | None |  | 😾 | 
-| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  | None |  | 😾 | 
-| None | Calibration in Multiple Instance Learning: Evaluating Aggregation Methods for Ultrasound-Based Diagnosis |  | None |  | 😾 | 
-| None | CardiacCLIP: Video-based CLIP Adaptation for LVEF Prediction in a Few-shot Manner |  | None |  | 😾 | 
-| None | CardiacFlow: 3D+t Four-Chamber Cardiac Shape Completion and Generation via Flow Matching |  | None |  | 😾 | 
-| None | CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity |  | None |  | 😾 | 
-| None | Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics |  | None |  | 😾 | 
-| None | Causality-driven Spatio-temporal Generator for Multi-phase Contrast-enhanced CT Synthesis |  | None |  | 😾 | 
-| None | CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer |  | None |  | 😾 | 
-| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  | None |  | 😾 | 
-| None | Cervical-RG: Automated Cervical Cancer Report Generation from 3D Multi-sequence MRI via CoT-guided Hierarchical Experts |  | None |  | 😾 | 
-| None | CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery |  | None |  | 😾 | 
-| None | Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading |  | None |  | 😾 | 
-| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  | None |  | 😾 | 
-| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  | None |  | 😾 | 
-| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  | None |  | 😾 | 
-| None | Clinical Prior-Guided Tumor Generation for Breast Ultrasound with Cross Domain Adaptation |  | None |  | 😾 | 
-| None | Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging |  | None |  | 😾 | 
-| None | Clinically-guided Data Synthesis for Laryngeal Lesion Detection |  | None |  | 😾 | 
-| None | ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data |  | None |  | 😾 | 
-| None | Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation |  | None |  | 😾 | 
-| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  | None |  | 😾 | 
-| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  | None |  | 😾 | 
-| None | CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis |  | None |  | 😾 | 
-| None | Coarse-to-Fine Medical Image Translation by Incorporating Deterministic Guidance and Probabilistic Refinement |  | None |  | 😾 | 
-| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  | None |  | 😾 | 
-| None | Compact Training-free NAS with Alternating Evolution Game for Medical Image Segmentation |  | None |  | 😾 | 
-| None | ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation |  | None |  | 😾 | 
-| None | Concept-induced Graph Perception Model for Interpretable Diagnosis |  | None |  | 😾 | 
-| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  | None |  | 😾 | 
-| None | Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data |  | None |  | 😾 | 
-| None | Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA |  | None |  | 😾 | 
-| None | Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction |  | None |  | 😾 | 
-| None | Conformal Prediction for Image Segmentation Using Morphological Prediction Sets |  | None |  | 😾 | 
-| None | Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models |  | None |  | 😾 | 
-| None | Continual Retinal Vision-Language Pre-training upon Incremental Imaging Modalities |  | None |  | 😾 | 
-| None | Contour Makes It Stronger: Cross-Domain Cephalometric Landmark Detection Based on Contour Priors |  | None |  | 😾 | 
-| None | Contrast Flow Pattern and Cross-Phase Specificity-Aware Diffusion Model for NCCT-to-Multiphase CECT Synthesis |  | None |  | 😾 | 
-| None | Contrastive Anatomy-Contrast Disentanglement: A Domain-General MRI Harmonization Method |  | None |  | 😾 | 
-| None | Contrastive Disentanglement Learning Framework for Multi-lead Wearable ECG Denoising |  | None |  | 😾 | 
-| None | Contrastive Knowledge-Guided Large Language Models for Medical Report Generation |  | None |  | 😾 | 
-| None | Contrastive Masked Video Modeling for Coronary Angiography Diagnosis |  | None |  | 😾 | 
-| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  | None |  | 😾 | 
-| None | Controllable Image Synthesis Workflow for Enhancing Cervical Cell Detection |  | None |  | 😾 | 
-| None | Controllable Skin Synthesis via Lesion-Focused Vector Autoregression Model |  | None |  | 😾 | 
-| None | Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods |  | None |  | 😾 | 
-| None | Core-Periphery Principle Guided State Space Model for Functional Connectome Classification |  | None |  | 😾 | 
-| None | Coronary Artery Calcification segmentation by using cross-frequency conditioner and geometric priors Learning |  | None |  | 😾 | 
-| None | CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching |  | None |  | 😾 | 
-| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  | None |  | 😾 | 
-| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  | None |  | 😾 | 
-| None | Cross-Modal Contrastive Learning for Emotion Recognition: Aligning ECG with EEG-Derived Features |  | None |  | 😾 | 
-| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  | None |  | 😾 | 
-| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  | None |  | 😾 | 
-| None | Cross-Modality Supervised Prostate Segmentation on CBCT for Adaptive Radiotherapy |  | None |  | 😾 | 
-| None | Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction |  | None |  | 😾 | 
-| None | CurConMix: A Curriculum Contrastive Learning Framework for Enhancing Surgical Action Triplet Recognition |  | None |  | 😾 | 
-| None | Cycle Context Verification for In-Context Medical Image Segmentation |  | None |  | 😾 | 
-| None | CytoSAE: Interpretable Cell Embeddings for Hematology |  | None |  | 😾 | 
-| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  | None |  | 😾 | 
-| None | D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM |  | None |  | 😾 | 
-| None | D2Diff: A Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis |  | None |  | 😾 | 
-| None | D2MAE: Diffusional Deblurring MAE for Ultrasound Image Pre-training |  | None |  | 😾 | 
-| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  | None |  | 😾 | 
-| None | D4Recon: Dual-stage Deformation and Dual-scale Depth Guidance for Endoscopic Reconstruction |  | None |  | 😾 | 
-| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
-| None | DCKAN: A Dual-Coordinate KAN Framework for Fibrous Cap Segmentation on Carotid OCT |  | None |  | 😾 | 
-| None | DCT-Net: Dual-branch CT Reconstruction from Orthogonal X-rays with Diffusion Model and Contrastive Learning |  | None |  | 😾 | 
-| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  | None |  | 😾 | 
-| None | DGHFA: Dynamic Gradient and Hierarchical Feature Alignment for Robust Distillation of Medical VLMs |  | None |  | 😾 | 
-| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  | None |  | 😾 | 
-| None | DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal |  | None |  | 😾 | 
-| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  | None |  | 😾 | 
-| None | DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model |  | None |  | 😾 | 
-| None | DINO Adapted to X-Ray (DAX): Foundation Models for Intraoperative X-Ray Imaging |  | None |  | 😾 | 
-| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  | None |  | 😾 | 
-| None | DPGS-Net: Dual Prior-Guided Cross-Domain Adaptive Framework for Ultrasound Image Segmentation |  | None |  | 😾 | 
-| None | DSFC: Deformation-Aware Learning Strategy via Self-sustaining Feedback Cycle for Medical Vision Foundation Model Domain Adaptation |  | None |  | 😾 | 
-| None | Decentralized Noise Handling in Medical Imaging: Encoder-Decoder Based Federated Imputation for Robust Training |  | None |  | 😾 | 
-| None | Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction |  | None |  | 😾 | 
-| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  | None |  | 😾 | 
-| None | DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology |  | None |  | 😾 | 
-| None | Delving into Out-of-Distribution Detection with Medical Vision-Language Models |  | None |  | 😾 | 
-| None | DetectDiffuse: Aggregation- and Attention-driven Universal Lesion Detection with Multi-scale Diffusion Model |  | None |  | 😾 | 
-| None | DiDGen: Diffusion-based Dual-task Synthesis for Dermoscopic Data Generation |  | None |  | 😾 | 
-| None | Dia-LLaMA: Towards Large Language Model-driven CT Report Generation |  | None |  | 😾 | 
-| None | Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation |  | None |  | 😾 | 
-| None | DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion |  | None |  | 😾 | 
-| None | DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model |  | None |  | 😾 | 
-| None | DiffStain: Conditioned Diffusion-Based Semantic Virtual Staining with Mask Guidance |  | None |  | 😾 | 
-| None | Difficulty Estimation for Image-Specific Medical Image Segmentation Quality Control |  | None |  | 😾 | 
-| None | Diffusing Boundaries: CBCT-to-CT Translation with Extended Field of View |  | None |  | 😾 | 
-| None | Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection |  | None |  | 😾 | 
-| None | Diffusion-based Multi-modal MR Fusion for TOF-MRA Image Synthesis |  | None |  | 😾 | 
-| None | Diffusion-based Virtual Staining from Polarimetric Mueller Matrix Imaging |  | None |  | 😾 | 
-| None | Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration |  | None |  | 😾 | 
-| None | DisDiff: Disentanglement Diffusion Network for MR Imaging Translation |  | None |  | 😾 | 
-| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  | None |  | 😾 | 
-| None | Distilling foundation models for robust and efficient models in digital pathology |  | None |  | 😾 | 
-| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  | None |  | 😾 | 
-| None | Domain Generalization for Mammogram Classification by Suppressing Domain-Specific Features |  | None |  | 😾 | 
-| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  | None |  | 😾 | 
-| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  | None |  | 😾 | 
-| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  | None |  | 😾 | 
-| None | DpDNet: An Dual-Prompt-Driven Network for Universal PET-CT Segmentation |  | None |  | 😾 | 
-| None | Dual Correlation-aware Mamba for Microvascular Obstruction Identification in Non-contrast Cine Cardiac Magnetic Resonance |  | None |  | 😾 | 
-| None | Dual Knowledge-Aware Guidance for Source-Free Domain Adaptive Fundus Image Segmentation |  | None |  | 😾 | 
-| None | Dual Selective Gleason Pattern-Aware Multiple Instance Learning for Grade Group Prediction in Histopathology Images |  | None |  | 😾 | 
-| None | Dual-Branch Dynamic Coupling Weakly Supervised Learning for Class-Incremental Histopathological Region Segmentation |  | None |  | 😾 | 
-| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  | None |  | 😾 | 
-| None | DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning |  | None |  | 😾 | 
-| None | DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency |  | None |  | 😾 | 
-| None | DyMAS-Net: Dynamic Multi-Scale Adaptive Sampling Network for Efficient Medical Image Segmentation |  | None |  | 😾 | 
-| None | Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation |  | None |  | 😾 | 
-| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  | None |  | 😾 | 
-| None | Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model |  | None |  | 😾 | 
-| None | Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction |  | None |  | 😾 | 
-| None | E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation |  | None |  | 😾 | 
-| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  | None |  | 😾 | 
-| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  | None |  | 😾 | 
-| None | EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds |  | None |  | 😾 | 
-| None | EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration |  | None |  | 😾 | 
-| None | EchoCardMAE: Video Masked Auto-Encoders Customized for Echocardiography |  | None |  | 😾 | 
-| None | EchoViewCLIP: Advancing Video Quality Control through High-performance View Recognition of Echocardiography |  | None |  | 😾 | 
-| None | EchoingECG: An Electrocardiogram Cross-Modal Model for Echocardiogram Tasks |  | None |  | 😾 | 
-| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  | None |  | 😾 | 
-| None | Edge-semantic Synergy Fusion and Adaptive Noise-aware for Weakly Supervised Pathological Tissue Segmentation |  | None |  | 😾 | 
-| None | EdgeANet: A Transformer-based Edge Representation Learning Network for Canine X-ray Verification |  | None |  | 😾 | 
-| None | EfficientMedNeXt: Multi-Receptive Dilated Convolutions for Medical Image Segmentation |  | None |  | 😾 | 
-| None | Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training |  | None |  | 😾 | 
-| None | End-to-End 3D Tooth Landmark Detection with Fuzzy Tooth Localization |  | None |  | 😾 | 
-| None | Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting |  | None |  | 😾 | 
-| None | Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records |  | None |  | 😾 | 
-| None | Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion |  | None |  | 😾 | 
-| None | Endo-GSMT: Endoscopic Monocular Scene Reconstruction with Dynamic Gaussian Splatting and Motion Tracking |  | None |  | 😾 | 
-| None | Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video |  | None |  | 😾 | 
-| None | EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy |  | None |  | 😾 | 
-| None | EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting |  | None |  | 😾 | 
-| None | EndoGen: Conditional Autoregressive Endoscopic Video Generation |  | None |  | 😾 | 
-| None | EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training |  | None |  | 😾 | 
-| None | EndoMetric: Near-Light Monocular Metric Scale Estimation in Endoscopy |  | None |  | 😾 | 
-| None | EndoPlanar: Deformable Planar-based Gaussian Splatting for Surgical Scene Reconstruction |  | None |  | 😾 | 
-| None | Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation |  | None |  | 😾 | 
-| None | Endoscopic Depth-of-Field Expansion via Cascaded Network with Two-streamed Multi-scale Fusion |  | None |  | 😾 | 
-| None | Endplate3D-QCT: A High-Resolution Dataset and Benchmark for Automated 3D Segmentation of Lumbar Vertebral Endplates in QCT |  | None |  | 😾 | 
-| None | Enforcing Geometric Constraints of Surface Normal and Pose for Self-supervised Monocular Depth Estimation on Laparoscopic Images |  | None |  | 😾 | 
-| None | Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning |  | None |  | 😾 | 
-| None | Enhancing Soft Tissue Sarcoma Classification by Mitigating Patient-Specific Bias in Whole Slide Images |  | None |  | 😾 | 
-| None | Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation |  | None |  | 😾 | 
-| None | Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation |  | None |  | 😾 | 
-| None | Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and Beyond |  | None |  | 😾 | 
-| None | Explain Any Pathological Concept: Discovering Hierarchical Explanations for Pathology Foundation Models |  | None |  | 😾 | 
-| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  | None |  | 😾 | 
-| None | Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion |  | None |  | 😾 | 
-| None | Explainable Integrative Bipartite Graph Convolutional Neural Network for Predicting Ejection Fraction in Echocardiography |  | None |  | 😾 | 
-| None | Exploring Text-enhanced Mixture-of-Experts for Semi-supervised Medical Image Segmentation with Composite Data |  | None |  | 😾 | 
-| None | Exploring the Design Space of 3D MLLMs for CT Report Generation |  | None |  | 😾 | 
-| None | Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification |  | None |  | 😾 | 
-| None | F2PASeg: Feature Fusion for Pituitary Anatomy Segmentation in Endoscopic Surgery |  | None |  | 😾 | 
-| None | FDAS: Foundation Model Distillation and Anatomic Structure-aware Multi-task Learning for Self-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | FDF-VQVAE: A Frequency Disentanglement and Fusion Learning Framework for Multi-Sequence MRI Enhancement |  | None |  | 😾 | 
-| None | FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation |  | None |  | 😾 | 
-| None | FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction |  | None |  | 😾 | 
-| None | FMM-Diff: A Feature Mapping and Merging Diffusion Model for MRI Generation with Missing Modality |  | None |  | 😾 | 
-| None | FPN-in-FPN: A Nested Multi-Scale Aggregation Network for Polyp Segmentation |  | None |  | 😾 | 
-| None | FSA-Net: Fractal-driven Synergistic Anatomy-aware Network for Segmenting White Line of Toldt in Laparoscopic Images |  | None |  | 😾 | 
-| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  | None |  | 😾 | 
-| None | Facial Appearance Prediction with Conditional Multi-scale Autoregressive Modeling for Orthognathic Surgical Planning |  | None |  | 😾 | 
-| None | Fair-MoE: Medical Fairness-Oriented Mixture of Experts in Vision-Language Models |  | None |  | 😾 | 
-| None | Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis |  | None |  | 😾 | 
-| None | Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss |  | None |  | 😾 | 
-| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  | None |  | 😾 | 
-| None | Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery |  | None |  | 😾 | 
-| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  | None |  | 😾 | 
-| None | FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation |  | None |  | 😾 | 
-| None | FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation |  | None |  | 😾 | 
-| None | Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose |  | None |  | 😾 | 
-| None | Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation |  | None |  | 😾 | 
-| None | FilterDiff: Noise-free Frequency-domain Diffusion Models for Accelerated MRI Reconstruction |  | None |  | 😾 | 
-| None | Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model |  | None |  | 😾 | 
-| None | Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis |  | None |  | 😾 | 
-| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  | None |  | 😾 | 
-| None | Flip Distribution Alignment VAE for Multi-Phase MRI Synthesis |  | None |  | 😾 | 
-| None | Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality |  | None |  | 😾 | 
-| None | FluoroSAM: A Language-promptable Foundation Model for Flexible X-ray Image Segmentation |  | None |  | 😾 | 
-| None | Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification |  | None |  | 😾 | 
-| None | Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings |  | None |  | 😾 | 
-| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  | None |  | 😾 | 
-| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  | None |  | 😾 | 
-| None | Frequency Strikes Back: Boosting Parameter-Efficient Foundation Model Adaptation for Medical Imaging |  | None |  | 😾 | 
-| None | Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation |  | None |  | 😾 | 
-| None | Frequency-enhanced Multi-granularity Context Network for Efficient Vertebrae Segmentation |  | None |  | 😾 | 
-| None | From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-specific Medical Image Segmentation |  | None |  | 😾 | 
-| None | From Pixels to Prognosis: A Multi-Modal Attention-based Framework for Visceral Adipose Tissue Estimation |  | None |  | 😾 | 
-| None | From Sight to Skill: A Surgeon-Centered Augmented Reality System for Ureteroscopy Training |  | None |  | 😾 | 
-| None | From Slices to Volumes: Multi-Scale Fusion of 2D and 3D Features for CT Scan Report Generation |  | None |  | 😾 | 
-| None | From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation |  | None |  | 😾 | 
-| None | FunBench: Benchmarking Fundus Reading Skills of MLLMs |  | None |  | 😾 | 
-| None | Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images |  | None |  | 😾 | 
-| None | Future Slot Prediction for Unsupervised Object Discovery in Surgical Video |  | None |  | 😾 | 
-| None | GA-SAM: Geometry-Aware SAM Adaptation with Sparse Annotation-Driven Point Cloud Completion |  | None |  | 😾 | 
-| None | GE2Hist: Generating Histology Images from Single-cell Gene Expression via Cross-modal Generative Network |  | None |  | 😾 | 
-| None | GEPAR3D: Geometry Prior-Assisted Learning for 3D Tooth Segmentation |  | None |  | 😾 | 
-| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  | None |  | 😾 | 
-| None | GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation |  | None |  | 😾 | 
-| None | GLM-SFNet: Global-Local Vision-Mamba with Semantic Fusion for Medical Image Segmentation |  | None |  | 😾 | 
-| None | GRASP-PsONet: Gradient-based Removal of Spurious Patterns for PsOriasis Severity Classification |  | None |  | 😾 | 
-| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  | None |  | 😾 | 
-| None | General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound |  | None |  | 😾 | 
-| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  | None |  | 😾 | 
-| None | Geometric-Guided Few-Shot Dental Landmark Detection with Human-Centric Foundation Model |  | None |  | 😾 | 
-| None | Geometry-Guided Local Alignment for Multi-View Visual Language Pre-Training in Mammography |  | None |  | 😾 | 
-| None | Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG |  | None |  | 😾 | 
-| None | Global and Local Vision-Language Alignment for Few-Shot Learning and Few-Shot OOD Detection |  | None |  | 😾 | 
-| None | GoCa: Trustworthy Multi-Modal RAG with Explicit Thinking Distillation for Reliable Decision-Making in Med-LVLMs |  | None |  | 😾 | 
-| None | GrInAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation |  | None |  | 😾 | 
-| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  | None |  | 😾 | 
-| None | Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading |  | None |  | 😾 | 
-| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  | None |  | 😾 | 
-| None | Graph-based Neighbor-Aware Network for Gaze-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images |  | None |  | 😾 | 
-| None | HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics |  | None |  | 😾 | 
-| None | HARM3-Fusion: Hierarchical Attentional Representation Learning of Multi-Modal, Multi-Temporal, and Multi-Sequence Fusion for Pathological Complete Response Prediction of Head and Neck Squamous Cell Carcinoma |  | None |  | 😾 | 
-| None | HARP: Harmonization and Adaptive Refinement of Pseudo-Labels for Cross-Domain Medical Image Segmentation |  | None |  | 😾 | 
-| None | HASD: Hierarchical Adaption for Pathology Slide-Level Domain-Shift |  | None |  | 😾 | 
-| None | HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors |  | None |  | 😾 | 
-| None | HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation |  | None |  | 😾 | 
-| None | HalF-SAM: SAM-based Haustral Fold Detection In Colonoscopy with Debris Suppression and Temporal Consistency |  | None |  | 😾 | 
-| None | Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models |  | None |  | 😾 | 
-| None | Hard Sample Mining-based Tongue Diagnosis for Fatty Liver Disease Severity Classification |  | None |  | 😾 | 
-| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  | None |  | 😾 | 
-| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  | None |  | 😾 | 
-| None | HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction |  | None |  | 😾 | 
-| None | HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation |  | None |  | 😾 | 
-| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  | None |  | 😾 | 
-| None | Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound |  | None |  | 😾 | 
-| None | Hierarchical Feature Learning for Medical Point Clouds via State Space Model |  | None |  | 😾 | 
-| None | Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology |  | None |  | 😾 | 
-| None | Hierarchical Spatio-temporal Segmentation Network for Ejection Fraction Estimation in Echocardiography Videos |  | None |  | 😾 | 
-| None | Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection |  | None |  | 😾 | 
-| None | High-Fidelity Unified One-to-Many Medical Image Synthesis via Text-Conditioned Latent Diffusion |  | None |  | 😾 | 
-| None | High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation |  | None |  | 😾 | 
-| None | High-Precision Mixed Feature Fusion Network Using Hypergraph Computation for Cervical Abnormal Cell Detection |  | None |  | 😾 | 
-| None | Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation |  | None |  | 😾 | 
-| None | Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy |  | None |  | 😾 | 
-| None | HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis |  | None |  | 😾 | 
-| None | Hybrid Graph Mamba: Unlocking Non-Euclidean Potential for Accurate Polyp Segmentation |  | None |  | 😾 | 
-| None | Hybrid Local-Window-Attention–Assisted U-Net Model for Multimodal Medical-Image Segmentation |  | None |  | 😾 | 
-| None | Hybrid State-Space Models and Denoising Training for Unpaired Medical Image Synthesis |  | None |  | 😾 | 
-| None | Hybrid-View Attention Network for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound |  | None |  | 😾 | 
-| None | HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation |  | None |  | 😾 | 
-| None | HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis |  | None |  | 😾 | 
-| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  | None |  | 😾 | 
-| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  | None |  | 😾 | 
-| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  | None |  | 😾 | 
-| None | IFRFNet: Iterative Frequency Restoration-Fusion Network for Fast System Matrix Calibration on Magnetic Particle Image |  | None |  | 😾 | 
-| None | IKAN: Interactive KAN with Modulation Fusion for Medical Image Segmentation |  | None |  | 😾 | 
-| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  | None |  | 😾 | 
-| None | IMREPET: Implicit Neural Representation for Unsupervised Dynamic PET Reconstruction |  | None |  | 😾 | 
-| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  | None |  | 😾 | 
-| None | ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization |  | None |  | 😾 | 
-| None | ITAdaptor: Image-Tag Adapter Framework with Knowledge Enhancement for Radiology Report Generation |  | None |  | 😾 | 
-| None | ITMatch: Arch-Guided Semi-Supervised Tooth Arrangement via Iterative Confidence Evaluation |  | None |  | 😾 | 
-| None | Implicit Deformable Medical Image Registration with Learnable Kernels |  | None |  | 😾 | 
-| None | Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation |  | None |  | 😾 | 
-| None | Improved Baselines with Synchronized Encoding for Universal Medical Image Segmentation |  | None |  | 😾 | 
-| None | Improved Tumor Segmentation using Selective Synthetic Augmentation for Enhanced Surgical Planning in Breast MRI |  | None |  | 😾 | 
-| None | Improving Autism Detection with Multimodal Behavioral Analysis |  | None |  | 😾 | 
-| None | Improving Medical Image Segmentation with Implicit Representation and Noisy Label Robustness |  | None |  | 😾 | 
-| None | Improving Motor Imagery EEG Signal Quality with Dynamic Visual Cues: An Innovative Paradigm and Dataset |  | None |  | 😾 | 
-| None | Improving OCTA Imaging through Cross-Domain Adaptation: A Noise-Guided Framework Using Intralipid-Enhanced Rat Data |  | None |  | 😾 | 
-| None | Indepth Integration of Multi-granularity Features from Dual-modal for Disease Classification |  | None |  | 😾 | 
-| None | Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX |  | None |  | 😾 | 
-| None | Influence of Classification Task and Distribution Shift Type on OOD Detection in Fetal Ultrasound |  | None |  | 😾 | 
-| None | Information Bottleneck-based Causal Attention for Multi-label Medical Image Recognition |  | None |  | 😾 | 
-| None | InstructX2X: An Interpretable Local Editing Model for Counterfactual Medical Image Generation |  | None |  | 😾 | 
-| None | Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting |  | None |  | 😾 | 
-| None | Integrate Semantic Radiomics as Prior Evidence into Evidential Deep Learning for Pelvic Lipomatosis Diagnosis |  | None |  | 😾 | 
-| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  | None |  | 😾 | 
-| None | Interactive Segmentation and Report Generation for CT Images |  | None |  | 😾 | 
-| None | Interpretable fMRI Captioning via Contrastive Learning |  | None |  | 😾 | 
-| None | Intra- and Cross-View Enhancement for OCTA Imaging |  | None |  | 😾 | 
-| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  | None |  | 😾 | 
-| None | Is Hyperbolic Space All You Need for Medical Anomaly Detection? |  | None |  | 😾 | 
-| None | KMUNet: A novel medical image segmentation model based on KAN and Mamba |  | None |  | 😾 | 
-| None | KidneyDepth: A Synthetic Kidney Dataset for Metric Depth Estimation in Ureteroscopy |  | None |  | 😾 | 
-| None | Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning |  | None |  | 😾 | 
-| None | Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation |  | None |  | 😾 | 
-| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  | None |  | 😾 | 
-| None | Knowledge-Enhanced Complementary Information Fusion with Temporal Heterogeneous Graph Learning for Disease Prediction |  | None |  | 😾 | 
-| None | Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification |  | None |  | 😾 | 
-| None | LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation |  | None |  | 😾 | 
-| None | LEAVS: An LLM-based Labeler for Abdominal CT Supervision |  | None |  | 😾 | 
-| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  | None |  | 😾 | 
-| None | LIP-CAR: a learned inverse problem approach for medical imaging with contrast agent reduction |  | None |  | 😾 | 
-| None | LKA: Large Kernel Adapter for Enhanced Medical Image Classification |  | None |  | 😾 | 
-| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  | None |  | 😾 | 
-| None | LTSE: Language-guided Tissue Referring Segmentation in Pathology Images with Adaptive Expert Mixture |  | None |  | 😾 | 
-| None | LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images |  | None |  | 😾 | 
-| None | Language of Stains: Tokenization Enhances Multiplex Immunofluorescence and Histology Image Synthesis |  | None |  | 😾 | 
-| None | Last Layer Laplacian Pseudocoresets for Robust Medical Image Analysis |  | None |  | 😾 | 
-| None | Latent Motion Profiling for Annotation-free Cardiac Phase Detection in Adult and Fetal Echocardiography Videos |  | None |  | 😾 | 
-| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  | None |  | 😾 | 
-| None | Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification |  | None |  | 😾 | 
-| None | Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction |  | None |  | 😾 | 
-| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  | None |  | 😾 | 
-| None | Learning Foundation Models from Multi-Organ Medical Images by Capturing Consistency and Diversity of Anatomical Structures |  | None |  | 😾 | 
-| None | Learning Segmentation from Radiology Reports |  | None |  | 😾 | 
-| None | Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment |  | None |  | 😾 | 
-| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  | None |  | 😾 | 
-| None | Lesion-Aware Post-Training of Latent Diffusion Models for Synthesizing Diffusion MRI from CT Perfusion |  | None |  | 😾 | 
-| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  | None |  | 😾 | 
-| None | LesionDiffusion: Towards Text-controlled General Lesion Synthesis |  | None |  | 😾 | 
-| None | Leveraging Diffusion Models for Continual Test-Time Adaptation in Fundus Image Classification |  | None |  | 😾 | 
-| None | Leveraging Semantic Asymmetry for Accurate Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT |  | None |  | 😾 | 
-| None | Leveraging Visual Prompt with Diffusion Adversarial Network for Radiotherapy Dose Prediction |  | None |  | 😾 | 
-| None | Localization Lens for Improving Medical Vision-Language Models |  | None |  | 😾 | 
-| None | Location-Aware Parameter Fine-Tuning for Multimodal Image Segmentation |  | None |  | 😾 | 
-| None | Location-Guided Automated Lesion Captioning in Whole-body PET/CT Images |  | None |  | 😾 | 
-| None | Longitudinal MRI-Clinical Multimodal Fusion for pCR Prediction in Breast Cancer |  | None |  | 😾 | 
-| None | Longitudinal anatomical attention maps for recognizing diagnostic errors from radiologists’ eye movements |  | None |  | 😾 | 
-| None | Lymph Node Metastasis Classification with Prototype-guided Multiple Instance Aggregation and Heterogeneous Feature Fusion |  | None |  | 😾 | 
-| None | Lymphoma Prognosis with Lesion-Anatomy Context Fusion and Attention-Based Multi-Lesion Aggregation |  | None |  | 😾 | 
-| None | M3HL: Mutual Mask Mix with High-Low Level Feature Consistency for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  | None |  | 😾 | 
-| None | MAK-GAN: Multi-level Adaptive Convolutional Kernels for Asymmetric Multi-modal PET Reconstruction |  | None |  | 😾 | 
-| None | MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment |  | None |  | 😾 | 
-| None | MAMBA-Based Weakly Supervised Medical Image Segmentation with Cross-Modal Textual Information |  | None |  | 😾 | 
-| None | MARSeg: Enhancing Medical Image Segmentation with MAR and Adaptive Feature Fusion |  | None |  | 😾 | 
-| None | MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts |  | None |  | 😾 | 
-| None | MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation |  | None |  | 😾 | 
-| None | MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation |  | None |  | 😾 | 
-| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  | None |  | 😾 | 
-| None | MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction |  | None |  | 😾 | 
-| None | MELON: Multimodal Mixture-of-Experts with Spectral-Temporal Fusion for Long-Term MObility EstimatioN in Critical Care |  | None |  | 😾 | 
-| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  | None |  | 😾 | 
-| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  | None |  | 😾 | 
-| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  | None |  | 😾 | 
-| None | MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis |  | None |  | 😾 | 
-| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  | None |  | 😾 | 
-| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  | None |  | 😾 | 
-| None | MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification |  | None |  | 😾 | 
-| None | MOSCARD - Multimodal Opportunistic Screening for Cardiovascular Adverse events with Causal Reasoning and De-confounding |  | None |  | 😾 | 
-| None | MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning |  | None |  | 😾 | 
-| None | MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering |  | None |  | 😾 | 
-| None | MRI Motion Artifact Correction via Frequency-Assisted Artifact Disentanglement and Confidence-Guided Knowledge Distillation |  | None |  | 😾 | 
-| None | MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis |  | None |  | 😾 | 
-| None | MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment |  | None |  | 😾 | 
-| None | MSDG-StyleNet: Multi-source Unsupervised Domain-Generalized CBCT-to-CT Translation with Style-Consistent Disentangled Representations |  | None |  | 😾 | 
-| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  | None |  | 😾 | 
-| None | MSWAL: 3D Multi-class Segmentation of Whole Abdominal Lesions Dataset |  | None |  | 😾 | 
-| None | MT-WilmsNet: A Multi-Level Transformer Fusion Network for Wilms’ Tumor Segmentation and Metastasis Prediction |  | None |  | 😾 | 
-| None | MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentation in 4D Ultrasound |  | None |  | 😾 | 
-| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  | None |  | 😾 | 
-| None | MadCLIP: Few-shot Medical Anomaly Detection with CLIP |  | None |  | 😾 | 
-| None | Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation |  | None |  | 😾 | 
-| None | MambaMER: Adaptive EEG-Guided Multimodal Emotion Recognition with Mamba |  | None |  | 😾 | 
-| None | MammoTracker: Mask-Guided Lesion Tracking in Temporal Mammograms |  | None |  | 😾 | 
-| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  | None |  | 😾 | 
-| None | Mask2Surface: Motion Correction and Super-Resolution for Cardiac Surface Reconstruction Using Latent Diffusion |  | None |  | 😾 | 
-| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  | None |  | 😾 | 
-| None | MatchGen: Detecting Medical Abnormal Region by Generating Matched Normal Regions |  | None |  | 😾 | 
-| None | MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification |  | None |  | 😾 | 
-| None | Med-BiasX: Robust Medical Visual Question Answering with Language Biases |  | None |  | 😾 | 
-| None | Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis |  | None |  | 😾 | 
-| None | MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions |  | None |  | 😾 | 
-| None | MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis |  | None |  | 😾 | 
-| None | MedGCD: Generalized Category Discovery in Medical Imaging |  | None |  | 😾 | 
-| None | MedGNN: General Medical Image Recognition Network via GNN Visual Representations |  | None |  | 😾 | 
-| None | MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization |  | None |  | 😾 | 
-| None | MedICL: In-Context Learning for Semantically Enhanced AKI Prediction in Cardiac Surgery |  | None |  | 😾 | 
-| None | MedIQA: A Scalable Foundation Model for Prompt-Driven Medical Image Quality Assessment |  | None |  | 😾 | 
-| None | MedPro-DG: Domain-Aware Masked Contrastive Prompt Learning of Institution Generalization for Outcome Prediction |  | None |  | 😾 | 
-| None | MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis |  | None |  | 😾 | 
-| None | MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning |  | None |  | 😾 | 
-| None | Medical Large Vision Language Models with Multi-Image Visual Ability |  | None |  | 😾 | 
-| None | Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound |  | None |  | 😾 | 
-| None | Memory-Augmented Incomplete Multimodal Survival Prediction via Cross-Slide and Gene-Attentive Hypergraph Learning |  | None |  | 😾 | 
-| None | Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation |  | None |  | 😾 | 
-| None | Mesh4D: A Motion-Aware Multi-View Variational Autoencoder for 3D+t Mesh Reconstruction |  | None |  | 😾 | 
-| None | Meta-Learning Physics-Informed Neural Networks for Personalized Cardiac Modeling |  | None |  | 😾 | 
-| None | Meta-Learning-Driven CT Morphology Disentangled Diffusion Model for Multi-Region SPECT Attenuation Correction |  | None |  | 😾 | 
-| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  | None |  | 😾 | 
-| None | Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts |  | None |  | 😾 | 
-| None | MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis |  | None |  | 😾 | 
-| None | MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images |  | None |  | 😾 | 
-| None | Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions |  | None |  | 😾 | 
-| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  | None |  | 😾 | 
-| None | Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing |  | None |  | 😾 | 
-| None | MixStyleFlow: Domain Generalization in Medical Image Segmentation using Normalizing Flows |  | None |  | 😾 | 
-| None | MoDiff: A Morphology-Emphasized Diffusion Model for Ambiguous Medical Image Segmentation |  | None |  | 😾 | 
-| None | MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts |  | None |  | 😾 | 
-| None | MoMIL: Mixture of Multi-Instance Learners for Modeling Multiple Compound Activities in High Content Imaging |  | None |  | 😾 | 
-| None | MoST-IG: Morphology-Guided Spatial Transcriptomics Integration via Visual-Genomic Graph Optimal Transport |  | None |  | 😾 | 
-| None | Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration |  | None |  | 😾 | 
-| None | More performant and scalable: Rethinking contrastive vision-language pre-training of radiology in the LLM era |  | None |  | 😾 | 
-| None | MorphoBoost: Morphology-Driven Boundary Enhancement Model for Accurate Segmentation of Langerhans Cells in Corneal Confocal Microscopy Images |  | None |  | 😾 | 
-| None | Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow |  | None |  | 😾 | 
-| None | MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy |  | None |  | 😾 | 
-| None | Multi-Agent Collaboration for Integrating Echocardiography Expertise in Multi-Modal Large Language Models |  | None |  | 😾 | 
-| None | Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis |  | None |  | 😾 | 
-| None | Multi-Level Gated U-Net for Denoising TMR Sensor-Based MCG Signals |  | None |  | 😾 | 
-| None | Multi-Masked Querying Network for Robust Emotion Recognition from Incomplete Multi-Modal Physiological Signals |  | None |  | 😾 | 
-| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  | None |  | 😾 | 
-| None | Multi-Modal Progressive Fusion for ASD Screening Using Smartphone Video |  | None |  | 😾 | 
-| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  | None |  | 😾 | 
-| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  | None |  | 😾 | 
-| None | Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing |  | None |  | 😾 | 
-| None | Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology |  | None |  | 😾 | 
-| None | Multi-modal MRI Translation via Evidential Regression and Distribution Calibration |  | None |  | 😾 | 
-| None | Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition |  | None |  | 😾 | 
-| None | Multi-scale Attention-based Multiple Instance Learning for Breast Cancer Diagnosis |  | None |  | 😾 | 
-| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  | None |  | 😾 | 
-| None | Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation |  | None |  | 😾 | 
-| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  | None |  | 😾 | 
-| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  | None |  | 😾 | 
-| None | Multifrequency Neural Network-based Wave Inversion in MR Elastography |  | None |  | 😾 | 
-| None | Multimodal Fusion Network with Distribution-based Tumor-Marker Imputation for Multi-Origin Metastatic Cervical Lymphadenopathy Classification |  | None |  | 😾 | 
-| None | Multimodal Hypergraph Guide Learning for Non-Invasive ccRCC Survival Prediction |  | None |  | 😾 | 
-| None | Multimodal Imputation of Imaging-derived Phenotypes from Genomic and Blood-based Biomarkers Enhances Common Disease Discovery |  | None |  | 😾 | 
-| None | Multimodal Prompt Sequence Learning for Interactive Segmentation of Vascular Structures |  | None |  | 😾 | 
-| None | Multiscale Graph and Multi-Step Cross-Frame Mamba for Myocarditis Lesion Segmentation |  | None |  | 😾 | 
-| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
-| None | Multiview Feature Fusion and Contrastive Learning for Drug-Target Interaction Prediction |  | None |  | 😾 | 
-| None | MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction |  | None |  | 😾 | 
-| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  | None |  | 😾 | 
-| None | NAVIUS: Navigated Augmented Reality Visualization for Ureteroscopic Surgery |  | None |  | 😾 | 
-| None | NERO: Explainable Out-of-Distribution Detection with Neuron-level Relevance in Gastrointestinal Imaging |  | None |  | 😾 | 
-| None | NQNN: Noise-aware Quantum Neural Networks for Medical Image Classification |  | None |  | 😾 | 
-| None | Navigational Bronchoscopy in Critical Care via End-to-End Pose Regression |  | None |  | 😾 | 
-| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  | None |  | 😾 | 
-| None | Neural Proteomics Fields for Super-resolved Spatial Proteomics Prediction |  | None |  | 😾 | 
-| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  | None |  | 😾 | 
-| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  | None |  | 😾 | 
-| None | New Multimodal Similarity Measure for Image Registration via Modeling Local Functional Dependence with Linear Combination of Learned Basis Functions |  | None |  | 😾 | 
-| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  | None |  | 😾 | 
-| None | No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-K Patch Sampling |  | None |  | 😾 | 
-| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  | None |  | 😾 | 
-| None | Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation |  | None |  | 😾 | 
-| None | Noisy Label Refinement Based on Discrete Diffusion Process in 3D Ossicle Segmentation |  | None |  | 😾 | 
-| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  | None |  | 😾 | 
-| None | Non-Salient Object Segmentation in Medical Images via Pre-trained Multi-Granularity Masked Autoencoders |  | None |  | 😾 | 
-| None | ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation |  | None |  | 😾 | 
-| None | OFF-CLIP: Improving Normal Detection Confidence in Radiology CLIP with Simple Off-Diagonal Term Auto-Adjustment |  | None |  | 😾 | 
-| None | OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport |  | None |  | 😾 | 
-| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  | None |  | 😾 | 
-| None | Occlusion-free 4D Gaussians for Open Surgery Videos Using Multi-Camera Shadowless Lamps |  | None |  | 😾 | 
-| None | Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation |  | None |  | 😾 | 
-| None | OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models |  | None |  | 😾 | 
-| None | Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins |  | None |  | 😾 | 
-| None | Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model |  | None |  | 😾 | 
-| None | Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration |  | None |  | 😾 | 
-| None | OralSAM: One-shot Segmentation for Intraoral Ultrasound Videos with Adaptive Feature Correlation and Self-prompting Strategy |  | None |  | 😾 | 
-| None | Out-of-Distribution Nuclei Segmentation in Histology Imaging via Liquid Neural Networks with Modern Hopfield Layer |  | None |  | 😾 | 
-| None | P2INR-FWI: an Implicit Neural Representation Method for Speed of Sound Image Reconstruction in Ultrasound Computed Tomography |  | None |  | 😾 | 
-| None | PATE: Enhancing Few-Shot Pathological Image Classification via Prompt-Based Text-Image Embedding Adaptation |  | None |  | 😾 | 
-| None | PCR-MIL: Phenotype Clustering Reinforced Multiple Instance Learning for Whole Slide Image Classification |  | None |  | 😾 | 
-| None | PD-INR: Prior-Driven Implicit Neural Representations for TOF-PET Reconstruction |  | None |  | 😾 | 
-| None | PD-UniST: Prompt-Driven Universal Model for Unpaired H&E-to-IHC Stain Translation |  | None |  | 😾 | 
-| None | PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation |  | None |  | 😾 | 
-| None | PDF-Net: Prototype-Aware Dynamic Fusion Network for Nasopharyngeal Carcinoma T-staging Classification with Epstein-Barr Virus DNA |  | None |  | 😾 | 
-| None | PFESA: FFT-based Parameter-Free Edge and Structure Attention for Medical Image Segmentation |  | None |  | 😾 | 
-| None | PLUS: Plug-and-Play Enhanced Liver Lesion Diagnosis Model on Non-Contrast CT Scans |  | None |  | 😾 | 
-| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  | None |  | 😾 | 
-| None | PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy |  | None |  | 😾 | 
-| None | PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development |  | None |  | 😾 | 
-| None | PRECISE-AS: Personalized Reinforcement Learning for Efficient Point-of-Care Echocardiography in Aortic Stenosis Diagnosis |  | None |  | 😾 | 
-| None | PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning |  | None |  | 😾 | 
-| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  | None |  | 😾 | 
-| None | PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning |  | None |  | 😾 | 
-| None | PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis |  | None |  | 😾 | 
-| None | Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling |  | None |  | 😾 | 
-| None | Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks |  | None |  | 😾 | 
-| None | Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading |  | None |  | 😾 | 
-| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  | None |  | 😾 | 
-| None | PathVG: A New Benchmark and Dataset for Pathology Visual Grounding |  | None |  | 😾 | 
-| None | PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting |  | None |  | 😾 | 
-| None | PathoPrompt: Cross-Granular Semantic Alignment for Medical Pathology Vision-Language Models |  | None |  | 😾 | 
-| None | Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions |  | None |  | 😾 | 
-| None | Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis |  | None |  | 😾 | 
-| None | Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis |  | None |  | 😾 | 
-| None | Pathology-aware Virtual H&E Staining of Section-free Thick Tissues with Semantic Contrastive Guidance |  | None |  | 😾 | 
-| None | Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images |  | None |  | 😾 | 
-| None | Pattern-Anchored Adaptive Prototype Learning for Gastroscopic Lesion Detection and Beyond |  | None |  | 😾 | 
-| None | PedCLIP: A Vision-Language model for Pediatric X-rays with Mixture of Body part Experts |  | None |  | 😾 | 
-| None | PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection |  | None |  | 😾 | 
-| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  | None |  | 😾 | 
-| None | Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications |  | None |  | 😾 | 
-| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  | None |  | 😾 | 
-| None | Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction |  | None |  | 😾 | 
-| None | Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging |  | None |  | 😾 | 
-| None | Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping |  | None |  | 😾 | 
-| None | Physics-Informed Neural Operators for Tissue Elasticity Reconstruction |  | None |  | 😾 | 
-| None | Physics-driven Signal Regularization in Diffusion Models for Multi-contrast MR Image Synthesis |  | None |  | 😾 | 
-| None | Physics-guided deep image prior network for general zero-shot stain deconvolution |  | None |  | 😾 | 
-| None | Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET |  | None |  | 😾 | 
-| None | PolarDETR: Enhancing Interpretability in Multi-modal Methods for Jawbone Lesion Detection in CBCT |  | None |  | 😾 | 
-| None | PolyMamba: Spatial-prior Guided Mamba for Polyp Segmentation with High-Frequency Enhancement |  | None |  | 😾 | 
-| None | PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis |  | None |  | 😾 | 
-| None | Pose as Clinical Prior: Learning Dual Representations for Scoliosis Screening |  | None |  | 😾 | 
-| None | Pre-to-Post Operative MRI Generation with Retrieval-based Visual In-Context Learning |  | None |  | 😾 | 
-| None | Predicting Femoral Head Collapse Risk in Osteonecrosis Using Label Tokenization: A Multi-Modality Survival Analysis Approach |  | None |  | 😾 | 
-| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  | None |  | 😾 | 
-| None | Predicting Radiation Therapy Response based on Dynamic Temporal Feature Difference Fusion from Longitudinal MRI |  | None |  | 😾 | 
-| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  | None |  | 😾 | 
-| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  | None |  | 😾 | 
-| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  | None |  | 😾 | 
-| None | ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection |  | None |  | 😾 | 
-| None | Probabilistic Integration of Renal Cancer Radiology and Pathology Using Graph Neural Networks |  | None |  | 😾 | 
-| None | Probabilistic Prior-Guided Anatomical Alignment for MRI Super-Resolution |  | None |  | 😾 | 
-| None | ProgreSpine: Inherently Explainable Prototypical Regression for Spine Age Estimation |  | None |  | 😾 | 
-| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  | None |  | 😾 | 
-| None | Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images |  | None |  | 😾 | 
-| None | PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer |  | None |  | 😾 | 
-| None | Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification |  | None |  | 😾 | 
-| None | Prototype-Guided Cross-Modal Knowledge Enhancement for Adaptive Survival Prediction |  | None |  | 😾 | 
-| None | Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis |  | None |  | 😾 | 
-| None | Query-Level Alignment for End-to-End Lesion Detection with Human Gaze |  | None |  | 😾 | 
-| None | R1Seg-3D: Rethinking Reasoning Segmentation for Medical 3D CTs |  | None |  | 😾 | 
-| None | RANDose: A Region-aware Attention Network for Accurate Radiation Dose Prediction |  | None |  | 😾 | 
-| None | RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways |  | None |  | 😾 | 
-| None | RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration |  | None |  | 😾 | 
-| None | RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis |  | None |  | 😾 | 
-| None | RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models |  | None |  | 😾 | 
-| None | RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation |  | None |  | 😾 | 
-| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  | None |  | 😾 | 
-| None | RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment |  | None |  | 😾 | 
-| None | RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration |  | None |  | 😾 | 
-| None | RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining |  | None |  | 😾 | 
-| None | RadKAM: Attention-Driven Kolmogorov-Arnold Model for Automatic Radiation-Induced Lymphopenia Prediction by Multimodal Learning |  | None |  | 😾 | 
-| None | RadSAM: Segmenting 3D radiological images with a 2D promptable model |  | None |  | 😾 | 
-| None | Radar-Based Imaging for Sign Language Recognition in Medical Communication |  | None |  | 😾 | 
-| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  | None |  | 😾 | 
-| None | RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features |  | None |  | 😾 | 
-| None | ReSeg-UNet: A Reconstruction-Guided Optimization Framework for Enhanced Medical Image Segmentation |  | None |  | 😾 | 
-| None | ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking |  | None |  | 😾 | 
-| None | Real-Time SLAM-Based Correction and 3D Visualization for Fluorescence Lifetime Imaging |  | None |  | 😾 | 
-| None | Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement |  | None |  | 😾 | 
-| None | Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction |  | None |  | 😾 | 
-| None | Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes |  | None |  | 😾 | 
-| None | RedDino: A foundation model for red blood cell analysis |  | None |  | 😾 | 
-| None | RefineNet: Elevating Medical Foundation Models through Quality-Centric Data Curation by MLLM-Annotated Proxy Distillation |  | None |  | 😾 | 
-| None | RefineSeg: Dual Coarse-to-Fine Learning for Medical Image Segmentation |  | None |  | 😾 | 
-| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  | None |  | 😾 | 
-| None | Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation |  | None |  | 😾 | 
-| None | Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation |  | None |  | 😾 | 
-| None | Reliable and Interpretable Visual Field Progression Prediction with Diffusion Models and Conformal Risk Control |  | None |  | 😾 | 
-| None | ResMAP: Restoring MRIs of Mixed Artifacts by Prompt Cascading Retrieval |  | None |  | 😾 | 
-| None | Restyled, Tuning, and Alignment: Taming VLMs for Federated Non-IID Medical Image Analysis |  | None |  | 😾 | 
-| None | RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models |  | None |  | 😾 | 
-| None | RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports |  | None |  | 😾 | 
-| None | Rethinking Multi-view Mammogram Representation Learning via Counterfactual Reasoning with Kolmogorov-Arnold Theorem |  | None |  | 😾 | 
-| None | RetiDiff: Diffusion-based Synthesis of Retinal OCT Images for Enhanced Segmentation |  | None |  | 😾 | 
-| None | RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions |  | None |  | 😾 | 
-| None | Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation |  | None |  | 😾 | 
-| None | Revisiting 3D Medical Scribble Supervision: Benchmarking Beyond Cardiac Segmentation |  | None |  | 😾 | 
-| None | Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology |  | None |  | 😾 | 
-| None | Revisiting Masked Image Modeling with Standardized Color Space for Domain Generalized Fundus Photography Classification |  | None |  | 😾 | 
-| None | Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images |  | None |  | 😾 | 
-| None | Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation |  | None |  | 😾 | 
-| None | Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport |  | None |  | 😾 | 
-| None | Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation |  | None |  | 😾 | 
-| None | Robust Sleep Stage Prediction from Electroencephalogram with Label Noise Using Multimodal Large Language Models |  | None |  | 😾 | 
-| None | SABPI-Net: A Novel Structure-Aware Network for Accurate and Domain-Invariant Retinopathy of Prematurity Diagnosis |  | None |  | 😾 | 
-| None | SAGCNet: Spatial-Aware Graph Completion Network for Missing Slice Imputation in Population CMR Imaging |  | None |  | 😾 | 
-| None | SAM2-ProMem: Enhancing Zero-Shot 3D Segmentation with Stochastic Propagation and Memory Search |  | None |  | 😾 | 
-| None | SAMASK-CLTR: A spatial-aware mask guided learning model for benign and malignant tumor classification in ABUS |  | None |  | 😾 | 
-| None | SAMSA: Segment Anything Model enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation |  | None |  | 😾 | 
-| None | SAMUSA: Segment Anything Model 2 for UltraSound Annotation |  | None |  | 😾 | 
-| None | SAMed-2: Selective Memory Enhanced Medical Segment Anything Model |  | None |  | 😾 | 
-| None | SIMPLE: Simultaneous Multi-plane Self-supervised Learning for Isotropic MRI Restoration from Anisotropic Data |  | None |  | 😾 | 
-| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  | None |  | 😾 | 
-| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  | None |  | 😾 | 
-| None | SPENet: Self-guided Prototype Enhancement Network for Few-shot Medical Image Segmentation |  | None |  | 😾 | 
-| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  | None |  | 😾 | 
-| None | SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model |  | None |  | 😾 | 
-| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  | None |  | 😾 | 
-| None | STEAM: Self-supervised TEeth Analysis and Modeling for Point Cloud Segmentation |  | None |  | 😾 | 
-| None | STMDiff: Spatiotemporal Matching Diffusion Model for Dual-Time-Point Total-body PET/CT Imaging via Contrastive Learning |  | None |  | 😾 | 
-| None | SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model |  | None |  | 😾 | 
-| None | SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus |  | None |  | 😾 | 
-| None | Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation |  | None |  | 😾 | 
-| None | Seeing Beyond the Surface: Retinal Thickness Prediction from Color Fundus Photography for DME Management |  | None |  | 😾 | 
-| None | Segmenting Vessels Encapsulating Tumor Clusters via Fine-Grained Visual Prompt |  | None |  | 😾 | 
-| None | Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning |  | None |  | 😾 | 
-| None | Self-Supervised Multiview Xray Matching |  | None |  | 😾 | 
-| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  | None |  | 😾 | 
-| None | Self-supervised Axial Super-Resolution for Volume Microscopy via Diffusion-Guided Structure Distillation |  | None |  | 😾 | 
-| None | Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos |  | None |  | 😾 | 
-| None | Semantic Interpolative Diffusion Model: Bridging the Interpolation to Masks and Colonoscopy Image Synthesis for Robust Generalization |  | None |  | 😾 | 
-| None | Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance |  | None |  | 😾 | 
-| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  | None |  | 😾 | 
-| None | Semi-Supervised Deformation-Free Image-to-Image Translation for Realistic CT Synthesis from CBCT |  | None |  | 😾 | 
-| None | Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations |  | None |  | 😾 | 
-| None | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition |  | None |  | 😾 | 
-| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  | None |  | 😾 | 
-| None | Sim-to-Real Transformer-Based Shape Reconstruction for Automated Orthopedic Fracture Reduction Planning |  | None |  | 😾 | 
-| None | SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training |  | None |  | 😾 | 
-| None | SlimFormer-3D: A Layer-Adaptive Lightweight Transformer for Efficient 3D Medical Image Segmentation |  | None |  | 😾 | 
-| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  | None |  | 😾 | 
-| None | Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial Learning with Class-Level Alignment |  | None |  | 😾 | 
-| None | Source-Free Active Domain Adaptation for Efficient Medical Video Polyp Segmentation |  | None |  | 😾 | 
-| None | Source-Free Domain Adaptation for Cross-Modality Cardiac Image Segmentation with Contrastive Class Relationship Consistency |  | None |  | 😾 | 
-| None | Sparse-XM: Spine Pose Adjustment with RGB-D Bone Segmentation via Cross-Modality Label Transfer |  | None |  | 😾 | 
-| None | Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging |  | None |  | 😾 | 
-| None | Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks |  | None |  | 😾 | 
-| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  | None |  | 😾 | 
-| None | Spatial Aggregation for Semi-supervised Active Learning in 3D Medical Image Segmentation |  | None |  | 😾 | 
-| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  | None |  | 😾 | 
-| None | Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos |  | None |  | 😾 | 
-| None | Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning |  | None |  | 😾 | 
-| None | Spatiotemporal-Sensitive Network for Microvascular Obstruction Segmentation from Cine Cardiac Magnetic Resonance |  | None |  | 😾 | 
-| None | Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder |  | None |  | 😾 | 
-| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  | None |  | 😾 | 
-| None | Steerable Anatomical Shape Synthesis with Implicit Neural Representations |  | None |  | 😾 | 
-| None | StepAL: Step-aware Active Learning for Cataract Surgical Videos |  | None |  | 😾 | 
-| None | Stronger Together: Registering Preoperative Imagery, LUS, and MIS Liver Images |  | None |  | 😾 | 
-| None | Structure and Smoothness Constrained Dual Networks for MR Bias Field Correction |  | None |  | 😾 | 
-| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  | None |  | 😾 | 
-| None | Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap |  | None |  | 😾 | 
-| None | Structure-aware MRI Translation: Multi-Modal Latent Diffusion Model with Arbitrary Missing Modalities |  | None |  | 😾 | 
-| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  | None |  | 😾 | 
-| None | Subtyping Breast Lesions via Generative Augmentation based Long-tailed Recognition in Ultrasound |  | None |  | 😾 | 
-| None | Super-resolution and segmentation of 4D Flow MRI using Deep learning and Weighted Mean Frequencies |  | None |  | 😾 | 
-| None | Supervised Diffusion-Model-Based PET Image Reconstruction |  | None |  | 😾 | 
-| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  | None |  | 😾 | 
-| None | SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation |  | None |  | 😾 | 
-| None | SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting |  | None |  | 😾 | 
-| None | SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition |  | None |  | 😾 | 
-| None | Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery |  | None |  | 😾 | 
-| None | SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction |  | None |  | 😾 | 
-| None | SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts |  | None |  | 😾 | 
-| None | Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images |  | None |  | 😾 | 
-| None | Synergy-Guided Regional Supervision of Pseudo Labels for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | Synthesis of Pathological Dual-Channel Color Doppler Echocardiograms for Equitable Diagnosis of Heart Diseases |  | None |  | 😾 | 
-| None | Synthesizing Delayed-Phase Contrast-Enhanced Breast MR Images from Early-Phase Images Using an Iterative Deep Network |  | None |  | 😾 | 
-| None | Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging |  | None |  | 😾 | 
-| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  | None |  | 😾 | 
-| None | T2GS: Comprehensive Reconstruction of Dynamic Surgical Scenes with Gaussian Splatting |  | None |  | 😾 | 
-| None | T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models |  | None |  | 😾 | 
-| None | T2WI-BCMIC: Non-Fat Saturated T2-Weighted Imaging Dataset for Bladder Cancer Muscle Invasion Classification |  | None |  | 😾 | 
-| None | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration |  | None |  | 😾 | 
-| None | TEGDA: Test-time Evaluation-Guided Dynamic Adaptation for Medical Image Segmentation |  | None |  | 😾 | 
-| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  | None |  | 😾 | 
-| None | TGSAM-2: Text-Guided Medical Image Segmentation using Segment Anything Model 2 |  | None |  | 😾 | 
-| None | TMSE: Tri-Modal Survival Estimation with Context-aware Tissue Prototype and Attention-Entropy Interaction |  | None |  | 😾 | 
-| None | TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency |  | None |  | 😾 | 
-| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  | None |  | 😾 | 
-| None | Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS |  | None |  | 😾 | 
-| None | Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling |  | None |  | 😾 | 
-| None | Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection |  | None |  | 😾 | 
-| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  | None |  | 😾 | 
-| None | Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer |  | None |  | 😾 | 
-| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  | None |  | 😾 | 
-| None | Temporal Atlas-Guided Generation of Longitudinal Data via Geometric Latent Embeddings |  | None |  | 😾 | 
-| None | Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis |  | None |  | 😾 | 
-| None | Temporal Model-Based Federated Active Medical Image Classification |  | None |  | 😾 | 
-| None | Temporal Modulated Multi-Scale Deformation Fusion via Knowledge Distillation for 4D Medical Image Interpolation |  | None |  | 😾 | 
-| None | Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI |  | None |  | 😾 | 
-| None | Temporal Representation Learning of Phenotype Trajectories for pCR Prediction in Breast Cancer |  | None |  | 😾 | 
-| None | Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy |  | None |  | 😾 | 
-| None | Test-Time Training with Local Contrast-Preserving Copy-Pasted Image for Domain Generalization in Retinal Vessel Segmentation |  | None |  | 😾 | 
-| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  | None |  | 😾 | 
-| None | Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis |  | None |  | 😾 | 
-| None | Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  | None |  | 😾 | 
-| None | The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection |  | None |  | 😾 | 
-| None | Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines |  | None |  | 😾 | 
-| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  | None |  | 😾 | 
-| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  | None |  | 😾 | 
-| None | ThyroidXL: Advancing Thyroid Nodule Diagnosis with an Expert-Labeled, Pathology-Validated Dataset |  | None |  | 😾 | 
-| None | Tied Prototype Model for Few-Shot Medical Image Segmentation |  | None |  | 😾 | 
-| None | Time-Contrastive Pretraining for In-Context Image and Video Segmentation |  | None |  | 😾 | 
-| None | Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining |  | None |  | 😾 | 
-| None | Top-Down Attention-based Multiple Instance Learning for Whole Slide Image Analysis |  | None |  | 😾 | 
-| None | Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection |  | None |  | 😾 | 
-| None | Toward Medical Deepfake Detection: A Comprehensive Dataset and Novel Method |  | None |  | 😾 | 
-| None | Towards Accurate Tumor Budding Detection: A Benchmark Dataset and A Detection Approach Based on Implicit Annotation Standardization and Positive-Negative Feature Coupling |  | None |  | 😾 | 
-| None | Towards Automated Pediatric Dental Development Staging: A Dataset and Model |  | None |  | 😾 | 
-| None | Towards Holistic Surgical Scene Graph |  | None |  | 😾 | 
-| None | Towards Interpretable Counterfactual Generation via Multimodal Autoregression |  | None |  | 😾 | 
-| None | Towards Multi-Scenario Generalization: Text-Guided Unified Framework for Low-Dose CT and Total-Body PET Reconstruction |  | None |  | 😾 | 
-| None | Towards Robust Medical Image Referring Segmentation with Incomplete Textual Prompts |  | None |  | 😾 | 
-| None | Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks |  | None |  | 😾 | 
-| None | Training-free Test-time Improvement for Explainable Medical Image Classification |  | None |  | 😾 | 
-| None | TransSino: Prior Sinogram Pattern-Based Transformer for Limited-Angle CT Image Segmentation |  | None |  | 😾 | 
-| None | Treat: A Unified Text-guided Conditioned Deep Learning Model for Generalized Radiotherapy Treatment Planning |  | None |  | 😾 | 
-| None | Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction |  | None |  | 😾 | 
-| None | Tumor Microenvironment-Guided Fine-Tuning of Pathology Foundation Models for Esophageal Squamous Cell Carcinoma Immunotherapy Response Prediction |  | None |  | 😾 | 
-| None | Tumor Segmentation with Heterogeneity Clustering in Non-contrast Breast MRI |  | None |  | 😾 | 
-| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  | None |  | 😾 | 
-| None | U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation |  | None |  | 😾 | 
-| None | U-RWKV: Lightweight medical image segmentation with direction-adaptive RWKV |  | None |  | 😾 | 
-| None | UM-SAM: Unsupervised Medical Image Segmentation using Knowledge Distillation from Segment Anything Model |  | None |  | 😾 | 
-| None | UltrON: Ultrasound Occupancy Networks |  | None |  | 😾 | 
-| None | Ultra-Low-Field MRI Enhancement via INR-Based Style Transfer |  | None |  | 😾 | 
-| None | UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation |  | None |  | 😾 | 
-| None | UltraTwin: Towards Cardiac Anatomical Twin Generation from Multi-view 2D Ultrasound |  | None |  | 😾 | 
-| None | Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading |  | None |  | 😾 | 
-| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  | None |  | 😾 | 
-| None | Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound |  | None |  | 😾 | 
-| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  | None |  | 😾 | 
-| None | UniMRG: Refining Medical Semantic Understanding Across Modalities via LLM-Orchestrated Synergistic Evolution |  | None |  | 😾 | 
-| None | UniOCTSeg: Towards Universal OCT Retinal Layer Segmentation via Hierarchical Prompting and Progressive Consistency Learning |  | None |  | 😾 | 
-| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  | None |  | 😾 | 
-| None | Unisyn: A Generative Foundation Model for Universal Medical Image Synthesis across MRI, CT and PET |  | None |  | 😾 | 
-| None | Unleashing SAM for Few-Shot Medical Image Segmentation with Dual-Encoder and Automated Prompting |  | None |  | 😾 | 
-| None | Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion |  | None |  | 😾 | 
-| None | Unleashing the Power of LLMs for Medical Video Answer Localization |  | None |  | 😾 | 
-| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  | None |  | 😾 | 
-| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  | None |  | 😾 | 
-| None | Unsupervised Anomaly Detection on Preclinical Liver H&E Whole Slide Images using Graph based Feature Distillation |  | None |  | 😾 | 
-| None | Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model |  | None |  | 😾 | 
-| None | Unsupervised Learning-Based Susceptibility Artifact Correction for Diffusion-Weighted MRI in Multiple Organs |  | None |  | 😾 | 
-| None | Unsupervised OCT image interpolation using deformable registration and generative models |  | None |  | 😾 | 
-| None | Unsupervised Quality Control and Enhancement of Polyp Segmentation in Colonoscopy Videos using Spatiotemporal Consistency |  | None |  | 😾 | 
-| None | Unsupervised Structure-Geometric Consistency for Monocular Endoscopic Depth Overestimation |  | None |  | 😾 | 
-| None | V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis |  | None |  | 😾 | 
-| None | VAMPIRE: Uncovering Vessel Directional and Morphological Information from OCTA Images for Cardiovascular Disease Risk Factor Prediction |  | None |  | 😾 | 
-| None | VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation |  | None |  | 😾 | 
-| None | VBCD: A Voxel-Based Framework for Personalized Dental Crown Design |  | None |  | 😾 | 
-| None | VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction |  | None |  | 😾 | 
-| None | VQ-SCD: Vector Quantization Meets Unknown Scan Condition Self-supervised Low-Dose CT Denoising |  | None |  | 😾 | 
-| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  | None |  | 😾 | 
-| None | Various Attention Mechanism Graph Convolutional Network with Multi-Source Domain Adaptation for Cross-Subject EEG Emotion Recognition |  | None |  | 😾 | 
-| None | Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection |  | None |  | 😾 | 
-| None | Vector-Quantization-Driven Active Learning for Efficient Multi-Modal Medical Segmentation with Cross-Modal Assistance |  | None |  | 😾 | 
-| None | Veriserum: A dual-plane fluoroscopic dataset with knee implant phantoms for deep learning in medical imaging |  | None |  | 😾 | 
-| None | VesselSDF: Distance Field Priors for Vascular Network Reconstruction |  | None |  | 😾 | 
-| None | ViTAL-CT: Vision Transformers for High-Risk Plaque Classification in Coronary CTA |  | None |  | 😾 | 
-| None | ViTexNet: Vision-Text Guided Dynamic Convolution Network for Medical Image Segmentation |  | None |  | 😾 | 
-| None | VisNet: A Human Visual System Inspired Lightweight Dual-Path Network for Medical Images Denoising |  | None |  | 😾 | 
-| None | Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering |  | None |  | 😾 | 
-| None | VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration |  | None |  | 😾 | 
-| None | WDNet: A Novel Wavelet-guided Hierarchical Diffusion Network for Multi-Target Segmentation in Colonoscopy Images |  | None |  | 😾 | 
-| None | WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis |  | None |  | 😾 | 
-| None | WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation |  | None |  | 😾 | 
-| None | Wavelet-driven Decoupling and Physics-informed Mapping Network for Accelerated Multi-parametric MR Imaging |  | None |  | 😾 | 
-| None | Weakly Semi-Supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning |  | None |  | 😾 | 
-| None | Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation |  | None |  | 😾 | 
-| None | Weighted Stratification in Multi-Label Contrastive Learning for Long-Tailed Medical Image Classification |  | None |  | 😾 | 
-| None | WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference |  | None |  | 😾 | 
-| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  | None |  | 😾 | 
-| None | XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification |  | None |  | 😾 | 
-| None | XOCT: Enhancing OCT to OCTA Translation via Cross-Dimensional Supervised Multi-Scale Feature Learning |  | None |  | 😾 | 
-| None | Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images |  | None |  | 😾 | 
-| None | pyOpenNFT: an open-source Python framework for ML-based real-time fMRI and EEG-fMRI neurofeedback |  | None |  | 😾 | 
-| None | tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation and Its Application in Medical Image Segmentation |  | None |  | 😾 | 
-| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  | None |  | 😾 | 
-| None | µ2 Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation |  | None |  | 😾 | 
+| None | 3D Acetabular Surface Reconstruction from 2D Pre-operative X-ray Images using SRVF Elastic Registration and Deformation Graph |  |  |  | 😾 | 
+| None | 3D Dynamic Prediction of Missing Teeth in Diverse Patterns via Centroid-prompted Diffusion Model |  |  |  | 😾 | 
+| None | 4D CardioSynth: Synthesising Dynamic Virtual Heart Populations through Spatiotemporal Disentanglement |  |  |  | 😾 | 
+| None | 6D Object Pose Tracking for Orthopedic Surgical Training using Visual-Inertial Sensor Fusion |  |  |  | 😾 | 
+| None | A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation |  |  |  | 😾 | 
+| None | A Causal-holistic Adaptive Intervention Network for Tailoring Automated Coronary Artery Disease Diagnosis to Individual Patients |  |  |  | 😾 | 
+| None | A Causality-Inspired Model for Intima-Media Thickening Assessment in Ultrasound Videos |  |  |  | 😾 | 
+| None | A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images |  |  |  | 😾 | 
+| None | A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging |  |  |  | 😾 | 
+| None | A Holistic Time-Aware Classification Model for Multimodal Longitudinal Patient Data |  |  |  | 😾 | 
+| None | A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD |  |  |  | 😾 | 
+| None | A Multi-Branch Framework for Cross-Domain Vessel Segmentation via the Few-Shot Paradigm |  |  |  | 😾 | 
+| None | A Multimodal Contrastive Learning for Detecting Aortic Dissection on 3D Non-Contrast CT with Anatomy Simplification |  |  |  | 😾 | 
+| None | A New Paradigm for Low-dose PET/CT Reconstruction with Mamba-powered Progressive Network and Physics-informed Consistency |  |  |  | 😾 | 
+| None | A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage |  |  |  | 😾 | 
+| None | A Novel ED Triage Framework Using Conditional Imputation, Multi-Scale Semantic Learning, and Cross-Modal Fusion |  |  |  | 😾 | 
+| None | A Novel Framework for Integrating 3D Ultrasound into Percutaneous Liver Tumour Ablation |  |  |  | 😾 | 
+| None | A Semi-Supervised Knowledge Distillation Framework for Left Ventricle Segmentation and Landmark Detection in Echocardiograms |  |  |  | 😾 | 
+| None | A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features |  |  |  | 😾 | 
+| None | A Unified Missing Modality Imputation Model with Inter-Modality Contrastive and Consistent Learning |  |  |  | 😾 | 
+| None | A Uniform Multi-mode Fused Framework for Velocity Field Estimation in Ultrasound Imaging |  |  |  | 😾 | 
+| None | A Virtual Domain Collaborative Learning Framework for Semi-supervised Microscopic Hyperspectral Image Segmentation |  |  |  | 😾 | 
+| None | ADAptation: Reconstruction-based Unsupervised Active Learning for Breast Ultrasound Diagnosis |  |  |  | 😾 | 
+| None | AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification |  |  |  | 😾 | 
+| None | AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis |  |  |  | 😾 | 
+| None | Abnormality-Driven Representation Learning for Radiology Imaging |  |  |  | 😾 | 
+| None | Accelerated Free-Breathing 5D Multi-Echo Respiratory Motion-Resolved R2*, PDFF, and QSM Using Novel Composite Total Variation |  |  |  | 😾 | 
+| None | Accurate Boundary Alignment and Realism Enhancement for Colonoscopic Polyp Image-Mask Pair Generation |  |  |  | 😾 | 
+| None | Active Source-Free Cross-Domain and Cross-Modality Adaptation for Volumetric Medical Image Segmentation by Image Sensitivity and Organ Heterogeneity Sampling |  |  |  | 😾 | 
+| None | AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-rays |  |  |  | 😾 | 
+| None | Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification |  |  |  | 😾 | 
+| None | Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision |  |  |  | 😾 | 
+| None | Adapting Foundation Model for Dental Caries Detection with Dual-View Co-Training |  |  |  | 😾 | 
+| None | Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation |  |  |  | 😾 | 
+| None | Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction |  |  |  | 😾 | 
+| None | Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI |  |  |  | 😾 | 
+| None | Adaptive Frame Selection for Gestational Age Estimation from Blind Sweep Fetal Ultrasound Videos |  |  |  | 😾 | 
+| None | Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification |  |  |  | 😾 | 
+| None | Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling |  |  |  | 😾 | 
+| None | Adaptive Stain Normalization for Cross-Domain Medical Histology |  |  |  | 😾 | 
+| None | Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis |  |  |  | 😾 | 
+| None | AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations |  |  |  | 😾 | 
+| None | All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior |  |  |  | 😾 | 
+| None | Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion |  |  |  | 😾 | 
+| None | Ambiguous Medical Image Segmentation Using Diffusion Schrödinger Bridge |  |  |  | 😾 | 
+| None | An Anatomical Significance-Aware Architecture for Explainable Myocardial Infarction Prediction via Multi-Task Learning |  |  |  | 😾 | 
+| None | Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications |  |  |  | 😾 | 
+| None | Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities |  |  |  | 😾 | 
+| None | Anatomical Structure Few-Shot Detection Utilizing Enhanced Human Anatomy Knowledge in Ultrasound Images |  |  |  | 😾 | 
+| None | Anatomy-Aware Frequency-Attention Transformer Networks for Liver Couinaud CT/MR Segmentation |  |  |  | 😾 | 
+| None | Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning |  |  |  | 😾 | 
+| None | Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge |  |  |  | 😾 | 
+| None | Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures |  |  |  | 😾 | 
+| None | Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays |  |  |  | 😾 | 
+| None | Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection |  |  |  | 😾 | 
+| None | Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units |  |  |  | 😾 | 
+| None | Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction |  |  |  | 😾 | 
+| None | Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | Augmented Reality-based Guidance with Deformable Registration in Head and Neck Tumor Resection |  |  |  | 😾 | 
+| None | Automated Characterization of Myocardial Scar Topological Patterns for Ventricular Tachycardia Screening |  |  |  | 😾 | 
+| None | Automated Detection of BK Virus in H&E Whole-Slide Images Using Weakly-Supervised Deep Learning and Interpretable Morphological Biomarkers |  |  |  | 😾 | 
+| None | Automated Integration of Surgical Implants into Digital Twins for Trauma Surgery |  |  |  | 😾 | 
+| None | Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks |  |  |  | 😾 | 
+| None | BME2: A Plug-and-Play Bridge-Based Module for Misalignment Estimation and Elimination in Multi-Scan Image Restoration |  |  |  | 😾 | 
+| None | BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation |  |  |  | 😾 | 
+| None | BaMCo: Balanced Multimodal Contrastive Learning for Knowledge-Driven Medical VQA |  |  |  | 😾 | 
+| None | Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification |  |  |  | 😾 | 
+| None | BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images |  |  |  | 😾 | 
+| None | Bayesian Transformers and Higher-Order Graph Matching for Cell Tracking in Serial Tissue Sections |  |  |  | 😾 | 
+| None | Beyond Shadows: Learning Physics-inspired Ultrasound Confidence Maps from Sparse Annotations |  |  |  | 😾 | 
+| None | BiMSRec: A Progressive Image Reconstruction Framework for Medical Image Fusion Guided by Multi-Scale Deformation Fields |  |  |  | 😾 | 
+| None | BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis |  |  |  | 😾 | 
+| None | Bias and Generalizability of Foundation Models across Datasets in Breast Mammography |  |  |  | 😾 | 
+| None | BiasICL: In-Context Learning and Demographic Biases of Vision Language Models |  |  |  | 😾 | 
+| None | Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation |  |  |  | 😾 | 
+| None | BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA |  |  |  | 😾 | 
+| None | Bipartite Patient-Modality Graph Learning with Event-Conditional Modelling of Censoring for Cancer Survival Prediction |  |  |  | 😾 | 
+| None | Blaze3DM: Integrating Triplane Representation with Diffusion for Solving 3D Inverse Problems in Medical Imaging |  |  |  | 😾 | 
+| None | Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching |  |  |  | 😾 | 
+| None | Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations |  |  |  | 😾 | 
+| None | Boosting Generalizability in NPC ART Prediction via Multi-Omics Feature Mapping |  |  |  | 😾 | 
+| None | Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning |  |  |  | 😾 | 
+| None | BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference |  |  |  | 😾 | 
+| None | Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes |  |  |  | 😾 | 
+| None | Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning |  |  |  | 😾 | 
+| None | Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis |  |  |  | 😾 | 
+| None | BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner |  |  |  | 😾 | 
+| None | BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data |  |  |  | 😾 | 
+| None | BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis |  |  |  | 😾 | 
+| None | BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification |  |  |  | 😾 | 
+| None | BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation |  |  |  | 😾 | 
+| None | Bridging Knowledge Discrepancy in Retinal Image Analysis through Federated Multi-Task Learning |  |  |  | 😾 | 
+| None | Bridging Radiological Images and Factors with Vision-Language Model for Accurate Diagnosis of Proliferative Hepatocellular Carcinoma |  |  |  | 😾 | 
+| None | Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | C-NCA: Chained Neural Cellular Automata for Fast and Accurate Thermal Ablation Estimation |  |  |  | 😾 | 
+| None | CA-SAM2: SAM2-based Context-Aware Network with Auto-Prompting for Nuclei Instance Segmentation |  |  |  | 😾 | 
+| None | CARE-VL: A Domain-Specialized Vision-Language Model for Early ASD Screening |  |  |  | 😾 | 
+| None | CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery |  |  |  | 😾 | 
+| None | CAUDA-MI: Cross Attention-Guided Unsupervised Domain Adaptation with Mutual Information for Cardiac MRI Segmentation |  |  |  | 😾 | 
+| None | CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI |  |  |  | 😾 | 
+| None | CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model |  |  |  | 😾 | 
+| None | CENet: Context Enhancement Network for Medical Image Segmentation |  |  |  | 😾 | 
+| None | CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis |  |  |  | 😾 | 
+| None | CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography |  |  |  | 😾 | 
+| None | CSAL-3D: Cold-start Active Learning for 3D Medical Image Segmentation via SSL-driven Uncertainty-Reinforced Diversity Sampling |  |  |  | 😾 | 
+| None | CSAP-Assist: Instrument-Agent Dialogue Empowered Vision-Language Models for Collaborative Surgical Action Planning |  |  |  | 😾 | 
+| None | CS²C: Collaborative Spatial and Spectral Neural Clustering for Organelle Segmentation from Volumetric Electron Microscopy |  |  |  | 😾 | 
+| None | CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net) |  |  |  | 😾 | 
+| None | CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs |  |  |  | 😾 | 
+| None | CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays |  |  |  | 😾 | 
+| None | CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories |  |  |  | 😾 | 
+| None | Calibration in Multiple Instance Learning: Evaluating Aggregation Methods for Ultrasound-Based Diagnosis |  |  |  | 😾 | 
+| None | CardiacCLIP: Video-based CLIP Adaptation for LVEF Prediction in a Few-shot Manner |  |  |  | 😾 | 
+| None | CardiacFlow: 3D+t Four-Chamber Cardiac Shape Completion and Generation via Flow Matching |  |  |  | 😾 | 
+| None | CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity |  |  |  | 😾 | 
+| None | Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics |  |  |  | 😾 | 
+| None | Causality-driven Spatio-temporal Generator for Multi-phase Contrast-enhanced CT Synthesis |  |  |  | 😾 | 
+| None | CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer |  |  |  | 😾 | 
+| None | Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination |  |  |  | 😾 | 
+| None | Cervical-RG: Automated Cervical Cancer Report Generation from 3D Multi-sequence MRI via CoT-guided Hierarchical Experts |  |  |  | 😾 | 
+| None | CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery |  |  |  | 😾 | 
+| None | Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading |  |  |  | 😾 | 
+| None | ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis |  |  |  | 😾 | 
+| None | Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction |  |  |  | 😾 | 
+| None | Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans |  |  |  | 😾 | 
+| None | Clinical Prior-Guided Tumor Generation for Breast Ultrasound with Cross Domain Adaptation |  |  |  | 😾 | 
+| None | Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging |  |  |  | 😾 | 
+| None | Clinically-guided Data Synthesis for Laryngeal Lesion Detection |  |  |  | 😾 | 
+| None | ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data |  |  |  | 😾 | 
+| None | Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation |  |  |  | 😾 | 
+| None | CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction |  |  |  | 😾 | 
+| None | CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding |  |  |  | 😾 | 
+| None | CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis |  |  |  | 😾 | 
+| None | Coarse-to-Fine Medical Image Translation by Incorporating Deterministic Guidance and Probabilistic Refinement |  |  |  | 😾 | 
+| None | Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction |  |  |  | 😾 | 
+| None | Compact Training-free NAS with Alternating Evolution Game for Medical Image Segmentation |  |  |  | 😾 | 
+| None | ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation |  |  |  | 😾 | 
+| None | Concept-induced Graph Perception Model for Interpretable Diagnosis |  |  |  | 😾 | 
+| None | Conditional Graph Diffusion with Topological Constraints for Brain Network Generation |  |  |  | 😾 | 
+| None | Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data |  |  |  | 😾 | 
+| None | Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA |  |  |  | 😾 | 
+| None | Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction |  |  |  | 😾 | 
+| None | Conformal Prediction for Image Segmentation Using Morphological Prediction Sets |  |  |  | 😾 | 
+| None | Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models |  |  |  | 😾 | 
+| None | Continual Retinal Vision-Language Pre-training upon Incremental Imaging Modalities |  |  |  | 😾 | 
+| None | Contour Makes It Stronger: Cross-Domain Cephalometric Landmark Detection Based on Contour Priors |  |  |  | 😾 | 
+| None | Contrast Flow Pattern and Cross-Phase Specificity-Aware Diffusion Model for NCCT-to-Multiphase CECT Synthesis |  |  |  | 😾 | 
+| None | Contrastive Anatomy-Contrast Disentanglement: A Domain-General MRI Harmonization Method |  |  |  | 😾 | 
+| None | Contrastive Disentanglement Learning Framework for Multi-lead Wearable ECG Denoising |  |  |  | 😾 | 
+| None | Contrastive Knowledge-Guided Large Language Models for Medical Report Generation |  |  |  | 😾 | 
+| None | Contrastive Masked Video Modeling for Coronary Angiography Diagnosis |  |  |  | 😾 | 
+| None | Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans |  |  |  | 😾 | 
+| None | Controllable Image Synthesis Workflow for Enhancing Cervical Cell Detection |  |  |  | 😾 | 
+| None | Controllable Skin Synthesis via Lesion-Focused Vector Autoregression Model |  |  |  | 😾 | 
+| None | Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods |  |  |  | 😾 | 
+| None | Core-Periphery Principle Guided State Space Model for Functional Connectome Classification |  |  |  | 😾 | 
+| None | Coronary Artery Calcification segmentation by using cross-frequency conditioner and geometric priors Learning |  |  |  | 😾 | 
+| None | CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching |  |  |  | 😾 | 
+| None | Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis |  |  |  | 😾 | 
+| None | Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis |  |  |  | 😾 | 
+| None | Cross-Modal Contrastive Learning for Emotion Recognition: Aligning ECG with EEG-Derived Features |  |  |  | 😾 | 
+| None | Cross-Modal Graph Learning for Perivascular Spaces Segmentation |  |  |  | 😾 | 
+| None | Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients |  |  |  | 😾 | 
+| None | Cross-Modality Supervised Prostate Segmentation on CBCT for Adaptive Radiotherapy |  |  |  | 😾 | 
+| None | Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction |  |  |  | 😾 | 
+| None | CurConMix: A Curriculum Contrastive Learning Framework for Enhancing Surgical Action Triplet Recognition |  |  |  | 😾 | 
+| None | Cycle Context Verification for In-Context Medical Image Segmentation |  |  |  | 😾 | 
+| None | CytoSAE: Interpretable Cell Embeddings for Hematology |  |  |  | 😾 | 
+| None | C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images |  |  |  | 😾 | 
+| None | D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM |  |  |  | 😾 | 
+| None | D2Diff: A Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis |  |  |  | 😾 | 
+| None | D2MAE: Diffusional Deblurring MAE for Ultrasound Image Pre-training |  |  |  | 😾 | 
+| None | D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors |  |  |  | 😾 | 
+| None | D4Recon: Dual-stage Deformation and Dual-scale Depth Guidance for Endoscopic Reconstruction |  |  |  | 😾 | 
+| None | DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities |  |  |  | 😾 | 
+| None | DCKAN: A Dual-Coordinate KAN Framework for Fibrous Cap Segmentation on Carotid OCT |  |  |  | 😾 | 
+| None | DCT-Net: Dual-branch CT Reconstruction from Orthogonal X-rays with Diffusion Model and Contrastive Learning |  |  |  | 😾 | 
+| None | DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection |  |  |  | 😾 | 
+| None | DGHFA: Dynamic Gradient and Hierarchical Feature Alignment for Robust Distillation of Medical VLMs |  |  |  | 😾 | 
+| None | DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis |  |  |  | 😾 | 
+| None | DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal |  |  |  | 😾 | 
+| None | DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis |  |  |  | 😾 | 
+| None | DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model |  |  |  | 😾 | 
+| None | DINO Adapted to X-Ray (DAX): Foundation Models for Intraoperative X-Ray Imaging |  |  |  | 😾 | 
+| None | DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine |  |  |  | 😾 | 
+| None | DPGS-Net: Dual Prior-Guided Cross-Domain Adaptive Framework for Ultrasound Image Segmentation |  |  |  | 😾 | 
+| None | DSFC: Deformation-Aware Learning Strategy via Self-sustaining Feedback Cycle for Medical Vision Foundation Model Domain Adaptation |  |  |  | 😾 | 
+| None | Decentralized Noise Handling in Medical Imaging: Encoder-Decoder Based Federated Imputation for Robust Training |  |  |  | 😾 | 
+| None | Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction |  |  |  | 😾 | 
+| None | Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System |  |  |  | 😾 | 
+| None | DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology |  |  |  | 😾 | 
+| None | Delving into Out-of-Distribution Detection with Medical Vision-Language Models |  |  |  | 😾 | 
+| None | DetectDiffuse: Aggregation- and Attention-driven Universal Lesion Detection with Multi-scale Diffusion Model |  |  |  | 😾 | 
+| None | DiDGen: Diffusion-based Dual-task Synthesis for Dermoscopic Data Generation |  |  |  | 😾 | 
+| None | Dia-LLaMA: Towards Large Language Model-driven CT Report Generation |  |  |  | 😾 | 
+| None | Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation |  |  |  | 😾 | 
+| None | DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion |  |  |  | 😾 | 
+| None | DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model |  |  |  | 😾 | 
+| None | DiffStain: Conditioned Diffusion-Based Semantic Virtual Staining with Mask Guidance |  |  |  | 😾 | 
+| None | Difficulty Estimation for Image-Specific Medical Image Segmentation Quality Control |  |  |  | 😾 | 
+| None | Diffusing Boundaries: CBCT-to-CT Translation with Extended Field of View |  |  |  | 😾 | 
+| None | Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection |  |  |  | 😾 | 
+| None | Diffusion-based Multi-modal MR Fusion for TOF-MRA Image Synthesis |  |  |  | 😾 | 
+| None | Diffusion-based Virtual Staining from Polarimetric Mueller Matrix Imaging |  |  |  | 😾 | 
+| None | Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration |  |  |  | 😾 | 
+| None | DisDiff: Disentanglement Diffusion Network for MR Imaging Translation |  |  |  | 😾 | 
+| None | Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction |  |  |  | 😾 | 
+| None | Distilling foundation models for robust and efficient models in digital pathology |  |  |  | 😾 | 
+| None | Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion |  |  |  | 😾 | 
+| None | Domain Generalization for Mammogram Classification by Suppressing Domain-Specific Features |  |  |  | 😾 | 
+| None | Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba |  |  |  | 😾 | 
+| None | Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer |  |  |  | 😾 | 
+| None | Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data |  |  |  | 😾 | 
+| None | DpDNet: An Dual-Prompt-Driven Network for Universal PET-CT Segmentation |  |  |  | 😾 | 
+| None | Dual Correlation-aware Mamba for Microvascular Obstruction Identification in Non-contrast Cine Cardiac Magnetic Resonance |  |  |  | 😾 | 
+| None | Dual Knowledge-Aware Guidance for Source-Free Domain Adaptive Fundus Image Segmentation |  |  |  | 😾 | 
+| None | Dual Selective Gleason Pattern-Aware Multiple Instance Learning for Grade Group Prediction in Histopathology Images |  |  |  | 😾 | 
+| None | Dual-Branch Dynamic Coupling Weakly Supervised Learning for Class-Incremental Histopathological Region Segmentation |  |  |  | 😾 | 
+| None | Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification |  |  |  | 😾 | 
+| None | DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning |  |  |  | 😾 | 
+| None | DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency |  |  |  | 😾 | 
+| None | DyMAS-Net: Dynamic Multi-Scale Adaptive Sampling Network for Efficient Medical Image Segmentation |  |  |  | 😾 | 
+| None | Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation |  |  |  | 😾 | 
+| None | Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline |  |  |  | 😾 | 
+| None | Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model |  |  |  | 😾 | 
+| None | Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction |  |  |  | 😾 | 
+| None | E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation |  |  |  | 😾 | 
+| None | EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation |  |  |  | 😾 | 
+| None | EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation |  |  |  | 😾 | 
+| None | EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds |  |  |  | 😾 | 
+| None | EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration |  |  |  | 😾 | 
+| None | EchoCardMAE: Video Masked Auto-Encoders Customized for Echocardiography |  |  |  | 😾 | 
+| None | EchoViewCLIP: Advancing Video Quality Control through High-performance View Recognition of Echocardiography |  |  |  | 😾 | 
+| None | EchoingECG: An Electrocardiogram Cross-Modal Model for Echocardiogram Tasks |  |  |  | 😾 | 
+| None | Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network |  |  |  | 😾 | 
+| None | Edge-semantic Synergy Fusion and Adaptive Noise-aware for Weakly Supervised Pathological Tissue Segmentation |  |  |  | 😾 | 
+| None | EdgeANet: A Transformer-based Edge Representation Learning Network for Canine X-ray Verification |  |  |  | 😾 | 
+| None | EfficientMedNeXt: Multi-Receptive Dilated Convolutions for Medical Image Segmentation |  |  |  | 😾 | 
+| None | Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training |  |  |  | 😾 | 
+| None | End-to-End 3D Tooth Landmark Detection with Fuzzy Tooth Localization |  |  |  | 😾 | 
+| None | Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting |  |  |  | 😾 | 
+| None | Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records |  |  |  | 😾 | 
+| None | Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion |  |  |  | 😾 | 
+| None | Endo-GSMT: Endoscopic Monocular Scene Reconstruction with Dynamic Gaussian Splatting and Motion Tracking |  |  |  | 😾 | 
+| None | Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video |  |  |  | 😾 | 
+| None | EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy |  |  |  | 😾 | 
+| None | EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting |  |  |  | 😾 | 
+| None | EndoGen: Conditional Autoregressive Endoscopic Video Generation |  |  |  | 😾 | 
+| None | EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training |  |  |  | 😾 | 
+| None | EndoMetric: Near-Light Monocular Metric Scale Estimation in Endoscopy |  |  |  | 😾 | 
+| None | EndoPlanar: Deformable Planar-based Gaussian Splatting for Surgical Scene Reconstruction |  |  |  | 😾 | 
+| None | Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation |  |  |  | 😾 | 
+| None | Endoscopic Depth-of-Field Expansion via Cascaded Network with Two-streamed Multi-scale Fusion |  |  |  | 😾 | 
+| None | Endplate3D-QCT: A High-Resolution Dataset and Benchmark for Automated 3D Segmentation of Lumbar Vertebral Endplates in QCT |  |  |  | 😾 | 
+| None | Enforcing Geometric Constraints of Surface Normal and Pose for Self-supervised Monocular Depth Estimation on Laparoscopic Images |  |  |  | 😾 | 
+| None | Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning |  |  |  | 😾 | 
+| None | Enhancing Soft Tissue Sarcoma Classification by Mitigating Patient-Specific Bias in Whole Slide Images |  |  |  | 😾 | 
+| None | Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation |  |  |  | 😾 | 
+| None | Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation |  |  |  | 😾 | 
+| None | Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and Beyond |  |  |  | 😾 | 
+| None | Explain Any Pathological Concept: Discovering Hierarchical Explanations for Pathology Foundation Models |  |  |  | 😾 | 
+| None | Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition |  |  |  | 😾 | 
+| None | Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion |  |  |  | 😾 | 
+| None | Explainable Integrative Bipartite Graph Convolutional Neural Network for Predicting Ejection Fraction in Echocardiography |  |  |  | 😾 | 
+| None | Exploring Text-enhanced Mixture-of-Experts for Semi-supervised Medical Image Segmentation with Composite Data |  |  |  | 😾 | 
+| None | Exploring the Design Space of 3D MLLMs for CT Report Generation |  |  |  | 😾 | 
+| None | Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification |  |  |  | 😾 | 
+| None | F2PASeg: Feature Fusion for Pituitary Anatomy Segmentation in Endoscopic Surgery |  |  |  | 😾 | 
+| None | FDAS: Foundation Model Distillation and Anatomic Structure-aware Multi-task Learning for Self-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | FDF-VQVAE: A Frequency Disentanglement and Fusion Learning Framework for Multi-Sequence MRI Enhancement |  |  |  | 😾 | 
+| None | FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation |  |  |  | 😾 | 
+| None | FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction |  |  |  | 😾 | 
+| None | FMM-Diff: A Feature Mapping and Merging Diffusion Model for MRI Generation with Missing Modality |  |  |  | 😾 | 
+| None | FPN-in-FPN: A Nested Multi-Scale Aggregation Network for Polyp Segmentation |  |  |  | 😾 | 
+| None | FSA-Net: Fractal-driven Synergistic Anatomy-aware Network for Segmenting White Line of Toldt in Laparoscopic Images |  |  |  | 😾 | 
+| None | FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy |  |  |  | 😾 | 
+| None | Facial Appearance Prediction with Conditional Multi-scale Autoregressive Modeling for Orthognathic Surgical Planning |  |  |  | 😾 | 
+| None | Fair-MoE: Medical Fairness-Oriented Mixture of Experts in Vision-Language Models |  |  |  | 😾 | 
+| None | Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis |  |  |  | 😾 | 
+| None | Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss |  |  |  | 😾 | 
+| None | Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images |  |  |  | 😾 | 
+| None | Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery |  |  |  | 😾 | 
+| None | FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities |  |  |  | 😾 | 
+| None | FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation |  |  |  | 😾 | 
+| None | FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation |  |  |  | 😾 | 
+| None | Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose |  |  |  | 😾 | 
+| None | Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation |  |  |  | 😾 | 
+| None | FilterDiff: Noise-free Frequency-domain Diffusion Models for Accelerated MRI Reconstruction |  |  |  | 😾 | 
+| None | Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model |  |  |  | 😾 | 
+| None | Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis |  |  |  | 😾 | 
+| None | Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction |  |  |  | 😾 | 
+| None | Flip Distribution Alignment VAE for Multi-Phase MRI Synthesis |  |  |  | 😾 | 
+| None | Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality |  |  |  | 😾 | 
+| None | FluoroSAM: A Language-promptable Foundation Model for Flexible X-ray Image Segmentation |  |  |  | 😾 | 
+| None | Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification |  |  |  | 😾 | 
+| None | Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings |  |  |  | 😾 | 
+| None | FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI |  |  |  | 😾 | 
+| None | Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction |  |  |  | 😾 | 
+| None | Frequency Strikes Back: Boosting Parameter-Efficient Foundation Model Adaptation for Medical Imaging |  |  |  | 😾 | 
+| None | Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation |  |  |  | 😾 | 
+| None | Frequency-enhanced Multi-granularity Context Network for Efficient Vertebrae Segmentation |  |  |  | 😾 | 
+| None | From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-specific Medical Image Segmentation |  |  |  | 😾 | 
+| None | From Pixels to Prognosis: A Multi-Modal Attention-based Framework for Visceral Adipose Tissue Estimation |  |  |  | 😾 | 
+| None | From Sight to Skill: A Surgeon-Centered Augmented Reality System for Ureteroscopy Training |  |  |  | 😾 | 
+| None | From Slices to Volumes: Multi-Scale Fusion of 2D and 3D Features for CT Scan Report Generation |  |  |  | 😾 | 
+| None | From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation |  |  |  | 😾 | 
+| None | FunBench: Benchmarking Fundus Reading Skills of MLLMs |  |  |  | 😾 | 
+| None | Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images |  |  |  | 😾 | 
+| None | Future Slot Prediction for Unsupervised Object Discovery in Surgical Video |  |  |  | 😾 | 
+| None | GA-SAM: Geometry-Aware SAM Adaptation with Sparse Annotation-Driven Point Cloud Completion |  |  |  | 😾 | 
+| None | GE2Hist: Generating Histology Images from Single-cell Gene Expression via Cross-modal Generative Network |  |  |  | 😾 | 
+| None | GEPAR3D: Geometry Prior-Assisted Learning for 3D Tooth Segmentation |  |  |  | 😾 | 
+| None | GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images |  |  |  | 😾 | 
+| None | GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation |  |  |  | 😾 | 
+| None | GLM-SFNet: Global-Local Vision-Mamba with Semantic Fusion for Medical Image Segmentation |  |  |  | 😾 | 
+| None | GRASP-PsONet: Gradient-based Removal of Spurious Patterns for PsOriasis Severity Classification |  |  |  | 😾 | 
+| None | GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology |  |  |  | 😾 | 
+| None | General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound |  |  |  | 😾 | 
+| None | Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room |  |  |  | 😾 | 
+| None | Geometric-Guided Few-Shot Dental Landmark Detection with Human-Centric Foundation Model |  |  |  | 😾 | 
+| None | Geometry-Guided Local Alignment for Multi-View Visual Language Pre-Training in Mammography |  |  |  | 😾 | 
+| None | Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG |  |  |  | 😾 | 
+| None | Global and Local Vision-Language Alignment for Few-Shot Learning and Few-Shot OOD Detection |  |  |  | 😾 | 
+| None | GoCa: Trustworthy Multi-Modal RAG with Explicit Thinking Distillation for Reliable Decision-Making in Med-LVLMs |  |  |  | 😾 | 
+| None | GrInAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation |  |  |  | 😾 | 
+| None | Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability |  |  |  | 😾 | 
+| None | Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading |  |  |  | 😾 | 
+| None | Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling |  |  |  | 😾 | 
+| None | Graph-based Neighbor-Aware Network for Gaze-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images |  |  |  | 😾 | 
+| None | HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics |  |  |  | 😾 | 
+| None | HARM3-Fusion: Hierarchical Attentional Representation Learning of Multi-Modal, Multi-Temporal, and Multi-Sequence Fusion for Pathological Complete Response Prediction of Head and Neck Squamous Cell Carcinoma |  |  |  | 😾 | 
+| None | HARP: Harmonization and Adaptive Refinement of Pseudo-Labels for Cross-Domain Medical Image Segmentation |  |  |  | 😾 | 
+| None | HASD: Hierarchical Adaption for Pathology Slide-Level Domain-Shift |  |  |  | 😾 | 
+| None | HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors |  |  |  | 😾 | 
+| None | HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation |  |  |  | 😾 | 
+| None | HalF-SAM: SAM-based Haustral Fold Detection In Colonoscopy with Debris Suppression and Temporal Consistency |  |  |  | 😾 | 
+| None | Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models |  |  |  | 😾 | 
+| None | Hard Sample Mining-based Tongue Diagnosis for Fatty Liver Disease Severity Classification |  |  |  | 😾 | 
+| None | Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays |  |  |  | 😾 | 
+| None | Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis |  |  |  | 😾 | 
+| None | HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction |  |  |  | 😾 | 
+| None | HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation |  |  |  | 😾 | 
+| None | Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI |  |  |  | 😾 | 
+| None | Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound |  |  |  | 😾 | 
+| None | Hierarchical Feature Learning for Medical Point Clouds via State Space Model |  |  |  | 😾 | 
+| None | Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology |  |  |  | 😾 | 
+| None | Hierarchical Spatio-temporal Segmentation Network for Ejection Fraction Estimation in Echocardiography Videos |  |  |  | 😾 | 
+| None | Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection |  |  |  | 😾 | 
+| None | High-Fidelity Unified One-to-Many Medical Image Synthesis via Text-Conditioned Latent Diffusion |  |  |  | 😾 | 
+| None | High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation |  |  |  | 😾 | 
+| None | High-Precision Mixed Feature Fusion Network Using Hypergraph Computation for Cervical Abnormal Cell Detection |  |  |  | 😾 | 
+| None | Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation |  |  |  | 😾 | 
+| None | Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy |  |  |  | 😾 | 
+| None | HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis |  |  |  | 😾 | 
+| None | Hybrid Graph Mamba: Unlocking Non-Euclidean Potential for Accurate Polyp Segmentation |  |  |  | 😾 | 
+| None | Hybrid Local-Window-Attention–Assisted U-Net Model for Multimodal Medical-Image Segmentation |  |  |  | 😾 | 
+| None | Hybrid State-Space Models and Denoising Training for Unpaired Medical Image Synthesis |  |  |  | 😾 | 
+| None | Hybrid-View Attention Network for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound |  |  |  | 😾 | 
+| None | HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation |  |  |  | 😾 | 
+| None | HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis |  |  |  | 😾 | 
+| None | Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis |  |  |  | 😾 | 
+| None | Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities |  |  |  | 😾 | 
+| None | Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis |  |  |  | 😾 | 
+| None | IFRFNet: Iterative Frequency Restoration-Fusion Network for Fast System Matrix Calibration on Magnetic Particle Image |  |  |  | 😾 | 
+| None | IKAN: Interactive KAN with Modulation Fusion for Medical Image Segmentation |  |  |  | 😾 | 
+| None | IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities |  |  |  | 😾 | 
+| None | IMREPET: Implicit Neural Representation for Unsupervised Dynamic PET Reconstruction |  |  |  | 😾 | 
+| None | IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports |  |  |  | 😾 | 
+| None | ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization |  |  |  | 😾 | 
+| None | ITAdaptor: Image-Tag Adapter Framework with Knowledge Enhancement for Radiology Report Generation |  |  |  | 😾 | 
+| None | ITMatch: Arch-Guided Semi-Supervised Tooth Arrangement via Iterative Confidence Evaluation |  |  |  | 😾 | 
+| None | Implicit Deformable Medical Image Registration with Learnable Kernels |  |  |  | 😾 | 
+| None | Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation |  |  |  | 😾 | 
+| None | Improved Baselines with Synchronized Encoding for Universal Medical Image Segmentation |  |  |  | 😾 | 
+| None | Improved Tumor Segmentation using Selective Synthetic Augmentation for Enhanced Surgical Planning in Breast MRI |  |  |  | 😾 | 
+| None | Improving Autism Detection with Multimodal Behavioral Analysis |  |  |  | 😾 | 
+| None | Improving Medical Image Segmentation with Implicit Representation and Noisy Label Robustness |  |  |  | 😾 | 
+| None | Improving Motor Imagery EEG Signal Quality with Dynamic Visual Cues: An Innovative Paradigm and Dataset |  |  |  | 😾 | 
+| None | Improving OCTA Imaging through Cross-Domain Adaptation: A Noise-Guided Framework Using Intralipid-Enhanced Rat Data |  |  |  | 😾 | 
+| None | Indepth Integration of Multi-granularity Features from Dual-modal for Disease Classification |  |  |  | 😾 | 
+| None | Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX |  |  |  | 😾 | 
+| None | Influence of Classification Task and Distribution Shift Type on OOD Detection in Fetal Ultrasound |  |  |  | 😾 | 
+| None | Information Bottleneck-based Causal Attention for Multi-label Medical Image Recognition |  |  |  | 😾 | 
+| None | InstructX2X: An Interpretable Local Editing Model for Counterfactual Medical Image Generation |  |  |  | 😾 | 
+| None | Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting |  |  |  | 😾 | 
+| None | Integrate Semantic Radiomics as Prior Evidence into Evidential Deep Learning for Pelvic Lipomatosis Diagnosis |  |  |  | 😾 | 
+| None | Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer |  |  |  | 😾 | 
+| None | Interactive Segmentation and Report Generation for CT Images |  |  |  | 😾 | 
+| None | Interpretable fMRI Captioning via Contrastive Learning |  |  |  | 😾 | 
+| None | Intra- and Cross-View Enhancement for OCTA Imaging |  |  |  | 😾 | 
+| None | Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation |  |  |  | 😾 | 
+| None | Is Hyperbolic Space All You Need for Medical Anomaly Detection? |  |  |  | 😾 | 
+| None | KMUNet: A novel medical image segmentation model based on KAN and Mamba |  |  |  | 😾 | 
+| None | KidneyDepth: A Synthetic Kidney Dataset for Metric Depth Estimation in Ureteroscopy |  |  |  | 😾 | 
+| None | Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning |  |  |  | 😾 | 
+| None | Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation |  |  |  | 😾 | 
+| None | Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation |  |  |  | 😾 | 
+| None | Knowledge-Enhanced Complementary Information Fusion with Temporal Heterogeneous Graph Learning for Disease Prediction |  |  |  | 😾 | 
+| None | Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification |  |  |  | 😾 | 
+| None | LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation |  |  |  | 😾 | 
+| None | LEAVS: An LLM-based Labeler for Abdominal CT Supervision |  |  |  | 😾 | 
+| None | LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification |  |  |  | 😾 | 
+| None | LIP-CAR: a learned inverse problem approach for medical imaging with contrast agent reduction |  |  |  | 😾 | 
+| None | LKA: Large Kernel Adapter for Enhanced Medical Image Classification |  |  |  | 😾 | 
+| None | LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG |  |  |  | 😾 | 
+| None | LTSE: Language-guided Tissue Referring Segmentation in Pathology Images with Adaptive Expert Mixture |  |  |  | 😾 | 
+| None | LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images |  |  |  | 😾 | 
+| None | Language of Stains: Tokenization Enhances Multiplex Immunofluorescence and Histology Image Synthesis |  |  |  | 😾 | 
+| None | Last Layer Laplacian Pseudocoresets for Robust Medical Image Analysis |  |  |  | 😾 | 
+| None | Latent Motion Profiling for Annotation-free Cardiac Phase Detection in Adult and Fetal Echocardiography Videos |  |  |  | 😾 | 
+| None | Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis |  |  |  | 😾 | 
+| None | Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification |  |  |  | 😾 | 
+| None | Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction |  |  |  | 😾 | 
+| None | Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder |  |  |  | 😾 | 
+| None | Learning Foundation Models from Multi-Organ Medical Images by Capturing Consistency and Diversity of Anatomical Structures |  |  |  | 😾 | 
+| None | Learning Segmentation from Radiology Reports |  |  |  | 😾 | 
+| None | Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment |  |  |  | 😾 | 
+| None | Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation |  |  |  | 😾 | 
+| None | Lesion-Aware Post-Training of Latent Diffusion Models for Synthesizing Diffusion MRI from CT Perfusion |  |  |  | 😾 | 
+| None | Lesion-centered vision transformer for stroke outcome prediction from image and clinical data |  |  |  | 😾 | 
+| None | LesionDiffusion: Towards Text-controlled General Lesion Synthesis |  |  |  | 😾 | 
+| None | Leveraging Diffusion Models for Continual Test-Time Adaptation in Fundus Image Classification |  |  |  | 😾 | 
+| None | Leveraging Semantic Asymmetry for Accurate Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT |  |  |  | 😾 | 
+| None | Leveraging Visual Prompt with Diffusion Adversarial Network for Radiotherapy Dose Prediction |  |  |  | 😾 | 
+| None | Localization Lens for Improving Medical Vision-Language Models |  |  |  | 😾 | 
+| None | Location-Aware Parameter Fine-Tuning for Multimodal Image Segmentation |  |  |  | 😾 | 
+| None | Location-Guided Automated Lesion Captioning in Whole-body PET/CT Images |  |  |  | 😾 | 
+| None | Longitudinal MRI-Clinical Multimodal Fusion for pCR Prediction in Breast Cancer |  |  |  | 😾 | 
+| None | Longitudinal anatomical attention maps for recognizing diagnostic errors from radiologists’ eye movements |  |  |  | 😾 | 
+| None | Lymph Node Metastasis Classification with Prototype-guided Multiple Instance Aggregation and Heterogeneous Feature Fusion |  |  |  | 😾 | 
+| None | Lymphoma Prognosis with Lesion-Anatomy Context Fusion and Attention-Based Multi-Lesion Aggregation |  |  |  | 😾 | 
+| None | M3HL: Mutual Mask Mix with High-Low Level Feature Consistency for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer |  |  |  | 😾 | 
+| None | MAK-GAN: Multi-level Adaptive Convolutional Kernels for Asymmetric Multi-modal PET Reconstruction |  |  |  | 😾 | 
+| None | MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment |  |  |  | 😾 | 
+| None | MAMBA-Based Weakly Supervised Medical Image Segmentation with Cross-Modal Textual Information |  |  |  | 😾 | 
+| None | MARSeg: Enhancing Medical Image Segmentation with MAR and Adaptive Feature Fusion |  |  |  | 😾 | 
+| None | MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts |  |  |  | 😾 | 
+| None | MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation |  |  |  | 😾 | 
+| None | MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation |  |  |  | 😾 | 
+| None | MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising |  |  |  | 😾 | 
+| None | MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction |  |  |  | 😾 | 
+| None | MELON: Multimodal Mixture-of-Experts with Spectral-Temporal Fusion for Long-Term MObility EstimatioN in Critical Care |  |  |  | 😾 | 
+| None | MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images |  |  |  | 😾 | 
+| None | MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma |  |  |  | 😾 | 
+| None | MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image |  |  |  | 😾 | 
+| None | MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis |  |  |  | 😾 | 
+| None | MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI |  |  |  | 😾 | 
+| None | MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations |  |  |  | 😾 | 
+| None | MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification |  |  |  | 😾 | 
+| None | MOSCARD - Multimodal Opportunistic Screening for Cardiovascular Adverse events with Causal Reasoning and De-confounding |  |  |  | 😾 | 
+| None | MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning |  |  |  | 😾 | 
+| None | MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering |  |  |  | 😾 | 
+| None | MRI Motion Artifact Correction via Frequency-Assisted Artifact Disentanglement and Confidence-Guided Knowledge Distillation |  |  |  | 😾 | 
+| None | MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis |  |  |  | 😾 | 
+| None | MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment |  |  |  | 😾 | 
+| None | MSDG-StyleNet: Multi-source Unsupervised Domain-Generalized CBCT-to-CT Translation with Style-Consistent Disentangled Representations |  |  |  | 😾 | 
+| None | MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data |  |  |  | 😾 | 
+| None | MSWAL: 3D Multi-class Segmentation of Whole Abdominal Lesions Dataset |  |  |  | 😾 | 
+| None | MT-WilmsNet: A Multi-Level Transformer Fusion Network for Wilms’ Tumor Segmentation and Metastasis Prediction |  |  |  | 😾 | 
+| None | MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentation in 4D Ultrasound |  |  |  | 😾 | 
+| None | MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models |  |  |  | 😾 | 
+| None | MadCLIP: Few-shot Medical Anomaly Detection with CLIP |  |  |  | 😾 | 
+| None | Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation |  |  |  | 😾 | 
+| None | MambaMER: Adaptive EEG-Guided Multimodal Emotion Recognition with Mamba |  |  |  | 😾 | 
+| None | MammoTracker: Mask-Guided Lesion Tracking in Temporal Mammograms |  |  |  | 😾 | 
+| None | Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation |  |  |  | 😾 | 
+| None | Mask2Surface: Motion Correction and Super-Resolution for Cardiac Surface Reconstruction Using Latent Diffusion |  |  |  | 😾 | 
+| None | Masked Contrastive Language-Image Modeling For Brain Segmentation |  |  |  | 😾 | 
+| None | MatchGen: Detecting Medical Abnormal Region by Generating Matched Normal Regions |  |  |  | 😾 | 
+| None | MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification |  |  |  | 😾 | 
+| None | Med-BiasX: Robust Medical Visual Question Answering with Language Biases |  |  |  | 😾 | 
+| None | Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis |  |  |  | 😾 | 
+| None | MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions |  |  |  | 😾 | 
+| None | MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis |  |  |  | 😾 | 
+| None | MedGCD: Generalized Category Discovery in Medical Imaging |  |  |  | 😾 | 
+| None | MedGNN: General Medical Image Recognition Network via GNN Visual Representations |  |  |  | 😾 | 
+| None | MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization |  |  |  | 😾 | 
+| None | MedICL: In-Context Learning for Semantically Enhanced AKI Prediction in Cardiac Surgery |  |  |  | 😾 | 
+| None | MedIQA: A Scalable Foundation Model for Prompt-Driven Medical Image Quality Assessment |  |  |  | 😾 | 
+| None | MedPro-DG: Domain-Aware Masked Contrastive Prompt Learning of Institution Generalization for Outcome Prediction |  |  |  | 😾 | 
+| None | MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis |  |  |  | 😾 | 
+| None | MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning |  |  |  | 😾 | 
+| None | Medical Large Vision Language Models with Multi-Image Visual Ability |  |  |  | 😾 | 
+| None | Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound |  |  |  | 😾 | 
+| None | Memory-Augmented Incomplete Multimodal Survival Prediction via Cross-Slide and Gene-Attentive Hypergraph Learning |  |  |  | 😾 | 
+| None | Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation |  |  |  | 😾 | 
+| None | Mesh4D: A Motion-Aware Multi-View Variational Autoencoder for 3D+t Mesh Reconstruction |  |  |  | 😾 | 
+| None | Meta-Learning Physics-Informed Neural Networks for Personalized Cardiac Modeling |  |  |  | 😾 | 
+| None | Meta-Learning-Driven CT Morphology Disentangled Diffusion Model for Multi-Region SPECT Attenuation Correction |  |  |  | 😾 | 
+| None | Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits |  |  |  | 😾 | 
+| None | Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts |  |  |  | 😾 | 
+| None | MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis |  |  |  | 😾 | 
+| None | MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images |  |  |  | 😾 | 
+| None | Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions |  |  |  | 😾 | 
+| None | MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework |  |  |  | 😾 | 
+| None | Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing |  |  |  | 😾 | 
+| None | MixStyleFlow: Domain Generalization in Medical Image Segmentation using Normalizing Flows |  |  |  | 😾 | 
+| None | MoDiff: A Morphology-Emphasized Diffusion Model for Ambiguous Medical Image Segmentation |  |  |  | 😾 | 
+| None | MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts |  |  |  | 😾 | 
+| None | MoMIL: Mixture of Multi-Instance Learners for Modeling Multiple Compound Activities in High Content Imaging |  |  |  | 😾 | 
+| None | MoST-IG: Morphology-Guided Spatial Transcriptomics Integration via Visual-Genomic Graph Optimal Transport |  |  |  | 😾 | 
+| None | Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration |  |  |  | 😾 | 
+| None | More performant and scalable: Rethinking contrastive vision-language pre-training of radiology in the LLM era |  |  |  | 😾 | 
+| None | MorphoBoost: Morphology-Driven Boundary Enhancement Model for Accurate Segmentation of Langerhans Cells in Corneal Confocal Microscopy Images |  |  |  | 😾 | 
+| None | Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow |  |  |  | 😾 | 
+| None | MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy |  |  |  | 😾 | 
+| None | Multi-Agent Collaboration for Integrating Echocardiography Expertise in Multi-Modal Large Language Models |  |  |  | 😾 | 
+| None | Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis |  |  |  | 😾 | 
+| None | Multi-Level Gated U-Net for Denoising TMR Sensor-Based MCG Signals |  |  |  | 😾 | 
+| None | Multi-Masked Querying Network for Robust Emotion Recognition from Incomplete Multi-Modal Physiological Signals |  |  |  | 😾 | 
+| None | Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients |  |  |  | 😾 | 
+| None | Multi-Modal Progressive Fusion for ASD Screening Using Smartphone Video |  |  |  | 😾 | 
+| None | Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity |  |  |  | 😾 | 
+| None | Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification |  |  |  | 😾 | 
+| None | Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing |  |  |  | 😾 | 
+| None | Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology |  |  |  | 😾 | 
+| None | Multi-modal MRI Translation via Evidential Regression and Distribution Calibration |  |  |  | 😾 | 
+| None | Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition |  |  |  | 😾 | 
+| None | Multi-scale Attention-based Multiple Instance Learning for Breast Cancer Diagnosis |  |  |  | 😾 | 
+| None | Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks |  |  |  | 😾 | 
+| None | Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation |  |  |  | 😾 | 
+| None | Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis |  |  |  | 😾 | 
+| None | MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI |  |  |  | 😾 | 
+| None | Multifrequency Neural Network-based Wave Inversion in MR Elastography |  |  |  | 😾 | 
+| None | Multimodal Fusion Network with Distribution-based Tumor-Marker Imputation for Multi-Origin Metastatic Cervical Lymphadenopathy Classification |  |  |  | 😾 | 
+| None | Multimodal Hypergraph Guide Learning for Non-Invasive ccRCC Survival Prediction |  |  |  | 😾 | 
+| None | Multimodal Imputation of Imaging-derived Phenotypes from Genomic and Blood-based Biomarkers Enhances Common Disease Discovery |  |  |  | 😾 | 
+| None | Multimodal Prompt Sequence Learning for Interactive Segmentation of Vascular Structures |  |  |  | 😾 | 
+| None | Multiscale Graph and Multi-Step Cross-Frame Mamba for Myocarditis Lesion Segmentation |  |  |  | 😾 | 
+| None | Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis |  |  |  | 😾 | 
+| None | Multiview Feature Fusion and Contrastive Learning for Drug-Target Interaction Prediction |  |  |  | 😾 | 
+| None | MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction |  |  |  | 😾 | 
+| None | MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis |  |  |  | 😾 | 
+| None | NAVIUS: Navigated Augmented Reality Visualization for Ureteroscopic Surgery |  |  |  | 😾 | 
+| None | NERO: Explainable Out-of-Distribution Detection with Neuron-level Relevance in Gastrointestinal Imaging |  |  |  | 😾 | 
+| None | NQNN: Noise-aware Quantum Neural Networks for Medical Image Classification |  |  |  | 😾 | 
+| None | Navigational Bronchoscopy in Critical Care via End-to-End Pose Regression |  |  |  | 😾 | 
+| None | Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis |  |  |  | 😾 | 
+| None | Neural Proteomics Fields for Super-resolved Spatial Proteomics Prediction |  |  |  | 😾 | 
+| None | Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders |  |  |  | 😾 | 
+| None | NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech |  |  |  | 😾 | 
+| None | New Multimodal Similarity Measure for Image Registration via Modeling Local Functional Dependence with Linear Combination of Learned Basis Functions |  |  |  | 😾 | 
+| None | New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending |  |  |  | 😾 | 
+| None | No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-K Patch Sampling |  |  |  | 😾 | 
+| None | Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation |  |  |  | 😾 | 
+| None | Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation |  |  |  | 😾 | 
+| None | Noisy Label Refinement Based on Discrete Diffusion Process in 3D Ossicle Segmentation |  |  |  | 😾 | 
+| None | Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds |  |  |  | 😾 | 
+| None | Non-Salient Object Segmentation in Medical Images via Pre-trained Multi-Granularity Masked Autoencoders |  |  |  | 😾 | 
+| None | ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation |  |  |  | 😾 | 
+| None | OFF-CLIP: Improving Normal Detection Confidence in Radiology CLIP with Simple Off-Diagonal Term Auto-Adjustment |  |  |  | 😾 | 
+| None | OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport |  |  |  | 😾 | 
+| None | Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences |  |  |  | 😾 | 
+| None | Occlusion-free 4D Gaussians for Open Surgery Videos Using Multi-Camera Shadowless Lamps |  |  |  | 😾 | 
+| None | Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation |  |  |  | 😾 | 
+| None | OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models |  |  |  | 😾 | 
+| None | Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins |  |  |  | 😾 | 
+| None | Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model |  |  |  | 😾 | 
+| None | Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration |  |  |  | 😾 | 
+| None | OralSAM: One-shot Segmentation for Intraoral Ultrasound Videos with Adaptive Feature Correlation and Self-prompting Strategy |  |  |  | 😾 | 
+| None | Out-of-Distribution Nuclei Segmentation in Histology Imaging via Liquid Neural Networks with Modern Hopfield Layer |  |  |  | 😾 | 
+| None | P2INR-FWI: an Implicit Neural Representation Method for Speed of Sound Image Reconstruction in Ultrasound Computed Tomography |  |  |  | 😾 | 
+| None | PATE: Enhancing Few-Shot Pathological Image Classification via Prompt-Based Text-Image Embedding Adaptation |  |  |  | 😾 | 
+| None | PCR-MIL: Phenotype Clustering Reinforced Multiple Instance Learning for Whole Slide Image Classification |  |  |  | 😾 | 
+| None | PD-INR: Prior-Driven Implicit Neural Representations for TOF-PET Reconstruction |  |  |  | 😾 | 
+| None | PD-UniST: Prompt-Driven Universal Model for Unpaired H&E-to-IHC Stain Translation |  |  |  | 😾 | 
+| None | PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation |  |  |  | 😾 | 
+| None | PDF-Net: Prototype-Aware Dynamic Fusion Network for Nasopharyngeal Carcinoma T-staging Classification with Epstein-Barr Virus DNA |  |  |  | 😾 | 
+| None | PFESA: FFT-based Parameter-Free Edge and Structure Attention for Medical Image Segmentation |  |  |  | 😾 | 
+| None | PLUS: Plug-and-Play Enhanced Liver Lesion Diagnosis Model on Non-Contrast CT Scans |  |  |  | 😾 | 
+| None | PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency |  |  |  | 😾 | 
+| None | PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy |  |  |  | 😾 | 
+| None | PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development |  |  |  | 😾 | 
+| None | PRECISE-AS: Personalized Reinforcement Learning for Efficient Point-of-Care Echocardiography in Aortic Stenosis Diagnosis |  |  |  | 😾 | 
+| None | PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning |  |  |  | 😾 | 
+| None | PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification |  |  |  | 😾 | 
+| None | PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning |  |  |  | 😾 | 
+| None | PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis |  |  |  | 😾 | 
+| None | Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling |  |  |  | 😾 | 
+| None | Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks |  |  |  | 😾 | 
+| None | Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading |  |  |  | 😾 | 
+| None | Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions |  |  |  | 😾 | 
+| None | PathVG: A New Benchmark and Dataset for Pathology Visual Grounding |  |  |  | 😾 | 
+| None | PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting |  |  |  | 😾 | 
+| None | PathoPrompt: Cross-Granular Semantic Alignment for Medical Pathology Vision-Language Models |  |  |  | 😾 | 
+| None | Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions |  |  |  | 😾 | 
+| None | Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis |  |  |  | 😾 | 
+| None | Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis |  |  |  | 😾 | 
+| None | Pathology-aware Virtual H&E Staining of Section-free Thick Tissues with Semantic Contrastive Guidance |  |  |  | 😾 | 
+| None | Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images |  |  |  | 😾 | 
+| None | Pattern-Anchored Adaptive Prototype Learning for Gastroscopic Lesion Detection and Beyond |  |  |  | 😾 | 
+| None | PedCLIP: A Vision-Language model for Pediatric X-rays with Mixture of Body part Experts |  |  |  | 😾 | 
+| None | PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection |  |  |  | 😾 | 
+| None | Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder |  |  |  | 😾 | 
+| None | Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications |  |  |  | 😾 | 
+| None | Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports |  |  |  | 😾 | 
+| None | Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction |  |  |  | 😾 | 
+| None | Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging |  |  |  | 😾 | 
+| None | Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping |  |  |  | 😾 | 
+| None | Physics-Informed Neural Operators for Tissue Elasticity Reconstruction |  |  |  | 😾 | 
+| None | Physics-driven Signal Regularization in Diffusion Models for Multi-contrast MR Image Synthesis |  |  |  | 😾 | 
+| None | Physics-guided deep image prior network for general zero-shot stain deconvolution |  |  |  | 😾 | 
+| None | Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET |  |  |  | 😾 | 
+| None | PolarDETR: Enhancing Interpretability in Multi-modal Methods for Jawbone Lesion Detection in CBCT |  |  |  | 😾 | 
+| None | PolyMamba: Spatial-prior Guided Mamba for Polyp Segmentation with High-Frequency Enhancement |  |  |  | 😾 | 
+| None | PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis |  |  |  | 😾 | 
+| None | Pose as Clinical Prior: Learning Dual Representations for Scoliosis Screening |  |  |  | 😾 | 
+| None | Pre-to-Post Operative MRI Generation with Retrieval-based Visual In-Context Learning |  |  |  | 😾 | 
+| None | Predicting Femoral Head Collapse Risk in Osteonecrosis Using Label Tokenization: A Multi-Modality Survival Analysis Approach |  |  |  | 😾 | 
+| None | Predicting Longitudinal Brain Development via Implicit Neural Representations |  |  |  | 😾 | 
+| None | Predicting Radiation Therapy Response based on Dynamic Temporal Feature Difference Fusion from Longitudinal MRI |  |  |  | 😾 | 
+| None | Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders |  |  |  | 😾 | 
+| None | Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis |  |  |  | 😾 | 
+| None | Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference |  |  |  | 😾 | 
+| None | ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection |  |  |  | 😾 | 
+| None | Probabilistic Integration of Renal Cancer Radiology and Pathology Using Graph Neural Networks |  |  |  | 😾 | 
+| None | Probabilistic Prior-Guided Anatomical Alignment for MRI Super-Resolution |  |  |  | 😾 | 
+| None | ProgreSpine: Inherently Explainable Prototypical Regression for Spine Age Estimation |  |  |  | 😾 | 
+| None | Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease |  |  |  | 😾 | 
+| None | Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images |  |  |  | 😾 | 
+| None | PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer |  |  |  | 😾 | 
+| None | Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification |  |  |  | 😾 | 
+| None | Prototype-Guided Cross-Modal Knowledge Enhancement for Adaptive Survival Prediction |  |  |  | 😾 | 
+| None | Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis |  |  |  | 😾 | 
+| None | Query-Level Alignment for End-to-End Lesion Detection with Human Gaze |  |  |  | 😾 | 
+| None | R1Seg-3D: Rethinking Reasoning Segmentation for Medical 3D CTs |  |  |  | 😾 | 
+| None | RANDose: A Region-aware Attention Network for Accurate Radiation Dose Prediction |  |  |  | 😾 | 
+| None | RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways |  |  |  | 😾 | 
+| None | RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration |  |  |  | 😾 | 
+| None | RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis |  |  |  | 😾 | 
+| None | RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models |  |  |  | 😾 | 
+| None | RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation |  |  |  | 😾 | 
+| None | RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis |  |  |  | 😾 | 
+| None | RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment |  |  |  | 😾 | 
+| None | RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration |  |  |  | 😾 | 
+| None | RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining |  |  |  | 😾 | 
+| None | RadKAM: Attention-Driven Kolmogorov-Arnold Model for Automatic Radiation-Induced Lymphopenia Prediction by Multimodal Learning |  |  |  | 😾 | 
+| None | RadSAM: Segmenting 3D radiological images with a 2D promptable model |  |  |  | 😾 | 
+| None | Radar-Based Imaging for Sign Language Recognition in Medical Communication |  |  |  | 😾 | 
+| None | RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images |  |  |  | 😾 | 
+| None | RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features |  |  |  | 😾 | 
+| None | ReSeg-UNet: A Reconstruction-Guided Optimization Framework for Enhanced Medical Image Segmentation |  |  |  | 😾 | 
+| None | ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking |  |  |  | 😾 | 
+| None | Real-Time SLAM-Based Correction and 3D Visualization for Fluorescence Lifetime Imaging |  |  |  | 😾 | 
+| None | Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement |  |  |  | 😾 | 
+| None | Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction |  |  |  | 😾 | 
+| None | Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes |  |  |  | 😾 | 
+| None | RedDino: A foundation model for red blood cell analysis |  |  |  | 😾 | 
+| None | RefineNet: Elevating Medical Foundation Models through Quality-Centric Data Curation by MLLM-Annotated Proxy Distillation |  |  |  | 😾 | 
+| None | RefineSeg: Dual Coarse-to-Fine Learning for Medical Image Segmentation |  |  |  | 😾 | 
+| None | Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport |  |  |  | 😾 | 
+| None | Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation |  |  |  | 😾 | 
+| None | Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation |  |  |  | 😾 | 
+| None | Reliable and Interpretable Visual Field Progression Prediction with Diffusion Models and Conformal Risk Control |  |  |  | 😾 | 
+| None | ResMAP: Restoring MRIs of Mixed Artifacts by Prompt Cascading Retrieval |  |  |  | 😾 | 
+| None | Restyled, Tuning, and Alignment: Taming VLMs for Federated Non-IID Medical Image Analysis |  |  |  | 😾 | 
+| None | RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models |  |  |  | 😾 | 
+| None | RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports |  |  |  | 😾 | 
+| None | Rethinking Multi-view Mammogram Representation Learning via Counterfactual Reasoning with Kolmogorov-Arnold Theorem |  |  |  | 😾 | 
+| None | RetiDiff: Diffusion-based Synthesis of Retinal OCT Images for Enhanced Segmentation |  |  |  | 😾 | 
+| None | RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions |  |  |  | 😾 | 
+| None | Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation |  |  |  | 😾 | 
+| None | Revisiting 3D Medical Scribble Supervision: Benchmarking Beyond Cardiac Segmentation |  |  |  | 😾 | 
+| None | Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology |  |  |  | 😾 | 
+| None | Revisiting Masked Image Modeling with Standardized Color Space for Domain Generalized Fundus Photography Classification |  |  |  | 😾 | 
+| None | Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images |  |  |  | 😾 | 
+| None | Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation |  |  |  | 😾 | 
+| None | Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport |  |  |  | 😾 | 
+| None | Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation |  |  |  | 😾 | 
+| None | Robust Sleep Stage Prediction from Electroencephalogram with Label Noise Using Multimodal Large Language Models |  |  |  | 😾 | 
+| None | SABPI-Net: A Novel Structure-Aware Network for Accurate and Domain-Invariant Retinopathy of Prematurity Diagnosis |  |  |  | 😾 | 
+| None | SAGCNet: Spatial-Aware Graph Completion Network for Missing Slice Imputation in Population CMR Imaging |  |  |  | 😾 | 
+| None | SAM2-ProMem: Enhancing Zero-Shot 3D Segmentation with Stochastic Propagation and Memory Search |  |  |  | 😾 | 
+| None | SAMASK-CLTR: A spatial-aware mask guided learning model for benign and malignant tumor classification in ABUS |  |  |  | 😾 | 
+| None | SAMSA: Segment Anything Model enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation |  |  |  | 😾 | 
+| None | SAMUSA: Segment Anything Model 2 for UltraSound Annotation |  |  |  | 😾 | 
+| None | SAMed-2: Selective Memory Enhanced Medical Segment Anything Model |  |  |  | 😾 | 
+| None | SIMPLE: Simultaneous Multi-plane Self-supervised Learning for Isotropic MRI Restoration from Anisotropic Data |  |  |  | 😾 | 
+| None | SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation |  |  |  | 😾 | 
+| None | SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation |  |  |  | 😾 | 
+| None | SPENet: Self-guided Prototype Enhancement Network for Few-shot Medical Image Segmentation |  |  |  | 😾 | 
+| None | SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease |  |  |  | 😾 | 
+| None | SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model |  |  |  | 😾 | 
+| None | SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification |  |  |  | 😾 | 
+| None | STEAM: Self-supervised TEeth Analysis and Modeling for Point Cloud Segmentation |  |  |  | 😾 | 
+| None | STMDiff: Spatiotemporal Matching Diffusion Model for Dual-Time-Point Total-body PET/CT Imaging via Contrastive Learning |  |  |  | 😾 | 
+| None | SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model |  |  |  | 😾 | 
+| None | SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus |  |  |  | 😾 | 
+| None | Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation |  |  |  | 😾 | 
+| None | Seeing Beyond the Surface: Retinal Thickness Prediction from Color Fundus Photography for DME Management |  |  |  | 😾 | 
+| None | Segmenting Vessels Encapsulating Tumor Clusters via Fine-Grained Visual Prompt |  |  |  | 😾 | 
+| None | Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning |  |  |  | 😾 | 
+| None | Self-Supervised Multiview Xray Matching |  |  |  | 😾 | 
+| None | Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein |  |  |  | 😾 | 
+| None | Self-supervised Axial Super-Resolution for Volume Microscopy via Diffusion-Guided Structure Distillation |  |  |  | 😾 | 
+| None | Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos |  |  |  | 😾 | 
+| None | Semantic Interpolative Diffusion Model: Bridging the Interpolation to Masks and Colonoscopy Image Synthesis for Robust Generalization |  |  |  | 😾 | 
+| None | Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance |  |  |  | 😾 | 
+| None | Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval |  |  |  | 😾 | 
+| None | Semi-Supervised Deformation-Free Image-to-Image Translation for Realistic CT Synthesis from CBCT |  |  |  | 😾 | 
+| None | Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations |  |  |  | 😾 | 
+| None | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition |  |  |  | 😾 | 
+| None | ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere |  |  |  | 😾 | 
+| None | Sim-to-Real Transformer-Based Shape Reconstruction for Automated Orthopedic Fracture Reduction Planning |  |  |  | 😾 | 
+| None | SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training |  |  |  | 😾 | 
+| None | SlimFormer-3D: A Layer-Adaptive Lightweight Transformer for Efficient 3D Medical Image Segmentation |  |  |  | 😾 | 
+| None | Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification |  |  |  | 😾 | 
+| None | Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial Learning with Class-Level Alignment |  |  |  | 😾 | 
+| None | Source-Free Active Domain Adaptation for Efficient Medical Video Polyp Segmentation |  |  |  | 😾 | 
+| None | Source-Free Domain Adaptation for Cross-Modality Cardiac Image Segmentation with Contrastive Class Relationship Consistency |  |  |  | 😾 | 
+| None | Sparse-XM: Spine Pose Adjustment with RGB-D Bone Segmentation via Cross-Modality Label Transfer |  |  |  | 😾 | 
+| None | Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging |  |  |  | 😾 | 
+| None | Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks |  |  |  | 😾 | 
+| None | Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation |  |  |  | 😾 | 
+| None | Spatial Aggregation for Semi-supervised Active Learning in 3D Medical Image Segmentation |  |  |  | 😾 | 
+| None | Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy |  |  |  | 😾 | 
+| None | Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos |  |  |  | 😾 | 
+| None | Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning |  |  |  | 😾 | 
+| None | Spatiotemporal-Sensitive Network for Microvascular Obstruction Segmentation from Cine Cardiac Magnetic Resonance |  |  |  | 😾 | 
+| None | Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder |  |  |  | 😾 | 
+| None | Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention |  |  |  | 😾 | 
+| None | Steerable Anatomical Shape Synthesis with Implicit Neural Representations |  |  |  | 😾 | 
+| None | StepAL: Step-aware Active Learning for Cataract Surgical Videos |  |  |  | 😾 | 
+| None | Stronger Together: Registering Preoperative Imagery, LUS, and MIS Liver Images |  |  |  | 😾 | 
+| None | Structure and Smoothness Constrained Dual Networks for MR Bias Field Correction |  |  |  | 😾 | 
+| None | Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation |  |  |  | 😾 | 
+| None | Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap |  |  |  | 😾 | 
+| None | Structure-aware MRI Translation: Multi-Modal Latent Diffusion Model with Arbitrary Missing Modalities |  |  |  | 😾 | 
+| None | StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap |  |  |  | 😾 | 
+| None | Subtyping Breast Lesions via Generative Augmentation based Long-tailed Recognition in Ultrasound |  |  |  | 😾 | 
+| None | Super-resolution and segmentation of 4D Flow MRI using Deep learning and Weighted Mean Frequencies |  |  |  | 😾 | 
+| None | Supervised Diffusion-Model-Based PET Image Reconstruction |  |  |  | 😾 | 
+| None | Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease |  |  |  | 😾 | 
+| None | SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation |  |  |  | 😾 | 
+| None | SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting |  |  |  | 😾 | 
+| None | SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition |  |  |  | 😾 | 
+| None | Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery |  |  |  | 😾 | 
+| None | SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction |  |  |  | 😾 | 
+| None | SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts |  |  |  | 😾 | 
+| None | Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images |  |  |  | 😾 | 
+| None | Synergy-Guided Regional Supervision of Pseudo Labels for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | Synthesis of Pathological Dual-Channel Color Doppler Echocardiograms for Equitable Diagnosis of Heart Diseases |  |  |  | 😾 | 
+| None | Synthesizing Delayed-Phase Contrast-Enhanced Breast MR Images from Early-Phase Images Using an Iterative Deep Network |  |  |  | 😾 | 
+| None | Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging |  |  |  | 😾 | 
+| None | T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS |  |  |  | 😾 | 
+| None | T2GS: Comprehensive Reconstruction of Dynamic Surgical Scenes with Gaussian Splatting |  |  |  | 😾 | 
+| None | T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models |  |  |  | 😾 | 
+| None | T2WI-BCMIC: Non-Fat Saturated T2-Weighted Imaging Dataset for Bladder Cancer Muscle Invasion Classification |  |  |  | 😾 | 
+| None | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration |  |  |  | 😾 | 
+| None | TEGDA: Test-time Evaluation-Guided Dynamic Adaptation for Medical Image Segmentation |  |  |  | 😾 | 
+| None | TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI |  |  |  | 😾 | 
+| None | TGSAM-2: Text-Guided Medical Image Segmentation using Segment Anything Model 2 |  |  |  | 😾 | 
+| None | TMSE: Tri-Modal Survival Estimation with Context-aware Tissue Prototype and Attention-Entropy Interaction |  |  |  | 😾 | 
+| None | TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency |  |  |  | 😾 | 
+| None | TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models |  |  |  | 😾 | 
+| None | Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS |  |  |  | 😾 | 
+| None | Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling |  |  |  | 😾 | 
+| None | Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection |  |  |  | 😾 | 
+| None | Task-aligned fMRI Generation Model for Brain Disorder Diagnosis |  |  |  | 😾 | 
+| None | Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer |  |  |  | 😾 | 
+| None | TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences |  |  |  | 😾 | 
+| None | Temporal Atlas-Guided Generation of Longitudinal Data via Geometric Latent Embeddings |  |  |  | 😾 | 
+| None | Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis |  |  |  | 😾 | 
+| None | Temporal Model-Based Federated Active Medical Image Classification |  |  |  | 😾 | 
+| None | Temporal Modulated Multi-Scale Deformation Fusion via Knowledge Distillation for 4D Medical Image Interpolation |  |  |  | 😾 | 
+| None | Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI |  |  |  | 😾 | 
+| None | Temporal Representation Learning of Phenotype Trajectories for pCR Prediction in Breast Cancer |  |  |  | 😾 | 
+| None | Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy |  |  |  | 😾 | 
+| None | Test-Time Training with Local Contrast-Preserving Copy-Pasted Image for Domain Generalization in Retinal Vessel Segmentation |  |  |  | 😾 | 
+| None | Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading |  |  |  | 😾 | 
+| None | Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis |  |  |  | 😾 | 
+| None | Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration |  |  |  | 😾 | 
+| None | The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection |  |  |  | 😾 | 
+| None | Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines |  |  |  | 😾 | 
+| None | This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN |  |  |  | 😾 | 
+| None | Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images |  |  |  | 😾 | 
+| None | ThyroidXL: Advancing Thyroid Nodule Diagnosis with an Expert-Labeled, Pathology-Validated Dataset |  |  |  | 😾 | 
+| None | Tied Prototype Model for Few-Shot Medical Image Segmentation |  |  |  | 😾 | 
+| None | Time-Contrastive Pretraining for In-Context Image and Video Segmentation |  |  |  | 😾 | 
+| None | Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining |  |  |  | 😾 | 
+| None | Top-Down Attention-based Multiple Instance Learning for Whole Slide Image Analysis |  |  |  | 😾 | 
+| None | Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection |  |  |  | 😾 | 
+| None | Toward Medical Deepfake Detection: A Comprehensive Dataset and Novel Method |  |  |  | 😾 | 
+| None | Towards Accurate Tumor Budding Detection: A Benchmark Dataset and A Detection Approach Based on Implicit Annotation Standardization and Positive-Negative Feature Coupling |  |  |  | 😾 | 
+| None | Towards Automated Pediatric Dental Development Staging: A Dataset and Model |  |  |  | 😾 | 
+| None | Towards Holistic Surgical Scene Graph |  |  |  | 😾 | 
+| None | Towards Interpretable Counterfactual Generation via Multimodal Autoregression |  |  |  | 😾 | 
+| None | Towards Multi-Scenario Generalization: Text-Guided Unified Framework for Low-Dose CT and Total-Body PET Reconstruction |  |  |  | 😾 | 
+| None | Towards Robust Medical Image Referring Segmentation with Incomplete Textual Prompts |  |  |  | 😾 | 
+| None | Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks |  |  |  | 😾 | 
+| None | Training-free Test-time Improvement for Explainable Medical Image Classification |  |  |  | 😾 | 
+| None | TransSino: Prior Sinogram Pattern-Based Transformer for Limited-Angle CT Image Segmentation |  |  |  | 😾 | 
+| None | Treat: A Unified Text-guided Conditioned Deep Learning Model for Generalized Radiotherapy Treatment Planning |  |  |  | 😾 | 
+| None | Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction |  |  |  | 😾 | 
+| None | Tumor Microenvironment-Guided Fine-Tuning of Pathology Foundation Models for Esophageal Squamous Cell Carcinoma Immunotherapy Response Prediction |  |  |  | 😾 | 
+| None | Tumor Segmentation with Heterogeneity Clustering in Non-contrast Breast MRI |  |  |  | 😾 | 
+| None | Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning |  |  |  | 😾 | 
+| None | U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation |  |  |  | 😾 | 
+| None | U-RWKV: Lightweight medical image segmentation with direction-adaptive RWKV |  |  |  | 😾 | 
+| None | UM-SAM: Unsupervised Medical Image Segmentation using Knowledge Distillation from Segment Anything Model |  |  |  | 😾 | 
+| None | UltrON: Ultrasound Occupancy Networks |  |  |  | 😾 | 
+| None | Ultra-Low-Field MRI Enhancement via INR-Based Style Transfer |  |  |  | 😾 | 
+| None | UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation |  |  |  | 😾 | 
+| None | UltraTwin: Towards Cardiac Anatomical Twin Generation from Multi-view 2D Ultrasound |  |  |  | 😾 | 
+| None | Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading |  |  |  | 😾 | 
+| None | Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction |  |  |  | 😾 | 
+| None | Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound |  |  |  | 😾 | 
+| None | UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction |  |  |  | 😾 | 
+| None | UniMRG: Refining Medical Semantic Understanding Across Modalities via LLM-Orchestrated Synergistic Evolution |  |  |  | 😾 | 
+| None | UniOCTSeg: Towards Universal OCT Retinal Layer Segmentation via Hierarchical Prompting and Progressive Consistency Learning |  |  |  | 😾 | 
+| None | UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model |  |  |  | 😾 | 
+| None | Unisyn: A Generative Foundation Model for Universal Medical Image Synthesis across MRI, CT and PET |  |  |  | 😾 | 
+| None | Unleashing SAM for Few-Shot Medical Image Segmentation with Dual-Encoder and Automated Prompting |  |  |  | 😾 | 
+| None | Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion |  |  |  | 😾 | 
+| None | Unleashing the Power of LLMs for Medical Video Answer Localization |  |  |  | 😾 | 
+| None | Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion |  |  |  | 😾 | 
+| None | Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures |  |  |  | 😾 | 
+| None | Unsupervised Anomaly Detection on Preclinical Liver H&E Whole Slide Images using Graph based Feature Distillation |  |  |  | 😾 | 
+| None | Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model |  |  |  | 😾 | 
+| None | Unsupervised Learning-Based Susceptibility Artifact Correction for Diffusion-Weighted MRI in Multiple Organs |  |  |  | 😾 | 
+| None | Unsupervised OCT image interpolation using deformable registration and generative models |  |  |  | 😾 | 
+| None | Unsupervised Quality Control and Enhancement of Polyp Segmentation in Colonoscopy Videos using Spatiotemporal Consistency |  |  |  | 😾 | 
+| None | Unsupervised Structure-Geometric Consistency for Monocular Endoscopic Depth Overestimation |  |  |  | 😾 | 
+| None | V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis |  |  |  | 😾 | 
+| None | VAMPIRE: Uncovering Vessel Directional and Morphological Information from OCTA Images for Cardiovascular Disease Risk Factor Prediction |  |  |  | 😾 | 
+| None | VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation |  |  |  | 😾 | 
+| None | VBCD: A Voxel-Based Framework for Personalized Dental Crown Design |  |  |  | 😾 | 
+| None | VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction |  |  |  | 😾 | 
+| None | VQ-SCD: Vector Quantization Meets Unknown Scan Condition Self-supervised Low-Dose CT Denoising |  |  |  | 😾 | 
+| None | VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis |  |  |  | 😾 | 
+| None | Various Attention Mechanism Graph Convolutional Network with Multi-Source Domain Adaptation for Cross-Subject EEG Emotion Recognition |  |  |  | 😾 | 
+| None | Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection |  |  |  | 😾 | 
+| None | Vector-Quantization-Driven Active Learning for Efficient Multi-Modal Medical Segmentation with Cross-Modal Assistance |  |  |  | 😾 | 
+| None | Veriserum: A dual-plane fluoroscopic dataset with knee implant phantoms for deep learning in medical imaging |  |  |  | 😾 | 
+| None | VesselSDF: Distance Field Priors for Vascular Network Reconstruction |  |  |  | 😾 | 
+| None | ViTAL-CT: Vision Transformers for High-Risk Plaque Classification in Coronary CTA |  |  |  | 😾 | 
+| None | ViTexNet: Vision-Text Guided Dynamic Convolution Network for Medical Image Segmentation |  |  |  | 😾 | 
+| None | VisNet: A Human Visual System Inspired Lightweight Dual-Path Network for Medical Images Denoising |  |  |  | 😾 | 
+| None | Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering |  |  |  | 😾 | 
+| None | VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration |  |  |  | 😾 | 
+| None | WDNet: A Novel Wavelet-guided Hierarchical Diffusion Network for Multi-Target Segmentation in Colonoscopy Images |  |  |  | 😾 | 
+| None | WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis |  |  |  | 😾 | 
+| None | WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation |  |  |  | 😾 | 
+| None | Wavelet-driven Decoupling and Physics-informed Mapping Network for Accelerated Multi-parametric MR Imaging |  |  |  | 😾 | 
+| None | Weakly Semi-Supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning |  |  |  | 😾 | 
+| None | Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation |  |  |  | 😾 | 
+| None | Weighted Stratification in Multi-Label Contrastive Learning for Long-Tailed Medical Image Classification |  |  |  | 😾 | 
+| None | WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference |  |  |  | 😾 | 
+| None | X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis |  |  |  | 😾 | 
+| None | XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification |  |  |  | 😾 | 
+| None | XOCT: Enhancing OCT to OCTA Translation via Cross-Dimensional Supervised Multi-Scale Feature Learning |  |  |  | 😾 | 
+| None | Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images |  |  |  | 😾 | 
+| None | pyOpenNFT: an open-source Python framework for ML-based real-time fMRI and EEG-fMRI neurofeedback |  |  |  | 😾 | 
+| None | tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation and Its Application in Medical Image Segmentation |  |  |  | 😾 | 
+| None | tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting |  |  |  | 😾 | 
+| None | µ2 Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation |  |  |  | 😾 | 
 </details>
 
 <details>
@@ -1890,450 +1890,450 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| None | 3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the Fusemycells Challenge |  | None |  | 😾 | 
-| None | 3D Anatomical Structure-Guided Deep Learning for Accurate Diffusion Microstructure Imaging |  | None |  | 😾 | 
-| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
-| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  | None |  | 😾 | 
-| None | 3D Vertebrae Measurements: Assessing Vertebral Dimensions in Human Spine Models Using Automated Landmark Detection |  | None |  | 😾 | 
-| None | A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography |  | None |  | 😾 | 
-| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  | None |  | 😾 | 
-| None | A Dual-Track Framework for Enhancing Age-Related Macular Degeneration Diagnosis Through Embedding and Vision Classification |  | None |  | 😾 | 
-| None | A Foundation Model for Cell Segmentation from Immunohistochemistry: A Pilot Study |  | None |  | 😾 | 
-| None | A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans |  | None |  | 😾 | 
-| None | A Multi-Modal Fusion Method for 3-Hinge Gyrus Based on Bidirectional Cross-Attention |  | None |  | 😾 | 
-| None | A Novel Approach to Recognising Physical Activity Intensity in Adults: Gravity-Based Acceleration Imaging with Vision Transformer |  | None |  | 😾 | 
-| None | A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI |  | None |  | 😾 | 
-| None | A Self-Supervised Diffusion Bridge for MRI Reconstruction |  | None |  | 😾 | 
-| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  | None |  | 😾 | 
-| None | A Serial Image Segmentation and Registration Network (SISRN) for Dynamic Enhanced Magnetic Resonance Image Sequences |  | None |  | 😾 | 
-| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  | None |  | 😾 | 
-| None | AI-Based Thermal Video Analysis in Privacy-Preserving Healthcare: A Case Study on Detecting Time of Birth |  | None |  | 😾 | 
-| None | AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation |  | None |  | 😾 | 
-| None | ASAM: Anatomy-Encoded Segment Anything Model for Medical Images |  | None |  | 😾 | 
-| None | ASDC-NET: Anterior Segment Disease Classification Network Based on Slit-Lamp Images |  | None |  | 😾 | 
-| None | Accelerated 3D Thermometry Field Reconstruction from Tri-Planar Images via Cross-View Implicit Representation |  | None |  | 😾 | 
-| None | Accelerating the Whole-Brain Multi-Parametric Imaging Through Joint Deep Learning Reconstruction and Physical Model Integration |  | None |  | 😾 | 
-| None | Accurate 3D Medical Image Segmentation with Mambas |  | None |  | 😾 | 
-| None | Active Prompt Tuning Enables GPT-4O to do Efficient Classification of Microscopy Images |  | None |  | 😾 | 
-| None | Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially |  | None |  | 😾 | 
-| None | Adapting Segment Anything 2 for Diabetic Retinopathy Lesion Segmentation |  | None |  | 😾 | 
-| None | Adaptive Aggregation Weights for Federated Segmentation of Pancreas MRI |  | None |  | 😾 | 
-| None | Adaptive Collaborative Learning Polyp Segmentation Framework Based on Contour-Driven Parallel Attention Network |  | None |  | 😾 | 
-| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  | None |  | 😾 | 
-| None | Adaptive Whole-Body Pet Image Denoising Using 3D Diffusion Models with Controlnet |  | None |  | 😾 | 
-| None | Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement |  | None |  | 😾 | 
-| None | Advancing OCT-Based Retinal Disease Classification with XLSTM: A Framework for Variable-Length Volume Processing |  | None |  | 😾 | 
-| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  | None |  | 😾 | 
-| None | Ai-Driven Automated Tool for Abdominal CT Body Composition Analysis in Gastrointestinal Cancer Management |  | None |  | 😾 | 
-| None | All-in-One Multi-Organ Segmentation in 3D CT Images via Self-Supervised and Cross-Dataset Learning |  | None |  | 😾 | 
-| None | An Attention Based Model for Histopathology Image Nuclei Segmentation |  | None |  | 😾 | 
-| None | An Automated Whole Torso Aortic and Iliac Artery Atherosclerotic Burden Assessment on Body CT |  | None |  | 😾 | 
-| None | An Interpretable X-Ray Style Transfer Via Trainable Local Laplacian Filter |  | None |  | 😾 | 
-| None | Anatomical Grounding Pre-Training for Medical Phrase Grounding |  | None |  | 😾 | 
-| None | Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes |  | None |  | 😾 | 
-| None | Anatosegnet: Anatomy Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation |  | None |  | 😾 | 
-| None | Annotation-Efficient Task Guidance for Medical Segment Anything |  | None |  | 😾 | 
-| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  | None |  | 😾 | 
-| None | Attention Aware Continual Learning in Digital Pathology Contexts |  | None |  | 😾 | 
-| None | Attention-Based Multiple Instance Learning for Achilles Tendinopathy Detection in Ultrasound Imaging |  | None |  | 😾 | 
-| None | Attention-Driven Multi-Sequence Mri Feature Learning and Fusion for Breast Cancer Diagnosis |  | None |  | 😾 | 
-| None | Attention-Enhanced UNet for Automated Gleason Score 3 Tumor Segmentation in Histopathological Whole Slide Images |  | None |  | 😾 | 
-| None | Attentive Latent Replay for Continual Learning in Pathology |  | None |  | 😾 | 
-| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  | None |  | 😾 | 
-| None | Autoencoder for 4-Dimensional Fiber Orientation Distributions from Diffusion MRI |  | None |  | 😾 | 
-| None | Automated 3D Segmentation of Glomeruli in Human Kidney Tissue Specimens Using 16.4 T MRI Without Contrast Agents |  | None |  | 😾 | 
-| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  | None |  | 😾 | 
-| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  | None |  | 😾 | 
-| None | Auxiliary Cyclegan-Guided Task-Aware Domain Translation from Duplex to Monoplex IHC Images |  | None |  | 😾 | 
-| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  | None |  | 😾 | 
-| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  | None |  | 😾 | 
-| None | Benchmarking 3D Multi-Coil NC-PDNet MRI Reconstruction |  | None |  | 😾 | 
-| None | Benchmarking Transferability of Self-Supervised Pretraining for Multi-Organ Segmentation on Different Modalities |  | None |  | 😾 | 
-| None | Beyond Occlusion: In Search for Near Real-Time Explainability of CNN-Based Prostate Cancer Classification |  | None |  | 😾 | 
-| None | Blending Parametric Model and Neural Refinement: A Coarse-to-Fine Approach for Predicting Facial Changes in Orthognathic Surgery |  | None |  | 😾 | 
-| None | BoxPolypSAM: Leveraging SAM in Box-Supervised Polyp Segmentation |  | None |  | 😾 | 
-| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  | None |  | 😾 | 
-| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  | None |  | 😾 | 
-| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  | None |  | 😾 | 
-| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  | None |  | 😾 | 
-| None | Breast Cancer Detection from Thermal Images Using Asymmetries in Learned Texture Vectors |  | None |  | 😾 | 
-| None | Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models |  | None |  | 😾 | 
-| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  | None |  | 😾 | 
-| None | CCIS-DIFF: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis |  | None |  | 😾 | 
-| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  | None |  | 😾 | 
-| None | CINEPRO: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops |  | None |  | 😾 | 
-| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  | None |  | 😾 | 
-| None | COMT: Co-Training Mean Teachers Semi-Supervised Training Framework for Cervical Segmentation |  | None |  | 😾 | 
-| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  | None |  | 😾 | 
-| None | CSMAE : Cataract Surgical Masked Autoencoder (MAE) Based Pre-Training |  | None |  | 😾 | 
-| None | CT Contrast Phase Identification by Predicting the Temporal Angle Using Circular Regression |  | None |  | 😾 | 
-| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  | None |  | 😾 | 
-| None | Ca-vqvae: Cortical Folding Aware Numerical Representation of White-Matter Structure |  | None |  | 😾 | 
-| None | CascadePLS-ViT: Cascade with Patch-Level Self-Supervised Vision Transformers for Breast Cancer Classification in Mammography |  | None |  | 😾 | 
-| None | Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation |  | None |  | 😾 | 
-| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  | None |  | 😾 | 
-| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  | None |  | 😾 | 
-| None | CellPilot: A Unified Approach to Automatic and Interactive Segmentation in Histopathology |  | None |  | 😾 | 
-| None | Cephalometric Landmark Detection Using Graph- and Image-Aware Network with Landmark Contrastive Regularization |  | None |  | 😾 | 
-| None | Cervical Cancer Lesion Grading Based on Clinical Diagnostic Criteria and Multi-View Approach Using Intraoperative Colposcopic Images |  | None |  | 😾 | 
-| None | Class Fusion of Support Vector Machines with Deep Learning Features for Oral Cancer Histopathology Classification |  | None |  | 😾 | 
-| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  | None |  | 😾 | 
-| None | Classification of Oral Potentially Malignant Disorders Using Multimodal Feature Integration |  | None |  | 😾 | 
-| None | Classification of Surgeons' Gender from Videos of the Surgical Field |  | None |  | 😾 | 
-| None | Classifying Coronary Artery Calcification Risk using Radiomics from Non-Gated CT Scans |  | None |  | 😾 | 
-| None | Clinical Inspired MRI Lesion Segmentation |  | None |  | 😾 | 
-| None | Clustering-Enhanced Multimodal Pre-Training for Histology-Gene Joint Representation Learning |  | None |  | 😾 | 
-| None | Combined Effect of Erythrocyte Aggregation and Leukocyte Presence on Quantitative Blood Ultrasound: a Simulation Study |  | None |  | 😾 | 
-| None | Combining 4D Hyperspectral Imaging With CNN for Nerve and Ligament Differentiation |  | None |  | 😾 | 
-| None | Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images |  | None |  | 😾 | 
-| None | Conditional Convolution of Clinical Data Embeddings for Multimodal Prostate Cancer Classification |  | None |  | 😾 | 
-| None | Conditional Diffusion Model for Abdominal CT Image Synthesis |  | None |  | 😾 | 
-| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  | None |  | 😾 | 
-| None | Conditional Visuo-Textual Prompt Learning for Medical Image Analysis |  | None |  | 😾 | 
-| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  | None |  | 😾 | 
-| None | Context-Aware LSTM for 3D Medical Image Localisation |  | None |  | 😾 | 
-| None | Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion |  | None |  | 😾 | 
-| None | Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection |  | None |  | 😾 | 
-| None | Contrastive Pretraining for Computational Pathology with Visual-Language Models |  | None |  | 😾 | 
-| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  | None |  | 😾 | 
-| None | Coupled Swin Transformers and Multi-Apertures Network(CSTA-NET) Improves Medical Image Segmentation |  | None |  | 😾 | 
-| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  | None |  | 😾 | 
-| None | DAG-UNet: Dissimilarity-Aware Global Context Guided Lightweight UNet for Medical Image Segmentation |  | None |  | 😾 | 
-| None | DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training |  | None |  | 😾 | 
-| None | DENSE-Guided Deep Motion Networks Accounted by Large Rotations to Improve Myocardial Strain Analysis from Routine Cine MRI |  | None |  | 😾 | 
-| None | DG-PPU: Dynamical Graphs Based Post-Processing of Point Clouds Extracted from Knee Ultrasounds |  | None |  | 😾 | 
-| None | Decentralized ComBat-Mega for Harmonizing FNC Data in Coinstac |  | None |  | 😾 | 
-| None | Deep Automatic Alignment of Mpox Dermatological Hand Photography |  | None |  | 😾 | 
-| None | Deep Learning-Driven Automated Aortic Valve Calcification Assessment in CT Calcium Score Screening Images |  | None |  | 😾 | 
-| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  | None |  | 😾 | 
-| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  | None |  | 😾 | 
-| None | Diagnosis with Nanoscale Protein Distributions: Single-Molecule Fluorescence Localization Microscopy and Attention-Based Learning |  | None |  | 😾 | 
-| None | Diaphragm-Net: 3D Full Automatic Segmentation of the Diaphragm Based on Deep Learning Methods for 3D-CT Images |  | None |  | 😾 | 
-| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  | None |  | 😾 | 
-| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  | None |  | 😾 | 
-| None | Diffusion-Based Multi-Degradation Remover for Fiber Bundle Image Restoration |  | None |  | 😾 | 
-| None | Diffusion-Driven 3D CECT-to-NCECT Conversion for Head and Neck Imaging |  | None |  | 😾 | 
-| None | Dilation-Assisted Contrastive Learning for Corneal Nerve Segmentation in Corneal Confocal Microscopy |  | None |  | 😾 | 
-| None | Dineuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction |  | None |  | 😾 | 
-| None | Discrepancy-Induced Cross-Subnet Interaction Network for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | Display Field-of-View Agnostic Robust Ct Kernel Synthesis Using Model-Based Deep Learning |  | None |  | 😾 | 
-| None | Dose Reduction in Step-and-Shoot 4D CT Imaging via Breathing Signal-Guided Deep Learning-Driven Selective Data Acquisition: A Feasibility Study |  | None |  | 😾 | 
-| None | Drop and Align: Fusing Pathology and Genomics via Graph Learning for Cancer Survival Prediction |  | None |  | 😾 | 
-| None | Dual Invariance Self-Training for Reliable Semi-Supervised Surgical Phase Recognition |  | None |  | 😾 | 
-| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  | None |  | 😾 | 
-| None | Dual-Stream Pyramidal Attention Networks for Medical Image Registration |  | None |  | 😾 | 
-| None | Dynamic Fusion: Merging Structural and Functional Connectivity Dynamics Via Joint CMICA |  | None |  | 😾 | 
-| None | EDA: Enhanced Domain-Adversarial Training for Anatomical Landmark Detection |  | None |  | 😾 | 
-| None | EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis |  | None |  | 😾 | 
-| None | EMSSD: Two-Stage Model Enhancing Medical Image Segmentation Based on Stable Diffusion |  | None |  | 😾 | 
-| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  | None |  | 😾 | 
-| None | EPI-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions |  | None |  | 😾 | 
-| None | EViT-UNET: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices |  | None |  | 😾 | 
-| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  | None |  | 😾 | 
-| None | Efficient CMR Report Classification Through Synthetic Data Distillation and Metadata Fusion |  | None |  | 😾 | 
-| None | Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation |  | None |  | 😾 | 
-| None | Efficient Human-in-the-Loop Pancreatic Tumor Annotation via Large-Scale Pre-Trained Model with Adaptive Post-Processing |  | None |  | 😾 | 
-| None | Enhance Cardiac MRI Reconstruction via Unfolding Network with Hybrid Mamba-LSTM |  | None |  | 😾 | 
-| None | Enhanced Cervical Vertebral Maturation Assessment Using AI-Based Imaging Analysis System |  | None |  | 😾 | 
-| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  | None |  | 😾 | 
-| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  | None |  | 😾 | 
-| None | Enhancing Medical Image Segmentation with Mamba and UNet++ |  | None |  | 😾 | 
-| None | Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation |  | None |  | 😾 | 
-| None | Ensemble of Foundation Models for Pap Smear Cell Analysis |  | None |  | 😾 | 
-| None | Equivariance-Based Theoretical Analysis and Self-Supervised Learning Framework for Missing Wedge Problem in Cryo-Electron Tomography |  | None |  | 😾 | 
-| None | Evaluating Automated Radiology Report Quality Through Fine-Grained Phrasal Grounding of Clinical Findings |  | None |  | 😾 | 
-| None | Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam |  | None |  | 😾 | 
-| None | Evaluation Metric for Quality Control and Generative Models in Histopathology Images |  | None |  | 😾 | 
-| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  | None |  | 😾 | 
-| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  | None |  | 😾 | 
-| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  | None |  | 😾 | 
-| None | Exploiting Cross-Dimensional Dependency Using Vision-LSTM for Efficient Medical Image Segmentation |  | None |  | 😾 | 
-| None | Exploring Foundation Models Fine-Tuning for Cytology Classification |  | None |  | 😾 | 
-| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  | None |  | 😾 | 
-| None | F2UE-NET: An Uncertainty-Driven Dynamic Expert Network for Long-Tail Retinal Disease Classification |  | None |  | 😾 | 
-| None | FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention |  | None |  | 😾 | 
-| None | FMUNet: Frequency Modulation-Based UNet for Octa Segmentation |  | None |  | 😾 | 
-| None | Fairness Analysis of Clip-Based Foundation Models for X-Ray Image Classification |  | None |  | 😾 | 
-| None | Fast Multi-Contrast MRI Using Joint Multiscale Energy Model |  | None |  | 😾 | 
-| None | Fau-Net: Fourier Attention Based 3D U-Net For Medical Image Registration |  | None |  | 😾 | 
-| None | Feature-Driven LI-RADS Classification in Liver Cancer: A CNN-Based Approach for CT Imaging Under Data Scarcity |  | None |  | 😾 | 
-| None | Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation |  | None |  | 😾 | 
-| None | Few-Shot Sample-Specific Deep Learning Multiclass Segmentation and Fiber Tractography using 3D-Microscopy with Ultraviolet Surface Excitation (3D-Muse) Images of Human Vagus Nerve |  | None |  | 😾 | 
-| None | Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance |  | None |  | 😾 | 
-| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  | None |  | 😾 | 
-| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  | None |  | 😾 | 
-| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  | None |  | 😾 | 
-| None | GP-CPS: Gradient Penalty Cross Pseudo Supervision for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  | None |  | 😾 | 
-| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  | None |  | 😾 | 
-| None | Generating Customized Prompts for Zero-Shot Rare Event Medical Image Classification Using LLM |  | None |  | 😾 | 
-| None | Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency |  | None |  | 😾 | 
-| None | Generative Chained Label Propagation: A Semi-Supervised Approach for Enhanced 3D Segmentation of the Inferior Alveolar Nerve |  | None |  | 😾 | 
-| None | Generative Medical Image Anonymization Based on Latent Code Projection and Optimization |  | None |  | 😾 | 
-| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  | None |  | 😾 | 
-| None | Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate |  | None |  | 😾 | 
-| None | Gland Segmentation Using SAM with Cancer Grade As A Prompt |  | None |  | 😾 | 
-| None | Guiding the Classification of Hepatocellular Carcinoma on 3D CT-Scans Using Deep and Handcrafted Radiological Features |  | None |  | 😾 | 
-| None | HER2 Status Prediction in Breast Cancer: A Weak Supervision and Contrastive Learning Approach on H&E Stains |  | None |  | 😾 | 
-| None | Hallucination Analysis of Score-Based Diffusion Models for CT Denoising Through Spatial Frequency Decomposition |  | None |  | 😾 | 
-| None | Hierarchical Augmentation Consistency Learning for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | High-Resolution Histopathology Whole Slide Image Generation Using Wavelet Diffusion Model |  | None |  | 😾 | 
-| None | Human-in-the-Loop Semi-Supervised Uterine Cervix Ultrasound Image Segmentation |  | None |  | 😾 | 
-| None | Hybrid DL Classification Model Based on CNN and Transformer for Pap Smear Cells |  | None |  | 😾 | 
-| None | Hybrid-Frequency Feature Evolution Network for Endoscopic Ultrasound Image Segmentation |  | None |  | 😾 | 
-| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  | None |  | 😾 | 
-| None | IHA-YOLO: Inter-Head Attention for Real-Time Cell Detection |  | None |  | 😾 | 
-| None | IMITATE: Image Registration with Context for Unknown Time Frame Recovery |  | None |  | 😾 | 
-| None | IMJ-PLUS: Implicit Representation for Dynamic MRI and Coil Sensitivity Joint Reconstruction Using Low-Rank PLUS Sparse Regularization |  | None |  | 😾 | 
-| None | ISGM-DR: Important Slice-Guided Model for Diabetic Retinopathy Diagnosis Using 3D Oct Images |  | None |  | 😾 | 
-| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  | None |  | 😾 | 
-| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  | None |  | 😾 | 
-| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  | None |  | 😾 | 
-| None | Improved C-Index and Interpretability with KAN as Compared to COX: Application to Risk Prediction of Major Adverse Cardiovascular Events from CT Calcium Score |  | None |  | 😾 | 
-| None | Improving Cell Instance Segmentation in Scanning Electron Microscopy via Semantic Image Synthesis |  | None |  | 😾 | 
-| None | Improving Quality Control of MRI Images Using Synthetic Motion Data |  | None |  | 😾 | 
-| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  | None |  | 😾 | 
-| None | Integrations: Informed Subset Selection Based Generation for Medical Imaging in Resource Constrained Setting |  | None |  | 😾 | 
-| None | Introducing Learning Rate Adaptation CMA-ES into Rigid Intraoperative 2D/3D Registration for Spinal Surgery |  | None |  | 😾 | 
-| None | Joint Reconstruction of Activity and Attenuation for PET Imaging with Diffusion Prior |  | None |  | 😾 | 
-| None | Joint Reconstruction of Dynamic PET Activity and Kinetic Parametric Images Using Learnable Descent Framework |  | None |  | 😾 | 
-| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  | None |  | 😾 | 
-| None | K-Space Diffusion Model Based Mr Reconstruction Method for Simultaneous Multislice Imaging |  | None |  | 😾 | 
-| None | KALM: Knowledge-Driven Active Learning for Medical Image Segmentation Using Localized Similarity |  | None |  | 😾 | 
-| None | Knowledge-Aware Multi-Source Domain Adaptation Network for Osteoporosis Diagnosis from Ultrasonic Radio Frequency Signals |  | None |  | 😾 | 
-| None | LF-MAMBA: A State Space Model-Based Framework for Accurate Bilateral Hippocampi Segmentation in Low-Field Pediatric MRI |  | None |  | 😾 | 
-| None | LIMIS: Towards Language-Based Interactive Medical Image Segmentation |  | None |  | 😾 | 
-| None | LLAMA-VG: A Video Vision LLaMA-Based Model for Endoscopy Video Generation |  | None |  | 😾 | 
-| None | LWV-UNet: Lightweight Vision Transformer UNet for Nasopharyngeal Carcinoma Image Segmentation |  | None |  | 😾 | 
-| None | Large-Scale Radiomics Analysis for Prostate Cancer Detection Harnessing Machine and Deep Learning Models |  | None |  | 😾 | 
-| None | Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction |  | None |  | 😾 | 
-| None | Legopet: Hierarchical Feature Guided Conditional Diffusion for Pet Image Reconstruction |  | None |  | 😾 | 
-| None | Leveraging Autoencoder Neural Networks to Improve Microbubble Detection and Localization in Ultrasound Localization Microscopy |  | None |  | 😾 | 
-| None | Leveraging Foundation Models for Clinically Instructed Tumor Image Synthesis in Renal Cell Carcinoma |  | None |  | 😾 | 
-| None | Leveraging Graph Attention Networks for Targeted Feedback from Operating Room Surgery Videos |  | None |  | 😾 | 
-| None | Leveraging Graph Neural Networks in Transferring Multimodal Knowledge for Unimodal Segmentation |  | None |  | 😾 | 
-| None | Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation |  | None |  | 😾 | 
-| None | Line Artifact Removal Over Medical X-Ray Images via Joint Dictionaries Sparse Decomposition with Structured Incoherence |  | None |  | 😾 | 
-| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  | None |  | 😾 | 
-| None | Locating Standard Planes in Endometrium Ultrasound Videos via Clinical Prior Knowledge of Key Anatomical Structures |  | None |  | 😾 | 
-| None | Logsage: Log-Based Saliency for Guided Encoding in Robust Nuclei Segmentation of Immunofluorescence Histology Images |  | None |  | 😾 | 
-| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  | None |  | 😾 | 
-| None | Longmambattn: A Novel Architecture for Enhanced Breast Cancer Risk Prediction Using Variable-Length Longitudinal Mammograms |  | None |  | 😾 | 
-| None | M3-Net: A Multi-Scale Nuclei Segmentation Model for Breast Cancer Histopathology Using Contextual Patches and Attention Mechanism |  | None |  | 😾 | 
-| None | MARIO: A Mixed Annotation Framework for Polyp Segmentation |  | None |  | 😾 | 
-| None | MEDL: Unsupervised Multi-Stage Ensemble Deep Learning With Diffusion Models for Denoising MRI Scans |  | None |  | 😾 | 
-| None | MIHCGENER: A Framework for Multiple Immunohistochemical Image Generation Based on the Combination of Pathological Foundation Model and Generative Model |  | None |  | 😾 | 
-| None | MO-CTranS: A Unified Multi-Organ Segmentation Model Learning from Multiple Heterogeneously Labelled Datasets |  | None |  | 😾 | 
-| None | MOSS: Learning from Multiple Organs Via Self-Supervision |  | None |  | 😾 | 
-| None | MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging |  | None |  | 😾 | 
-| None | MR-to-CT Translation Using Frequency-Separated Diffusion Models |  | None |  | 😾 | 
-| None | MSCAM-Net: A Multi-Scale and Context-Aware Model with Adaptive Fusion Module for Robust Skin Lesion Segmentation |  | None |  | 😾 | 
-| None | MTKD-LRS: Semi Supervised Knee Cartilage Segmentation using Eigen Low Rank Subspace Assisted Mean-Teacher Framework |  | None |  | 😾 | 
-| None | MUM: Enhancing Medical Diagnostics Through Unpaired Multimodal Data Integration |  | None |  | 😾 | 
-| None | MamUNet: Mamba Enhances Vessel Segmentation in NIR-II Fluorescence Imaging |  | None |  | 😾 | 
-| None | Mamba-Based Residual Generative Adversarial Network for Functional Connectivity Harmonization During Infancy |  | None |  | 😾 | 
-| None | Masked Momentum Contrastive Dynamic Transformer for Self-Supervised Functional Connectivity Representation Learning |  | None |  | 😾 | 
-| None | MedDataset: Synthesizing Infinite Image and Segmentation Data Using Diffusion Models |  | None |  | 😾 | 
-| None | MedSAGa: Few-Shot Memory Efficient Medical Image Segmentation Using Gradient Low-Rank Projection in SAM |  | None |  | 😾 | 
-| None | Medframealign: 3D Histological Reconstructions Using Video Frame Interpolation Techniques |  | None |  | 😾 | 
-| None | Medical Text and Image Reasoning for Radiation Oncology via Large Language Model |  | None |  | 😾 | 
-| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  | None |  | 😾 | 
-| None | Medxchat: A Unified Multimodal Large Language Model Framework Towards CXRS Understanding and Generation |  | None |  | 😾 | 
-| None | Metafusion: A Novel Method for Integrating Clinical Metadata with Imaging Modalities for Medical Applications |  | None |  | 😾 | 
-| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  | None |  | 😾 | 
-| None | Mitral Valve Deep Learning Localization in CT Scans for MIMVR Surgery |  | None |  | 😾 | 
-| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  | None |  | 😾 | 
-| None | Msapnet: Multi-Scale and Multi-Axial Perception Network for Retinal Layers and Lesion Segmentation |  | None |  | 😾 | 
-| None | Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets |  | None |  | 😾 | 
-| None | Multi-Label Neonatal EEG Segmentation Enriched with Semi-Synthetic Data |  | None |  | 😾 | 
-| None | Multi-Modal Deformable Image Registration Using Untrained Neural Networks |  | None |  | 😾 | 
-| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  | None |  | 😾 | 
-| None | Multi-Modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification |  | None |  | 😾 | 
-| None | Multi-Modal Integration for Predicting Biochemical Recurrence in Prostate Cancer |  | None |  | 😾 | 
-| None | Multi-Phase Attention for Early Stage Hepatocellular Carcinoma Segmentation from Contrast Enhanced Liver MRI |  | None |  | 😾 | 
-| None | Multi-Scale Boundary Enhanced Pseudo Label Refinement for Semi-Supervised Medical Image Segmentation |  | None |  | 😾 | 
-| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  | None |  | 😾 | 
-| None | Multi-Sequence MRI to Multi-Tracer Pet Generation via Diffusion Model |  | None |  | 😾 | 
-| None | Multi-Stage Bidirectional Cross-Attention Model for Predicting Prognosis in Multiple Peritoneum Lesions with Clinical Information |  | None |  | 😾 | 
-| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  | None |  | 😾 | 
-| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  | None |  | 😾 | 
-| None | Multi-Volume Isotropic Super-Resolution Wrist MRI Using Fourier-Guided Implicit Fusion |  | None |  | 😾 | 
-| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  | None |  | 😾 | 
-| None | Multimodal Learning for Enhanced Detection in Oral Cancer Screening |  | None |  | 😾 | 
-| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  | None |  | 😾 | 
-| None | Multimodal Weakly Supervised Segmentation for Histopathology |  | None |  | 😾 | 
-| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  | None |  | 😾 | 
-| None | Nnmamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model |  | None |  | 😾 | 
-| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  | None |  | 😾 | 
-| None | OCT-Trans: A Novel Transformer Backbone with Multimodal Feature Extraction in OCT-Based Retinal Disease Classification |  | None |  | 😾 | 
-| None | OHIF -SAM2: Accelerating Radiology Workflows with Meta Segment Anything Model 2 |  | None |  | 😾 | 
-| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  | None |  | 😾 | 
-| None | On the Role of Adversarial Perturbations in Unsupervised Deep Learning for Enhancing Image Quality of Degraded Medical-Images |  | None |  | 😾 | 
-| None | One-Shot Tumour Synthesis for PET-CT Imaging |  | None |  | 😾 | 
-| None | Online Multispectral Neuron Tracing |  | None |  | 😾 | 
-| None | Optimizing Cell Recognition in Sarcoma Multiplex Immunohistochemistry Images via Pre-Training Strategies |  | None |  | 😾 | 
-| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  | None |  | 😾 | 
-| None | PET Partial Volume Correction Based on Unsupervised Deep Residual Compensation Model |  | None |  | 😾 | 
-| None | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation |  | None |  | 😾 | 
-| None | PI-RADS Inspired Architecture: A New Deep Learning Approach to Detect Clinically Significant Prostate Cancer on MRI |  | None |  | 😾 | 
-| None | PSO-NET: Development of an Automated Psoriasis Assessment System Using Attention-Based Interpretable Deep Neural Networks |  | None |  | 😾 | 
-| None | Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding |  | None |  | 😾 | 
-| None | Pathogen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images |  | None |  | 😾 | 
-| None | Photon-Counting CT Reconstruction Using Separable Attention-Based Tensor Neural Network Prior |  | None |  | 😾 | 
-| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  | None |  | 😾 | 
-| None | Plasma-CycleGAN: Plasma Biomarker-Guided MRI to Pet Cross-Modality Translation Using Conditional CycleGAN |  | None |  | 😾 | 
-| None | Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion |  | None |  | 😾 | 
-| None | Predicting Axillary Lymph Node Metastasis in Breast Cancer by Integrating Dual-ROI Features from Multi-Parametric MRI |  | None |  | 😾 | 
-| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  | None |  | 😾 | 
-| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  | None |  | 😾 | 
-| None | Predicting Response to Neoadjuvant Chemotherapy using Multi-Modal MRI Radiomics and Machine Learning Approaches |  | None |  | 😾 | 
-| None | Predicting Ulcer in H&E Images of Inflammatory Bowel Disease Using Domain-Knowledge-Driven Graph Neural Network |  | None |  | 😾 | 
-| None | Prism: Privacy-Preserving Inter-Site MRI Harmonization via Disentangled Representation Learning |  | None |  | 😾 | 
-| None | Prompt-Guided Radiology Report Generation Utilizing SAM |  | None |  | 😾 | 
-| None | Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images |  | None |  | 😾 | 
-| None | Psychosis Multiscale Functional Network Connectivity Subspace Encodes Sex Specificity and Identifies Sex Biotypes |  | None |  | 😾 | 
-| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  | None |  | 😾 | 
-| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  | None |  | 😾 | 
-| None | Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network |  | None |  | 😾 | 
-| None | Quantitative Imaging of 55CO and 18F-Labeled Tracers in a Single "Multiplexed" Pet Imaging Session |  | None |  | 😾 | 
-| None | R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation |  | None |  | 😾 | 
-| None | RDMP: A Reference Detection and Mask Propagation Pipeline for Numerous 3D Glomeruli Segmentation in Large Volumes |  | None |  | 😾 | 
-| None | RED-Net: Radiomics-Enhanced Diffusion Network for MRI-to-PET Cross-Modality Image Synthesis |  | None |  | 😾 | 
-| None | RICAU-NET: Residual-Block Inspired Coordinate Attention U-Net for Segmentation of Small and Sparse Calcium Lesions in Cardiac CT |  | None |  | 😾 | 
-| None | RIEMAE: Riemannian Masked Autoencoder for Classifying Malignant Prostate Cancer Patterns |  | None |  | 😾 | 
-| None | RVPD: An Automated System for Calculating the Tortuosity and Bifurcation Angles of Retinal Vessels to Predict Diseases |  | None |  | 😾 | 
-| None | RadHop-Net: A Lightweight Radiomics-to-Error Regression for False Positive Reduction in MRI Prostate Cancer Detection |  | None |  | 😾 | 
-| None | Ranking of Visual Attention Spread Improves Trypanosoma Cruzi Detection in Microscopy Videos |  | None |  | 😾 | 
-| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  | None |  | 😾 | 
-| None | Real-Time Image Reconstruction with Deep Denoising for Low-Field MRI-Guided Interventions |  | None |  | 😾 | 
-| None | Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting |  | None |  | 😾 | 
-| None | Reconstruct Dense Live-Cell Microscopy Images via Learning Continuous Fluorescence Field |  | None |  | 😾 | 
-| None | Reconstructing Heart Rate Variation from Bold-FMRI Using 1D-CNN and GRU Networks with Dynamic Functional Connectivity-Based ROIs |  | None |  | 😾 | 
-| None | Reference-Free 2D-to-3D Multiple Slice Transport Average Registration (MSTAR) for Late Gadolinium Enhancement Cardiac MRI |  | None |  | 😾 | 
-| None | Resection Margin Prediction in Pancreatic Ductal Adenocarcinoma: A Multi-Modal Machine Learning Approach Integrating Clinical and Computed Tomography Radiomics Data |  | None |  | 😾 | 
-| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  | None |  | 😾 | 
-| None | Revisiting Clip: Efficient Alignment of 3D MRI and Tabular Data Using Domain-Specific Foundation Models |  | None |  | 😾 | 
-| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  | None |  | 😾 | 
-| None | SACL: Semantics-Aware Contrastive Learning for One-Shot Medical Image Segmentation |  | None |  | 😾 | 
-| None | SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation |  | None |  | 😾 | 
-| None | SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM |  | None |  | 😾 | 
-| None | SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation |  | None |  | 😾 | 
-| None | SCONet: Convolutional Occupancy Networks for Multi-Organ Segmentation |  | None |  | 😾 | 
-| None | SEMISE: Semi-Supervised Learning for Severity Representation in Medical Image |  | None |  | 😾 | 
-| None | SEQSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation Using Sam |  | None |  | 😾 | 
-| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  | None |  | 😾 | 
-| None | SLIM-UAM - Semi-Supervised Learning In Medical Imaging: Uncertainty-Attention Model |  | None |  | 😾 | 
-| None | SRE-CONV: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification |  | None |  | 😾 | 
-| None | Salience-Enhanced Network for Metal Artifact Reduction in CT Imaging |  | None |  | 😾 | 
-| None | Salient Region Matching for Fully Automated MR-TRUS Registration |  | None |  | 😾 | 
-| None | SarcNet: A Novel AI-Based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged HIPSC-CMS |  | None |  | 😾 | 
-| None | Scalable Whole Slide Image Representation Using K-Means Clustering and Fisher Vector Aggregation |  | None |  | 😾 | 
-| None | Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension in Biomedical Image Analysis |  | None |  | 😾 | 
-| None | Scar-Aware Late Mechanical Activation Detection Network for Optimal Cardiac Resynchronization Therapy Planning |  | None |  | 😾 | 
-| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  | None |  | 😾 | 
-| None | Segmentation of Cardiovascular Structures from Screening Non-contrast CT Calcium Score Images Using the Tuned CardioNC-Segmentator on Virtual CTA Images |  | None |  | 😾 | 
-| None | Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB |  | None |  | 😾 | 
-| None | Self Pre-Training with Adaptive Mask Autoencoders for Variable-Contrast 3D Medical Imaging |  | None |  | 😾 | 
-| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  | None |  | 😾 | 
-| None | Self-Supervised Learning for Multi-Category Endoscopy Classification and Data Quality Evaluation Using Masked Autoencoders |  | None |  | 😾 | 
-| None | Self-Supervised Metric Learning for Gaussian Anomaly Detection in Fundus Images |  | None |  | 😾 | 
-| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  | None |  | 😾 | 
-| None | Self-supervised Prototype Learning for Spatio-Temporal Enhanced Ultrasound-based Prostate Cancer Detection |  | None |  | 😾 | 
-| None | SelfMedHPM: Self Pre-Training with Hard Patches Mining Masked Autoencoders for Medical Image Segmentation |  | None |  | 😾 | 
-| None | Semi-Cervixseg: A Multi-Stage Training Strategy for Semi-Supervised Cervical Segmentation |  | None |  | 😾 | 
-| None | Semi-Supervised Cervical Segmentation on Ultrasound by a Dual Framework for Neural Networks |  | None |  | 😾 | 
-| None | Semi-Supervised Medical Image Classification with Neighborhood Adaptive Attention |  | None |  | 😾 | 
-| None | Semi-Supervised Multimodal Multi-Instance Learning for Aortic Stenosis Diagnosis |  | None |  | 😾 | 
-| None | Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head During Labor |  | None |  | 😾 | 
-| None | Sex Differences in Coupled Dynamic Functional Connectivity and Structural Brain Morphology: Insights from the ABCD Study |  | None |  | 😾 | 
-| None | Shoulder Rotator Cuff Tear Detection from Ultrasound Videos Using Deep Reinforcement Learning |  | None |  | 😾 | 
-| None | Signal Reconstructions for ECG-Transmembrane Voltage Potentials Using Transformers |  | None |  | 😾 | 
-| None | Simulating Post-Neoadjuvant Chemotherapy Breast Cancer MRI via Diffusion Model with Prompt Tuning |  | None |  | 😾 | 
-| None | Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology |  | None |  | 😾 | 
-| None | Source Free Domain Adaptation with Pseudo-Labeling Quality Assessed by Sam in Fundus Image Segmentation |  | None |  | 😾 | 
-| None | Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis |  | None |  | 😾 | 
-| None | SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation |  | None |  | 😾 | 
-| None | Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking |  | None |  | 😾 | 
-| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  | None |  | 😾 | 
-| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  | None |  | 😾 | 
-| None | Structurally Consistent MRI Colorization using Cross-Modal Fusion Learning |  | None |  | 😾 | 
-| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  | None |  | 😾 | 
-| None | Surgical Scene Segmentation by Transformer with Asymmetric Feature Enhancement |  | None |  | 😾 | 
-| None | Swin-Kat: Advancing Swin Transformer with Kolmogorov-Arnold Network for CT Image Quality Assessment |  | None |  | 😾 | 
-| None | SwinDiff_ConSeg: Automatic Segmentation of Ureters in Consecutive CT Urography Based on Swin Transformer and Diffusion Model |  | None |  | 😾 | 
-| None | SwinDiff_DAS: Data Augmentation for Segmentation of the Urinary Collecting System Based on the Shift-Window Transformer and Diffusion Model |  | None |  | 😾 | 
-| None | SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation |  | None |  | 😾 | 
-| None | SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching Using Synthetic Training Pairs and Indirect Supervision |  | None |  | 😾 | 
-| None | SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data |  | None |  | 😾 | 
-| None | Synthesizing Proton-Density Fat Fraction and $R_2^{\ast}$ from 2-Point Dixon MRI with Generative Machine Learning |  | None |  | 😾 | 
-| None | Synthetic CT Generation from Time-of-Flight Non-Attenuation-Corrected PET for Whole-Body PET Attenuation Correction |  | None |  | 😾 | 
-| None | Synthetic H&E Generation from Highly Multiplixed Immunofluorescence Imaging using Deep-Learning |  | None |  | 😾 | 
-| None | T2-Only Prostate Cancer Prediction by Meta-Learning from BI-Parametric MR Imaging |  | None |  | 😾 | 
-| None | T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction |  | None |  | 😾 | 
-| None | TA-MIR: Text Aggregation for Multimodal Feature Representation in Medical Image Registration |  | None |  | 😾 | 
-| None | TC-MNET: Multi-Magnification Network Using Pvt and Convnext for Microscopic Image Segmentation |  | None |  | 😾 | 
-| None | TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis from Imaging, Clinical, and Radiomic Data Fusion |  | None |  | 😾 | 
-| None | TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement |  | None |  | 😾 | 
-| None | TV-Based Deep 3D Self Super-Resolution for FMRI |  | None |  | 😾 | 
-| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  | None |  | 😾 | 
-| None | Targeting Prostate Biopsy: A Straightforward CNN Solution for 3D MR-Trus Image Registration |  | None |  | 😾 | 
-| None | Tau Pet Harmonization via Surface-Based Diffusion Model |  | None |  | 😾 | 
-| None | Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification |  | None |  | 😾 | 
-| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  | None |  | 😾 | 
-| None | Test-Time Fluorescein Angiography-Free Non-Perfusion Area Segmentation from Fundus Image |  | None |  | 😾 | 
-| None | Texlivernet: Leveraging Medical Knowledge and Spatial-Frequency Perception for Enhanced Liver Tumor Segmentation |  | None |  | 😾 | 
-| None | Text-Guided Cross Pseudo Supervision for Semi-Supervised Multi-Organ Segmentation in Abdominal CT Scans |  | None |  | 😾 | 
-| None | Three-Dimensional Diffusion-Weighted Multi-Slab MRI with Slice Profile Compensation Using Deep Energy Model |  | None |  | 😾 | 
-| None | Tissue Characterization and Attenuation Mapping Using Multifrequency Ultrasound Imaging |  | None |  | 😾 | 
-| None | Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation |  | None |  | 😾 | 
-| None | TopoEEG: A Timesformer-Based Topographic Image Representation Method for Single-Trial Early Detection of P300 |  | None |  | 😾 | 
-| None | Topological Image Analysis of Coronary Calcifications for Improved Cardiovascular Risk Prediction from Screening Non-Contrast CT |  | None |  | 😾 | 
-| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  | None |  | 😾 | 
-| None | Topology-Preserving Deep Supervision for 3D Axon Centerline Segmentation Using Partially Annotated Data |  | None |  | 😾 | 
-| None | Towards Classifying Histopathological Microscope Images as Time Series Data |  | None |  | 😾 | 
-| None | Towards Encoding 3D Abdominal MRI Acquisitions as Neural Fields |  | None |  | 😾 | 
-| None | Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability |  | None |  | 😾 | 
-| None | Towards Interactive 3D Surgical Scene Reconstruction: An Incremental Training and Monitoring Framework |  | None |  | 😾 | 
-| None | Towards Multi-Label Open Set Diagnosis for Medical Images |  | None |  | 😾 | 
-| None | Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair: Fully Automated Segmentation of the Aortic Valve in 4D CT |  | None |  | 😾 | 
-| None | Towards Polyp Counting in Full-Procedure Colonoscopy Videos |  | None |  | 😾 | 
-| None | Towards Spatial Transcriptomics-Guided Pathological Image Recognition with Batch-Agnostic Encoder |  | None |  | 😾 | 
-| None | Towards Zero-Shot Task-Generalizable Learning on FMRI |  | None |  | 😾 | 
-| None | TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds |  | None |  | 😾 | 
-| None | Tractogpt: A GPT Architecture for White Matter Tract Segmentation |  | None |  | 😾 | 
-| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  | None |  | 😾 | 
-| None | Transformer-Based T1-Tractography |  | None |  | 😾 | 
-| None | Trifuse: Triplet Encoders Network for Medical Image Segmentation |  | None |  | 😾 | 
-| None | U-Star: AN Asymmetric U-Shaped Network Based on Element-Wise Multiplication to Segment Nuclei in H&E Stained Histological Images |  | None |  | 😾 | 
-| None | UATTA-QSM: Uncertainty-Aware Test Time Adaptation for Improved Quantitative Susceptibility Mapping |  | None |  | 😾 | 
-| None | UNETVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM |  | None |  | 😾 | 
-| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  | None |  | 😾 | 
-| None | Ultrasound Nerve Segmentation with Deep Learning for Leprosy |  | None |  | 😾 | 
-| None | UnSegMedGAT: Unsupervised Medical Image Segmentation Using Graph Attention Networks Clustering |  | None |  | 😾 | 
-| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  | None |  | 😾 | 
-| None | UniCurvSeg: Learning Contextual Prompt for Universal Vessel-Like Curvilinear Structure Segmentation |  | None |  | 😾 | 
-| None | Unsupervised Anomaly Detection on Implicit Shape Representations for Sarcopenia Detection |  | None |  | 😾 | 
-| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  | None |  | 😾 | 
-| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  | None |  | 😾 | 
-| None | Utilizing Mask-Guided Cross-Image Attention for Zero-Shot In-Silico Histopathologic Image Generation with a Diffusion Model |  | None |  | 😾 | 
-| None | Utilizing Shape-features and GAN-Based Model for Renal Segmentation in DW-MRI |  | None |  | 😾 | 
-| None | Utilizing State Space Model for Diffusion Processes in Breast Tumor Pathological Image Super-Resolution |  | None |  | 😾 | 
-| None | VITG-VS: Preserving Spatial Heterogeneity in Virtual Staining of Renal Autofluorescence Images |  | None |  | 😾 | 
-| None | VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation |  | None |  | 😾 | 
-| None | Versatile Stain Transfer in Histopathology Using a Unified Diffusion Framework |  | None |  | 😾 | 
-| None | Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models |  | None |  | 😾 | 
-| None | Visual Prompting Unsupervised Domain Adaptation for Medical Image Segmentation |  | None |  | 😾 | 
-| None | Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound |  | None |  | 😾 | 
-| None | WAVE-VNET: Enhancing Medical Image Segmentation with Wavelet Transformer |  | None |  | 😾 | 
-| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  | None |  | 😾 | 
-| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  | None |  | 😾 | 
-| None | White Light Specular Reflection Data Augmentation for Deep Learning Polyp Detection |  | None |  | 😾 | 
-| None | XAI-PSSGAN: Perception-Enhanced Spectrum Shift Generative Adversarial Network with Explainable AI System for NIR-II Fluorescence Molecular Imaging |  | None |  | 😾 | 
-| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  | None |  | 😾 | 
-| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  | None |  | 😾 | 
-| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  | None |  | 😾 | 
+| None | 3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the Fusemycells Challenge |  |  |  | 😾 | 
+| None | 3D Anatomical Structure-Guided Deep Learning for Accurate Diffusion Microstructure Imaging |  |  |  | 😾 | 
+| None | 3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis |  |  |  | 😾 | 
+| None | 3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision |  |  |  | 😾 | 
+| None | 3D Vertebrae Measurements: Assessing Vertebral Dimensions in Human Spine Models Using Automated Landmark Detection |  |  |  | 😾 | 
+| None | A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography |  |  |  | 😾 | 
+| None | A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data |  |  |  | 😾 | 
+| None | A Dual-Track Framework for Enhancing Age-Related Macular Degeneration Diagnosis Through Embedding and Vision Classification |  |  |  | 😾 | 
+| None | A Foundation Model for Cell Segmentation from Immunohistochemistry: A Pilot Study |  |  |  | 😾 | 
+| None | A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans |  |  |  | 😾 | 
+| None | A Multi-Modal Fusion Method for 3-Hinge Gyrus Based on Bidirectional Cross-Attention |  |  |  | 😾 | 
+| None | A Novel Approach to Recognising Physical Activity Intensity in Adults: Gravity-Based Acceleration Imaging with Vision Transformer |  |  |  | 😾 | 
+| None | A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI |  |  |  | 😾 | 
+| None | A Self-Supervised Diffusion Bridge for MRI Reconstruction |  |  |  | 😾 | 
+| None | A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification |  |  |  | 😾 | 
+| None | A Serial Image Segmentation and Registration Network (SISRN) for Dynamic Enhanced Magnetic Resonance Image Sequences |  |  |  | 😾 | 
+| None | AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury |  |  |  | 😾 | 
+| None | AI-Based Thermal Video Analysis in Privacy-Preserving Healthcare: A Case Study on Detecting Time of Birth |  |  |  | 😾 | 
+| None | AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation |  |  |  | 😾 | 
+| None | ASAM: Anatomy-Encoded Segment Anything Model for Medical Images |  |  |  | 😾 | 
+| None | ASDC-NET: Anterior Segment Disease Classification Network Based on Slit-Lamp Images |  |  |  | 😾 | 
+| None | Accelerated 3D Thermometry Field Reconstruction from Tri-Planar Images via Cross-View Implicit Representation |  |  |  | 😾 | 
+| None | Accelerating the Whole-Brain Multi-Parametric Imaging Through Joint Deep Learning Reconstruction and Physical Model Integration |  |  |  | 😾 | 
+| None | Accurate 3D Medical Image Segmentation with Mambas |  |  |  | 😾 | 
+| None | Active Prompt Tuning Enables GPT-4O to do Efficient Classification of Microscopy Images |  |  |  | 😾 | 
+| None | Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially |  |  |  | 😾 | 
+| None | Adapting Segment Anything 2 for Diabetic Retinopathy Lesion Segmentation |  |  |  | 😾 | 
+| None | Adaptive Aggregation Weights for Federated Segmentation of Pancreas MRI |  |  |  | 😾 | 
+| None | Adaptive Collaborative Learning Polyp Segmentation Framework Based on Contour-Driven Parallel Attention Network |  |  |  | 😾 | 
+| None | Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels |  |  |  | 😾 | 
+| None | Adaptive Whole-Body Pet Image Denoising Using 3D Diffusion Models with Controlnet |  |  |  | 😾 | 
+| None | Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement |  |  |  | 😾 | 
+| None | Advancing OCT-Based Retinal Disease Classification with XLSTM: A Framework for Variable-Length Volume Processing |  |  |  | 😾 | 
+| None | Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis |  |  |  | 😾 | 
+| None | Ai-Driven Automated Tool for Abdominal CT Body Composition Analysis in Gastrointestinal Cancer Management |  |  |  | 😾 | 
+| None | All-in-One Multi-Organ Segmentation in 3D CT Images via Self-Supervised and Cross-Dataset Learning |  |  |  | 😾 | 
+| None | An Attention Based Model for Histopathology Image Nuclei Segmentation |  |  |  | 😾 | 
+| None | An Automated Whole Torso Aortic and Iliac Artery Atherosclerotic Burden Assessment on Body CT |  |  |  | 😾 | 
+| None | An Interpretable X-Ray Style Transfer Via Trainable Local Laplacian Filter |  |  |  | 😾 | 
+| None | Anatomical Grounding Pre-Training for Medical Phrase Grounding |  |  |  | 😾 | 
+| None | Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes |  |  |  | 😾 | 
+| None | Anatosegnet: Anatomy Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation |  |  |  | 😾 | 
+| None | Annotation-Efficient Task Guidance for Medical Segment Anything |  |  |  | 😾 | 
+| None | Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI |  |  |  | 😾 | 
+| None | Attention Aware Continual Learning in Digital Pathology Contexts |  |  |  | 😾 | 
+| None | Attention-Based Multiple Instance Learning for Achilles Tendinopathy Detection in Ultrasound Imaging |  |  |  | 😾 | 
+| None | Attention-Driven Multi-Sequence Mri Feature Learning and Fusion for Breast Cancer Diagnosis |  |  |  | 😾 | 
+| None | Attention-Enhanced UNet for Automated Gleason Score 3 Tumor Segmentation in Histopathological Whole Slide Images |  |  |  | 😾 | 
+| None | Attentive Latent Replay for Continual Learning in Pathology |  |  |  | 😾 | 
+| None | Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization |  |  |  | 😾 | 
+| None | Autoencoder for 4-Dimensional Fiber Orientation Distributions from Diffusion MRI |  |  |  | 😾 | 
+| None | Automated 3D Segmentation of Glomeruli in Human Kidney Tissue Specimens Using 16.4 T MRI Without Contrast Agents |  |  |  | 😾 | 
+| None | Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms |  |  |  | 😾 | 
+| None | Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models |  |  |  | 😾 | 
+| None | Auxiliary Cyclegan-Guided Task-Aware Domain Translation from Duplex to Monoplex IHC Images |  |  |  | 😾 | 
+| None | BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network |  |  |  | 😾 | 
+| None | BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases |  |  |  | 😾 | 
+| None | Benchmarking 3D Multi-Coil NC-PDNet MRI Reconstruction |  |  |  | 😾 | 
+| None | Benchmarking Transferability of Self-Supervised Pretraining for Multi-Organ Segmentation on Different Modalities |  |  |  | 😾 | 
+| None | Beyond Occlusion: In Search for Near Real-Time Explainability of CNN-Based Prostate Cancer Classification |  |  |  | 😾 | 
+| None | Blending Parametric Model and Neural Refinement: A Coarse-to-Fine Approach for Predicting Facial Changes in Orthognathic Surgery |  |  |  | 😾 | 
+| None | BoxPolypSAM: Leveraging SAM in Box-Supervised Polyp Segmentation |  |  |  | 😾 | 
+| None | Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints |  |  |  | 😾 | 
+| None | Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models |  |  |  | 😾 | 
+| None | Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing |  |  |  | 😾 | 
+| None | Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation |  |  |  | 😾 | 
+| None | Breast Cancer Detection from Thermal Images Using Asymmetries in Learned Texture Vectors |  |  |  | 😾 | 
+| None | Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models |  |  |  | 😾 | 
+| None | Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry |  |  |  | 😾 | 
+| None | CCIS-DIFF: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis |  |  |  | 😾 | 
+| None | CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition |  |  |  | 😾 | 
+| None | CINEPRO: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops |  |  |  | 😾 | 
+| None | CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography |  |  |  | 😾 | 
+| None | COMT: Co-Training Mean Teachers Semi-Supervised Training Framework for Cervical Segmentation |  |  |  | 😾 | 
+| None | CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting |  |  |  | 😾 | 
+| None | CSMAE : Cataract Surgical Masked Autoencoder (MAE) Based Pre-Training |  |  |  | 😾 | 
+| None | CT Contrast Phase Identification by Predicting the Temporal Angle Using Circular Regression |  |  |  | 😾 | 
+| None | CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes |  |  |  | 😾 | 
+| None | Ca-vqvae: Cortical Folding Aware Numerical Representation of White-Matter Structure |  |  |  | 😾 | 
+| None | CascadePLS-ViT: Cascade with Patch-Level Self-Supervised Vision Transformers for Breast Cancer Classification in Mammography |  |  |  | 😾 | 
+| None | Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation |  |  |  | 😾 | 
+| None | Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification |  |  |  | 😾 | 
+| None | Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection |  |  |  | 😾 | 
+| None | CellPilot: A Unified Approach to Automatic and Interactive Segmentation in Histopathology |  |  |  | 😾 | 
+| None | Cephalometric Landmark Detection Using Graph- and Image-Aware Network with Landmark Contrastive Regularization |  |  |  | 😾 | 
+| None | Cervical Cancer Lesion Grading Based on Clinical Diagnostic Criteria and Multi-View Approach Using Intraoperative Colposcopic Images |  |  |  | 😾 | 
+| None | Class Fusion of Support Vector Machines with Deep Learning Features for Oral Cancer Histopathology Classification |  |  |  | 😾 | 
+| None | Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer |  |  |  | 😾 | 
+| None | Classification of Oral Potentially Malignant Disorders Using Multimodal Feature Integration |  |  |  | 😾 | 
+| None | Classification of Surgeons' Gender from Videos of the Surgical Field |  |  |  | 😾 | 
+| None | Classifying Coronary Artery Calcification Risk using Radiomics from Non-Gated CT Scans |  |  |  | 😾 | 
+| None | Clinical Inspired MRI Lesion Segmentation |  |  |  | 😾 | 
+| None | Clustering-Enhanced Multimodal Pre-Training for Histology-Gene Joint Representation Learning |  |  |  | 😾 | 
+| None | Combined Effect of Erythrocyte Aggregation and Leukocyte Presence on Quantitative Blood Ultrasound: a Simulation Study |  |  |  | 😾 | 
+| None | Combining 4D Hyperspectral Imaging With CNN for Nerve and Ligament Differentiation |  |  |  | 😾 | 
+| None | Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images |  |  |  | 😾 | 
+| None | Conditional Convolution of Clinical Data Embeddings for Multimodal Prostate Cancer Classification |  |  |  | 😾 | 
+| None | Conditional Diffusion Model for Abdominal CT Image Synthesis |  |  |  | 😾 | 
+| None | Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI |  |  |  | 😾 | 
+| None | Conditional Visuo-Textual Prompt Learning for Medical Image Analysis |  |  |  | 😾 | 
+| None | Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification |  |  |  | 😾 | 
+| None | Context-Aware LSTM for 3D Medical Image Localisation |  |  |  | 😾 | 
+| None | Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion |  |  |  | 😾 | 
+| None | Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection |  |  |  | 😾 | 
+| None | Contrastive Pretraining for Computational Pathology with Visual-Language Models |  |  |  | 😾 | 
+| None | Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map |  |  |  | 😾 | 
+| None | Coupled Swin Transformers and Multi-Apertures Network(CSTA-NET) Improves Medical Image Segmentation |  |  |  | 😾 | 
+| None | Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation |  |  |  | 😾 | 
+| None | DAG-UNet: Dissimilarity-Aware Global Context Guided Lightweight UNet for Medical Image Segmentation |  |  |  | 😾 | 
+| None | DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training |  |  |  | 😾 | 
+| None | DENSE-Guided Deep Motion Networks Accounted by Large Rotations to Improve Myocardial Strain Analysis from Routine Cine MRI |  |  |  | 😾 | 
+| None | DG-PPU: Dynamical Graphs Based Post-Processing of Point Clouds Extracted from Knee Ultrasounds |  |  |  | 😾 | 
+| None | Decentralized ComBat-Mega for Harmonizing FNC Data in Coinstac |  |  |  | 😾 | 
+| None | Deep Automatic Alignment of Mpox Dermatological Hand Photography |  |  |  | 😾 | 
+| None | Deep Learning-Driven Automated Aortic Valve Calcification Assessment in CT Calcium Score Screening Images |  |  |  | 😾 | 
+| None | Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data |  |  |  | 😾 | 
+| None | Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals |  |  |  | 😾 | 
+| None | Diagnosis with Nanoscale Protein Distributions: Single-Molecule Fluorescence Localization Microscopy and Attention-Based Learning |  |  |  | 😾 | 
+| None | Diaphragm-Net: 3D Full Automatic Segmentation of the Diaphragm Based on Deep Learning Methods for 3D-CT Images |  |  |  | 😾 | 
+| None | Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans |  |  |  | 😾 | 
+| None | DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting |  |  |  | 😾 | 
+| None | Diffusion-Based Multi-Degradation Remover for Fiber Bundle Image Restoration |  |  |  | 😾 | 
+| None | Diffusion-Driven 3D CECT-to-NCECT Conversion for Head and Neck Imaging |  |  |  | 😾 | 
+| None | Dilation-Assisted Contrastive Learning for Corneal Nerve Segmentation in Corneal Confocal Microscopy |  |  |  | 😾 | 
+| None | Dineuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction |  |  |  | 😾 | 
+| None | Discrepancy-Induced Cross-Subnet Interaction Network for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | Display Field-of-View Agnostic Robust Ct Kernel Synthesis Using Model-Based Deep Learning |  |  |  | 😾 | 
+| None | Dose Reduction in Step-and-Shoot 4D CT Imaging via Breathing Signal-Guided Deep Learning-Driven Selective Data Acquisition: A Feasibility Study |  |  |  | 😾 | 
+| None | Drop and Align: Fusing Pathology and Genomics via Graph Learning for Cancer Survival Prediction |  |  |  | 😾 | 
+| None | Dual Invariance Self-Training for Reliable Semi-Supervised Surgical Phase Recognition |  |  |  | 😾 | 
+| None | Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome |  |  |  | 😾 | 
+| None | Dual-Stream Pyramidal Attention Networks for Medical Image Registration |  |  |  | 😾 | 
+| None | Dynamic Fusion: Merging Structural and Functional Connectivity Dynamics Via Joint CMICA |  |  |  | 😾 | 
+| None | EDA: Enhanced Domain-Adversarial Training for Anatomical Landmark Detection |  |  |  | 😾 | 
+| None | EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis |  |  |  | 😾 | 
+| None | EMSSD: Two-Stage Model Enhancing Medical Image Segmentation Based on Stable Diffusion |  |  |  | 😾 | 
+| None | EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development |  |  |  | 😾 | 
+| None | EPI-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions |  |  |  | 😾 | 
+| None | EViT-UNET: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices |  |  |  | 😾 | 
+| None | Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework |  |  |  | 😾 | 
+| None | Efficient CMR Report Classification Through Synthetic Data Distillation and Metadata Fusion |  |  |  | 😾 | 
+| None | Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation |  |  |  | 😾 | 
+| None | Efficient Human-in-the-Loop Pancreatic Tumor Annotation via Large-Scale Pre-Trained Model with Adaptive Post-Processing |  |  |  | 😾 | 
+| None | Enhance Cardiac MRI Reconstruction via Unfolding Network with Hybrid Mamba-LSTM |  |  |  | 😾 | 
+| None | Enhanced Cervical Vertebral Maturation Assessment Using AI-Based Imaging Analysis System |  |  |  | 😾 | 
+| None | Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps |  |  |  | 😾 | 
+| None | Enhancing Dementia Detection: Augmenting the Face Mesh |  |  |  | 😾 | 
+| None | Enhancing Medical Image Segmentation with Mamba and UNet++ |  |  |  | 😾 | 
+| None | Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation |  |  |  | 😾 | 
+| None | Ensemble of Foundation Models for Pap Smear Cell Analysis |  |  |  | 😾 | 
+| None | Equivariance-Based Theoretical Analysis and Self-Supervised Learning Framework for Missing Wedge Problem in Cryo-Electron Tomography |  |  |  | 😾 | 
+| None | Evaluating Automated Radiology Report Quality Through Fine-Grained Phrasal Grounding of Clinical Findings |  |  |  | 😾 | 
+| None | Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam |  |  |  | 😾 | 
+| None | Evaluation Metric for Quality Control and Generative Models in Histopathology Images |  |  |  | 😾 | 
+| None | ExpTopo: Explicit Topological Modeling for Bronchus Segmentation |  |  |  | 😾 | 
+| None | Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks |  |  |  | 😾 | 
+| None | Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis |  |  |  | 😾 | 
+| None | Exploiting Cross-Dimensional Dependency Using Vision-LSTM for Efficient Medical Image Segmentation |  |  |  | 😾 | 
+| None | Exploring Foundation Models Fine-Tuning for Cytology Classification |  |  |  | 😾 | 
+| None | Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound |  |  |  | 😾 | 
+| None | F2UE-NET: An Uncertainty-Driven Dynamic Expert Network for Long-Tail Retinal Disease Classification |  |  |  | 😾 | 
+| None | FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention |  |  |  | 😾 | 
+| None | FMUNet: Frequency Modulation-Based UNet for Octa Segmentation |  |  |  | 😾 | 
+| None | Fairness Analysis of Clip-Based Foundation Models for X-Ray Image Classification |  |  |  | 😾 | 
+| None | Fast Multi-Contrast MRI Using Joint Multiscale Energy Model |  |  |  | 😾 | 
+| None | Fau-Net: Fourier Attention Based 3D U-Net For Medical Image Registration |  |  |  | 😾 | 
+| None | Feature-Driven LI-RADS Classification in Liver Cancer: A CNN-Based Approach for CT Imaging Under Data Scarcity |  |  |  | 😾 | 
+| None | Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation |  |  |  | 😾 | 
+| None | Few-Shot Sample-Specific Deep Learning Multiclass Segmentation and Fiber Tractography using 3D-Microscopy with Ultraviolet Surface Excitation (3D-Muse) Images of Human Vagus Nerve |  |  |  | 😾 | 
+| None | Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance |  |  |  | 😾 | 
+| None | Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis |  |  |  | 😾 | 
+| None | Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer |  |  |  | 😾 | 
+| None | GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease |  |  |  | 😾 | 
+| None | GP-CPS: Gradient Penalty Cross Pseudo Supervision for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation |  |  |  | 😾 | 
+| None | Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays |  |  |  | 😾 | 
+| None | Generating Customized Prompts for Zero-Shot Rare Event Medical Image Classification Using LLM |  |  |  | 😾 | 
+| None | Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency |  |  |  | 😾 | 
+| None | Generative Chained Label Propagation: A Semi-Supervised Approach for Enhanced 3D Segmentation of the Inferior Alveolar Nerve |  |  |  | 😾 | 
+| None | Generative Medical Image Anonymization Based on Latent Code Projection and Optimization |  |  |  | 😾 | 
+| None | Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification |  |  |  | 😾 | 
+| None | Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate |  |  |  | 😾 | 
+| None | Gland Segmentation Using SAM with Cancer Grade As A Prompt |  |  |  | 😾 | 
+| None | Guiding the Classification of Hepatocellular Carcinoma on 3D CT-Scans Using Deep and Handcrafted Radiological Features |  |  |  | 😾 | 
+| None | HER2 Status Prediction in Breast Cancer: A Weak Supervision and Contrastive Learning Approach on H&E Stains |  |  |  | 😾 | 
+| None | Hallucination Analysis of Score-Based Diffusion Models for CT Denoising Through Spatial Frequency Decomposition |  |  |  | 😾 | 
+| None | Hierarchical Augmentation Consistency Learning for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | High-Resolution Histopathology Whole Slide Image Generation Using Wavelet Diffusion Model |  |  |  | 😾 | 
+| None | Human-in-the-Loop Semi-Supervised Uterine Cervix Ultrasound Image Segmentation |  |  |  | 😾 | 
+| None | Hybrid DL Classification Model Based on CNN and Transformer for Pap Smear Cells |  |  |  | 😾 | 
+| None | Hybrid-Frequency Feature Evolution Network for Endoscopic Ultrasound Image Segmentation |  |  |  | 😾 | 
+| None | Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation |  |  |  | 😾 | 
+| None | IHA-YOLO: Inter-Head Attention for Real-Time Cell Detection |  |  |  | 😾 | 
+| None | IMITATE: Image Registration with Context for Unknown Time Frame Recovery |  |  |  | 😾 | 
+| None | IMJ-PLUS: Implicit Representation for Dynamic MRI and Coil Sensitivity Joint Reconstruction Using Low-Rank PLUS Sparse Regularization |  |  |  | 😾 | 
+| None | ISGM-DR: Important Slice-Guided Model for Diabetic Retinopathy Diagnosis Using 3D Oct Images |  |  |  | 😾 | 
+| None | ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction |  |  |  | 😾 | 
+| None | Identifying Brain Strokes by Image Analysis Using Transfer Learning |  |  |  | 😾 | 
+| None | Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach |  |  |  | 😾 | 
+| None | Improved C-Index and Interpretability with KAN as Compared to COX: Application to Risk Prediction of Major Adverse Cardiovascular Events from CT Calcium Score |  |  |  | 😾 | 
+| None | Improving Cell Instance Segmentation in Scanning Electron Microscopy via Semantic Image Synthesis |  |  |  | 😾 | 
+| None | Improving Quality Control of MRI Images Using Synthetic Motion Data |  |  |  | 😾 | 
+| None | Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease |  |  |  | 😾 | 
+| None | Integrations: Informed Subset Selection Based Generation for Medical Imaging in Resource Constrained Setting |  |  |  | 😾 | 
+| None | Introducing Learning Rate Adaptation CMA-ES into Rigid Intraoperative 2D/3D Registration for Spinal Surgery |  |  |  | 😾 | 
+| None | Joint Reconstruction of Activity and Attenuation for PET Imaging with Diffusion Prior |  |  |  | 😾 | 
+| None | Joint Reconstruction of Dynamic PET Activity and Kinetic Parametric Images Using Learnable Descent Framework |  |  |  | 😾 | 
+| None | Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups |  |  |  | 😾 | 
+| None | K-Space Diffusion Model Based Mr Reconstruction Method for Simultaneous Multislice Imaging |  |  |  | 😾 | 
+| None | KALM: Knowledge-Driven Active Learning for Medical Image Segmentation Using Localized Similarity |  |  |  | 😾 | 
+| None | Knowledge-Aware Multi-Source Domain Adaptation Network for Osteoporosis Diagnosis from Ultrasonic Radio Frequency Signals |  |  |  | 😾 | 
+| None | LF-MAMBA: A State Space Model-Based Framework for Accurate Bilateral Hippocampi Segmentation in Low-Field Pediatric MRI |  |  |  | 😾 | 
+| None | LIMIS: Towards Language-Based Interactive Medical Image Segmentation |  |  |  | 😾 | 
+| None | LLAMA-VG: A Video Vision LLaMA-Based Model for Endoscopy Video Generation |  |  |  | 😾 | 
+| None | LWV-UNet: Lightweight Vision Transformer UNet for Nasopharyngeal Carcinoma Image Segmentation |  |  |  | 😾 | 
+| None | Large-Scale Radiomics Analysis for Prostate Cancer Detection Harnessing Machine and Deep Learning Models |  |  |  | 😾 | 
+| None | Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction |  |  |  | 😾 | 
+| None | Legopet: Hierarchical Feature Guided Conditional Diffusion for Pet Image Reconstruction |  |  |  | 😾 | 
+| None | Leveraging Autoencoder Neural Networks to Improve Microbubble Detection and Localization in Ultrasound Localization Microscopy |  |  |  | 😾 | 
+| None | Leveraging Foundation Models for Clinically Instructed Tumor Image Synthesis in Renal Cell Carcinoma |  |  |  | 😾 | 
+| None | Leveraging Graph Attention Networks for Targeted Feedback from Operating Room Surgery Videos |  |  |  | 😾 | 
+| None | Leveraging Graph Neural Networks in Transferring Multimodal Knowledge for Unimodal Segmentation |  |  |  | 😾 | 
+| None | Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation |  |  |  | 😾 | 
+| None | Line Artifact Removal Over Medical X-Ray Images via Joint Dictionaries Sparse Decomposition with Structured Incoherence |  |  |  | 😾 | 
+| None | Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents |  |  |  | 😾 | 
+| None | Locating Standard Planes in Endometrium Ultrasound Videos via Clinical Prior Knowledge of Key Anatomical Structures |  |  |  | 😾 | 
+| None | Logsage: Log-Based Saliency for Guided Encoding in Robust Nuclei Segmentation of Immunofluorescence Histology Images |  |  |  | 😾 | 
+| None | Longitudinal Image Synthesis for Early Brain Development with Age Awareness |  |  |  | 😾 | 
+| None | Longmambattn: A Novel Architecture for Enhanced Breast Cancer Risk Prediction Using Variable-Length Longitudinal Mammograms |  |  |  | 😾 | 
+| None | M3-Net: A Multi-Scale Nuclei Segmentation Model for Breast Cancer Histopathology Using Contextual Patches and Attention Mechanism |  |  |  | 😾 | 
+| None | MARIO: A Mixed Annotation Framework for Polyp Segmentation |  |  |  | 😾 | 
+| None | MEDL: Unsupervised Multi-Stage Ensemble Deep Learning With Diffusion Models for Denoising MRI Scans |  |  |  | 😾 | 
+| None | MIHCGENER: A Framework for Multiple Immunohistochemical Image Generation Based on the Combination of Pathological Foundation Model and Generative Model |  |  |  | 😾 | 
+| None | MO-CTranS: A Unified Multi-Organ Segmentation Model Learning from Multiple Heterogeneously Labelled Datasets |  |  |  | 😾 | 
+| None | MOSS: Learning from Multiple Organs Via Self-Supervision |  |  |  | 😾 | 
+| None | MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging |  |  |  | 😾 | 
+| None | MR-to-CT Translation Using Frequency-Separated Diffusion Models |  |  |  | 😾 | 
+| None | MSCAM-Net: A Multi-Scale and Context-Aware Model with Adaptive Fusion Module for Robust Skin Lesion Segmentation |  |  |  | 😾 | 
+| None | MTKD-LRS: Semi Supervised Knee Cartilage Segmentation using Eigen Low Rank Subspace Assisted Mean-Teacher Framework |  |  |  | 😾 | 
+| None | MUM: Enhancing Medical Diagnostics Through Unpaired Multimodal Data Integration |  |  |  | 😾 | 
+| None | MamUNet: Mamba Enhances Vessel Segmentation in NIR-II Fluorescence Imaging |  |  |  | 😾 | 
+| None | Mamba-Based Residual Generative Adversarial Network for Functional Connectivity Harmonization During Infancy |  |  |  | 😾 | 
+| None | Masked Momentum Contrastive Dynamic Transformer for Self-Supervised Functional Connectivity Representation Learning |  |  |  | 😾 | 
+| None | MedDataset: Synthesizing Infinite Image and Segmentation Data Using Diffusion Models |  |  |  | 😾 | 
+| None | MedSAGa: Few-Shot Memory Efficient Medical Image Segmentation Using Gradient Low-Rank Projection in SAM |  |  |  | 😾 | 
+| None | Medframealign: 3D Histological Reconstructions Using Video Frame Interpolation Techniques |  |  |  | 😾 | 
+| None | Medical Text and Image Reasoning for Radiation Oncology via Large Language Model |  |  |  | 😾 | 
+| None | Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs |  |  |  | 😾 | 
+| None | Medxchat: A Unified Multimodal Large Language Model Framework Towards CXRS Understanding and Generation |  |  |  | 😾 | 
+| None | Metafusion: A Novel Method for Integrating Clinical Metadata with Imaging Modalities for Medical Applications |  |  |  | 😾 | 
+| None | Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI |  |  |  | 😾 | 
+| None | Mitral Valve Deep Learning Localization in CT Scans for MIMVR Surgery |  |  |  | 😾 | 
+| None | MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction |  |  |  | 😾 | 
+| None | Msapnet: Multi-Scale and Multi-Axial Perception Network for Retinal Layers and Lesion Segmentation |  |  |  | 😾 | 
+| None | Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets |  |  |  | 😾 | 
+| None | Multi-Label Neonatal EEG Segmentation Enriched with Semi-Synthetic Data |  |  |  | 😾 | 
+| None | Multi-Modal Deformable Image Registration Using Untrained Neural Networks |  |  |  | 😾 | 
+| None | Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification |  |  |  | 😾 | 
+| None | Multi-Modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification |  |  |  | 😾 | 
+| None | Multi-Modal Integration for Predicting Biochemical Recurrence in Prostate Cancer |  |  |  | 😾 | 
+| None | Multi-Phase Attention for Early Stage Hepatocellular Carcinoma Segmentation from Contrast Enhanced Liver MRI |  |  |  | 😾 | 
+| None | Multi-Scale Boundary Enhanced Pseudo Label Refinement for Semi-Supervised Medical Image Segmentation |  |  |  | 😾 | 
+| None | Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS |  |  |  | 😾 | 
+| None | Multi-Sequence MRI to Multi-Tracer Pet Generation via Diffusion Model |  |  |  | 😾 | 
+| None | Multi-Stage Bidirectional Cross-Attention Model for Predicting Prognosis in Multiple Peritoneum Lesions with Clinical Information |  |  |  | 😾 | 
+| None | Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation |  |  |  | 😾 | 
+| None | Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study |  |  |  | 😾 | 
+| None | Multi-Volume Isotropic Super-Resolution Wrist MRI Using Fourier-Guided Implicit Fusion |  |  |  | 😾 | 
+| None | Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT |  |  |  | 😾 | 
+| None | Multimodal Learning for Enhanced Detection in Oral Cancer Screening |  |  |  | 😾 | 
+| None | Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets |  |  |  | 😾 | 
+| None | Multimodal Weakly Supervised Segmentation for Histopathology |  |  |  | 😾 | 
+| None | Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning |  |  |  | 😾 | 
+| None | Nnmamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model |  |  |  | 😾 | 
+| None | Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI |  |  |  | 😾 | 
+| None | OCT-Trans: A Novel Transformer Backbone with Multimodal Feature Extraction in OCT-Based Retinal Disease Classification |  |  |  | 😾 | 
+| None | OHIF -SAM2: Accelerating Radiology Workflows with Meta Segment Anything Model 2 |  |  |  | 😾 | 
+| None | Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation |  |  |  | 😾 | 
+| None | On the Role of Adversarial Perturbations in Unsupervised Deep Learning for Enhancing Image Quality of Degraded Medical-Images |  |  |  | 😾 | 
+| None | One-Shot Tumour Synthesis for PET-CT Imaging |  |  |  | 😾 | 
+| None | Online Multispectral Neuron Tracing |  |  |  | 😾 | 
+| None | Optimizing Cell Recognition in Sarcoma Multiplex Immunohistochemistry Images via Pre-Training Strategies |  |  |  | 😾 | 
+| None | Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr |  |  |  | 😾 | 
+| None | PET Partial Volume Correction Based on Unsupervised Deep Residual Compensation Model |  |  |  | 😾 | 
+| None | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation |  |  |  | 😾 | 
+| None | PI-RADS Inspired Architecture: A New Deep Learning Approach to Detect Clinically Significant Prostate Cancer on MRI |  |  |  | 😾 | 
+| None | PSO-NET: Development of an Automated Psoriasis Assessment System Using Attention-Based Interpretable Deep Neural Networks |  |  |  | 😾 | 
+| None | Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding |  |  |  | 😾 | 
+| None | Pathogen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images |  |  |  | 😾 | 
+| None | Photon-Counting CT Reconstruction Using Separable Attention-Based Tensor Neural Network Prior |  |  |  | 😾 | 
+| None | Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading |  |  |  | 😾 | 
+| None | Plasma-CycleGAN: Plasma Biomarker-Guided MRI to Pet Cross-Modality Translation Using Conditional CycleGAN |  |  |  | 😾 | 
+| None | Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion |  |  |  | 😾 | 
+| None | Predicting Axillary Lymph Node Metastasis in Breast Cancer by Integrating Dual-ROI Features from Multi-Parametric MRI |  |  |  | 😾 | 
+| None | Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information |  |  |  | 😾 | 
+| None | Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects |  |  |  | 😾 | 
+| None | Predicting Response to Neoadjuvant Chemotherapy using Multi-Modal MRI Radiomics and Machine Learning Approaches |  |  |  | 😾 | 
+| None | Predicting Ulcer in H&E Images of Inflammatory Bowel Disease Using Domain-Knowledge-Driven Graph Neural Network |  |  |  | 😾 | 
+| None | Prism: Privacy-Preserving Inter-Site MRI Harmonization via Disentangled Representation Learning |  |  |  | 😾 | 
+| None | Prompt-Guided Radiology Report Generation Utilizing SAM |  |  |  | 😾 | 
+| None | Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images |  |  |  | 😾 | 
+| None | Psychosis Multiscale Functional Network Connectivity Subspace Encodes Sex Specificity and Identifies Sex Biotypes |  |  |  | 😾 | 
+| None | Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion |  |  |  | 😾 | 
+| None | Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation |  |  |  | 😾 | 
+| None | Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network |  |  |  | 😾 | 
+| None | Quantitative Imaging of 55CO and 18F-Labeled Tracers in a Single "Multiplexed" Pet Imaging Session |  |  |  | 😾 | 
+| None | R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation |  |  |  | 😾 | 
+| None | RDMP: A Reference Detection and Mask Propagation Pipeline for Numerous 3D Glomeruli Segmentation in Large Volumes |  |  |  | 😾 | 
+| None | RED-Net: Radiomics-Enhanced Diffusion Network for MRI-to-PET Cross-Modality Image Synthesis |  |  |  | 😾 | 
+| None | RICAU-NET: Residual-Block Inspired Coordinate Attention U-Net for Segmentation of Small and Sparse Calcium Lesions in Cardiac CT |  |  |  | 😾 | 
+| None | RIEMAE: Riemannian Masked Autoencoder for Classifying Malignant Prostate Cancer Patterns |  |  |  | 😾 | 
+| None | RVPD: An Automated System for Calculating the Tortuosity and Bifurcation Angles of Retinal Vessels to Predict Diseases |  |  |  | 😾 | 
+| None | RadHop-Net: A Lightweight Radiomics-to-Error Regression for False Positive Reduction in MRI Prostate Cancer Detection |  |  |  | 😾 | 
+| None | Ranking of Visual Attention Spread Improves Trypanosoma Cruzi Detection in Microscopy Videos |  |  |  | 😾 | 
+| None | Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT |  |  |  | 😾 | 
+| None | Real-Time Image Reconstruction with Deep Denoising for Low-Field MRI-Guided Interventions |  |  |  | 😾 | 
+| None | Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting |  |  |  | 😾 | 
+| None | Reconstruct Dense Live-Cell Microscopy Images via Learning Continuous Fluorescence Field |  |  |  | 😾 | 
+| None | Reconstructing Heart Rate Variation from Bold-FMRI Using 1D-CNN and GRU Networks with Dynamic Functional Connectivity-Based ROIs |  |  |  | 😾 | 
+| None | Reference-Free 2D-to-3D Multiple Slice Transport Average Registration (MSTAR) for Late Gadolinium Enhancement Cardiac MRI |  |  |  | 😾 | 
+| None | Resection Margin Prediction in Pancreatic Ductal Adenocarcinoma: A Multi-Modal Machine Learning Approach Integrating Clinical and Computed Tomography Radiomics Data |  |  |  | 😾 | 
+| None | Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models |  |  |  | 😾 | 
+| None | Revisiting Clip: Efficient Alignment of 3D MRI and Tabular Data Using Domain-Specific Foundation Models |  |  |  | 😾 | 
+| None | Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images |  |  |  | 😾 | 
+| None | SACL: Semantics-Aware Contrastive Learning for One-Shot Medical Image Segmentation |  |  |  | 😾 | 
+| None | SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation |  |  |  | 😾 | 
+| None | SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM |  |  |  | 😾 | 
+| None | SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation |  |  |  | 😾 | 
+| None | SCONet: Convolutional Occupancy Networks for Multi-Organ Segmentation |  |  |  | 😾 | 
+| None | SEMISE: Semi-Supervised Learning for Severity Representation in Medical Image |  |  |  | 😾 | 
+| None | SEQSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation Using Sam |  |  |  | 😾 | 
+| None | SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification |  |  |  | 😾 | 
+| None | SLIM-UAM - Semi-Supervised Learning In Medical Imaging: Uncertainty-Attention Model |  |  |  | 😾 | 
+| None | SRE-CONV: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification |  |  |  | 😾 | 
+| None | Salience-Enhanced Network for Metal Artifact Reduction in CT Imaging |  |  |  | 😾 | 
+| None | Salient Region Matching for Fully Automated MR-TRUS Registration |  |  |  | 😾 | 
+| None | SarcNet: A Novel AI-Based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged HIPSC-CMS |  |  |  | 😾 | 
+| None | Scalable Whole Slide Image Representation Using K-Means Clustering and Fisher Vector Aggregation |  |  |  | 😾 | 
+| None | Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension in Biomedical Image Analysis |  |  |  | 😾 | 
+| None | Scar-Aware Late Mechanical Activation Detection Network for Optimal Cardiac Resynchronization Therapy Planning |  |  |  | 😾 | 
+| None | SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations |  |  |  | 😾 | 
+| None | Segmentation of Cardiovascular Structures from Screening Non-contrast CT Calcium Score Images Using the Tuned CardioNC-Segmentator on Virtual CTA Images |  |  |  | 😾 | 
+| None | Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB |  |  |  | 😾 | 
+| None | Self Pre-Training with Adaptive Mask Autoencoders for Variable-Contrast 3D Medical Imaging |  |  |  | 😾 | 
+| None | Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection |  |  |  | 😾 | 
+| None | Self-Supervised Learning for Multi-Category Endoscopy Classification and Data Quality Evaluation Using Masked Autoencoders |  |  |  | 😾 | 
+| None | Self-Supervised Metric Learning for Gaussian Anomaly Detection in Fundus Images |  |  |  | 😾 | 
+| None | Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation |  |  |  | 😾 | 
+| None | Self-supervised Prototype Learning for Spatio-Temporal Enhanced Ultrasound-based Prostate Cancer Detection |  |  |  | 😾 | 
+| None | SelfMedHPM: Self Pre-Training with Hard Patches Mining Masked Autoencoders for Medical Image Segmentation |  |  |  | 😾 | 
+| None | Semi-Cervixseg: A Multi-Stage Training Strategy for Semi-Supervised Cervical Segmentation |  |  |  | 😾 | 
+| None | Semi-Supervised Cervical Segmentation on Ultrasound by a Dual Framework for Neural Networks |  |  |  | 😾 | 
+| None | Semi-Supervised Medical Image Classification with Neighborhood Adaptive Attention |  |  |  | 😾 | 
+| None | Semi-Supervised Multimodal Multi-Instance Learning for Aortic Stenosis Diagnosis |  |  |  | 😾 | 
+| None | Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head During Labor |  |  |  | 😾 | 
+| None | Sex Differences in Coupled Dynamic Functional Connectivity and Structural Brain Morphology: Insights from the ABCD Study |  |  |  | 😾 | 
+| None | Shoulder Rotator Cuff Tear Detection from Ultrasound Videos Using Deep Reinforcement Learning |  |  |  | 😾 | 
+| None | Signal Reconstructions for ECG-Transmembrane Voltage Potentials Using Transformers |  |  |  | 😾 | 
+| None | Simulating Post-Neoadjuvant Chemotherapy Breast Cancer MRI via Diffusion Model with Prompt Tuning |  |  |  | 😾 | 
+| None | Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology |  |  |  | 😾 | 
+| None | Source Free Domain Adaptation with Pseudo-Labeling Quality Assessed by Sam in Fundus Image Segmentation |  |  |  | 😾 | 
+| None | Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis |  |  |  | 😾 | 
+| None | SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation |  |  |  | 😾 | 
+| None | Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking |  |  |  | 😾 | 
+| None | State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters |  |  |  | 😾 | 
+| None | Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention |  |  |  | 😾 | 
+| None | Structurally Consistent MRI Colorization using Cross-Modal Fusion Learning |  |  |  | 😾 | 
+| None | Supervised Learning Assisted by Text-Guided Attention for Ards Prediction |  |  |  | 😾 | 
+| None | Surgical Scene Segmentation by Transformer with Asymmetric Feature Enhancement |  |  |  | 😾 | 
+| None | Swin-Kat: Advancing Swin Transformer with Kolmogorov-Arnold Network for CT Image Quality Assessment |  |  |  | 😾 | 
+| None | SwinDiff_ConSeg: Automatic Segmentation of Ureters in Consecutive CT Urography Based on Swin Transformer and Diffusion Model |  |  |  | 😾 | 
+| None | SwinDiff_DAS: Data Augmentation for Segmentation of the Urinary Collecting System Based on the Shift-Window Transformer and Diffusion Model |  |  |  | 😾 | 
+| None | SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation |  |  |  | 😾 | 
+| None | SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching Using Synthetic Training Pairs and Indirect Supervision |  |  |  | 😾 | 
+| None | SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data |  |  |  | 😾 | 
+| None | Synthesizing Proton-Density Fat Fraction and $R_2^{\ast}$ from 2-Point Dixon MRI with Generative Machine Learning |  |  |  | 😾 | 
+| None | Synthetic CT Generation from Time-of-Flight Non-Attenuation-Corrected PET for Whole-Body PET Attenuation Correction |  |  |  | 😾 | 
+| None | Synthetic H&E Generation from Highly Multiplixed Immunofluorescence Imaging using Deep-Learning |  |  |  | 😾 | 
+| None | T2-Only Prostate Cancer Prediction by Meta-Learning from BI-Parametric MR Imaging |  |  |  | 😾 | 
+| None | T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction |  |  |  | 😾 | 
+| None | TA-MIR: Text Aggregation for Multimodal Feature Representation in Medical Image Registration |  |  |  | 😾 | 
+| None | TC-MNET: Multi-Magnification Network Using Pvt and Convnext for Microscopic Image Segmentation |  |  |  | 😾 | 
+| None | TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis from Imaging, Clinical, and Radiomic Data Fusion |  |  |  | 😾 | 
+| None | TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement |  |  |  | 😾 | 
+| None | TV-Based Deep 3D Self Super-Resolution for FMRI |  |  |  | 😾 | 
+| None | TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays |  |  |  | 😾 | 
+| None | Targeting Prostate Biopsy: A Straightforward CNN Solution for 3D MR-Trus Image Registration |  |  |  | 😾 | 
+| None | Tau Pet Harmonization via Surface-Based Diffusion Model |  |  |  | 😾 | 
+| None | Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification |  |  |  | 😾 | 
+| None | Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection |  |  |  | 😾 | 
+| None | Test-Time Fluorescein Angiography-Free Non-Perfusion Area Segmentation from Fundus Image |  |  |  | 😾 | 
+| None | Texlivernet: Leveraging Medical Knowledge and Spatial-Frequency Perception for Enhanced Liver Tumor Segmentation |  |  |  | 😾 | 
+| None | Text-Guided Cross Pseudo Supervision for Semi-Supervised Multi-Organ Segmentation in Abdominal CT Scans |  |  |  | 😾 | 
+| None | Three-Dimensional Diffusion-Weighted Multi-Slab MRI with Slice Profile Compensation Using Deep Energy Model |  |  |  | 😾 | 
+| None | Tissue Characterization and Attenuation Mapping Using Multifrequency Ultrasound Imaging |  |  |  | 😾 | 
+| None | Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation |  |  |  | 😾 | 
+| None | TopoEEG: A Timesformer-Based Topographic Image Representation Method for Single-Trial Early Detection of P300 |  |  |  | 😾 | 
+| None | Topological Image Analysis of Coronary Calcifications for Improved Cardiovascular Risk Prediction from Screening Non-Contrast CT |  |  |  | 😾 | 
+| None | Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders |  |  |  | 😾 | 
+| None | Topology-Preserving Deep Supervision for 3D Axon Centerline Segmentation Using Partially Annotated Data |  |  |  | 😾 | 
+| None | Towards Classifying Histopathological Microscope Images as Time Series Data |  |  |  | 😾 | 
+| None | Towards Encoding 3D Abdominal MRI Acquisitions as Neural Fields |  |  |  | 😾 | 
+| None | Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability |  |  |  | 😾 | 
+| None | Towards Interactive 3D Surgical Scene Reconstruction: An Incremental Training and Monitoring Framework |  |  |  | 😾 | 
+| None | Towards Multi-Label Open Set Diagnosis for Medical Images |  |  |  | 😾 | 
+| None | Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair: Fully Automated Segmentation of the Aortic Valve in 4D CT |  |  |  | 😾 | 
+| None | Towards Polyp Counting in Full-Procedure Colonoscopy Videos |  |  |  | 😾 | 
+| None | Towards Spatial Transcriptomics-Guided Pathological Image Recognition with Batch-Agnostic Encoder |  |  |  | 😾 | 
+| None | Towards Zero-Shot Task-Generalizable Learning on FMRI |  |  |  | 😾 | 
+| None | TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds |  |  |  | 😾 | 
+| None | Tractogpt: A GPT Architecture for White Matter Tract Segmentation |  |  |  | 😾 | 
+| None | Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025) |  |  |  | 😾 | 
+| None | Transformer-Based T1-Tractography |  |  |  | 😾 | 
+| None | Trifuse: Triplet Encoders Network for Medical Image Segmentation |  |  |  | 😾 | 
+| None | U-Star: AN Asymmetric U-Shaped Network Based on Element-Wise Multiplication to Segment Nuclei in H&E Stained Histological Images |  |  |  | 😾 | 
+| None | UATTA-QSM: Uncertainty-Aware Test Time Adaptation for Improved Quantitative Susceptibility Mapping |  |  |  | 😾 | 
+| None | UNETVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM |  |  |  | 😾 | 
+| None | Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection |  |  |  | 😾 | 
+| None | Ultrasound Nerve Segmentation with Deep Learning for Leprosy |  |  |  | 😾 | 
+| None | UnSegMedGAT: Unsupervised Medical Image Segmentation Using Graph Attention Networks Clustering |  |  |  | 😾 | 
+| None | Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport |  |  |  | 😾 | 
+| None | UniCurvSeg: Learning Contextual Prompt for Universal Vessel-Like Curvilinear Structure Segmentation |  |  |  | 😾 | 
+| None | Unsupervised Anomaly Detection on Implicit Shape Representations for Sarcopenia Detection |  |  |  | 😾 | 
+| None | Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays |  |  |  | 😾 | 
+| None | Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns |  |  |  | 😾 | 
+| None | Utilizing Mask-Guided Cross-Image Attention for Zero-Shot In-Silico Histopathologic Image Generation with a Diffusion Model |  |  |  | 😾 | 
+| None | Utilizing Shape-features and GAN-Based Model for Renal Segmentation in DW-MRI |  |  |  | 😾 | 
+| None | Utilizing State Space Model for Diffusion Processes in Breast Tumor Pathological Image Super-Resolution |  |  |  | 😾 | 
+| None | VITG-VS: Preserving Spatial Heterogeneity in Virtual Staining of Renal Autofluorescence Images |  |  |  | 😾 | 
+| None | VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation |  |  |  | 😾 | 
+| None | Versatile Stain Transfer in Histopathology Using a Unified Diffusion Framework |  |  |  | 😾 | 
+| None | Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models |  |  |  | 😾 | 
+| None | Visual Prompting Unsupervised Domain Adaptation for Medical Image Segmentation |  |  |  | 😾 | 
+| None | Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound |  |  |  | 😾 | 
+| None | WAVE-VNET: Enhancing Medical Image Segmentation with Wavelet Transformer |  |  |  | 😾 | 
+| None | Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound |  |  |  | 😾 | 
+| None | Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning |  |  |  | 😾 | 
+| None | White Light Specular Reflection Data Augmentation for Deep Learning Polyp Detection |  |  |  | 😾 | 
+| None | XAI-PSSGAN: Perception-Enhanced Spectrum Shift Generative Adversarial Network with Explainable AI System for NIR-II Fluorescence Molecular Imaging |  |  |  | 😾 | 
+| None | XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder |  |  |  | 😾 | 
+| None | Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas |  |  |  | 😾 | 
+| None | [18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia |  |  |  | 😾 | 
 </details>
 
 <details>
@@ -3217,8 +3217,8 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 2686 | [MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization](2507.20562) | Hyung Kim | Poster |  | 😾 | 
 | 2689 | [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](2506.22375) | Tiankai Chen | Poster |  | 😾 | 
 | 2711 | [CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation](2504.20830) | Jianyu Wu | Poster |  | 😾 | 
-| 8312e8e7a8 | [EgoM2P: Egocentric Multimodal Multitask Pretraining](2506.07886) | Gen Li | None |  | 😾 | 
-| d283a8d992 | [ShortV: Efficient Multimodal Large Language Models by Freezing Visual Tokens in Ineffective Layers](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_ShortV_Efficient_Multimodal_Large_Language_Models_by_Freezing_Visual_Tokens_ICCV_2025_paper.html) |  | None |  | 😾 | 
+| 8312e8e7a8 | [EgoM2P: Egocentric Multimodal Multitask Pretraining](2506.07886) | Gen Li |  |  | 😾 | 
+| d283a8d992 | [ShortV: Efficient Multimodal Large Language Models by Freezing Visual Tokens in Ineffective Layers](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_ShortV_Efficient_Multimodal_Large_Language_Models_by_Freezing_Visual_Tokens_ICCV_2025_paper.html) |  |  |  | 😾 | 
 </details>
 
 <details>
