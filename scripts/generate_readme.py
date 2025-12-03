@@ -129,15 +129,17 @@ def build_grouped_markdown(grouped_papers):
         papers = grouped_papers[(conf, year)]
         paper_count = len(papers)
         
-        #papers = sorted(papers, key=lambda p: int(p["id"]))
         def sort_key(p):
-            id_ = str(p["id"])
+            # 尝试优先按 id 排序，如果没有 id 或格式异常，再退到按标题排序
+            raw_id = p.get("id")
+            if raw_id is None:
+                return (2, p.get("title", ""))
+            id_str = str(raw_id)
             try:
-                # 优先按数字排序
-                return (0, int(id_))
+                return (0, int(id_str))
             except ValueError:
-                # 不能转数字的，排在后面，再按字符串排序
-                return (1, id_)
+                return (1, id_str)
+
         papers = sorted(papers, key=sort_key)
 
         #header = f"### {conf} {year}\n\n共筛选出 {paper_count} 篇论文\n"
