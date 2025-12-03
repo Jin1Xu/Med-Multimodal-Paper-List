@@ -1,0 +1,1780 @@
+[
+  {
+    "title": "In vivo cell-type and brain region classification via multimodal contrastive learning",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/31226",
+    "id": "10JOlFIPjt",
+    "poster": "",
+    "openreview": "https://openreview.net/forum?id=10JOlFIPjt",
+    "author_site": "Han Yu, Hanrui Lyu, YiXun Xu, Charlie Windolf, Eric Lee, Fan Yang, Andrew Shelton, Olivier Winter, International Brain Laboratory, Eva Dyer, Chandramouli Chandrasekaran, Nicholas Steinmetz, Liam Paninski, Cole Hurwitz",
+    "tldr": "",
+    "abstract": "Current electrophysiological approaches can track the activity of many neurons, yet it is usually unknown which cell-types or brain areas are being recorded without further molecular or histological analysis. Developing accurate and scalable algorithms for identifying the cell-type and brain region of recorded neurons is thus crucial for improving our understanding of neural computation. In this work, we develop a multimodal contrastive learning approach for neural data that can be fine-tuned for different downstream tasks, including inference of cell-type and brain location. We utilize multimodal contrastive learning to jointly embed the activity autocorrelations and extracellular waveforms of individual neurons. We demonstrate that our embedding approach, Neuronal Embeddings via MultimOdal Contrastive Learning (NEMO), paired with supervised fine-tuning, achieves state-of-the-art cell-type classification for two opto-tagged datasets and brain region classification for the public International Brain Laboratory Brain-wide Map dataset. Our method represents a promising step towards accurate cell-type and brain region classification from electrophysiological recordings.",
+    "keywords": "contrastive learning;electrophysiology;extracellular;multimodal;neuroscience;cell type;brain region;Neuropixels;deep learning",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "Han Yu;Hanrui Lyu;YiXun Xu;Charlie Windolf;Eric Kenji Lee;Fan Yang;Andrew M Shelton;Olivier Winter;International Brain Laboratory;Eva L Dyer;Chandramouli Chandrasekaran;Nicholas A. Steinmetz;Liam Paninski;Cole Lincoln Hurwitz",
+    "authorids": "~Han_Yu13;~Hanrui_Lyu1;~YiXun_Xu1;~Charlie_Windolf1;~Eric_Kenji_Lee1;~Fan_Yang71;~Andrew_M_Shelton1;~Olivier_Winter1;~International_Brain_Laboratory1;~Eva_L_Dyer1;~Chandramouli_Chandrasekaran1;~Nicholas_A._Steinmetz1;~Liam_Paninski1;~Cole_Lincoln_Hurwitz1",
+    "gender": ";F;M;;M;F;;M;;;M;;;",
+    "homepage": ";;;;;;;;https://www.internationalbrainlab.com/;;http://www.chandlab.org;;;https://colehurwitz.github.io/",
+    "dblp": ";;;;;;;;;;;99/3005;94/2691;",
+    "google_scholar": "https://scholar.google.com/citations?hl=en;;;;9IEHT7wAAAAJ;;NcaSQbAAAAAJ;;83-cG94AAAAJ;;3Yeb98kAAAAJ;;;https://scholar.google.co.uk/citations?hl=en",
+    "orcid": "0000-0002-7110-7716;0000-0002-4349-8975;;;0000-0002-7166-0909;0009-0006-7261-4097;;0000-0001-9278-2721;;;0000-0002-1711-590X;;;",
+    "linkedin": ";;yixunxu/;;;;;;;;;;;",
+    "or_profile": "~Han_Yu13;~Hanrui_Lyu1;~YiXun_Xu1;~Charlie_Windolf1;~Eric_Kenji_Lee1;~Fan_Yang71;~Andrew_M_Shelton1;~Olivier_Winter1;~International_Brain_Laboratory1;~Eva_L_Dyer1;~Chandramouli_Chandrasekaran1;~Nicholas_A._Steinmetz1;~Liam_Paninski1;~Cole_Lincoln_Hurwitz1",
+    "aff": "Columbia University;Northwestern University, Northwestern University;;;Boston University, Boston University;MiraclePlus;Allen Institute for Brain Science;;University College London, University of London;;Boston University;;Columbia University;Columbia University",
+    "aff_domain": "columbia.edu;u.northwestern.edu;;;bu.edu;miracleplus.com;alleninstitute.org;;ucl.ac.uk;;bu.edu;;columbia.edu;columbia.edu",
+    "position": "PhD student;PhD student;;;PhD student;Researcher;Researcher;;Emeritus;;Assistant Professor;;Full Professor;Postdoc",
+    "bibtex": "@inproceedings{\nyu2025in,\ntitle={In vivo cell-type and brain region classification via multimodal contrastive learning},\nauthor={Han Yu and Hanrui Lyu and YiXun Xu and Charlie Windolf and Eric Kenji Lee and Fan Yang and Andrew M Shelton and Olivier Winter and International Brain Laboratory and Eva L Dyer and Chandramouli Chandrasekaran and Nicholas A. Steinmetz and Liam Paninski and Cole Lincoln Hurwitz},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=10JOlFIPjt}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "a6D4;YH4G;vN2L;iQCh",
+    "pdf_size": 8536767,
+    "rating": "6;8;8;8",
+    "confidence": "4;4;4;3",
+    "soundness": "3;4;3;4",
+    "contribution": "2;3;3;4",
+    "presentation": "4;4;3;4",
+    "wc_summary": "48;136;94;218",
+    "wc_strengths": "111;45;64;145",
+    "wc_weaknesses": "363;139;38;325",
+    "wc_questions": "205;152;124;91",
+    "wc_review": "727;472;320;779",
+    "wc_reply_reviewers": "76;23;22;0",
+    "wc_reply_authors": "697;545;400;407",
+    "reply_reviewers": "1;1;1;0",
+    "reply_authors": "1;1;1;1",
+    "rating_avg": [
+      7.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.5,
+      0.5
+    ],
+    "contribution_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "presentation_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      124.0,
+      62.56196927846821
+    ],
+    "wc_strengths_avg": [
+      91.25,
+      39.245222639195205
+    ],
+    "wc_weaknesses_avg": [
+      216.25,
+      133.32549456124286
+    ],
+    "wc_questions_avg": [
+      143.0,
+      41.803109932156964
+    ],
+    "wc_review_avg": [
+      574.5,
+      187.31857889702238
+    ],
+    "wc_reply_reviewers_avg": [
+      30.25,
+      27.9676152004421
+    ],
+    "wc_reply_authors_avg": [
+      512.25,
+      121.32884034721505
+    ],
+    "reply_reviewers_avg": [
+      0.75,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      1.0,
+      0.0
+    ],
+    "replies_avg": [
+      16,
+      0
+    ],
+    "authors#_avg": [
+      14,
+      0
+    ],
+    "corr_rating_confidence": -0.3333333333333333,
+    "gs_citation": 1,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=1751876006538001987&as_sdt=5,48&sciodt=0,48&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=10JOlFIPjt",
+    "email": "columbia.edu;u.northwestern.edu;;;bu.edu;miracleplus.com;alleninstitute.org;;ucl.ac.uk;;bu.edu;;columbia.edu;columbia.edu",
+    "author_num": 14,
+    "aff_unique_index": "0;1;2;2;3;4;5;2;6;2;3;2;0;0",
+    "aff_unique_norm": "Columbia University;Northwestern University;;Boston University;MiraclePlus;Allen Institute for Brain Science;University College London",
+    "aff_unique_dep": ";;;;;;",
+    "aff_unique_url": "https://www.columbia.edu;https://www.northwestern.edu;;https://www.bu.edu;;https://www.alleninstitute.org;https://www.ucl.ac.uk",
+    "aff_unique_abbr": "Columbia;NU;;BU;;Allen Institute;UCL",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Boston",
+    "aff_country_unique_index": "0;0;0;0;2;0;0;0",
+    "aff_country_unique": "United States;;United Kingdom",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Multi-modal brain encoding models for multi-modal stimuli",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/31247",
+    "id": "0dELcFHig2",
+    "poster": "/media/PosterPDFs/ICLR%202025/31247.png?t=1743610800.797328",
+    "openreview": "https://openreview.net/forum?id=0dELcFHig2",
+    "author_site": "SUBBA REDDY OOTA, Khushbu Pahwa, mounika marreddy, Maneeesh Singh, Manish Gupta, Raju Surampudi Bapi",
+    "tldr": "",
+    "abstract": "Despite participants engaging in unimodal stimuli, such as watching images or silent videos, recent work has demonstrated that multi-modal Transformer models can predict visual brain activity impressively well, even with incongruent modality representations. This raises the question of how accurately these multi-modal models can predict brain activity when participants are engaged in multi-modal stimuli. As these models grow increasingly popular, their use in studying neural activity provides insights into how our brains respond to such multi-modal naturalistic stimuli, i.e., where it separates and integrates information across modalities through a hierarchy of early sensory regions to higher cognition (language regions). We investigate this question by using multiple unimodal and two types of multi-modal models—cross-modal and jointly pretrained—to determine which type of models is more relevant to fMRI brain activity when participants are engaged in watching movies (videos with audio). We observe that both types of multi-modal models show improved alignment in several language and visual regions. This study also helps in identifying which brain regions process unimodal versus multi-modal information. We further investigate the contribution of each modality to multi-modal alignment by carefully removing unimodal features one by one from multi-modal representations, and find that there is additional information beyond the unimodal embeddings that is processed in the visual and language regions. Based on this investigation, we find that while for cross-modal models, their brain alignment is partially attributed to the video modality; for jointly pretrained models, it is partially attributed to both the video and audio modalities. These findings serve as strong motivation for the neuro-science community to investigate the interpretability of these models for deepening our understanding of multi-modal information processing in brain.",
+    "keywords": "brain encoding;fMRI;multi-modal models;multi-modal stimuli;Transformers;videos;speech;language",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "SUBBA REDDY OOTA;Khushbu Pahwa;mounika marreddy;Maneesh Kumar Singh;Manish Gupta;Bapi Raju Surampudi",
+    "authorids": "~SUBBA_REDDY_OOTA1;~Khushbu_Pahwa1;~mounika_marreddy1;~Maneesh_Kumar_Singh1;~Manish_Gupta1;~Bapi_Raju_Surampudi1",
+    "gender": "M;F;F;M;M;",
+    "homepage": "https://sites.google.com/view/subbareddyoota300/home?authuser=0;;;https://arxiv.org/search/?query=Singh%2C+Maneesh&searchtype=author&abstracts=show&order=-announced_date_first&size=50;https://sites.google.com/view/manishg/;",
+    "dblp": "190/1709;299/8490;206/3366;263/9205-1;g/ManishGupta1.html;",
+    "google_scholar": "https://scholar.google.co.in/citations?user=4Uz0LngAAAAJ;https://scholar.google.com/citations?hl=en;Ikqyo5sAAAAJ;hdQhiFgAAAAJ;https://scholar.google.co.in/citations?user=eX9PSu0AAAAJ;",
+    "orcid": "0000-0002-5975-622X;;;0000-0002-7414-1813;0000-0002-2843-3110;",
+    "linkedin": "subba-reddy-oota-11a91254/;khushbupahwa;;maneesh-singh-3523ab9/;manishsgupta/;",
+    "or_profile": "~SUBBA_REDDY_OOTA1;~Khushbu_Pahwa1;~mounika_marreddy1;~Maneesh_Kumar_Singh1;~Manish_Gupta1;~Bapi_Raju_Surampudi1",
+    "aff": "INRIA;Amazon;IIIT Hyderabad;Spector Inc;Microsoft;",
+    "aff_domain": "inria.fr;amazon.com;iiit.ac.in;spector.com;microsoft.com;",
+    "position": "PhD student;Applied Scientist;Researcher;Head, AI Research & Technologies;Principal Researcher;",
+    "bibtex": "@inproceedings{\noota2025multimodal,\ntitle={Multi-modal brain encoding models for multi-modal stimuli},\nauthor={SUBBA REDDY OOTA and Khushbu Pahwa and mounika marreddy and Maneesh Kumar Singh and Manish Gupta and Bapi Raju Surampudi},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=0dELcFHig2}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "8Uj4;cWB1;gD8j",
+    "pdf_size": 3022939,
+    "rating": "6;6;8",
+    "confidence": "4;3;4",
+    "soundness": "3;3;3",
+    "contribution": "3;3;3",
+    "presentation": "3;3;3",
+    "wc_summary": "73;149;77",
+    "wc_strengths": "43;105;63",
+    "wc_weaknesses": "423;485;201",
+    "wc_questions": "74;108;125",
+    "wc_review": "613;847;466",
+    "wc_reply_reviewers": "234;250;31",
+    "wc_reply_authors": "2163;2284;1263",
+    "reply_reviewers": "2;1;1",
+    "reply_authors": "5;6;4",
+    "rating_avg": [
+      6.666666666666667,
+      0.9428090415820634
+    ],
+    "confidence_avg": [
+      3.6666666666666665,
+      0.4714045207910317
+    ],
+    "soundness_avg": [
+      3.0,
+      0.0
+    ],
+    "contribution_avg": [
+      3.0,
+      0.0
+    ],
+    "presentation_avg": [
+      3.0,
+      0.0
+    ],
+    "wc_summary_avg": [
+      99.66666666666667,
+      34.92213560989012
+    ],
+    "wc_strengths_avg": [
+      70.33333333333333,
+      25.837096500101467
+    ],
+    "wc_weaknesses_avg": [
+      369.6666666666667,
+      121.92165061583152
+    ],
+    "wc_questions_avg": [
+      102.33333333333333,
+      21.202725191719
+    ],
+    "wc_review_avg": [
+      642.0,
+      156.8884954354525
+    ],
+    "wc_reply_reviewers_avg": [
+      171.66666666666666,
+      99.68060103260926
+    ],
+    "wc_reply_authors_avg": [
+      1903.3333333333333,
+      455.4706967034823
+    ],
+    "reply_reviewers_avg": [
+      1.3333333333333333,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      5.0,
+      0.816496580927726
+    ],
+    "replies_avg": [
+      26,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": 0.49999999999999983,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:pEBoAahqUrAJ:scholar.google.com/&scioq=Multi-modal+brain+encoding+models+for+multi-modal+stimuli&hl=en&as_sdt=0,5",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=0dELcFHig2",
+    "email": "inria.fr;amazon.com;iiit.ac.in;spector.com;microsoft.com;",
+    "author_num": 6,
+    "aff_unique_index": "0;1;2;3;4;5",
+    "aff_unique_norm": "INRIA;Amazon;International Institute of Information Technology, Hyderabad;Spector Inc;Microsoft;",
+    "aff_unique_dep": ";Amazon.com, Inc.;;;Microsoft Corporation;",
+    "aff_unique_url": "https://www.inria.fr;https://www.amazon.com;https://iiit Hyderabad.ac.in;;https://www.microsoft.com;",
+    "aff_unique_abbr": "INRIA;Amazon;IIIT-H;;Microsoft;",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Hyderabad",
+    "aff_country_unique_index": "0;1;2;1;1",
+    "aff_country_unique": "France;United States;India;",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "CREIMBO: Cross-Regional Ensemble Interactions in Multi-view Brain Observations",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/31159",
+    "id": "28abpUEICJ",
+    "poster": "/media/PosterPDFs/ICLR%202025/31159.png?t=1744291248.772909",
+    "openreview": "https://openreview.net/forum?id=28abpUEICJ",
+    "author_site": "Noga Mudrik, Ryan Ly, Oliver Ruebel, Adam Charles",
+    "tldr": "",
+    "abstract": "Modern recordings of neural activity provide diverse observations of neurons across brain areas, behavioral conditions, and subjects; presenting an exciting opportunity to reveal the fundamentals of brain-wide dynamics. Current analysis methods, however, often fail to fully harness the richness of such data, as they provide either uninterpretable representations (e.g., via deep networks) or oversimplify models (e.g., by assuming stationary dynamics or analyzing each session independently). Here, instead of regarding asynchronous neural recordings that lack alignment in neural identity or brain areas as a limitation, we leverage these diverse views into the brain to learn a unified model of neural dynamics. Specifically, we assume that brain activity is driven by multiple hidden global sub-circuits. These sub-circuits represent global basis interactions between neural ensembles—functional groups of neurons—such that the time-varying decomposition of these sub-circuits defines how the ensembles' interactions evolve over time non-stationarily and non-linearly.\nWe discover the neural ensembles underlying non-simultaneous observations, along with their non-stationary evolving interactions, with our new model, **CREIMBO** (**C**ross-**R**egional **E**nsemble **I**nteractions in **M**ulti-view **B**rain **O**bservations). CREIMBO identifies the hidden composition of per-session neural ensembles through novel graph-driven dictionary learning and models the ensemble dynamics on a low-dimensional manifold spanned by a sparse time-varying composition of the global sub-circuits. Thus, CREIMBO disentangles overlapping temporal neural processes while preserving interpretability due to the use of a shared underlying sub-circuit basis. Moreover, CREIMBO distinguishes session-specific computations from global (session-invariant) ones by identifying session covariates and variations in sub-circuit activations. We demonstrate CREIMBO's ability to recover true components in synthetic data, and uncover meaningful brain dynamics in human high-density electrode recordings, including cross-subject neural mechanisms as well as  inter- vs. intra-region dynamical motifs. Furthermore, using mouse whole-brain recordings, we show CREIMBO's ability to discover dynamical interactions that capture task and behavioral variables and meaningfully align with the biological importance of the brain areas they represent.",
+    "keywords": "computational neuroscience;multi-regional brain interactions;sparsity;cross-session variability;dynamical systems modeling;neural dynamics;non-simultaneous neural recordings",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "/attachment/867767addb71089d7402d432375a4ca0b5d64609.zip",
+    "author": "Noga Mudrik;Ryan Ly;Oliver Ruebel;Adam Shabti Charles",
+    "authorids": "~Noga_Mudrik1;~Ryan_Ly1;~Oliver_Ruebel1;~Adam_Shabti_Charles1",
+    "gender": ";M;M;M",
+    "homepage": ";;https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/oliver-ruebel-bio/;https://www.bme.jhu.edu/ascharles/",
+    "dblp": ";;;04/10257",
+    "google_scholar": ";;5M5nkGAAAAAJ;c8RKLp0AAAAJ",
+    "orcid": ";0000-0001-9238-0642;;",
+    "linkedin": ";;;",
+    "or_profile": "~Noga_Mudrik1;~Ryan_Ly1;~Oliver_Ruebel1;~Adam_Shabti_Charles1",
+    "aff": ";Lawrence Berkeley National Lab;Lawrence Berkeley National Lab;Johns Hopkins University",
+    "aff_domain": ";lbl.gov;lbl.gov;jhu.edu",
+    "position": ";Researcher;Researcher;Assistant Professor",
+    "bibtex": "@inproceedings{\nmudrik2025creimbo,\ntitle={{CREIMBO}: Cross-Regional Ensemble Interactions in Multi-view Brain Observations},\nauthor={Noga Mudrik and Ryan Ly and Oliver Ruebel and Adam Shabti Charles},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=28abpUEICJ}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "jy8o;eTfH;8qa1",
+    "pdf_size": 48877702,
+    "rating": "6;8;8",
+    "confidence": "4;4;4",
+    "soundness": "3;3;4",
+    "contribution": "2;3;3",
+    "presentation": "4;3;3",
+    "wc_summary": "107;68;107",
+    "wc_strengths": "78;75;159",
+    "wc_weaknesses": "262;384;131",
+    "wc_questions": "49;243;169",
+    "wc_review": "496;770;566",
+    "wc_reply_reviewers": "202;19;0",
+    "wc_reply_authors": "2267;1729;1744",
+    "reply_reviewers": "1;1;0",
+    "reply_authors": "8;3;4",
+    "rating_avg": [
+      7.333333333333333,
+      0.9428090415820634
+    ],
+    "confidence_avg": [
+      4.0,
+      0.0
+    ],
+    "soundness_avg": [
+      3.3333333333333335,
+      0.4714045207910317
+    ],
+    "contribution_avg": [
+      2.6666666666666665,
+      0.4714045207910317
+    ],
+    "presentation_avg": [
+      3.3333333333333335,
+      0.4714045207910317
+    ],
+    "wc_summary_avg": [
+      94.0,
+      18.384776310850235
+    ],
+    "wc_strengths_avg": [
+      104.0,
+      38.91015291668744
+    ],
+    "wc_weaknesses_avg": [
+      259.0,
+      103.30859919032233
+    ],
+    "wc_questions_avg": [
+      153.66666666666666,
+      79.9388655299925
+    ],
+    "wc_review_avg": [
+      610.6666666666666,
+      116.23348150262997
+    ],
+    "wc_reply_reviewers_avg": [
+      73.66666666666667,
+      91.07628060526454
+    ],
+    "wc_reply_authors_avg": [
+      1913.3333333333333,
+      250.1550630220295
+    ],
+    "reply_reviewers_avg": [
+      0.6666666666666666,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      5.0,
+      2.160246899469287
+    ],
+    "replies_avg": [
+      23,
+      0
+    ],
+    "authors#_avg": [
+      4,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:WbkhP5aI2N8J:scholar.google.com/&scioq=CREIMBO:+Cross-Regional+Ensemble+Interactions+in+Multi-view+Brain+Observations&hl=en&as_sdt=0,10",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=28abpUEICJ",
+    "email": ";lbl.gov;lbl.gov;jhu.edu",
+    "author_num": 4,
+    "aff_unique_index": "0;1;1;2",
+    "aff_unique_norm": ";Lawrence Berkeley National Laboratory;Johns Hopkins University",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": ";https://www.lbl.gov;https://www.jhu.edu",
+    "aff_unique_abbr": ";LBNL;JHU",
+    "aff_campus_unique_index": "1;1",
+    "aff_campus_unique": ";Berkeley",
+    "aff_country_unique_index": "1;1;1",
+    "aff_country_unique": ";United States",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "BrainOOD: Out-of-distribution Generalizable Brain Network Analysis",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/31047",
+    "id": "3xqqYOKILp",
+    "poster": "/media/PosterPDFs/ICLR%202025/31047.png?t=1744285844.495982",
+    "openreview": "https://openreview.net/forum?id=3xqqYOKILp",
+    "author_site": "Jiaxing Xu, Yongqiang Chen, Xia Dong, Mengcheng Lan, Tiancheng HUANG, Qingtian Bian, James Cheng, Yiping Ke",
+    "tldr": "",
+    "abstract": "In neuroscience, identifying distinct patterns linked to neurological disorders, such as Alzheimer's and Autism, is critical for early diagnosis and effective intervention. Graph Neural Networks (GNNs) have shown promising in analyzing brain networks, but there are two major challenges in using GNNs: (1) distribution shifts in multi-site brain network data, leading to poor Out-of-Distribution (OOD) generalization, and (2) limited interpretability in identifying key brain regions critical to neurological disorders. Existing graph OOD methods, while effective in other domains, struggle with the unique characteristics of brain networks. To bridge these gaps, we introduce BrainOOD,  a novel framework tailored for brain networks that enhances GNNs' OOD generalization and interpretability. BrainOOD framework consists of a feature selector and a structure extractor, which incorporates various auxiliary losses including an improved Graph Information Bottleneck (GIB) objective to recover causal subgraphs. By aligning structure selection across brain networks and filtering noisy features, BrainOOD offers reliable interpretations of critical brain regions. Our approach outperforms 16 existing methods and improves generalization to OOD subjects by up to 8.5%. Case studies highlight the scientific validity of the patterns extracted, which aligns with the findings in known neuroscience literature. We also propose the first OOD brain network benchmark, which provides a foundation for future research in this field. Our code is available at https://github.com/AngusMonroe/BrainOOD.",
+    "keywords": "Out-of-distribution Generalization;Brain Network Analysis;Graph Representation Learning",
+    "primary_area": "learning on graphs and other geometries & topologies",
+    "supplementary_material": "/attachment/48ef10365249d02adad56da8d92951fd0e52c0e8.pdf",
+    "author": "Jiaxing Xu;Yongqiang Chen;Xia Dong;Mengcheng Lan;Tiancheng HUANG;Qingtian Bian;James Cheng;Yiping Ke",
+    "authorids": "~Jiaxing_Xu2;~Yongqiang_Chen1;~Xia_Dong1;~Mengcheng_Lan1;~Tiancheng_HUANG1;~Qingtian_Bian1;~James_Cheng2;~Yiping_Ke1",
+    "gender": ";;F;M;;M;M;F",
+    "homepage": ";https://lfhase.win;https://www.linkedin.com/in/xia-dong-6b2a76314/;;;;https://www.cse.cuhk.edu.hk/~jcheng/;https://keyiping.wixsite.com/index",
+    "dblp": ";76/5774-2;234/9561;250/5850;;348/5974;06/4171;07/3111",
+    "google_scholar": ";huQ_Ig8AAAAJ;https://scholar.google.com.hk/citations?user=7cLcc2cAAAAJ;https://scholar.google.com.hk/citations?user=CtQbdvkAAAAJ;1HuklwQAAAAJ;https://scholar.google.com.sg/citations?hl=en;;https://scholar.google.com.tw/citations?user=30Fp0YYAAAAJ",
+    "orcid": ";;0000-0003-2412-3120;0000-0002-3311-0295;;0000-0002-6864-8992;;0000-0001-9473-3202",
+    "linkedin": ";;xia-dong-6b2a76314/;;;dimarzio-qingtian-bian-952a69176/;;",
+    "or_profile": "~Jiaxing_Xu2;~Yongqiang_Chen1;~Xia_Dong1;~Mengcheng_Lan1;~Tiancheng_HUANG1;~Qingtian_Bian1;~James_Cheng2;~Yiping_Ke1",
+    "aff": ";Carnegie Mellon University;Nanyang Technological University;Nanyang Technological University;Nanyang Technological University;Nanyang Technological University;The Chinese University of Hong Kong;Nanyang Technological University",
+    "aff_domain": ";cmu.edu;ntu.edu.sg;ntu.edu.sg;ntu.edu.sg;ntu.edu.sg;cuhk.edu.hk;ntu.edu.sg",
+    "position": ";Postdoc;Postdoc;PhD student;Postdoc;PhD student;Associate Professor;Associate Professor",
+    "bibtex": "@inproceedings{\nxu2025brainood,\ntitle={Brain{OOD}: Out-of-distribution Generalizable Brain Network Analysis},\nauthor={Jiaxing Xu and Yongqiang Chen and Xia Dong and Mengcheng Lan and Tiancheng HUANG and Qingtian Bian and James Cheng and Yiping Ke},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=3xqqYOKILp}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "GyEy;G3Bt;wZYM",
+    "pdf_size": 2294179,
+    "rating": "5;5;6",
+    "confidence": "4;4;4",
+    "soundness": "3;3;2",
+    "contribution": "2;2;2",
+    "presentation": "2;3;2",
+    "wc_summary": "49;82;73",
+    "wc_strengths": "18;118;81",
+    "wc_weaknesses": "70;245;192",
+    "wc_questions": "201;141;95",
+    "wc_review": "338;586;441",
+    "wc_reply_reviewers": "45;48;0",
+    "wc_reply_authors": "978;1282;1001",
+    "reply_reviewers": "1;1;0",
+    "reply_authors": "3;4;2",
+    "rating_avg": [
+      5.333333333333333,
+      0.4714045207910317
+    ],
+    "confidence_avg": [
+      4.0,
+      0.0
+    ],
+    "soundness_avg": [
+      2.6666666666666665,
+      0.4714045207910317
+    ],
+    "contribution_avg": [
+      2.0,
+      0.0
+    ],
+    "presentation_avg": [
+      2.3333333333333335,
+      0.4714045207910317
+    ],
+    "wc_summary_avg": [
+      68.0,
+      13.92838827718412
+    ],
+    "wc_strengths_avg": [
+      72.33333333333333,
+      41.282226468811274
+    ],
+    "wc_weaknesses_avg": [
+      169.0,
+      73.27118578722926
+    ],
+    "wc_questions_avg": [
+      145.66666666666666,
+      43.39994879669278
+    ],
+    "wc_review_avg": [
+      455.0,
+      101.7283965599904
+    ],
+    "wc_reply_reviewers_avg": [
+      31.0,
+      21.95449840010015
+    ],
+    "wc_reply_authors_avg": [
+      1087.0,
+      138.2051615051575
+    ],
+    "reply_reviewers_avg": [
+      0.6666666666666666,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      3.0,
+      0.816496580927726
+    ],
+    "replies_avg": [
+      17,
+      0
+    ],
+    "authors#_avg": [
+      8,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:osCbhHGUBPYJ:scholar.google.com/&scioq=BrainOOD:+Out-of-distribution+Generalizable+Brain+Network+Analysis&hl=en&as_sdt=0,34",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=3xqqYOKILp",
+    "email": ";cmu.edu;ntu.edu.sg;ntu.edu.sg;ntu.edu.sg;ntu.edu.sg;cuhk.edu.hk;ntu.edu.sg",
+    "author_num": 8,
+    "aff_unique_index": "0;1;2;2;2;2;3;2",
+    "aff_unique_norm": ";Carnegie Mellon University;Nanyang Technological University;Chinese University of Hong Kong",
+    "aff_unique_dep": ";;;",
+    "aff_unique_url": ";https://www.cmu.edu;https://www.ntu.edu.sg;https://www.cuhk.edu.hk",
+    "aff_unique_abbr": ";CMU;NTU;CUHK",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Hong Kong SAR",
+    "aff_country_unique_index": "1;2;2;2;2;3;2",
+    "aff_country_unique": ";United States;Singapore;China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/31069",
+    "id": "3b9SKkRAKw",
+    "poster": "",
+    "openreview": "https://openreview.net/forum?id=3b9SKkRAKw",
+    "author_site": "Hantao Zhang, Yuhe Liu, Jiancheng Yang, Shouhong Wan, Xinyuan Wang, Wei Peng, Pascal Fua",
+    "tldr": "",
+    "abstract": "Patient data from real-world clinical practice often suffers from data scarcity and long-tail imbalances, leading to biased outcomes or algorithmic unfairness. This study addresses these challenges by generating lesion-containing image-segmentation pairs from lesion-free images. Previous efforts in medical imaging synthesis have struggled with separating lesion information from background, resulting in low-quality backgrounds and limited control over the synthetic output. Inspired by diffusion-based image inpainting, we propose LeFusion, a lesion-focused diffusion model. By redesigning the diffusion learning objectives to focus on lesion areas, we simplify the learning process and improve control over the output while preserving high-fidelity backgrounds by integrating forward-diffused background contexts into the reverse diffusion process. Additionally, we tackle two major challenges in lesion texture synthesis: 1) multi-peak and 2) multi-class lesions. We introduce two effective strategies: histogram-based texture control and multi-channel decomposition, enabling the controlled generation of high-quality lesions in difficult scenarios. Furthermore, we incorporate lesion mask diffusion, allowing control over lesion size, location, and boundary, thus increasing lesion diversity. Validated on 3D cardiac lesion MRI and lung nodule CT datasets, LeFusion-generated data significantly improves the performance of state-of-the-art segmentation models, including nnUNet and SwinUNETR.",
+    "keywords": "data synthesis;diffusion models;cardiac MRI;lung nodule CT;segmentation",
+    "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
+    "supplementary_material": "",
+    "author": "Hantao Zhang;Yuhe Liu;Jiancheng Yang;Shouhong Wan;Xinyuan Wang;Wei Peng;Pascal Fua",
+    "authorids": "~Hantao_Zhang2;~Yuhe_Liu3;~Jiancheng_Yang3;~Shouhong_Wan1;~Xinyuan_Wang2;~Wei_Peng4;~Pascal_Fua1",
+    "gender": "M;M;;;M;M;M",
+    "homepage": "https://kdelab.ustc.edu.cn/;https://blog.csdn.net/m0_73857067?spm=1010.2135.3001.5343;;;https://dirtycomputer.github.io/;https://xiaoiker.github.io/;https://people.epfl.ch/pascal.fua/bio?lang=en",
+    "dblp": ";;;;81/3778-9;16/5560-9.html;f/PFua",
+    "google_scholar": "7RJH908AAAAJ;;;;jQSagnIAAAAJ;TDFM0QYAAAAJ;https://scholar.google.com/citations?view_op=list_works",
+    "orcid": ";;;;;0000-0002-2892-5764;",
+    "linkedin": ";;;;;;pascal-fua-epfl/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BOz8ffqlCTcmui5v37AilTQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=IhLn%2B0y4Rj23iI9XNMDNwA%3D%3D",
+    "or_profile": "~Hantao_Zhang2;~Yuhe_Liu3;~Jiancheng_Yang3;~Shouhong_Wan1;~Xinyuan_Wang2;~Wei_Peng4;~Pascal_Fua1",
+    "aff": "University of Science and Technology of China;Beihang University;;;Beihang University;Stanford University;EPFL - EPF Lausanne",
+    "aff_domain": "ustc.edu.cn;buaa.edu.cn;;;buaa.edu.cn;stanford.edu;epfl.ch",
+    "position": "MS student;Undergrad student;;;MS student;Postdoc;Full Professor",
+    "bibtex": "@inproceedings{\nzhang2025lefusion,\ntitle={LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models},\nauthor={Hantao Zhang and Yuhe Liu and Jiancheng Yang and Shouhong Wan and Xinyuan Wang and Wei Peng and Pascal Fua},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=3b9SKkRAKw}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "f4py;XM6f;rF6W;afPU",
+    "pdf_size": 3779285,
+    "rating": "8;8;8;8",
+    "confidence": "5;5;5;3",
+    "soundness": "3;3;4;4",
+    "contribution": "3;3;3;3",
+    "presentation": "3;3;4;3",
+    "wc_summary": "113;324;126;34",
+    "wc_strengths": "53;239;352;10",
+    "wc_weaknesses": "45;684;351;74",
+    "wc_questions": "76;11;208;48",
+    "wc_review": "287;1258;1037;166",
+    "wc_reply_reviewers": "26;0;160;35",
+    "wc_reply_authors": "846;2161;1508;434",
+    "reply_reviewers": "1;0;1;1",
+    "reply_authors": "3;4;5;2",
+    "rating_avg": [
+      8.0,
+      0.0
+    ],
+    "confidence_avg": [
+      4.5,
+      0.8660254037844386
+    ],
+    "soundness_avg": [
+      3.5,
+      0.5
+    ],
+    "contribution_avg": [
+      3.0,
+      0.0
+    ],
+    "presentation_avg": [
+      3.25,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      149.25,
+      106.85825892274308
+    ],
+    "wc_strengths_avg": [
+      163.5,
+      138.74887386930388
+    ],
+    "wc_weaknesses_avg": [
+      288.5,
+      257.6960418787995
+    ],
+    "wc_questions_avg": [
+      85.75,
+      74.25084174607046
+    ],
+    "wc_review_avg": [
+      687.0,
+      469.03677894169454
+    ],
+    "wc_reply_reviewers_avg": [
+      55.25,
+      61.82788610327867
+    ],
+    "wc_reply_authors_avg": [
+      1237.25,
+      656.6785267541493
+    ],
+    "reply_reviewers_avg": [
+      0.75,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      3.5,
+      1.118033988749895
+    ],
+    "replies_avg": [
+      25,
+      0
+    ],
+    "authors#_avg": [
+      7,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:MFQA31DoShcJ:scholar.google.com/&scioq=LeFusion:+Controllable+Pathology+Synthesis+via+Lesion-Focused+Diffusion+Models&hl=en&as_sdt=0,5",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=3b9SKkRAKw",
+    "email": "ustc.edu.cn;buaa.edu.cn;;;buaa.edu.cn;stanford.edu;epfl.ch",
+    "author_num": 7,
+    "aff_unique_index": "0;1;2;2;1;3;4",
+    "aff_unique_norm": "University of Science and Technology of China;Beihang University;;Stanford University;EPFL",
+    "aff_unique_dep": ";;;;",
+    "aff_unique_url": "http://www.ustc.edu.cn;http://www.buaa.edu.cn/;;https://www.stanford.edu;https://www.epfl.ch",
+    "aff_unique_abbr": "USTC;BUAA;;Stanford;EPFL",
+    "aff_campus_unique_index": "1;2",
+    "aff_campus_unique": ";Stanford;Lausanne",
+    "aff_country_unique_index": "0;0;0;2;3",
+    "aff_country_unique": "China;;United States;Switzerland",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30688",
+    "id": "9UGfOJBuL8",
+    "poster": "/media/PosterPDFs/ICLR%202025/30688.png?t=1743751290.048412",
+    "openreview": "https://openreview.net/forum?id=9UGfOJBuL8",
+    "author_site": "Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, Won Hwa Kim",
+    "tldr": "",
+    "abstract": "Modeling the progression of neurodegenerative diseases such as Alzheimer’s disease (AD) is crucial for early detection and prevention given their irreversible nature. However, the scarcity of longitudinal data and complex disease dynamics make the analysis highly challenging. Moreover, longitudinal samples often contain irregular and large intervals between subject visits, which underscore the necessity for advanced data generation techniques that can accurately simulate disease progression over time. In this regime, we propose a novel conditional generative model for synthesizing longitudinal sequences and present its application to neurodegenerative disease data generation conditioned on multiple time-dependent ordinal factors, such as age and disease severity. Our method sequentially generates continuous data by bridging gaps between sparse data points with a diffusion model, ensuring a realistic representation of disease progression. The synthetic data are curated to integrate both cohort-level and individual-specific characteristics, where the cohort-level representations are modeled with an ordinal regression to capture longitudinally monotonic behavior. Extensive experiments on four AD biomarkers validate the superiority of our method over nine baseline approaches, highlighting its potential to be applied to a variety of longitudinal data generation.",
+    "keywords": "neurodegenerative disease;conditional diffusion model;longitudinal data analysis",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "/attachment/4905552c9c2b9692a4a5a89cc01e2938b1247bbf.zip",
+    "author": "Hyuna Cho;Ziquan Wei;Seungjoo Lee;Tingting Dan;Guorong Wu;Won Hwa Kim",
+    "authorids": "~Hyuna_Cho1;~Ziquan_Wei1;~Seungjoo_Lee3;~Tingting_Dan1;~Guorong_Wu1;~Won_Hwa_Kim4",
+    "gender": "F;M;F;F;M;M",
+    "homepage": "https://sites.google.com/view/hyunacho;https://ziquanw.com/;;https://www.researchgate.net/profile/Tingting_Dan;https://www.acmlab.org/;https://wwplato.github.io/",
+    "dblp": "302/4777;206/5669;;223/8556;03/5225-1.html;12/10278",
+    "google_scholar": ";z1IYb2oAAAAJ;;FMcmg0gAAAAJ;XVsMB2kAAAAJ;aWPSHNwAAAAJ",
+    "orcid": ";0000-0001-6553-4482;;;0000-0002-0550-6145;",
+    "linkedin": ";weiziquan142857/;seungjoo-lee-167833185;;;",
+    "or_profile": "~Hyuna_Cho1;~Ziquan_Wei1;~Seungjoo_Lee3;~Tingting_Dan1;~Guorong_Wu1;~Won_Hwa_Kim1",
+    "aff": "Pohang University of Science and Technology;University of North Carolina at Chapel Hill;Pohang University of Science and Technology;University of North Carolina at Chapel Hill;University of North Carolina, Chapel Hill;Pohang University of Science and Technology",
+    "aff_domain": "postech.ac.kr;unc.edu;postech.ac.kr;unc.edu;unc.edu;postech.ac.kr",
+    "position": "PhD student;PhD student;MS student;Postdoc;Associate Professor;Associate Professor",
+    "bibtex": "@inproceedings{\ncho2025conditional,\ntitle={Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies},\nauthor={Hyuna Cho and Ziquan Wei and Seungjoo Lee and Tingting Dan and Guorong Wu and Won Hwa Kim},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=9UGfOJBuL8}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "xa3Q;jkdK;rUXZ",
+    "pdf_size": 27355743,
+    "rating": "6;8;8",
+    "confidence": "4;3;4",
+    "soundness": "2;3;3",
+    "contribution": "3;3;3",
+    "presentation": "2;2;4",
+    "wc_summary": "57;132;36",
+    "wc_strengths": "43;117;28",
+    "wc_weaknesses": "159;112;140",
+    "wc_questions": "227;174;168",
+    "wc_review": "486;535;372",
+    "wc_reply_reviewers": "12;14;0",
+    "wc_reply_authors": "1118;953;1154",
+    "reply_reviewers": "1;1;0",
+    "reply_authors": "2;2;2",
+    "rating_avg": [
+      7.333333333333333,
+      0.9428090415820634
+    ],
+    "confidence_avg": [
+      3.6666666666666665,
+      0.4714045207910317
+    ],
+    "soundness_avg": [
+      2.6666666666666665,
+      0.4714045207910317
+    ],
+    "contribution_avg": [
+      3.0,
+      0.0
+    ],
+    "presentation_avg": [
+      2.6666666666666665,
+      0.9428090415820634
+    ],
+    "wc_summary_avg": [
+      75.0,
+      41.20679555607303
+    ],
+    "wc_strengths_avg": [
+      62.666666666666664,
+      38.90444133457716
+    ],
+    "wc_weaknesses_avg": [
+      137.0,
+      19.30457631409368
+    ],
+    "wc_questions_avg": [
+      189.66666666666666,
+      26.512051766864232
+    ],
+    "wc_review_avg": [
+      464.3333333333333,
+      68.28534900612934
+    ],
+    "wc_reply_reviewers_avg": [
+      8.666666666666666,
+      6.182412330330469
+    ],
+    "wc_reply_authors_avg": [
+      1075.0,
+      87.50999942863673
+    ],
+    "reply_reviewers_avg": [
+      0.6666666666666666,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      2.0,
+      0.0
+    ],
+    "replies_avg": [
+      16,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": -0.49999999999999983,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:nshnBz2wCYwJ:scholar.google.com/&scioq=Conditional+Diffusion+with+Ordinal+Regression:+Longitudinal+Data+Generation+for+Neurodegenerative+Disease+Studies&hl=en&as_sdt=0,44",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=9UGfOJBuL8",
+    "email": "postech.ac.kr;unc.edu;postech.ac.kr;unc.edu;unc.edu;postech.ac.kr",
+    "author_num": 6,
+    "aff_unique_index": "0;1;0;1;1;0",
+    "aff_unique_norm": "Pohang University of Science and Technology;University of North Carolina",
+    "aff_unique_dep": ";",
+    "aff_unique_url": "https://www.postech.ac.kr;https://www.unc.edu",
+    "aff_unique_abbr": "POSTECH;UNC",
+    "aff_campus_unique_index": "0;1;0;1;1;0",
+    "aff_campus_unique": "Pohang;Chapel Hill",
+    "aff_country_unique_index": "0;1;0;1;1;0",
+    "aff_country_unique": "South Korea;United States",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30644",
+    "id": "AD5yx2xq8R",
+    "poster": "/media/PosterPDFs/ICLR%202025/30644.png?t=1743705820.9065027",
+    "openreview": "https://openreview.net/forum?id=AD5yx2xq8R",
+    "author_site": "Hanning Guo, Farah Abdellatif, Yu Fu, N. Shah, Abigail Morrison, Jürgen Dammers",
+    "tldr": "",
+    "abstract": "EEG-based connectomes offer a low-cost and portable method to identify brain disorders using deep learning. With the growing interest in model interpretability and transparency, explainable artificial intelligence (XAI) is widely applied to understand the decision of deep learning models. However, most research focuses solely on interpretability analysis based on the insights from XAI, overlooking XAI’s potential to improve model performance. To bridge this gap, we propose a dynamical-system-inspired architecture, XAI guided transformer (XAIguiFormer), where XAI not only provides explanations but also contributes to enhancing the transformer by refining the originally coarse information in self-attention mechanism to capture more relevant dependency relationships. In order not to damage the connectome’s topological structure, the connectome tokenizer treats the single-band graphs as atomic tokens to generate a sequence in the frequency domain. To address the limitations of conventional positional encoding in understanding the frequency and mitigating the individual differences, we integrate frequency and demographic information into tokens via a rotation matrix, resulting in a richly informative representation. Our experiment demonstrates that XAIguiFormer achieves superior performance over all baseline models. In addition, XAIguiFormer provides valuable interpretability through visualization of the frequency band importance. Our code is available at https://github.com/HanningGuo/XAIguiFormer.",
+    "keywords": "EEG;Explainable Artificial Intelligence (XAI);Explanation-Guided Learning;Transformer",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "/attachment/ecd3ef84e495828d4d2f468ab95ce60ce76fbc2c.pdf",
+    "author": "Hanning Guo;Farah Abdellatif;Yu Fu;N. Jon Shah;Abigail Morrison;Jürgen Dammers",
+    "authorids": "~Hanning_Guo1;~Farah_Abdellatif1;~Yu_Fu6;~N._Jon_Shah1;~Abigail_Morrison1;~Jürgen_Dammers1",
+    "gender": "M;F;M;M;F;M",
+    "homepage": ";;https://www.researchgate.net/profile/Yu-Fu-63;https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-4/EN/MR-Physik/Shah.html;https://www.fz-juelich.de/inm/inm-6/EN/Forschung/Morrison/artikel.html;https://www.fz-juelich.de/en/inm/inm-4/neuro-image-date-science",
+    "dblp": "50/8463;;;;46/3201;",
+    "google_scholar": "IIGSFM8AAAAJ;;PfmSvNMAAAAJ;;D527oQ4AAAAJ;",
+    "orcid": ";;0000-0002-9795-7807;0000-0002-8151-6169;0000-0001-6933-797X;0000-0003-1526-6592",
+    "linkedin": ";farah-abdellatif-86a260204?originalSubdomain=de;;;;",
+    "or_profile": "~Hanning_Guo1;~Farah_Abdellatif1;~Yu_Fu6;~N._Jon_Shah1;~Abigail_Morrison1;~Jürgen_Dammers1",
+    "aff": "Rheinisch Westfälische Technische Hochschule Aachen;Forschungszentrum Juelich GmbH;Lanzhou University;Rheinisch Westfälische Technische Hochschule Aachen;Forschungszentrum Jülich;",
+    "aff_domain": "rwth-aachen.de;fz-juelich.de;lzu.edu.cn;rwth-aachen.de;fz-juelich.de;",
+    "position": "PhD student;PhD student;Full Professor;Full Professor;Group Leader;",
+    "bibtex": "@inproceedings{\nguo2025xaiguiformer,\ntitle={{XAI}guiFormer: explainable artificial intelligence guided transformer for brain disorder identification},\nauthor={Hanning Guo and Farah Abdellatif and Yu Fu and N. Jon Shah and Abigail Morrison and J{\\\"u}rgen Dammers},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=AD5yx2xq8R}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "vgdo;D4N1;A5ot;LoKT",
+    "pdf_size": 2249576,
+    "rating": "6;6;6;8",
+    "confidence": "4;3;4;4",
+    "soundness": "3;3;3;3",
+    "contribution": "3;3;3;3",
+    "presentation": "2;3;3;2",
+    "wc_summary": "40;49;39;54",
+    "wc_strengths": "15;89;53;32",
+    "wc_weaknesses": "194;75;98;166",
+    "wc_questions": "2;174;24;19",
+    "wc_review": "251;387;214;271",
+    "wc_reply_reviewers": "222;0;0;70",
+    "wc_reply_authors": "1100;916;771;1340",
+    "reply_reviewers": "1;0;0;1",
+    "reply_authors": "3;2;2;3",
+    "rating_avg": [
+      6.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.0,
+      0.0
+    ],
+    "contribution_avg": [
+      3.0,
+      0.0
+    ],
+    "presentation_avg": [
+      2.5,
+      0.5
+    ],
+    "wc_summary_avg": [
+      45.5,
+      6.264982043070834
+    ],
+    "wc_strengths_avg": [
+      47.25,
+      27.60774347895894
+    ],
+    "wc_weaknesses_avg": [
+      133.25,
+      48.47357527560764
+    ],
+    "wc_questions_avg": [
+      54.75,
+      69.33027837820933
+    ],
+    "wc_review_avg": [
+      280.75,
+      64.66210250216119
+    ],
+    "wc_reply_reviewers_avg": [
+      73.0,
+      90.64766957842876
+    ],
+    "wc_reply_authors_avg": [
+      1031.75,
+      212.75851921838523
+    ],
+    "reply_reviewers_avg": [
+      0.5,
+      0.5
+    ],
+    "reply_authors_avg": [
+      2.5,
+      0.5
+    ],
+    "replies_avg": [
+      19,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": 0.3333333333333333,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:VqykdNXAwi8J:scholar.google.com/&scioq=XAIguiFormer:+explainable+artificial+intelligence+guided+transformer+for+brain+disorder+identification&hl=en&as_sdt=0,33",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=AD5yx2xq8R",
+    "email": "rwth-aachen.de;fz-juelich.de;lzu.edu.cn;rwth-aachen.de;fz-juelich.de;",
+    "author_num": 6,
+    "aff_unique_index": "0;1;2;0;3;4",
+    "aff_unique_norm": "RWTH Aachen University;Forschungszentrum Juelich;Lanzhou University;Forschungszentrum Jülich;",
+    "aff_unique_dep": ";;;;",
+    "aff_unique_url": "https://www.rwth-aachen.de;https://www.fz-juelich.de;https://www.lzu.edu.cn;https://www.fz-juelich.de;",
+    "aff_unique_abbr": "RWTH;FZJ;LZU;FZJ;",
+    "aff_campus_unique_index": "0;0",
+    "aff_campus_unique": "Aachen;",
+    "aff_country_unique_index": "0;0;1;0;0",
+    "aff_country_unique": "Germany;China;",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "BrainACTIV: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30527",
+    "id": "CGON8Btleu",
+    "poster": "/media/PosterPDFs/ICLR%202025/30527.png?t=1745364754.8017502",
+    "openreview": "https://openreview.net/forum?id=CGON8Btleu",
+    "author_site": "Diego García Cerdas, Christina Sartzetaki, Magnus Petersen, Gemma Roig, Pascal Mettes, Iris Groen",
+    "tldr": "",
+    "abstract": "The human brain efficiently represents visual inputs through specialized neural populations that selectively respond to specific categories. Advancements in generative modeling have enabled data-driven discovery of neural selectivity using brain-optimized image synthesis. However, current methods independently generate one sample at a time, without enforcing structural constraints on the generations; thus, these individual images have no explicit point of comparison, making it hard to discern which image features drive neural response selectivity. To address this issue, we introduce Brain Activation Control Through Image Variation (BrainACTIV), a method for manipulating a reference image to enhance or decrease activity in a target cortical region using pretrained diffusion models. Starting from a reference image allows for fine-grained and reliable offline identification of optimal visuo-semantic properties, as well as producing controlled stimuli for novel neuroimaging studies. We show that our manipulations effectively modulate predicted fMRI responses and agree with hypothesized preferred categories in established regions of interest, while remaining structurally close to the reference image.  Moreover, we demonstrate how our method accentuates differences between brain regions that are selective to the same category, and how it could be used to explore neural representation of brain regions with unknown selectivities. Hence, BrainACTIV holds the potential to formulate robust hypotheses about brain representation and to facilitate the production of naturalistic stimuli for neuroscientific experiments.",
+    "keywords": "brain;selectivity;visual cortex;fMRI;manipulation;variation;diffusion;neuroscience",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "/attachment/642a7758c5028d859577987c0be0804b0181b78d.zip",
+    "author": "Diego Garcia Cerdas;Christina Sartzetaki;Magnus Petersen;Gemma Roig;Pascal Mettes;Iris Groen",
+    "authorids": "~Diego_Garcia_Cerdas1;~Christina_Sartzetaki1;~Magnus_Petersen1;~Gemma_Roig1;~Pascal_Mettes1;~Iris_Groen1",
+    "gender": "M;;M;F;M;F",
+    "homepage": "https://github.com/diegogcerdas;;https://magnuspetersen.com/;http://www.cvai.cs.uni-frankfurt.de/;https://staff.fnwi.uva.nl/p.s.m.mettes/;https://sites.google.com/view/irisgroen/home",
+    "dblp": ";330/4189;;58/9606;147/4008;121/9116",
+    "google_scholar": ";PRNUMBAAAAAJ;yWSSx4wAAAAJ;6MjMhT4AAAAJ;https://scholar.google.nl/citations?user=sMQxA3AAAAAJ;https://scholar.google.nl/citations?user=N3Q_SukRUg8C",
+    "orcid": ";;;0000-0002-6439-8076;0000-0001-9275-5942;0000-0002-5536-6128",
+    "linkedin": ";;;gemma-roig-5830b414/;;",
+    "or_profile": "~Diego_Garcia_Cerdas1;~Christina_Sartzetaki1;~Magnus_Petersen1;~Gemma_Roig1;~Pascal_Mettes1;~Iris_Groen1",
+    "aff": "University of Amsterdam;University of Amsterdam;, Johann Wolfgang Goethe Universität Frankfurt am Main;Johann Wolfgang Goethe Universität Frankfurt am Main;University of Amsterdam;University of Amsterdam",
+    "aff_domain": "uva.nl;uva.nl;fias.uni-frankfurt.de;uni-frankfurt.de;uva.nl;uva.nl",
+    "position": "MS student;PhD student;PhD student;Full Professor;Assistant Professor;Assistant Professor",
+    "bibtex": "@inproceedings{\ncerdas2025brainactiv,\ntitle={Brain{ACTIV}: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation},\nauthor={Diego Garcia Cerdas and Christina Sartzetaki and Magnus Petersen and Gemma Roig and Pascal Mettes and Iris Groen},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=CGON8Btleu}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "82Gz;5W1K;mur3;eXwK;Dc87",
+    "pdf_size": 20468345,
+    "rating": "5;6;6;8;8",
+    "confidence": "4;4;5;4;4",
+    "soundness": "3;3;3;4;3",
+    "contribution": "2;3;3;4;3",
+    "presentation": "3;3;4;4;3",
+    "wc_summary": "85;57;109;62;45",
+    "wc_strengths": "31;64;66;87;131",
+    "wc_weaknesses": "375;63;100;52;162",
+    "wc_questions": "80;158;114;193;54",
+    "wc_review": "571;342;389;394;392",
+    "wc_reply_reviewers": "0;198;0;115;119",
+    "wc_reply_authors": "1127;1687;1196;642;666",
+    "reply_reviewers": "0;2;0;1;1",
+    "reply_authors": "2;3;2;3;1",
+    "rating_avg": [
+      6.6,
+      1.2
+    ],
+    "confidence_avg": [
+      4.2,
+      0.39999999999999997
+    ],
+    "soundness_avg": [
+      3.2,
+      0.39999999999999997
+    ],
+    "contribution_avg": [
+      3.0,
+      0.6324555320336759
+    ],
+    "presentation_avg": [
+      3.4,
+      0.4898979485566356
+    ],
+    "wc_summary_avg": [
+      71.6,
+      22.764885240211512
+    ],
+    "wc_strengths_avg": [
+      75.8,
+      32.90835760107149
+    ],
+    "wc_weaknesses_avg": [
+      150.4,
+      118.6938920079715
+    ],
+    "wc_questions_avg": [
+      119.8,
+      50.52682455884201
+    ],
+    "wc_review_avg": [
+      417.6,
+      79.09133960175413
+    ],
+    "wc_reply_reviewers_avg": [
+      86.4,
+      76.50516322445172
+    ],
+    "wc_reply_authors_avg": [
+      1063.6,
+      386.2665400989322
+    ],
+    "reply_reviewers_avg": [
+      0.8,
+      0.7483314773547883
+    ],
+    "reply_authors_avg": [
+      2.2,
+      0.7483314773547882
+    ],
+    "replies_avg": [
+      23,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": -0.24999999999999994,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:44W2krL6k3wJ:scholar.google.com/&scioq=BrainACTIV:+Identifying+visuo-semantic+properties+driving+cortical+selectivity+using+diffusion-based+image+manipulation&hl=en&as_sdt=0,33",
+    "gs_version_total": 2,
+    "pdf": "https://openreview.net/pdf?id=CGON8Btleu",
+    "email": "uva.nl;uva.nl;fias.uni-frankfurt.de;uni-frankfurt.de;uva.nl;uva.nl",
+    "author_num": 6,
+    "aff_unique_index": "0;0;1;2;0;0",
+    "aff_unique_norm": "University of Amsterdam;Johann Wolfgang Goethe Universität Frankfurt am Main;Johann Wolfgang Goethe University Frankfurt am Main",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": "https://www.uva.nl;https://www.uni-frankfurt.de;https://www.uni-frankfurt.de",
+    "aff_unique_abbr": "UvA;Johann Wolfgang Goethe Universität;JWGU",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Frankfurt am Main",
+    "aff_country_unique_index": "0;0;1;1;0;0",
+    "aff_country_unique": "Netherlands;Germany",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/29880",
+    "id": "NPNUHgHF2w",
+    "poster": "/media/PosterPDFs/ICLR%202025/29880.png?t=1746151087.350625",
+    "openreview": "https://openreview.net/forum?id=NPNUHgHF2w",
+    "author_site": "Jiquan Wang, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan",
+    "tldr": "",
+    "abstract": "Electroencephalography (EEG) is a non-invasive technique to measure and record brain electrical activity, widely used in various BCI and healthcare applications. Early EEG decoding methods rely on supervised learning, limited by specific tasks and datasets, hindering model performance and generalizability. With the success of large language models, there is a growing body of studies focusing on EEG foundation models. However, these studies still leave challenges: Firstly, most of existing EEG foundation models employ full EEG modeling strategy. It models the spatial and temporal dependencies between all EEG patches together, but ignores that the spatial and temporal dependencies are heterogeneous due to the unique structural characteristics of EEG signals. Secondly, existing EEG foundation models have limited generalizability on a wide range of downstream BCI tasks due to varying formats of EEG data, making it challenging to adapt to. To address these challenges, we propose a novel foundation model called CBraMod. Specifically, we devise a criss-cross transformer as the backbone to thoroughly leverage the structural characteristics of EEG signals, which can model spatial and temporal dependencies separately through two parallel attention mechanisms. And we utilize an asymmetric conditional positional encoding scheme which can encode positional information of EEG patches and be easily adapted to the EEG with diverse formats. CBraMod is pre-trained on a very large corpus of EEG through patch-based masked EEG reconstruction. We evaluate CBraMod on up to 10 downstream BCI tasks (12 public datasets). CBraMod achieves the state-of-the-art performance across the wide range of tasks, proving its strong capability and generalizability. The source code is publicly available at https://github.com/wjq-learning/CBraMod.",
+    "keywords": "Foundation Model; EEG; Criss-Cross Transformer; Downstream BCI tasks",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "/attachment/83a2038e608b8bdaecacd2091869b4d5c6b5777a.zip",
+    "author": "Jiquan Wang;Sha Zhao;Zhiling Luo;Yangxuan Zhou;Haiteng Jiang;Shijian Li;Tao Li;Gang Pan",
+    "authorids": "~Jiquan_Wang1;~Sha_Zhao1;~Zhiling_Luo1;~Yangxuan_Zhou1;~Haiteng_Jiang1;~Shijian_Li1;~Tao_Li17;~Gang_Pan1",
+    "gender": "M;F;M;M;M;M;F;",
+    "homepage": "https://wjq-learning.github.io;http://www.shazhao.net;http://www.bruceluo.net;;https://person.zju.edu.cn/en/HaitengJiang;https://person.zju.edu.cn/en/lishijian;https://person.zju.edu.cn/0020880;",
+    "dblp": "179/1168.html;120/1603;;;157/8732;11/2908;75/4601-34;",
+    "google_scholar": "iySBCncAAAAJ;;;NKmxl-0AAAAJ;https://scholar.google.at/citations?user=eVQr6d0AAAAJ;7uXF9ZIAAAAJ;;",
+    "orcid": "0000-0002-1621-1836;;;;;;;",
+    "linkedin": ";;;;;;;",
+    "or_profile": "~Jiquan_Wang1;~Sha_Zhao1;~Zhiling_Luo1;~Yangxuan_Zhou1;~Haiteng_Jiang1;~Shijian_Li1;~Tao_Li17;~Gang_Pan1",
+    "aff": "Zhejiang University;Zhejiang University;Alibaba Group;Zhejiang University;Zhejiang University;Zhejiang University;Zhejiang University;",
+    "aff_domain": "zju.edu.cn;zju.edu.cn;alibaba-inc.com;zju.edu.cn;zju.edu.cn;zju.edu.cn;zju.edu.cn;",
+    "position": "PhD student;Assistant Professor;Researcher;PhD student;Principal Researcher;Full Professor;Full Professor;",
+    "bibtex": "@inproceedings{\nwang2025cbramod,\ntitle={{CB}raMod: A Criss-Cross Brain Foundation Model for {EEG} Decoding},\nauthor={Jiquan Wang and Sha Zhao and Zhiling Luo and Yangxuan Zhou and Haiteng Jiang and Shijian Li and Tao Li and Gang Pan},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=NPNUHgHF2w}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "m8H6;k8cX;iYYg;1DYx",
+    "pdf_size": 1959218,
+    "rating": "5;6;8;8",
+    "confidence": "4;4;5;4",
+    "soundness": "2;3;3;4",
+    "contribution": "2;2;3;3",
+    "presentation": "3;3;3;3",
+    "wc_summary": "67;104;148;62",
+    "wc_strengths": "43;123;125;56",
+    "wc_weaknesses": "170;239;702;62",
+    "wc_questions": "115;165;11;173",
+    "wc_review": "395;631;986;353",
+    "wc_reply_reviewers": "339;38;533;31",
+    "wc_reply_authors": "4071;2162;4496;1731",
+    "reply_reviewers": "3;1;3;1",
+    "reply_authors": "11;5;10;4",
+    "rating_avg": [
+      6.75,
+      1.299038105676658
+    ],
+    "confidence_avg": [
+      4.25,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "contribution_avg": [
+      2.5,
+      0.5
+    ],
+    "presentation_avg": [
+      3.0,
+      0.0
+    ],
+    "wc_summary_avg": [
+      95.25,
+      34.50633999716574
+    ],
+    "wc_strengths_avg": [
+      86.75,
+      37.539146234297874
+    ],
+    "wc_weaknesses_avg": [
+      293.25,
+      244.2778899122882
+    ],
+    "wc_questions_avg": [
+      116.0,
+      64.56779382943171
+    ],
+    "wc_review_avg": [
+      591.25,
+      251.3387902811661
+    ],
+    "wc_reply_reviewers_avg": [
+      235.25,
+      212.15840190763126
+    ],
+    "wc_reply_authors_avg": [
+      3115.0,
+      1187.9353938661816
+    ],
+    "reply_reviewers_avg": [
+      2.0,
+      1.0
+    ],
+    "reply_authors_avg": [
+      7.5,
+      3.0413812651491097
+    ],
+    "replies_avg": [
+      50,
+      0
+    ],
+    "authors#_avg": [
+      8,
+      0
+    ],
+    "corr_rating_confidence": 0.5555555555555555,
+    "gs_citation": 7,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=2256567418264771624&as_sdt=5,44&sciodt=0,44&hl=en",
+    "gs_version_total": 2,
+    "pdf": "https://openreview.net/pdf?id=NPNUHgHF2w",
+    "email": "zju.edu.cn;zju.edu.cn;alibaba-inc.com;zju.edu.cn;zju.edu.cn;zju.edu.cn;zju.edu.cn;",
+    "author_num": 8,
+    "aff_unique_index": "0;0;1;0;0;0;0;2",
+    "aff_unique_norm": "Zhejiang University;Alibaba Group;",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": "https://www.zju.edu.cn;https://www.alibaba.com;",
+    "aff_unique_abbr": "ZJU;Alibaba;",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0;0;0",
+    "aff_country_unique": "China;",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "TopoLM: brain-like spatio-functional organization in a topographic language model",
+    "status": "Oral",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/29162",
+    "id": "aWXnKanInf",
+    "poster": "/media/PosterPDFs/ICLR%202025/29162.png?t=1744191063.3149276",
+    "openreview": "https://openreview.net/forum?id=aWXnKanInf",
+    "author_site": "Neil Rathi, Johannes Mehrer, Badr AlKhamissi, Taha Binhuraib, Nicholas Blauch, Martin Schrimpf",
+    "tldr": "",
+    "abstract": "Neurons in the brain are spatially organized such that neighbors on tissue often exhibit similar response profiles. In the human language system, experimental studies have observed clusters for syntactic and semantic categories, but the mechanisms underlying this functional organization remain unclear. Here, building on work from the vision literature, we develop TopoLM, a transformer language model with an explicit two-dimensional spatial representation of model units. By combining a next-token prediction objective with a spatial smoothness loss, representations in this model assemble into clusters that correspond to semantically interpretable groupings of text and closely match the functional organization in the brain's language system. TopoLM successfully predicts the emergence of a spatially organized cortical language system as well as the organization of functional clusters selective for fine-grained linguistic features empirically observed in human cortex. Our results suggest that the functional organization of the human language system is driven by a unified spatial objective, and provide a functionally and spatially aligned model of language processing in the brain.Neurons in the brain are spatially organized such that neighbors on tissue often exhibit similar response profiles. In the human language system, experimental studies have observed clusters for syntactic and semantic categories, but the mechanisms underlying this functional organization remain unclear. Here, building on work from the vision literature, we develop TopoLM, a transformer language model with an explicit two-dimensional spatial representation of model units. By combining a next-token prediction objective with a spatial smoothness loss, representations in this model assemble into clusters that correspond to semantically interpretable groupings of text and closely match the functional organization in the brain's language system. TopoLM successfully predicts the emergence of a spatially organized cortical language system as well as the organization of functional clusters selective for fine-grained linguistic features empirically observed in human cortex. Our results suggest that the functional organization of the human language system is driven by a unified spatial objective, and provide a functionally and spatially aligned model of language processing in the brain.",
+    "keywords": "language modeling;topography;fMRI;neuroscience",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "Neil Rathi;Johannes Mehrer;Badr AlKhamissi;Taha Osama A Binhuraib;Nicholas Blauch;Martin Schrimpf",
+    "authorids": "~Neil_Rathi1;~Johannes_Mehrer1;~Badr_AlKhamissi1;~Taha_Osama_A_Binhuraib1;~Nicholas_Blauch1;~Martin_Schrimpf1",
+    "gender": "M;M;M;M;M;",
+    "homepage": "https://web.stanford.edu/~rathi/;;https://bkhmsi.github.io;https://github.com/TahaBinhuraib;https://nblauch.github.io;http://mschrimpf.com/",
+    "dblp": ";;;;;190/7063",
+    "google_scholar": "9r4-IukAAAAJ;;0l9UHtQAAAAJ;;mKI-uQ4AAAAJ;RiZ-RdwAAAAJ",
+    "orcid": ";0000-0002-4018-8197;;;;0000-0001-7766-7223",
+    "linkedin": ";;https://linkedin.com/in/bkhmsi;taha-b-1563b3188/;;mschrimpf/",
+    "or_profile": "~Neil_Rathi1;~Johannes_Mehrer1;~Badr_AlKhamissi1;~Taha_Osama_A_Binhuraib1;~Nicholas_Blauch1;~Martin_Schrimpf1",
+    "aff": "Stanford University;EPFL - EPF Lausanne;EPFL - EPF Lausanne;Georgia Institute of Technology;Harvard University;EPFL - EPF Lausanne",
+    "aff_domain": "stanford.edu;epfl.ch;epfl.ch;gatech.edu;fas.harvard.edu;epfl.ch",
+    "position": "Undergrad student;Postdoc;PhD student;PhD student;Postdoc;Assistant Professor",
+    "bibtex": "@inproceedings{\nrathi2025topolm,\ntitle={Topo{LM}: brain-like spatio-functional organization in a topographic language model},\nauthor={Neil Rathi and Johannes Mehrer and Badr AlKhamissi and Taha Osama A Binhuraib and Nicholas Blauch and Martin Schrimpf},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=aWXnKanInf}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "U3qv;TBeb;3QeR",
+    "pdf_size": 2893967,
+    "rating": "8;8;8",
+    "confidence": "4;4;3",
+    "soundness": "3;4;3",
+    "contribution": "3;4;2",
+    "presentation": "3;3;4",
+    "wc_summary": "133;121;88",
+    "wc_strengths": "66;121;64",
+    "wc_weaknesses": "1206;95;40",
+    "wc_questions": "455;109;133",
+    "wc_review": "1860;446;325",
+    "wc_reply_reviewers": "0;0;28",
+    "wc_reply_authors": "1363;208;544",
+    "reply_reviewers": "0;0;1",
+    "reply_authors": "3;1;3",
+    "rating_avg": [
+      8.0,
+      0.0
+    ],
+    "confidence_avg": [
+      3.6666666666666665,
+      0.4714045207910317
+    ],
+    "soundness_avg": [
+      3.3333333333333335,
+      0.4714045207910317
+    ],
+    "contribution_avg": [
+      3.0,
+      0.816496580927726
+    ],
+    "presentation_avg": [
+      3.3333333333333335,
+      0.4714045207910317
+    ],
+    "wc_summary_avg": [
+      114.0,
+      19.026297590440446
+    ],
+    "wc_strengths_avg": [
+      83.66666666666667,
+      26.411277052720408
+    ],
+    "wc_weaknesses_avg": [
+      447.0,
+      537.1635381023797
+    ],
+    "wc_questions_avg": [
+      232.33333333333334,
+      157.75367578038308
+    ],
+    "wc_review_avg": [
+      877.0,
+      696.8390536319464
+    ],
+    "wc_reply_reviewers_avg": [
+      9.333333333333334,
+      13.199326582148887
+    ],
+    "wc_reply_authors_avg": [
+      705.0,
+      485.0752518939716
+    ],
+    "reply_reviewers_avg": [
+      0.3333333333333333,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      2.3333333333333335,
+      0.9428090415820634
+    ],
+    "replies_avg": [
+      17,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 2,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=8066897930810059165&as_sdt=2005&sciodt=0,5&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=aWXnKanInf",
+    "email": "stanford.edu;epfl.ch;epfl.ch;gatech.edu;fas.harvard.edu;epfl.ch",
+    "author_num": 6,
+    "aff_unique_index": "0;1;1;2;3;1",
+    "aff_unique_norm": "Stanford University;EPFL;Georgia Institute of Technology;Harvard University",
+    "aff_unique_dep": ";;;",
+    "aff_unique_url": "https://www.stanford.edu;https://www.epfl.ch;https://www.gatech.edu;https://www.harvard.edu",
+    "aff_unique_abbr": "Stanford;EPFL;Georgia Tech;Harvard",
+    "aff_campus_unique_index": "0;1;1;1",
+    "aff_campus_unique": "Stanford;Lausanne;",
+    "aff_country_unique_index": "0;1;1;0;0;1",
+    "aff_country_unique": "United States;Switzerland",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/29124",
+    "id": "b57IG6N20B",
+    "poster": "/media/PosterPDFs/ICLR%202025/29124.png?t=1744203930.1531305",
+    "openreview": "https://openreview.net/forum?id=b57IG6N20B",
+    "author_site": "Francesco Carzaniga, Gary Hoppeler, Michael Hersche, Kaspar Schindler, Abbas Rahimi",
+    "tldr": "",
+    "abstract": "All data modalities are not created equal, even when the signal they measure comes from the same source. In the case of the brain, two of the most important data modalities are the scalp electroencephalogram (EEG), and the intracranial electroencephalogram (iEEG). iEEG benefits from a higher signal-to-noise ratio (SNR), as it measures the electrical activity directly in the brain, while EEG is noisier and has lower spatial and temporal resolutions. Nonetheless, both EEG and iEEG are important sources of data for human neurology, from healthcare to brain–machine interfaces. They are used by human experts, supported by deep learning (DL) models, to accomplish a variety of tasks, such as seizure detection and motor imagery classification. Although the differences between EEG and iEEG are well understood by human experts, the performance of DL models across these two modalities remains under-explored. To help characterize the importance of clean data on the performance of DL models, we propose BrainCodec, a high-fidelity EEG and iEEG neural compressor. We find that training BrainCodec on iEEG and then transferring to EEG yields higher reconstruction quality than training on EEG directly. In addition, we also find that training BrainCodec on both EEG and iEEG improves fidelity when reconstructing EEG. Our work indicates that data sources with higher SNR, such as iEEG, provide better performance across the board also in the medical time-series domain. This finding is consistent with reports coming from natural language processing, where clean data sources appear to have an outsized effect on the performance of the DL model overall. BrainCodec also achieves up to a 64x compression on iEEG and EEG without a notable decrease in quality. BrainCodec markedly surpasses current state-of-the-art compression models both in final compression ratio and in reconstruction fidelity. We also evaluate the fidelity of the compressed signals objectively on a seizure detection and a motor imagery task performed by standard DL models. Here, we find that BrainCodec achieves a reconstruction fidelity high enough to ensure no performance degradation on the downstream tasks. Finally, we collect the subjective assessment of an expert neurologist, that confirms the high reconstruction quality of BrainCodec in a realistic scenario. The code is available at https://github.com/IBM/eeg-ieeg-brain-compressor.",
+    "keywords": "eeg;ieeg;intracranial eeg;electroencephalography;compression;transfer;seizure;seizure detection;motor imagery",
+    "primary_area": "learning on time series and dynamical systems",
+    "supplementary_material": "",
+    "author": "Francesco S. Carzaniga;Gary Tom Hoppeler;Michael Hersche;Kaspar Schindler;Abbas Rahimi",
+    "authorids": "~Francesco_S._Carzaniga1;~Gary_Tom_Hoppeler1;~Michael_Hersche1;~Kaspar_Schindler1;~Abbas_Rahimi1",
+    "gender": ";;M;M;M",
+    "homepage": ";;https://research.ibm.com/people/michael-hersche--1;https://neurologie.insel.ch/de/ueber-uns/teams/details/person/detail/kaspar-schindler;https://research.ibm.com/people/abbas-rahimi",
+    "dblp": ";;231/2484;68/1156.html;48/9350",
+    "google_scholar": "pN6xOZUAAAAJ;;uhC6m3EAAAAJ;In7Hl1IAAAAJ;yx0pEmYAAAAJ",
+    "orcid": "0009-0001-2727-6248;;0000-0003-3065-7639;0000-0002-2387-7767;0000-0003-3141-4970",
+    "linkedin": ";gary-hoppeler;;;",
+    "or_profile": "~Francesco_S._Carzaniga1;~Gary_Tom_Hoppeler1;~Michael_Hersche1;~Kaspar_Schindler1;~Abbas_Rahimi1",
+    "aff": "Insel Gruppe;;International Business Machines;Insel Gruppe;IBM Research - Zurich",
+    "aff_domain": "insel.ch;;ibm.com;insel.ch;zurich.ibm.com",
+    "position": "PhD student;;Postdoc;Associate Professor;Principal Researcher",
+    "bibtex": "@inproceedings{\ncarzaniga2025the,\ntitle={The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner i{EEG} to Noisier {EEG}},\nauthor={Francesco S. Carzaniga and Gary Tom Hoppeler and Michael Hersche and Kaspar Schindler and Abbas Rahimi},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=b57IG6N20B}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "5Spf;cGqC;HbiL;Wj41;p69F",
+    "pdf_size": 4321809,
+    "rating": "3;6;8;8;8",
+    "confidence": "4;5;4;3;4",
+    "soundness": "2;4;3;3;3",
+    "contribution": "2;3;3;3;4",
+    "presentation": "3;4;3;3;2",
+    "wc_summary": "50;37;149;107;99",
+    "wc_strengths": "40;44;106;88;101",
+    "wc_weaknesses": "57;112;246;127;126",
+    "wc_questions": "31;182;1;10;44",
+    "wc_review": "178;375;502;332;370",
+    "wc_reply_reviewers": "0;0;54;16;0",
+    "wc_reply_authors": "1606;1406;948;600;861",
+    "reply_reviewers": "0;0;2;1;0",
+    "reply_authors": "4;2;3;2;2",
+    "rating_avg": [
+      6.6,
+      1.9595917942265424
+    ],
+    "confidence_avg": [
+      4.0,
+      0.6324555320336759
+    ],
+    "soundness_avg": [
+      3.0,
+      0.6324555320336759
+    ],
+    "contribution_avg": [
+      3.0,
+      0.6324555320336759
+    ],
+    "presentation_avg": [
+      3.0,
+      0.6324555320336759
+    ],
+    "wc_summary_avg": [
+      88.4,
+      40.6132983147146
+    ],
+    "wc_strengths_avg": [
+      75.8,
+      28.244645510255566
+    ],
+    "wc_weaknesses_avg": [
+      133.6,
+      61.7562952256691
+    ],
+    "wc_questions_avg": [
+      53.6,
+      65.9654454998979
+    ],
+    "wc_review_avg": [
+      351.4,
+      103.94921837127974
+    ],
+    "wc_reply_reviewers_avg": [
+      14.0,
+      20.938003725283842
+    ],
+    "wc_reply_authors_avg": [
+      1084.2,
+      368.41520055502593
+    ],
+    "reply_reviewers_avg": [
+      0.6,
+      0.7999999999999999
+    ],
+    "reply_authors_avg": [
+      2.6,
+      0.8
+    ],
+    "replies_avg": [
+      24,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "corr_rating_confidence": -0.3227486121839514,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:N-RX9zPA4PIJ:scholar.google.com/&scioq=The+Case+for+Cleaner+Biosignals:+High-fidelity+Neural+Compressor+Enables+Transfer+from+Cleaner+iEEG+to+Noisier+EEG&hl=en&as_sdt=0,33",
+    "gs_version_total": 5,
+    "pdf": "https://openreview.net/pdf?id=b57IG6N20B",
+    "email": "insel.ch;;ibm.com;insel.ch;zurich.ibm.com",
+    "author_num": 5,
+    "aff_unique_index": "0;1;2;0;3",
+    "aff_unique_norm": "Insel Gruppe;;International Business Machines Corporation;IBM",
+    "aff_unique_dep": ";;;Research",
+    "aff_unique_url": "https://www.inselgruppe.ch;;https://www.ibm.com;https://www.ibm.com/research",
+    "aff_unique_abbr": ";;IBM;IBM",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Zurich",
+    "aff_country_unique_index": "0;2;0;0",
+    "aff_country_unique": "Switzerland;;United States",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "MindSimulator: Exploring Brain Concept Localization via Synthetic fMRI",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/27898",
+    "id": "vgt2rSf6al",
+    "poster": "/media/PosterPDFs/ICLR%202025/27898.png?t=1742766906.8549929",
+    "openreview": "https://openreview.net/forum?id=vgt2rSf6al",
+    "author_site": "Qi Zhang, Qi Zhang, Zixuan Gong, Zhuojia Wu, Duoqian Miao",
+    "tldr": "",
+    "abstract": "Concept-selective regions within the human cerebral cortex exhibit significant activation in response to specific visual stimuli associated with particular concepts. Precisely localizing these regions stands as a crucial long-term goal in neuroscience to grasp essential brain functions and mechanisms. Conventional experiment-driven approaches hinge on manually constructed visual stimulus collections and corresponding brain activity recordings, constraining the support and coverage of concept localization. Additionally, these stimuli often consist of concept objects in unnatural contexts and are potentially biased by subjective preferences, thus prompting concerns about the validity and generalizability of the identified regions. To address these limitations, we propose a data-driven exploration approach. By synthesizing extensive brain activity recordings, we statistically localize various concept-selective regions. Our proposed MindSimulator leverages advanced generative technologies to learn the probability distribution of brain activity conditioned on concept-oriented visual stimuli. This enables the creation of simulated brain recordings that reflect real neural response patterns. Using the synthetic recordings, we successfully localize several well-studied concept-selective regions and validate them against empirical findings, achieving promising prediction accuracy. The feasibility opens avenues for exploring novel concept-selective regions and provides prior hypotheses for future neuroscience research.",
+    "keywords": "Neuroscience;fMRI encoding;Generative model;fMRI generation;fMRI functional localizer;Concept-selective voxel",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "Guangyin Bao;Qi Zhang;Zixuan Gong;Zhuojia Wu;Duoqian Miao",
+    "authorids": "~Guangyin_Bao1;~Qi_Zhang25;~Zixuan_Gong2;~Zhuojia_Wu1;~Duoqian_Miao1",
+    "gender": "M;M;M;M;M",
+    "homepage": ";https://sites.google.com/view/qizhang-bit-uts/home;https://github.com/gongzix;;https://iip.tongji.edu.cn",
+    "dblp": "363/7435;52/323-20;363/7481;;90/1041-1",
+    "google_scholar": "https://scholar.google.com.hk/citations?user=0AiYk9sAAAAJ;8UAk1p4AAAAJ;https://scholar.google.com/citations?hl=en;;",
+    "orcid": "0009-0009-0072-6323;0000-0002-1037-1361;;0000-0002-5353-1943;0000-0001-6588-1468",
+    "linkedin": ";;;;",
+    "or_profile": "~Guangyin_Bao1;~Qi_Zhang25;~Zixuan_Gong2;~Zhuojia_Wu1;~Duoqian_Miao1",
+    "aff": "Tongji University;Tongji University;University of British Columbia;Tongji University;Tongji University",
+    "aff_domain": "tongji.edu.cn;tongji.edu.cn;ubc.ca;tongji.edu.cn;tongji.edu.cn",
+    "position": "MS student;Researcher;PhD student;PhD student;Full Professor",
+    "bibtex": "@inproceedings{\nbao2025mindsimulator,\ntitle={MindSimulator: Exploring Brain Concept Localization via Synthetic f{MRI}},\nauthor={Guangyin Bao and Qi Zhang and Zixuan Gong and Zhuojia Wu and Duoqian Miao},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=vgt2rSf6al}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "KVAs;Atef;SRDC;YLHx",
+    "pdf_size": 47048799,
+    "rating": "5;6;6;6",
+    "confidence": "2;4;4;4",
+    "soundness": "1;2;3;3",
+    "contribution": "1;3;3;3",
+    "presentation": "1;3;3;3",
+    "wc_summary": "99;70;260;46",
+    "wc_strengths": "1;54;106;79",
+    "wc_weaknesses": "48;132;501;369",
+    "wc_questions": "9;89;284;73",
+    "wc_review": "157;345;1151;567",
+    "wc_reply_reviewers": "67;326;597;100",
+    "wc_reply_authors": "2052;1932;2694;1505",
+    "reply_reviewers": "1;2;2;1",
+    "reply_authors": "6;4;6;4",
+    "rating_avg": [
+      5.75,
+      0.4330127018922193
+    ],
+    "confidence_avg": [
+      3.5,
+      0.8660254037844386
+    ],
+    "soundness_avg": [
+      2.25,
+      0.82915619758885
+    ],
+    "contribution_avg": [
+      2.5,
+      0.8660254037844386
+    ],
+    "presentation_avg": [
+      2.5,
+      0.8660254037844386
+    ],
+    "wc_summary_avg": [
+      118.75,
+      83.68206199658323
+    ],
+    "wc_strengths_avg": [
+      60.0,
+      38.71046370169182
+    ],
+    "wc_weaknesses_avg": [
+      262.5,
+      181.15256001503263
+    ],
+    "wc_questions_avg": [
+      113.75,
+      102.75060827070563
+    ],
+    "wc_review_avg": [
+      555.0,
+      373.451469403991
+    ],
+    "wc_reply_reviewers_avg": [
+      272.5,
+      212.21981528594355
+    ],
+    "wc_reply_authors_avg": [
+      2045.75,
+      425.91570468814604
+    ],
+    "reply_reviewers_avg": [
+      1.5,
+      0.5
+    ],
+    "reply_authors_avg": [
+      5.0,
+      1.0
+    ],
+    "replies_avg": [
+      34,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "corr_rating_confidence": 1.0,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:JEhkuQzP7mUJ:scholar.google.com/&scioq=MindSimulator:+Exploring+Brain+Concept+Localization+via+Synthetic+fMRI&hl=en&as_sdt=0,33",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=vgt2rSf6al",
+    "email": "tongji.edu.cn;tongji.edu.cn;ubc.ca;tongji.edu.cn;tongji.edu.cn",
+    "author_num": 5,
+    "aff_unique_index": "0;0;1;0;0",
+    "aff_unique_norm": "Tongji University;University of British Columbia",
+    "aff_unique_dep": ";",
+    "aff_unique_url": "https://www.tongji.edu.cn;https://www.ubc.ca",
+    "aff_unique_abbr": "Tongji;UBC",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;1;0;0",
+    "aff_country_unique": "China;Canada",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/27664",
+    "id": "zZ6TT254Np",
+    "poster": "/media/PosterPDFs/ICLR%202025/27664.png?t=1744014399.9821508",
+    "openreview": "https://openreview.net/forum?id=zZ6TT254Np",
+    "author_site": "Yufan Hu, Jiang, Wuyang Li, Yixuan Yuan",
+    "tldr": "",
+    "abstract": "Functional magnetic resonance imaging (fMRI) is essential for mapping brain activity but faces challenges like lengthy acquisition time and sensitivity to patient movement, limiting its clinical and machine learning applications. While generative models such as diffusion models can synthesize fMRI signals to alleviate these issues, they often underperform due to neglecting the brain's complex structural and dynamic properties.\nTo address these limitations, we propose the Physiological Dynamics-Driven Hierarchical Diffusion Model, a novel framework integrating two key brain physiological properties into the diffusion process: brain hierarchical regional interactions and multifractal dynamics. \nTo model complex interactions among brain regions, we construct hypergraphs based on the prior knowledge of brain functional parcellation reflected by resting-state functional connectivity (rsFC). This enables the aggregation of fMRI signals across multiple scales and generates hierarchical signals. \nAdditionally, by incorporating the prediction of two key dynamics properties of fMRI—the multifractal spectrum and generalized Hurst exponent—our framework effectively guides the diffusion process, ensuring the preservation of the scale-invariant characteristics inherent in real fMRI data.\nOur framework employs progressive diffusion generation, with signals representing broader brain region information conditioning those that capture localized details, and unifies multiple inputs during denoising for balanced integration.\nExperiments demonstrate that our model generates physiologically realistic fMRI signals, potentially reducing acquisition time and enhancing data quality, benefiting clinical diagnostics and machine learning in neuroscience.",
+    "keywords": "Time Series;Diffusion",
+    "primary_area": "learning on time series and dynamical systems",
+    "supplementary_material": "",
+    "author": "Yufan Hu;Yujiang;Wuyang Li;Yixuan Yuan",
+    "authorids": "~Yufan_Hu2;~Yujiang1;~Wuyang_Li1;~Yixuan_Yuan2",
+    "gender": "F;M;F;F",
+    "homepage": ";https://wymancv.github.io/wuyang.github.io/;http://www.ee.cityu.edu.hk/~yxyuan/;https://github.com/hyffun/hyffun.github.io",
+    "dblp": ";170/0777;36/9220;",
+    "google_scholar": "P9_bgvEAAAAJ;3Ml_EbAAAAAJ;https://scholar.google.com.au/citations?hl=en;",
+    "orcid": ";;;",
+    "linkedin": ";;;",
+    "or_profile": "~Yujiang1;~Wuyang_Li1;~Yixuan_Yuan2;~YufanHU1",
+    "aff": "The Chinese University of Hong Kong;The Chinese University of Hong Kong;The Chinese University of Hong Kong;The Chinese University of Hong Kong",
+    "aff_domain": "cuhk.edu.hk;cuhk.edu.hk;cuhk.edu.hk;cuhk.edu.hk",
+    "position": "Postdoc;Postdoc;Assistant Professor;PhD student",
+    "bibtex": "@inproceedings{\nhu2025synthesizing,\ntitle={Synthesizing Realistic f{MRI}: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient f{MRI} Acquisition},\nauthor={Yufan Hu and Yujiang and Wuyang Li and Yixuan Yuan},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=zZ6TT254Np}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "hv4T;fBZF;ouRH;wJoL",
+    "pdf_size": 1561437,
+    "rating": "5;6;8;8",
+    "confidence": "4;4;4;3",
+    "soundness": "3;3;3;3",
+    "contribution": "2;4;3;3",
+    "presentation": "3;4;3;3",
+    "wc_summary": "61;74;135;77",
+    "wc_strengths": "128;51;49;26",
+    "wc_weaknesses": "461;89;97;126",
+    "wc_questions": "125;77;108;72",
+    "wc_review": "775;291;389;301",
+    "wc_reply_reviewers": "230;30;286;23",
+    "wc_reply_authors": "2250;1735;3470;2486",
+    "reply_reviewers": "1;1;2;1",
+    "reply_authors": "4;4;7;5",
+    "rating_avg": [
+      6.75,
+      1.299038105676658
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.0,
+      0.0
+    ],
+    "contribution_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "presentation_avg": [
+      3.25,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      86.75,
+      28.49890348767826
+    ],
+    "wc_strengths_avg": [
+      63.5,
+      38.51298482330343
+    ],
+    "wc_weaknesses_avg": [
+      193.25,
+      155.19725351951303
+    ],
+    "wc_questions_avg": [
+      95.5,
+      21.914607000811127
+    ],
+    "wc_review_avg": [
+      439.0,
+      197.7017956418201
+    ],
+    "wc_reply_reviewers_avg": [
+      142.25,
+      117.45717304617884
+    ],
+    "wc_reply_authors_avg": [
+      2485.25,
+      630.0695894105667
+    ],
+    "reply_reviewers_avg": [
+      1.25,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      5.0,
+      1.224744871391589
+    ],
+    "replies_avg": [
+      31,
+      0
+    ],
+    "authors#_avg": [
+      4,
+      0
+    ],
+    "corr_rating_confidence": -0.5555555555555555,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:WZNa9hwO4noJ:scholar.google.com/&scioq=Synthesizing+Realistic+fMRI:+A+Physiological+Dynamics-Driven+Hierarchical+Diffusion+Model+for+Efficient+fMRI+Acquisition&hl=en&as_sdt=0,5",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=zZ6TT254Np",
+    "email": "cuhk.edu.hk;cuhk.edu.hk;cuhk.edu.hk;cuhk.edu.hk",
+    "author_num": 4,
+    "aff_unique_index": "0;0;0;0",
+    "aff_unique_norm": "Chinese University of Hong Kong",
+    "aff_unique_dep": "",
+    "aff_unique_url": "https://www.cuhk.edu.hk",
+    "aff_unique_abbr": "CUHK",
+    "aff_campus_unique_index": "0;0;0;0",
+    "aff_campus_unique": "Hong Kong SAR",
+    "aff_country_unique_index": "0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/27735",
+    "id": "yJ9QNbpMi2",
+    "poster": "",
+    "openreview": "https://openreview.net/forum?id=yJ9QNbpMi2",
+    "author_site": "Andrew Luo, Jacob Yeung, Rushikesh Zawar, Shaurya Dewan, Maggie Henderson, Leila Wehbe, Michael Tarr",
+    "tldr": "",
+    "abstract": "We introduce BrainSAIL (Semantic Attribution and Image Localization), a method for linking neural selectivity with spatially distributed semantic visual concepts in natural scenes. BrainSAIL leverages recent advances in large-scale artificial neural networks, using them to provide insights into the functional topology of the brain. To overcome the challenge presented by the co-occurrence of multiple categories in natural images, BrainSAIL exploits semantically consistent, dense spatial features from pre-trained vision models, building upon their demonstrated ability to robustly predict neural activity. This method derives clean, spatially dense embeddings without requiring any additional training, and employs a novel denoising process that leverages the semantic consistency of images under random augmentations. By unifying the space of whole-image embeddings and dense visual features and then applying voxel-wise encoding models to these features, we enable the identification of specific subregions of each image which drive selectivity patterns in different areas of the higher visual cortex. This provides a powerful tool for dissecting the neural mechanisms that underlie semantic visual processing for natural images. We validate BrainSAIL on cortical regions with known category selectivity, demonstrating its ability to accurately localize and disentangle selectivity to diverse visual concepts. Next, we demonstrate BrainSAIL's ability to characterize high-level visual selectivity to scene properties and low-level visual features such as depth, luminance, and saturation, providing insights into the encoding of complex visual information. Finally, we use BrainSAIL to directly compare the feature selectivity of different brain encoding models across different regions of interest in visual cortex. Our innovative method paves the way for significant advances in mapping and decomposing high-level visual representations in the human brain.",
+    "keywords": "fMRI;visual cortex;neuroscience;cognitive science;brain;vision transformer;semantic selectivity",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "Andrew Luo;Jacob Yeung;Rushikesh Zawar;Shaurya Rajat Dewan;Margaret Marie Henderson;Leila Wehbe;Michael J. Tarr",
+    "authorids": "~Andrew_Luo2;~Jacob_Yeung1;~Rushikesh_Zawar1;~Shaurya_Rajat_Dewan1;~Margaret_Marie_Henderson1;~Leila_Wehbe1;~Michael_J._Tarr1",
+    "gender": "M;;M;M;F;F;M",
+    "homepage": "https://andrewluo.net/;https://jacobyeung.org;;https://srdewan.github.io/;https://www.hendersonneurolab.com;http://www.cs.cmu.edu/~lwehbe/;https://tarrlab.org",
+    "dblp": "234/8054;320/4016;;;348/9728.html;125/4359;36/1880",
+    "google_scholar": "bWYvvkUAAAAJ;;Qaol8LoAAAAJ;1FLYpxAAAAAJ;91bNlCUAAAAJ;YezyUawAAAAJ;O8ALPlkAAAAJ",
+    "orcid": ";;;;0000-0001-9375-6680;0000-0001-8545-2062;0000-0003-4724-1744",
+    "linkedin": ";;rushikesh-zawar-a67063153/;shaurya-dewan-1b07231a2/;;;michael-tarr-ab078046/",
+    "or_profile": "~Andrew_Luo2;~Jacob_Yeung1;~Rushikesh_Zawar1;~Shaurya_Rajat_Dewan1;~Margaret_Marie_Henderson1;~Leila_Wehbe1;~Michael_Tarr1",
+    "aff": "University of Hong Kong;Carnegie Mellon University;Adobe Systems;NVIDIA;Carnegie Mellon University;Carnegie Mellon University;Carnegie Mellon University",
+    "aff_domain": "hku.hk;cmu.edu;adobe.com;nvidia.com;cmu.edu;cmu.edu;cmu.edu",
+    "position": "Assistant Professor;PhD student;Researcher;Researcher;Assistant Professor;Assistant Professor;Full Professor",
+    "bibtex": "@inproceedings{\nluo2025brain,\ntitle={Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers},\nauthor={Andrew Luo and Jacob Yeung and Rushikesh Zawar and Shaurya Rajat Dewan and Margaret Marie Henderson and Leila Wehbe and Michael J. Tarr},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=yJ9QNbpMi2}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "PK4z;dUkJ;yyM7;PZHq;PeSm",
+    "pdf_size": 48815220,
+    "rating": "6;6;6;6;8",
+    "confidence": "2;4;3;4;4",
+    "soundness": "3;3;3;3;4",
+    "contribution": "3;3;3;3;4",
+    "presentation": "3;3;3;3;4",
+    "wc_summary": "31;74;108;85;156",
+    "wc_strengths": "19;96;49;61;208",
+    "wc_weaknesses": "71;75;155;41;121",
+    "wc_questions": "26;21;139;55;567",
+    "wc_review": "147;266;451;242;1052",
+    "wc_reply_reviewers": "12;16;0;0;61",
+    "wc_reply_authors": "653;506;788;1022;1808",
+    "reply_reviewers": "1;1;0;0;1",
+    "reply_authors": "2;2;2;3;4",
+    "rating_avg": [
+      6.4,
+      0.7999999999999999
+    ],
+    "confidence_avg": [
+      3.4,
+      0.8
+    ],
+    "soundness_avg": [
+      3.2,
+      0.39999999999999997
+    ],
+    "contribution_avg": [
+      3.2,
+      0.39999999999999997
+    ],
+    "presentation_avg": [
+      3.2,
+      0.39999999999999997
+    ],
+    "wc_summary_avg": [
+      90.8,
+      41.08235631022154
+    ],
+    "wc_strengths_avg": [
+      86.6,
+      65.5212942485113
+    ],
+    "wc_weaknesses_avg": [
+      92.6,
+      40.34649922855761
+    ],
+    "wc_questions_avg": [
+      161.6,
+      207.0648207687631
+    ],
+    "wc_review_avg": [
+      431.6,
+      325.4661887201188
+    ],
+    "wc_reply_reviewers_avg": [
+      17.8,
+      22.52465316048174
+    ],
+    "wc_reply_authors_avg": [
+      955.4,
+      458.86625502427177
+    ],
+    "reply_reviewers_avg": [
+      0.6,
+      0.48989794855663565
+    ],
+    "reply_authors_avg": [
+      2.6,
+      0.8
+    ],
+    "replies_avg": [
+      24,
+      0
+    ],
+    "authors#_avg": [
+      7,
+      0
+    ],
+    "corr_rating_confidence": 0.37500000000000006,
+    "gs_citation": 1,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=16859990584934704312&as_sdt=5,33&sciodt=0,33&hl=en",
+    "gs_version_total": 2,
+    "pdf": "https://openreview.net/pdf?id=yJ9QNbpMi2",
+    "email": "hku.hk;cmu.edu;adobe.com;nvidia.com;cmu.edu;cmu.edu;cmu.edu",
+    "author_num": 7,
+    "aff_unique_index": "0;1;2;3;1;1;1",
+    "aff_unique_norm": "University of Hong Kong;Carnegie Mellon University;Adobe;NVIDIA",
+    "aff_unique_dep": ";;Adobe Systems Incorporated;NVIDIA Corporation",
+    "aff_unique_url": "https://www.hku.hk;https://www.cmu.edu;https://www.adobe.com;https://www.nvidia.com",
+    "aff_unique_abbr": "HKU;CMU;Adobe;NVIDIA",
+    "aff_campus_unique_index": "0",
+    "aff_campus_unique": "Hong Kong SAR;",
+    "aff_country_unique_index": "0;1;1;1;1;1;1",
+    "aff_country_unique": "China;United States",
+    "_source_file": "iclr2025_filtered.json"
+  }
+]

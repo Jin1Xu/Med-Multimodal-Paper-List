@@ -1,0 +1,398 @@
+[
+  {
+    "title": "ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025)",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Supervised Learning Assisted by Text-Guided Attention for Ards Prediction",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "[18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Longitudinal Image Synthesis for Early Brain Development with Age Awareness",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Enhancing Dementia Detection: Augmenting the Face Mesh",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Identifying Brain Strokes by Image Analysis Using Transfer Learning",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "ExpTopo: Explicit Topological Modeling for Bronchus Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification",
+    "_source_file": "isbi2025_filtered.json"
+  }
+]

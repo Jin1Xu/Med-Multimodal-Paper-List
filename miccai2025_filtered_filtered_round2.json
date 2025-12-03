@@ -1,0 +1,670 @@
+[
+  {
+    "title": "A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Conditional Graph Diffusion with Topological Constraints for Brain Network Generation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Cross-Modal Graph Learning for Perivascular Spaces Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net)",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Improving Autism Detection with Multimodal Behavioral Analysis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Lesion-centered vision transformer for stroke outcome prediction from image and clinical data",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Masked Contrastive Language-Image Modeling For Brain Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Predicting Longitudinal Brain Development via Implicit Neural Representations",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Task-aligned fMRI Generation Model for Brain Disorder Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  },
+  {
+    "title": "X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis",
+    "_source_file": "miccai2025_filtered.json"
+  }
+]

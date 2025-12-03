@@ -1,0 +1,941 @@
+[
+  {
+    "title": "MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/46635",
+    "id": "1W2WlYRq0K",
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:8RHBltjrY2IJ:scholar.google.com/&scioq=MindAligner:+Explicit+Brain+Functional+Alignment+for+Cross-Subject+Visual+Decoding+from+Limited+fMRI+Data&hl=en&as_sdt=0,5",
+    "gs_version_total": 2,
+    "author_site": "Yuqin Dai, Zhouheng Yao, Chunfeng Song, Qihao Zheng, Weijian Mai, Kunyu Peng, Shuai Lu, Wanli Ouyang, Jian Yang, Jiamin Wu",
+    "tldr": "",
+    "abstract": "Brain decoding aims to reconstruct visual perception of human subject from fMRI signals, which is crucial for understanding brain's perception mechanisms.  Existing methods are confined to the single-subject paradigm due to substantial brain variability, which leads to weak generalization across individuals and incurs high training costs, exacerbated by limited availability of fMRI data. To address these challenges, we propose MindAligner, an explicit functional alignment framework for cross-subject brain decoding from limited fMRI data. The proposed MindAligner enjoys several merits. First, we learn a Brain Transfer Matrix (BTM) that projects the brain signals of an arbitrary new subject to one of the known subjects, enabling seamless use of pre-trained decoding models. Second, to facilitate reliable BTM learning, a Brain Functional Alignment module is proposed to perform soft cross-subject brain alignment under different visual stimuli with a multi-level brain alignment loss, uncovering fine-grained functional correspondences with high interpretability. Experiments indicate that MindAligner not only outperforms existing methods in visual decoding under data-limited conditions, but also provides valuable neuroscience insights in cross-subject functional analysis. The code will be made publicly available.",
+    "keywords": "Brain Decoding;Functional Alignment;Cross-subject Decoding;Neuroscience;Neuroimaging;Visual Perception",
+    "primary_area": "applications->neuroscience_cognitive_science",
+    "supplementary_material": "",
+    "author": "Yuqin Dai;Zhouheng Yao;Chunfeng Song;Qihao Zheng;Weijian Mai;Kunyu Peng;Shuai Lu;Wanli Ouyang;Jian Yang;Jiamin Wu",
+    "authorids": "~Yuqin_Dai1;~Zhouheng_Yao1;~Chunfeng_Song1;~Qihao_Zheng1;~Weijian_Mai2;~Kunyu_Peng1;~Shuai_Lu3;~Wanli_Ouyang1;~Jian_Yang1;~Jiamin_Wu2",
+    "gender": ";F;;M;M;F;M;;M;F",
+    "homepage": ";https://github.com/kaleidoyao;;;https://github.com/MichaelMaiii;;https://www.sigs.tsinghua.edu.cn/ls_en/main.htm;;;",
+    "dblp": ";399/7800;;;;292/4197;;;y/JianYang3.html;",
+    "google_scholar": ";;;jrX2FekAAAAJ;;pA9c0YsAAAAJ;SFgJSgsAAAAJ;;https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ;_zjE_EMAAAAJ",
+    "orcid": ";;;0009-0006-0663-1227;;0000-0002-5419-9292;0000-0003-3772-1613;;;0000-0003-4380-5573",
+    "linkedin": ";;;;;;;;;",
+    "or_profile": "~Yuqin_Dai1;~Zhouheng_Yao1;~Chunfeng_Song1;~Qihao_Zheng1;~Weijian_Mai2;~Kunyu_Peng1;~Shuai_Lu3;~Wanli_Ouyang1;~Jian_Yang1;~Jiamin_Wu2",
+    "aff": ";Nanjing University;;Shanghai AI Laboratory;Shanghai AI Laboratory;Karlsruher Institut für Technologie;Tsinghua University;;Nanjing University of Science and Technology;The Chinese University of Hong Kong",
+    "aff_domain": ";nju.edu;;pjlab.org.cn;pjlab.org.cn;kit.edu;tsinghua.edu.cn;;njust.edu.cn;cuhk.edu.hk",
+    "position": ";Undergrad student;;Assistant Professor;Intern;Postdoc;Associate Professor;;Full Professor;Postdoc",
+    "bibtex": "@inproceedings{\ndai2025mindaligner,\ntitle={MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited f{MRI} Data},\nauthor={Yuqin Dai and Zhouheng Yao and Chunfeng Song and Qihao Zheng and Weijian Mai and Kunyu Peng and Shuai Lu and Wanli Ouyang and Jian Yang and Jiamin Wu},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=1W2WlYRq0K}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "Hn6R;iSeR;7q81;5B7Z",
+    "pdf_size": 0,
+    "recommendation": "2;2;3;4",
+    "wc_summary": "94;135;44;59",
+    "wc_claims_and_evidence": "605;32;49;1",
+    "wc_methods_and_evaluation": "16;69;65;1",
+    "wc_theoretical_claims": "7;9;6;1",
+    "wc_experimental_designs_or_analyses": "91;51;30;1",
+    "wc_supplementary_material": "6;16;6;1",
+    "wc_relation_to_broader_scientific_literature": "19;19;30;23",
+    "wc_strengths_and_weaknesses": "44;24;15;172",
+    "wc_essential_references_not_discussed": "1;26;1;1",
+    "wc_questions": "72;79;7;18",
+    "wc_review": "955;460;253;278",
+    "wc_reply_reviewers": "0;37;0;143",
+    "wc_reply_authors": "0;77;0;46",
+    "reply_reviewers": "0;1;0;1",
+    "reply_authors": "1;2;1;2",
+    "recommendation_avg": [
+      2.75,
+      0.82915619758885
+    ],
+    "wc_summary_avg": [
+      83.0,
+      35.078483433580764
+    ],
+    "wc_claims_and_evidence_avg": [
+      171.75,
+      250.72831411709367
+    ],
+    "wc_methods_and_evaluation_avg": [
+      37.75,
+      29.76050234791073
+    ],
+    "wc_theoretical_claims_avg": [
+      5.75,
+      2.947456530637899
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      43.25,
+      32.79005184503373
+    ],
+    "wc_supplementary_material_avg": [
+      7.25,
+      5.448623679425842
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      22.75,
+      4.493050188902857
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      63.75,
+      63.3733974156349
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      7.25,
+      10.825317547305483
+    ],
+    "wc_questions_avg": [
+      44.0,
+      31.835514759463212
+    ],
+    "wc_review_avg": [
+      486.5,
+      282.04122039162996
+    ],
+    "wc_reply_reviewers_avg": [
+      45.0,
+      58.561933028205274
+    ],
+    "wc_reply_authors_avg": [
+      30.75,
+      32.64486942844159
+    ],
+    "reply_reviewers_avg": [
+      0.5,
+      0.5
+    ],
+    "reply_authors_avg": [
+      1.5,
+      0.5
+    ],
+    "replies_avg": [
+      13,
+      0
+    ],
+    "authors#_avg": [
+      10,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=1W2WlYRq0K",
+    "pdf": "https://openreview.net/pdf?id=1W2WlYRq0K",
+    "email": ";nju.edu;;pjlab.org.cn;pjlab.org.cn;kit.edu;tsinghua.edu.cn;;njust.edu.cn;cuhk.edu.hk",
+    "author_num": 10,
+    "aff_unique_index": "0;1;0;2;2;3;4;0;5;6",
+    "aff_unique_norm": ";Nanjing University;Shanghai AI Laboratory;Karlsruher Institut für Technologie;Tsinghua University;Nanjing University of Science and Technology;Chinese University of Hong Kong",
+    "aff_unique_dep": ";;;;;;",
+    "aff_unique_url": ";https://www.nju.edu.cn;https://www.shanghai-ai-lab.com;https://www.kit.edu;https://www.tsinghua.edu.cn;http://www.nust.edu.cn/;https://www.cuhk.edu.hk",
+    "aff_unique_abbr": ";Nanjing U;SAIL;KIT;THU;NUST;CUHK",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Hong Kong SAR",
+    "aff_country_unique_index": "1;1;1;2;1;1;1",
+    "aff_country_unique": ";China;Germany",
+    "_source_file": "icml2025_filtered.json"
+  },
+  {
+    "title": "MindLLM: A Subject-Agnostic and Versatile Model for fMRI-to-text Decoding",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/45933",
+    "id": "EiAQrilPYP",
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:IPB8PGFeegkJ:scholar.google.com/&scioq=MindLLM:+A+Subject-Agnostic+and+Versatile+Model+for+fMRI-to-text+Decoding&hl=en&as_sdt=0,5",
+    "gs_version_total": 3,
+    "author_site": "Weikang Qiu, Zheng Huang, Haoyu Hu, Aosong Feng, Yujun Yan, ZHITAO YING",
+    "tldr": "",
+    "abstract": "Decoding functional magnetic resonance imaging (fMRI) signals into text has been a key challenge in the neuroscience community, with the potential to advance brain-computer interfaces and uncover deeper insights into brain mechanisms. However, existing approaches often struggle with suboptimal predictive performance, limited task variety, and poor generalization across subjects. In response to this, we propose MindLLM, a model designed for subject-agnostic and versatile fMRI-to-text decoding. MindLLM consists of an fMRI encoder and an off-the-shelf LLM. The fMRI encoder employs a neuroscience-informed attention mechanism, which is capable of accommodating subjects with varying input shapes and thus achieves high-performance subject-agnostic decoding. Moreover, we introduce Brain Instruction Tuning (BIT), a novel approach that enhances the model's ability to capture diverse semantic representations from fMRI signals, facilitating more versatile decoding. We evaluate MindLLM on comprehensive fMRI-to-text benchmarks. Results demonstrate that our model outperforms the baselines, improving downstream tasks by $12.0\\%$, unseen subject generalization by $24.5\\%$, and novel task adaptation by $25.0\\%$. Furthermore, the attention patterns in MindLLM provide interpretable insights into its decision-making process.",
+    "keywords": "Neuroscience;fMRI",
+    "primary_area": "applications->neuroscience_cognitive_science",
+    "supplementary_material": "",
+    "author": "Weikang Qiu;Zheng Huang;Haoyu Hu;Aosong Feng;Yujun Yan;Rex Ying",
+    "authorids": "~Weikang_Qiu1;~Zheng_Huang2;~Haoyu_Hu2;~Aosong_Feng1;~Yujun_Yan1;~Zhitao_Ying1",
+    "gender": "M;M;;M;F;M",
+    "homepage": "https://www.boltzmachine.com;https://scholar.google.com/citations?user=kEdNHHwAAAAJ&hl=en&authuser=4;;;https://sites.google.com/umich.edu/yujunyan/home;https://www.cs.yale.edu/homes/ying-rex",
+    "dblp": "336/1936;;;260/0450;219/1736;209/4936",
+    "google_scholar": "OLRjhHAAAAAJ;;;lIuUXKkAAAAJ;5TQUP58AAAAJ;6fqNXooAAAAJ",
+    "orcid": ";;;;0000-0003-3776-4293;",
+    "linkedin": ";;;;;rex-ying-92770148/",
+    "or_profile": "~Weikang_Qiu1;~Zheng_Huang2;~Haoyu_Hu2;~Aosong_Feng1;~Yujun_Yan1;~Zhitao_Ying1",
+    "aff": "Yale University;Dartmouth College;;Yale University;Dartmouth College;Yale University",
+    "aff_domain": "yale.edu;dartmouth.edu;;yale.edu;dartmouth.edu;yale.edu",
+    "position": "PhD student;PhD student;;PhD student;Assistant Professor;Assistant Professor",
+    "bibtex": "@inproceedings{\nqiu2025mindllm,\ntitle={Mind{LLM}: A Subject-Agnostic and Versatile Model for f{MRI}-to-text Decoding},\nauthor={Weikang Qiu and Zheng Huang and Haoyu Hu and Aosong Feng and Yujun Yan and Rex Ying},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=EiAQrilPYP}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "Gvse;D9CN;SE3R;1cT4",
+    "pdf_size": 0,
+    "recommendation": "2;3;3;4",
+    "wc_summary": "28;166;115;40",
+    "wc_claims_and_evidence": "42;316;63;113",
+    "wc_methods_and_evaluation": "3;86;55;17",
+    "wc_theoretical_claims": "2;23;10;1",
+    "wc_experimental_designs_or_analyses": "156;28;55;19",
+    "wc_supplementary_material": "1;15;11;1",
+    "wc_relation_to_broader_scientific_literature": "1;27;70;52",
+    "wc_strengths_and_weaknesses": "4;548;60;1",
+    "wc_essential_references_not_discussed": "1;19;65;1",
+    "wc_questions": "1;35;38;46",
+    "wc_review": "239;1263;542;291",
+    "wc_reply_reviewers": "38;110;0;190",
+    "wc_reply_authors": "332;340;0;210",
+    "reply_reviewers": "1;1;0;1",
+    "reply_authors": "2;2;1;2",
+    "recommendation_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "wc_summary_avg": [
+      87.25,
+      56.37985012395829
+    ],
+    "wc_claims_and_evidence_avg": [
+      133.5,
+      108.4769560782381
+    ],
+    "wc_methods_and_evaluation_avg": [
+      40.25,
+      32.5528416578338
+    ],
+    "wc_theoretical_claims_avg": [
+      9.0,
+      8.803408430829505
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      64.5,
+      54.46329038903177
+    ],
+    "wc_supplementary_material_avg": [
+      7.0,
+      6.164414002968976
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      37.5,
+      26.02402735934621
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      153.25,
+      229.1171916290875
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      21.5,
+      26.16772821625905
+    ],
+    "wc_questions_avg": [
+      30.0,
+      17.219175357722563
+    ],
+    "wc_review_avg": [
+      583.75,
+      408.55805890962426
+    ],
+    "wc_reply_reviewers_avg": [
+      84.5,
+      72.59993112944392
+    ],
+    "wc_reply_authors_avg": [
+      220.5,
+      137.33444578837458
+    ],
+    "reply_reviewers_avg": [
+      0.75,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      1.75,
+      0.4330127018922193
+    ],
+    "replies_avg": [
+      15,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=EiAQrilPYP",
+    "pdf": "https://openreview.net/pdf?id=EiAQrilPYP",
+    "email": "yale.edu;dartmouth.edu;;yale.edu;dartmouth.edu;yale.edu",
+    "author_num": 6,
+    "aff_unique_index": "0;1;2;0;1;0",
+    "aff_unique_norm": "Yale University;Dartmouth College;",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": "https://www.yale.edu;https://www.dartmouth.edu;",
+    "aff_unique_abbr": "Yale;Dartmouth;",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0",
+    "aff_country_unique": "United States;",
+    "_source_file": "icml2025_filtered.json"
+  },
+  {
+    "title": "Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/45908",
+    "id": "F3Cbhb611p",
+    "gs_citation": -1,
+    "gs_cited_by_link": "",
+    "gs_version_total": -1,
+    "author_site": "Minqi Yu, Jinduo Liu, Junzhong Ji",
+    "tldr": "",
+    "abstract": "Deep models are increasingly used to analyze brain graphs for the diagnosis and understanding of brain diseases. However, due to the multi-site data aggregation and individual differences, brain graph datasets exhibit widespread distribution shifts, which impair the model’s generalization ability to the test set, thereby limiting the performance of existing methods. To address these issues, we propose a Causally Invariance-aware Augmentation for brain Graph Contrastive Learning, called CIA-GCL. This method first generates a brain graph by extracting node features based on the topological structure. Then, a learnable brain invariant subgraph is identified based on a causal decoupling approach to capture the maximum label-related invariant information with invariant learning. Around this invariant subgraph, we design a novel invariance-aware augmentation strategy to generate meaningful augmented samples for graph contrast learning. Finally, the extracted invariant subgraph is utilized for brain disease classification, effectively mitigating distribution shifts while also identifying critical local graph structures, enhancing the model’s interpretability. Experiments on three real-world brain disease datasets demonstrate that our method achieves state-of-the-art performance, effectively generalizes to multi-site brain datasets, and provides certain interpretability.",
+    "keywords": "Graph contrastive learning;Invariant learning;fMRI analysis;Neurodevelopmental disorders",
+    "primary_area": "applications->health_medicine",
+    "supplementary_material": "",
+    "author": "Minqi Yu;Jinduo Liu;Junzhong Ji",
+    "authorids": "~Minqi_Yu1;~Jinduo_Liu1;~Junzhong_Ji1",
+    "gender": "Not Specified;M;M",
+    "homepage": "https://github.com/qinsheng1900;https://duo67.github.io;https://xxxb.bjut.edu.cn/info/1409/2196.htm",
+    "dblp": ";174/5802;52/1893",
+    "google_scholar": ";dJIbKxkAAAAJ;",
+    "orcid": ";0000-0002-6264-0471;",
+    "linkedin": ";;",
+    "or_profile": "~Minqi_Yu1;~Jinduo_Liu1;~Junzhong_Ji1",
+    "aff": "Beijing University Of Technology;Beijing University Of Technology;Beijing University of Technology",
+    "aff_domain": "emails.bjut.edu.cn;bjut.edu.cn;bjut.edu.cn",
+    "position": "MS student;Associate Professor;Full Professor",
+    "bibtex": "@inproceedings{\nyu2025causal,\ntitle={Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning},\nauthor={Minqi Yu and Jinduo Liu and Junzhong Ji},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=F3Cbhb611p}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "bXt3;MG4v;nb4i;aeNH",
+    "pdf_size": 0,
+    "recommendation": "2;3;3;4",
+    "wc_summary": "77;48;55;140",
+    "wc_claims_and_evidence": "189;41;21;21",
+    "wc_methods_and_evaluation": "121;24;33;85",
+    "wc_theoretical_claims": "7;5;57;62",
+    "wc_experimental_designs_or_analyses": "153;28;71;68",
+    "wc_supplementary_material": "9;7;35;40",
+    "wc_relation_to_broader_scientific_literature": "115;7;66;125",
+    "wc_strengths_and_weaknesses": "20;253;294;407",
+    "wc_essential_references_not_discussed": "1;38;6;20",
+    "wc_questions": "34;2;25;122",
+    "wc_review": "726;453;663;1090",
+    "wc_reply_reviewers": "197;0;14;147",
+    "wc_reply_authors": "639;0;75;140",
+    "reply_reviewers": "1;0;1;1",
+    "reply_authors": "2;1;2;2",
+    "recommendation_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "wc_summary_avg": [
+      80.0,
+      36.2560339805666
+    ],
+    "wc_claims_and_evidence_avg": [
+      68.0,
+      70.33491309442275
+    ],
+    "wc_methods_and_evaluation_avg": [
+      65.75,
+      39.492879104972836
+    ],
+    "wc_theoretical_claims_avg": [
+      32.75,
+      26.81767141270845
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      80.0,
+      45.436769251345325
+    ],
+    "wc_supplementary_material_avg": [
+      22.75,
+      14.872373717735847
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      78.25,
+      46.804780738723686
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      243.5,
+      140.82347105507662
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      16.25,
+      14.359230480774379
+    ],
+    "wc_questions_avg": [
+      45.75,
+      45.54324867639549
+    ],
+    "wc_review_avg": [
+      733.0,
+      229.56371664529217
+    ],
+    "wc_reply_reviewers_avg": [
+      89.5,
+      84.51774961509564
+    ],
+    "wc_reply_authors_avg": [
+      213.5,
+      250.60776125251988
+    ],
+    "reply_reviewers_avg": [
+      0.75,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      1.75,
+      0.4330127018922193
+    ],
+    "replies_avg": [
+      15,
+      0
+    ],
+    "authors#_avg": [
+      3,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=F3Cbhb611p",
+    "pdf": "https://openreview.net/pdf?id=F3Cbhb611p",
+    "email": "emails.bjut.edu.cn;bjut.edu.cn;bjut.edu.cn",
+    "author_num": 3,
+    "aff_unique_index": "0;0;0",
+    "aff_unique_norm": "Beijing University of Technology",
+    "aff_unique_dep": "",
+    "aff_unique_url": "http://www.bjut.edu.cn",
+    "aff_unique_abbr": "BJUT",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "icml2025_filtered.json"
+  },
+  {
+    "title": "MedRAX: Medical Reasoning Agent for Chest X-ray",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/45678",
+    "id": "JiFfij5iv0",
+    "gs_citation": 5,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=5215312371830230033&as_sdt=5,33&sciodt=0,33&hl=en",
+    "gs_version_total": 2,
+    "author_site": "Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, BO WANG",
+    "tldr": "",
+    "abstract": "Chest X-rays (CXRs) play an integral role in driving critical decisions in disease management and patient care. While recent innovations have led to specialized models for various CXR interpretation tasks, these solutions often operate in isolation, limiting their practical utility in clinical practice. We present MedRAX, the first versatile AI agent that seamlessly integrates state-of-the-art  CXR analysis tools and multimodal large language models into a unified framework. MedRAX dynamically leverages these models to address complex medical queries without requiring additional training. To rigorously evaluate its capabilities, we introduce ChestAgentBench, a comprehensive benchmark containing 2,500 complex medical queries across 7 diverse categories. Our experiments demonstrate that MedRAX achieves state-of-the-art performance compared to both open-source and proprietary models, representing a significant step toward the practical deployment of automated CXR interpretation systems. Data and code have been publicly available at https://github.com/bowang-lab/MedRAX",
+    "keywords": "healthcare;agent;multimodal;chest X-ray;benchmark",
+    "primary_area": "applications->health_medicine",
+    "supplementary_material": "",
+    "author": "Adibvafa Fallahpour;Jun Ma;Alif Munim;Hongwei Lyu;BO WANG",
+    "authorids": "~Adibvafa_Fallahpour1;~Jun_Ma1;~Alif_Munim1;~Hongwei_Lyu1;~BO_WANG11",
+    "gender": "M;M;M;M;M",
+    "homepage": "https://adibvafa.github.io;;;https://www.hendao.com/;https://wanglab.ai/",
+    "dblp": ";91/4845-16;339/7049;;",
+    "google_scholar": "https://scholar.google.ca/citations?hl=en;https://scholar.google.com.hk/citations?hl=en;3XRvwJwAAAAJ;;37FDILIAAAAJ",
+    "orcid": "0009-0009-8413-9563;0000-0002-9739-0855;;;",
+    "linkedin": "adibvafa-fallahpour/;;alif-munim/;;",
+    "or_profile": "~Adibvafa_Fallahpour1;~Jun_Ma1;~Alif_Munim1;~Hongwei_Lyu1;~BO_WANG11",
+    "aff": "Cohere+Vector Institute+University Health Network+University of Toronto;University of Toronto;University Health Network;University Health Network;Vector Institute",
+    "aff_domain": "cohere.com+vectorinstitute.ai+uhn.ca+utoronto.ca;utoronto.ca;uhnres.utoronto.ca;uhn.ca;vectorinstitute.ai",
+    "position": "Intern+Researcher+Researcher+Undergrad student;Postdoc;Researcher;Software Developer;Assistant Professor",
+    "bibtex": "@inproceedings{\nfallahpour2025medrax,\ntitle={Med{RAX}: Medical Reasoning Agent for Chest X-ray},\nauthor={Adibvafa Fallahpour and Jun Ma and Alif Munim and Hongwei Lyu and BO WANG},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=JiFfij5iv0}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "4LiS;DGwp;b5BD;KTkS",
+    "pdf_size": 0,
+    "recommendation": "2;3;3;3",
+    "wc_summary": "194;133;59;170",
+    "wc_claims_and_evidence": "105;40;71;72",
+    "wc_methods_and_evaluation": "31;79;122;54",
+    "wc_theoretical_claims": "1;17;1;1",
+    "wc_experimental_designs_or_analyses": "36;163;173;155",
+    "wc_supplementary_material": "5;9;5;14",
+    "wc_relation_to_broader_scientific_literature": "48;35;94;35",
+    "wc_strengths_and_weaknesses": "182;2;214;97",
+    "wc_essential_references_not_discussed": "109;1;6;26",
+    "wc_questions": "306;2;5;134",
+    "wc_review": "1017;481;750;758",
+    "wc_reply_reviewers": "0;0;150;0",
+    "wc_reply_authors": "0;0;114;0",
+    "reply_reviewers": "0;0;1;0",
+    "reply_authors": "1;1;2;1",
+    "recommendation_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      139.0,
+      51.044098581520664
+    ],
+    "wc_claims_and_evidence_avg": [
+      72.0,
+      22.9891278651453
+    ],
+    "wc_methods_and_evaluation_avg": [
+      71.5,
+      33.737960815674676
+    ],
+    "wc_theoretical_claims_avg": [
+      5.0,
+      6.928203230275509
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      131.75,
+      55.647888549342106
+    ],
+    "wc_supplementary_material_avg": [
+      8.25,
+      3.6996621467371855
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      53.0,
+      24.259018941416407
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      123.75,
+      82.27507216648308
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      35.5,
+      43.45399866525519
+    ],
+    "wc_questions_avg": [
+      111.75,
+      124.16596755955312
+    ],
+    "wc_review_avg": [
+      751.5,
+      189.5422116574564
+    ],
+    "wc_reply_reviewers_avg": [
+      37.5,
+      64.9519052838329
+    ],
+    "wc_reply_authors_avg": [
+      28.5,
+      49.363448015713004
+    ],
+    "reply_reviewers_avg": [
+      0.25,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      1.25,
+      0.4330127018922193
+    ],
+    "replies_avg": [
+      11,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=JiFfij5iv0",
+    "pdf": "https://openreview.net/pdf?id=JiFfij5iv0",
+    "email": "cohere.com+vectorinstitute.ai+uhn.ca+utoronto.ca;utoronto.ca;uhnres.utoronto.ca;uhn.ca;vectorinstitute.ai",
+    "author_num": 5,
+    "aff_unique_index": "0+1+2+3;3;2;2;1",
+    "aff_unique_norm": "Cohere;Vector Institute;University Health Network;University of Toronto",
+    "aff_unique_dep": ";;;",
+    "aff_unique_url": "https://cohere.ai;https://vectorinstitute.ai/;https://www.uhn.ca;https://www.utoronto.ca",
+    "aff_unique_abbr": ";Vector Institute;;U of T",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0+1+1+1;1;1;1;1",
+    "aff_country_unique": "United States;Canada",
+    "_source_file": "icml2025_filtered.json"
+  },
+  {
+    "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/44671",
+    "id": "ckbo9yutGO",
+    "author_site": "Jun-En Ding, Dongsheng Luo, Chenwei Wu, Feng Liu",
+    "tldr": "",
+    "abstract": "Mental disorders are among the most widespread diseases globally. Analyzing functional brain networks through functional magnetic resonance imaging (fMRI) is crucial for understanding mental disorder behaviors. Although existing fMRI-based graph neural networks (GNNs) have demonstrated significant potential in brain network feature extraction, they often fail to characterize complex relationships between brain regions and demographic information in mental disorders. To overcome these limitations, we propose a learnable NeuroTree framework that integrates a $k$-hop AGE-GCN with neural ordinary differential equations (ODEs) and contrastive masked functional connectivity (CMFC) to enhance similarities and dissimilarities of brain region distance. Furthermore, NeuroTree effectively decodes fMRI network features into tree structures, which improves the capture of high-order brain regional pathway features and enables the identification of hierarchical neural behavioral patterns essential for understanding disease-related brain subnetworks. Our empirical evaluations demonstrate that NeuroTree achieves state-of-the-art performance across two distinct mental disorder datasets. It provides valuable insights into age-related deterioration patterns, elucidating their underlying neural mechanisms.  The code and datasets are available at https://github.com/Ding1119/NeuroTree.",
+    "keywords": "fMRI;Mental Disorders;Graph Neural Networks;Neuroscience",
+    "primary_area": "applications->neuroscience_cognitive_science",
+    "supplementary_material": "",
+    "author": "Jun-En Ding;Dongsheng Luo;Chenwei Wu;Feng Liu",
+    "authorids": "~Jun-En_Ding1;~Dongsheng_Luo1;~Chenwei_Wu2;~Feng_Liu1",
+    "gender": "M;M;M;M",
+    "homepage": "https://www.jun-ending.com/;https://users.cs.fiu.edu/~dluo/;https://www.helloworld.com;https://faculty.stevens.edu/fliu22",
+    "dblp": ";;;77/1318-11",
+    "google_scholar": "https://scholar.google.com.tw/citations?hl=zh-TW;https://scholar.google.com/citations?hl=en;2RsefeYAAAAJ;HVZdbX0AAAAJ",
+    "orcid": "0000-0002-1233-138X;0000-0003-4192-0826;;",
+    "linkedin": ";;;",
+    "or_profile": "~Jun-En_Ding1;~Dongsheng_Luo1;~Chenwei_Wu2;~Feng_Liu1",
+    "aff": "Stevens Institute of Technology;Florida International University;University of Michigan - Ann Arbor;Stevens Institute of Technology",
+    "aff_domain": "stevens.edu;fiu.edu;umich.edu;stevens.edu",
+    "position": "PhD student;Assistant Professor;PhD student;Assistant Professor",
+    "bibtex": "@inproceedings{\nding2025neurotree,\ntitle={NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders},\nauthor={Jun-En Ding and Dongsheng Luo and Chenwei Wu and Feng Liu},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=ckbo9yutGO}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "XciT;fciF;gVcG",
+    "pdf_size": 0,
+    "recommendation": "1;3;4",
+    "wc_summary": "28;74;69",
+    "wc_claims_and_evidence": "208;4;80",
+    "wc_methods_and_evaluation": "5;75;144",
+    "wc_theoretical_claims": "9;55;31",
+    "wc_experimental_designs_or_analyses": "5;17;189",
+    "wc_supplementary_material": "7;4;7",
+    "wc_relation_to_broader_scientific_literature": "11;1;45",
+    "wc_strengths_and_weaknesses": "7;163;68",
+    "wc_essential_references_not_discussed": "51;1;24",
+    "wc_questions": "1;1;88",
+    "wc_review": "332;395;745",
+    "wc_reply_reviewers": "0;0;0",
+    "wc_reply_authors": "0;0;0",
+    "reply_reviewers": "0;0;0",
+    "reply_authors": "1;1;1",
+    "recommendation_avg": [
+      2.6666666666666665,
+      1.247219128924647
+    ],
+    "wc_summary_avg": [
+      57.0,
+      20.607442021431645
+    ],
+    "wc_claims_and_evidence_avg": [
+      97.33333333333333,
+      84.17970196087785
+    ],
+    "wc_methods_and_evaluation_avg": [
+      74.66666666666667,
+      56.74700187870918
+    ],
+    "wc_theoretical_claims_avg": [
+      31.666666666666668,
+      18.785337071473826
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      70.33333333333333,
+      84.05289339986392
+    ],
+    "wc_supplementary_material_avg": [
+      6.0,
+      1.4142135623730951
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      19.0,
+      18.83259585576738
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      79.33333333333333,
+      64.18895716727468
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      25.333333333333332,
+      20.43417616532547
+    ],
+    "wc_questions_avg": [
+      30.0,
+      41.012193308819754
+    ],
+    "wc_review_avg": [
+      490.6666666666667,
+      181.67064215833616
+    ],
+    "wc_reply_reviewers_avg": [
+      0,
+      0
+    ],
+    "wc_reply_authors_avg": [
+      0,
+      0
+    ],
+    "reply_reviewers_avg": [
+      0,
+      0
+    ],
+    "reply_authors_avg": [
+      1.0,
+      0.0
+    ],
+    "replies_avg": [
+      7,
+      0
+    ],
+    "authors#_avg": [
+      4,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=ckbo9yutGO",
+    "pdf": "https://openreview.net/pdf?id=ckbo9yutGO",
+    "email": "stevens.edu;fiu.edu;umich.edu;stevens.edu",
+    "author_num": 4,
+    "aff_unique_index": "0;1;2;0",
+    "aff_unique_norm": "Stevens Institute of Technology;Florida International University;University of Michigan",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": "https://www.stevens.edu;https://www.fiu.edu;https://www.umich.edu",
+    "aff_unique_abbr": "SIT;FIU;UM",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Ann Arbor",
+    "aff_country_unique_index": "0;0;0;0",
+    "aff_country_unique": "United States",
+    "_source_file": "icml2025_filtered.json"
+  },
+  {
+    "title": "Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes",
+    "status": "Oral",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/44011",
+    "id": "pOAEfqa26i",
+    "gs_citation": -1,
+    "gs_cited_by_link": "",
+    "gs_version_total": -1,
+    "author_site": "Weihan Li, Yule Wang, Chengrui Li, Anqi Wu",
+    "tldr": "",
+    "abstract": "Understanding and constructing brain communications that capture dynamic communications across multiple regions is fundamental to modern system neuroscience, yet current methods struggle to find time-varying region-level communications or scale to large neural datasets with long recording durations. We present a novel framework using Markovian Gaussian Processes to learn brain communications with time-varying temporal delays from multi-region neural recordings, named Adaptive Delay Model (ADM). Our method combines Gaussian Processes with State Space Models and employs parallel scan inference algorithms, enabling efficient scaling to large datasets while identifying concurrent  communication patterns that evolve over time. This time-varying approach captures how brain region interactions shift dynamically during cognitive processes. Validated on synthetic and multi-region neural recordings datasets, our approach discovers both the directionality and temporal dynamics of neural communication. This work advances our understanding of distributed neural computation and provides a scalable tool for analyzing dynamic brain networks. Code is available at https://github.com/BRAINML-GT/Adaptive-Delay-Model.",
+    "keywords": "Multiple Brain Region Communications; Markovian Gaussian Processes; State Space Model",
+    "primary_area": "applications->neuroscience_cognitive_science",
+    "supplementary_material": "",
+    "author": "Weihan Li;Yule Wang;Chengrui Li;Anqi Wu",
+    "authorids": "~Weihan_Li1;~Yule_Wang1;~Chengrui_Li1;~Anqi_Wu3",
+    "gender": "M;M;M;F",
+    "homepage": "https://weihanlikk.github.io/;https://yulewang97.github.io/;https://jerrysoybean.github.io/;https://sites.google.com/view/brainml/home",
+    "dblp": "24/8923;;174/4237;15/9453",
+    "google_scholar": "qW4_NR4AAAAJ;vqsl1YYAAAAJ;https://scholar.google.com/citations?h;ptGYJiEAAAAJ",
+    "orcid": ";;0000-0001-5947-2393;0000-0002-7866-9455",
+    "linkedin": ";yule-wang-a8002b195/;;",
+    "or_profile": "~Weihan_Li1;~Yule_Wang1;~Chengrui_Li1;~Anqi_Wu3",
+    "aff": "Georgia Institute of Technology;Georgia Institute of Technology;Georgia Institute of Technology;Georgia Institute of Technology",
+    "aff_domain": "gatech.edu;gatech.edu;gatech.edu;gatech.edu",
+    "position": "PhD student;PhD student;PhD student;Assistant Professor",
+    "bibtex": "@inproceedings{\nli2025learning,\ntitle={Learning Time-Varying Multi-Region Brain Communications  via Scalable Markovian Gaussian Processes},\nauthor={Weihan Li and Yule Wang and Chengrui Li and Anqi Wu},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=pOAEfqa26i}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "sX24;MsHr;9Ksf;Wfpo",
+    "pdf_size": 0,
+    "recommendation": "4;4;4;4",
+    "wc_summary": "110;47;114;98",
+    "wc_claims_and_evidence": "87;58;96;16",
+    "wc_methods_and_evaluation": "73;31;215;24",
+    "wc_theoretical_claims": "42;16;14;1",
+    "wc_experimental_designs_or_analyses": "16;135;92;13",
+    "wc_supplementary_material": "25;8;14;11",
+    "wc_relation_to_broader_scientific_literature": "42;59;57;48",
+    "wc_strengths_and_weaknesses": "269;85;31;57",
+    "wc_essential_references_not_discussed": "7;17;42;1",
+    "wc_questions": "497;69;10;120",
+    "wc_review": "1168;525;685;389",
+    "wc_reply_reviewers": "17;33;29;18",
+    "wc_reply_authors": "14;15;40;12",
+    "reply_reviewers": "1;1;1;1",
+    "reply_authors": "2;2;2;2",
+    "recommendation_avg": [
+      4.0,
+      0.0
+    ],
+    "wc_summary_avg": [
+      92.25,
+      26.78035660703569
+    ],
+    "wc_claims_and_evidence_avg": [
+      64.25,
+      31.19595326320387
+    ],
+    "wc_methods_and_evaluation_avg": [
+      85.75,
+      76.93950545720969
+    ],
+    "wc_theoretical_claims_avg": [
+      18.25,
+      14.872373717735847
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      64.0,
+      51.79285665031424
+    ],
+    "wc_supplementary_material_avg": [
+      14.5,
+      6.422616289332565
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      51.5,
+      6.87386354243376
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      110.5,
+      93.48128154876783
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      16.75,
+      15.658464164789597
+    ],
+    "wc_questions_avg": [
+      174.0,
+      190.50328081164378
+    ],
+    "wc_review_avg": [
+      691.75,
+      294.24596428838237
+    ],
+    "wc_reply_reviewers_avg": [
+      24.25,
+      6.905613658466566
+    ],
+    "wc_reply_authors_avg": [
+      20.25,
+      11.453711188955307
+    ],
+    "reply_reviewers_avg": [
+      1.0,
+      0.0
+    ],
+    "reply_authors_avg": [
+      2.0,
+      0.0
+    ],
+    "replies_avg": [
+      17,
+      0
+    ],
+    "authors#_avg": [
+      4,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=pOAEfqa26i",
+    "pdf": "https://openreview.net/pdf?id=pOAEfqa26i",
+    "email": "gatech.edu;gatech.edu;gatech.edu;gatech.edu",
+    "author_num": 4,
+    "aff_unique_index": "0;0;0;0",
+    "aff_unique_norm": "Georgia Institute of Technology",
+    "aff_unique_dep": "",
+    "aff_unique_url": "https://www.gatech.edu",
+    "aff_unique_abbr": "Georgia Tech",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0",
+    "aff_country_unique": "United States",
+    "_source_file": "icml2025_filtered.json"
+  },
+  {
+    "title": "EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://icml.cc/virtual/2025/poster/43523",
+    "id": "yaI2ZYFmeD",
+    "author_site": "Sam Gijsen, Kerstin Ritter",
+    "tldr": "",
+    "abstract": "Multimodal language modeling has enabled breakthroughs for representation learning, yet remains unexplored in the realm of functional brain data for clinical phenotyping. This paper pioneers EEG-language models (ELMs) trained on clinical reports and 15000 EEGs. We propose to combine multimodal alignment in this novel domain with timeseries cropping and text segmentation, enabling an extension based on multiple instance learning to alleviate misalignment between irrelevant EEG or text segments. Our multimodal models significantly improve over EEG-only models across four clinical evaluations and for the first time enable zero-shot classification as well as retrieval of both neural signals and reports. In sum, these results highlight the potential of ELMs, representing significant progress for clinical applications.",
+    "keywords": "multimodal;neuroscience;eeg;medical;pretraining;representation learning",
+    "primary_area": "applications->neuroscience_cognitive_science",
+    "supplementary_material": "",
+    "author": "Sam Gijsen;Kerstin Ritter",
+    "authorids": "~Sam_Gijsen1;~Kerstin_Ritter1",
+    "gender": "Not Specified;F",
+    "homepage": "https://samgijsen.github.io/;",
+    "dblp": ";",
+    "google_scholar": "https://scholar.google.com/citations?hl=en;https://scholar.google.de/citations?user=5cZa3SIAAAAJ",
+    "orcid": "0000-0003-3275-9022;0000-0001-7115-0020",
+    "linkedin": ";",
+    "or_profile": "~Sam_Gijsen1;~Kerstin_Ritter1",
+    "aff": "Charité - Universitätsmedizin Berlin;Charité - Universitätsmedizin Berlin",
+    "aff_domain": "charite.de;charite.de",
+    "position": "Postdoc;Assistant Professor",
+    "bibtex": "@inproceedings{\ngijsen2025eeglanguage,\ntitle={{EEG}-Language Pretraining for Highly Label-Efficient Clinical Phenotyping},\nauthor={Sam Gijsen and Kerstin Ritter},\nbooktitle={Forty-second International Conference on Machine Learning},\nyear={2025},\nurl={https://openreview.net/forum?id=yaI2ZYFmeD}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "hXr5;eiWw;Qj1r;Ln87",
+    "pdf_size": 0,
+    "recommendation": "1;3;4;5",
+    "wc_summary": "84;120;103;114",
+    "wc_claims_and_evidence": "169;9;15;20",
+    "wc_methods_and_evaluation": "62;8;41;22",
+    "wc_theoretical_claims": "1;182;12;1",
+    "wc_experimental_designs_or_analyses": "45;160;76;5",
+    "wc_supplementary_material": "1;116;9;1",
+    "wc_relation_to_broader_scientific_literature": "40;95;70;29",
+    "wc_strengths_and_weaknesses": "7;196;93;8",
+    "wc_essential_references_not_discussed": "5;81;1;6",
+    "wc_questions": "7;63;13;18",
+    "wc_review": "421;1030;433;224",
+    "wc_reply_reviewers": "455;0;0;27",
+    "wc_reply_authors": "699;0;0;140",
+    "reply_reviewers": "1;0;0;1",
+    "reply_authors": "2;1;1;2",
+    "recommendation_avg": [
+      3.25,
+      1.479019945774904
+    ],
+    "wc_summary_avg": [
+      105.25,
+      13.699908758820257
+    ],
+    "wc_claims_and_evidence_avg": [
+      53.25,
+      66.94167237229736
+    ],
+    "wc_methods_and_evaluation_avg": [
+      33.25,
+      20.314711418083203
+    ],
+    "wc_theoretical_claims_avg": [
+      49.0,
+      76.91878834199093
+    ],
+    "wc_experimental_designs_or_analyses_avg": [
+      71.5,
+      56.95831809314598
+    ],
+    "wc_supplementary_material_avg": [
+      31.75,
+      48.75128203442449
+    ],
+    "wc_relation_to_broader_scientific_literature_avg": [
+      58.5,
+      25.86986664055306
+    ],
+    "wc_strengths_and_weaknesses_avg": [
+      76.0,
+      77.57899200170108
+    ],
+    "wc_essential_references_not_discussed_avg": [
+      23.25,
+      33.39442318711314
+    ],
+    "wc_questions_avg": [
+      25.25,
+      22.1401784093986
+    ],
+    "wc_review_avg": [
+      527.0,
+      302.0306275860116
+    ],
+    "wc_reply_reviewers_avg": [
+      120.5,
+      193.43797455515295
+    ],
+    "wc_reply_authors_avg": [
+      209.75,
+      288.19296920639823
+    ],
+    "reply_reviewers_avg": [
+      0.5,
+      0.5
+    ],
+    "reply_authors_avg": [
+      1.5,
+      0.5
+    ],
+    "replies_avg": [
+      13,
+      0
+    ],
+    "authors#_avg": [
+      2,
+      0
+    ],
+    "openreview": "https://openreview.net/forum?id=yaI2ZYFmeD",
+    "pdf": "https://openreview.net/pdf?id=yaI2ZYFmeD",
+    "email": "charite.de;charite.de",
+    "author_num": 2,
+    "aff_unique_index": "0;0",
+    "aff_unique_norm": "Charité - Universitätsmedizin Berlin",
+    "aff_unique_dep": "",
+    "aff_unique_url": "https://www.charite.de",
+    "aff_unique_abbr": "Charité",
+    "aff_campus_unique_index": "0;0",
+    "aff_campus_unique": "Berlin",
+    "aff_country_unique_index": "0;0",
+    "aff_country_unique": "Germany",
+    "_source_file": "icml2025_filtered.json"
+  }
+]
