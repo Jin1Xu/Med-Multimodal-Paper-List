@@ -83,7 +83,8 @@ def paper_to_row(p):
     title_clean = raw_title.strip().strip('"')
     pdf = p.get("pdf") or ""
     arxiv = p.get("arxiv") or ""
-    link_target = arxiv or pdf # 优先级arxiv>pdf 
+    site = p.get("site") or ""
+    link_target = arxiv or pdf or site # 优先级arxiv>pdf 
     if link_target:
         title_md = f"[{title_clean}]({link_target})"
     else:
