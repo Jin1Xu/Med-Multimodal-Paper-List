@@ -22,8 +22,8 @@ def parse_conf_year_from_filename(path: str):
     # 正则匹配
     m = re.match(r"([A-Za-z]+)(\d+)", stem)
     if m:
-        conf = m.group(1).upper()      # 'eccv' -> 'ECCV'
-        year = int(m.group(2))         # '2024' -> 2024
+        conf = m.group(1).upper()     
+        year = int(m.group(2))  
     else:
         letters = "".join(ch for ch in stem if ch.isalpha())
         digits = "".join(ch for ch in stem if ch.isdigit())
@@ -67,16 +67,11 @@ def _load_papers_from_dir(papers_dir: Path):
             
     return grouped
 
-
 def load_papers():
-    """原有多模态论文列表（papers 目录）"""
     return _load_papers_from_dir(PAPERS_DIR)
 
-
 def load_lung_brain_papers():
-    """肺部和脑部 AI 论文列表（lung_brain_papers 目录）"""
     return _load_papers_from_dir(LUNG_BRAIN_PAPERS_DIR)
-
 
 
 def paper_to_row(p):
