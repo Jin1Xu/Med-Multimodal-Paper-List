@@ -104,7 +104,9 @@ def paper_to_row(p):
     status = p.get("status")
 
     # 论文引用次数
-    citations = p.get("gs_citation", 0)
+    citations = p.get("gs_citation", -1)
+    if isinstance(citations, (int, float)) and citations < 0:
+        citations = ""
 
     # 开源代码
     github_link = p.get("github") or ""
