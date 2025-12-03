@@ -1,0 +1,1778 @@
+[
+  {
+    "title": "Revealing Brain and Spinal Cord Functional Networks by Block-Structured Graph Laplacian Mixture Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Dual-Track Framework for Enhancing Age-Related Macular Degeneration Diagnosis Through Embedding and Vision Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Misalignment-Aware MRI-to-CT Synthesis for Lung Segmentation on MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SwinDiff_ConSeg: Automatic Segmentation of Ureters in Consecutive CT Urography Based on Swin Transformer and Diffusion Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "White Light Specular Reflection Data Augmentation for Deep Learning Polyp Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Serial Image Segmentation and Registration Network (SISRN) for Dynamic Enhanced Magnetic Resonance Image Sequences",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Line Artifact Removal Over Medical X-Ray Images via Joint Dictionaries Sparse Decomposition with Structured Incoherence",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "EPI-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "K-Space Diffusion Model Based Mr Reconstruction Method for Simultaneous Multislice Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SwinVFTR: A Novel Volumetric Feature-Learning Transformer for 3D OCT Fluid Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "BoxPolypSAM: Leveraging SAM in Box-Supervised Polyp Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "On the Role of Adversarial Perturbations in Unsupervised Deep Learning for Enhancing Image Quality of Degraded Medical-Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dose Reduction in Step-and-Shoot 4D CT Imaging via Breathing Signal-Guided Deep Learning-Driven Selective Data Acquisition: A Feasibility Study",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Signal Reconstructions for ECG-Transmembrane Voltage Potentials Using Transformers",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Diagnosis with Nanoscale Protein Distributions: Single-Molecule Fluorescence Localization Microscopy and Attention-Based Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Deep Learning-Driven Automated Aortic Valve Calcification Assessment in CT Calcium Score Screening Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "EDA: Enhanced Domain-Adversarial Training for Anatomical Landmark Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Leveraging Graph Neural Networks in Transferring Multimodal Knowledge for Unimodal Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025)",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CSMAE : Cataract Surgical Masked Autoencoder (MAE) Based Pre-Training",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Hallucination Analysis of Score-Based Diffusion Models for CT Denoising Through Spatial Frequency Decomposition",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Prompt-Guided Radiology Report Generation Utilizing SAM",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MamUNet: Mamba Enhances Vessel Segmentation in NIR-II Fluorescence Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Anatosegnet: Anatomy Based CNN-Transformer Network for Enhanced Breast Ultrasound Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Modal Integration for Predicting Biochemical Recurrence in Prostate Cancer",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Tissue Characterization and Attenuation Mapping Using Multifrequency Ultrasound Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Test-Time Fluorescein Angiography-Free Non-Perfusion Area Segmentation from Fundus Image",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Assessing the Use of Diffusion Models for Motion Artifact Correction in Brain MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Enhanced Cervical Vertebral Maturation Assessment Using AI-Based Imaging Analysis System",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Spatial Transcriptomics-Guided Pathological Image Recognition with Batch-Agnostic Encoder",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Unsupervised Anomaly Detection on Implicit Shape Representations for Sarcopenia Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Medical Text and Image Reasoning for Radiation Oncology via Large Language Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Surgical Scene Segmentation by Transformer with Asymmetric Feature Enhancement",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "COMT: Co-Training Mean Teachers Semi-Supervised Training Framework for Cervical Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Exploiting Cross-Dimensional Dependency Using Vision-LSTM for Efficient Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Clinical Inspired MRI Lesion Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Three-Dimensional Diffusion-Weighted Multi-Slab MRI with Slice Profile Compensation Using Deep Energy Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Supervised Learning Assisted by Text-Guided Attention for Ards Prediction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Predicting Response to Neoadjuvant Chemotherapy using Multi-Modal MRI Radiomics and Machine Learning Approaches",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Brain Network Alignment Using Structural and Functional Connectivity With Anatomical Constraints",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Stain Imputation in Multiplex Immunofluorescence Imaging (SIMIF) Based on Random Channel-Wise Masking",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Polyp Detection in Colonoscopy Videos via Boosted Multi-Scale Feature Fusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Anatomical Grounding Pre-Training for Medical Phrase Grounding",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Understanding the Spreading Mechanism of Tau Propagation in Alzheimers Disease Through a Multi-Layer Transport",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Reconstruct Dense Live-Cell Microscopy Images via Learning Continuous Fluorescence Field",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Equivariance-Based Theoretical Analysis and Self-Supervised Learning Framework for Missing Wedge Problem in Cryo-Electron Tomography",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Efficient CMR Report Classification Through Synthetic Data Distillation and Metadata Fusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "IMITATE: Image Registration with Context for Unknown Time Frame Recovery",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Predicting Future Cognitive Development Using Past Brain FMRI with Spatiotemporal Graph Transformers Guided by Prior Information",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Joint Reconstruction of Activity and Attenuation for PET Imaging with Diffusion Prior",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MedSAGa: Few-Shot Memory Efficient Medical Image Segmentation Using Gradient Low-Rank Projection in SAM",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Blending Parametric Model and Neural Refinement: A Coarse-to-Fine Approach for Predicting Facial Changes in Orthognathic Surgery",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Salience-Enhanced Network for Metal Artifact Reduction in CT Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CCIS-DIFF: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "LLAMA-VG: A Video Vision LLaMA-Based Model for Endoscopy Video Generation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Attention-Based Multiple Instance Learning for Achilles Tendinopathy Detection in Ultrasound Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MO-CTranS: A Unified Multi-Organ Segmentation Model Learning from Multiple Heterogeneously Labelled Datasets",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Classification of Surgeons' Gender from Videos of the Surgical Field",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Combined Effect of Erythrocyte Aggregation and Leukocyte Presence on Quantitative Blood Ultrasound: a Simulation Study",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Adaptive Whole-Body Pet Image Denoising Using 3D Diffusion Models with Controlnet",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "FMUNet: Frequency Modulation-Based UNet for Octa Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Locating Standard Planes in Endometrium Ultrasound Videos via Clinical Prior Knowledge of Key Anatomical Structures",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Cervical Cancer Lesion Grading Based on Clinical Diagnostic Criteria and Multi-View Approach Using Intraoperative Colposcopic Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head During Labor",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Scar-Aware Late Mechanical Activation Detection Network for Optimal Cardiac Resynchronization Therapy Planning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Semi-Supervised Medical Image Classification with Neighborhood Adaptive Attention",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Attentive Latent Replay for Continual Learning in Pathology",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Fau-Net: Fourier Attention Based 3D U-Net For Medical Image Registration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SelfMedHPM: Self Pre-Training with Hard Patches Mining Masked Autoencoders for Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Transformer-Based T1-Tractography",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the Fusemycells Challenge",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Hybrid-Frequency Feature Evolution Network for Endoscopic Ultrasound Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Few-Shot Sample-Specific Deep Learning Multiclass Segmentation and Fiber Tractography using 3D-Microscopy with Ultraviolet Surface Excitation (3D-Muse) Images of Human Vagus Nerve",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Autoencoder for 4-Dimensional Fiber Orientation Distributions from Diffusion MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Accelerated 3D Thermometry Field Reconstruction from Tri-Planar Images via Cross-View Implicit Representation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "3D Anatomical Structure-Guided Deep Learning for Accurate Diffusion Microstructure Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Improving Cell Instance Segmentation in Scanning Electron Microscopy via Semantic Image Synthesis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Adaptive Cross-Attention for Robust Lung Segmentation with Noisy Labels",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Synthetic H&E Generation from Highly Multiplixed Immunofluorescence Imaging using Deep-Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "RIEMAE: Riemannian Masked Autoencoder for Classifying Malignant Prostate Cancer Patterns",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "An Interpretable X-Ray Style Transfer Via Trainable Local Laplacian Filter",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "One-Shot Tumour Synthesis for PET-CT Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Self-supervised Prototype Learning for Spatio-Temporal Enhanced Ultrasound-based Prostate Cancer Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "RDMP: A Reference Detection and Mask Propagation Pipeline for Numerous 3D Glomeruli Segmentation in Large Volumes",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Volume Isotropic Super-Resolution Wrist MRI Using Fourier-Guided Implicit Fusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Self-Supervised Learning for Multi-Category Endoscopy Classification and Data Quality Evaluation Using Masked Autoencoders",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "KALM: Knowledge-Driven Active Learning for Medical Image Segmentation Using Localized Similarity",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Comparison of Object Detection and Phrase Grounding Models in Chest X-Ray Abnormality Localization Using Eye-Tracking Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MTKD-LRS: Semi Supervised Knee Cartilage Segmentation using Eigen Low Rank Subspace Assisted Mean-Teacher Framework",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Omnimamba4D: Spatio-Temporal Mamba for Longitudinal CT Lesion Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ga-Shape: A Dual-Path Framework Guided by Gestational Age and Local Shape Descriptors for Fetal Brain MRI Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Benchmarking 3D Multi-Coil NC-PDNet MRI Reconstruction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multimodal Weakly Supervised Segmentation for Histopathology",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Introducing Learning Rate Adaptation CMA-ES into Rigid Intraoperative 2D/3D Registration for Spinal Surgery",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Foundation Model for Cell Segmentation from Immunohistochemistry: A Pilot Study",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Risk-RAM: An Interpretable Deep Survival Prediction Model for COVID-19 Prognosis Using Chest X-Ray Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Topology-Aware Graph Augmentation for Predicting Clinical Trajectories in Neurocognitive Disorders",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Knowledge-Aware Multi-Source Domain Adaptation Network for Osteoporosis Diagnosis from Ultrasonic Radio Frequency Signals",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Self-Supervised Diffusion Bridge for MRI Reconstruction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "RVPD: An Automated System for Calculating the Tortuosity and Bifurcation Angles of Retinal Vessels to Predict Diseases",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision Xlstm and Heteromodal Variational Encoder-Decoder",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Physics-Informed Autoencoder for DSC-MRI Perfusion Post-Processing: Application to Glioma Grading",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "COCTA: A Cortex Vessel Segmentation Benchmark Using Optical Coherence Tomography Angiography",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Medvisiochat: A Multimodal Large Language Model Framework for Interpretable Diagnosis with Visual Grounding in CXRs",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Gland Segmentation Using SAM with Cancer Grade As A Prompt",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Feature-Driven LI-RADS Classification in Liver Cancer: A CNN-Based Approach for CT Imaging Under Data Scarcity",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SwinDiff_DAS: Data Augmentation for Segmentation of the Urinary Collecting System Based on the Shift-Window Transformer and Diffusion Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Multi-Modal Fusion Method for 3-Hinge Gyrus Based on Bidirectional Cross-Attention",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Conditional Convolution of Clinical Data Embeddings for Multimodal Prostate Cancer Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Stage Bidirectional Cross-Attention Model for Predicting Prognosis in Multiple Peritoneum Lesions with Clinical Information",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "UATTA-QSM: Uncertainty-Aware Test Time Adaptation for Improved Quantitative Susceptibility Mapping",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "EMViR - Electron Microscopy Image Dataset Of Labelled Respiratory Viruses For Deep Learning Model Development",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "DG-PPU: Dynamical Graphs Based Post-Processing of Point Clouds Extracted from Knee Ultrasounds",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Enhancing Medical Image Segmentation with Mamba and UNet++",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Coupled Swin Transformers and Multi-Apertures Network(CSTA-NET) Improves Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TA-MIR: Text Aggregation for Multimodal Feature Representation in Medical Image Registration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "F2UE-NET: An Uncertainty-Driven Dynamic Expert Network for Long-Tail Retinal Disease Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Benchmarking Transferability of Self-Supervised Pretraining for Multi-Organ Segmentation on Different Modalities",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Deep Automatic Alignment of Mpox Dermatological Hand Photography",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Phase Attention for Early Stage Hepatocellular Carcinoma Segmentation from Contrast Enhanced Liver MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "An Attention Based Model for Histopathology Image Nuclei Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Braineditor: Structure-Disentangled Brain MRI Synthesis via Natural Language Prompted Diffusion Image Editing",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Salient Region Matching for Fully Automated MR-TRUS Registration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TV-Based Deep 3D Self Super-Resolution for FMRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MEDL: Unsupervised Multi-Stage Ensemble Deep Learning With Diffusion Models for Denoising MRI Scans",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "UnSegMedGAT: Unsupervised Medical Image Segmentation Using Graph Attention Networks Clustering",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Learned Primal Dual Splitting for Self-Supervised Noise-Adaptive MRI Reconstruction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Integrating Event-Based and Biophysical Models to Predict Individual Tau Progression in Alzheimer's Disease",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MR-to-CT Translation Using Frequency-Separated Diffusion Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Stroke Lesion Segmentation Using Multi-Stage Cross-Scale Attention",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Attention-Enhanced UNet for Automated Gleason Score 3 Tumor Segmentation in Histopathological Whole Slide Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Self-Supervised Multi-Modal Learning for Accurate MRI Multiple Sclerosis Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Targeting Prostate Biopsy: A Straightforward CNN Solution for 3D MR-Trus Image Registration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ai-Driven Automated Tool for Abdominal CT Body Composition Analysis in Gastrointestinal Cancer Management",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ultrasound Nerve Segmentation with Deep Learning for Leprosy",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Bridging the Gap Between Conventional and CNN-Based Registration: Application to Mouse Brain Morphometry",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Conditional Generative Models for Contrast-Enhanced Synthesis of T1W and T1 Maps in Brain MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "BMENet: 3D Brain MRI Enhancement Against Various Degradations with Coarse to Fine Network",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Mamba-Based Residual Generative Adversarial Network for Functional Connectivity Harmonization During Infancy",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Discrepancy-Induced Cross-Subnet Interaction Network for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Contrastive Pretraining for Computational Pathology with Visual-Language Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "PI-RADS Inspired Architecture: A New Deep Learning Approach to Detect Clinically Significant Prostate Cancer on MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "[18F]Florbetapir Pet Uptake Differences in White Matter Across the Alzheimer's Disease Continuum: From Cognitively Normal to MCI and Dementia",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Display Field-of-View Agnostic Robust Ct Kernel Synthesis Using Model-Based Deep Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Adapting Segment Anything 2 for Diabetic Retinopathy Lesion Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Fast Multi-Contrast MRI Using Joint Multiscale Energy Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "IMJ-PLUS: Implicit Representation for Dynamic MRI and Coil Sensitivity Joint Reconstruction Using Low-Rank PLUS Sparse Regularization",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dilation-Assisted Contrastive Learning for Corneal Nerve Segmentation in Corneal Confocal Microscopy",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Attention Aware Continual Learning in Digital Pathology Contexts",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "HER2 Status Prediction in Breast Cancer: A Weak Supervision and Contrastive Learning Approach on H&E Stains",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SynStitch: A Self-Supervised Learning Network for Ultrasound Image Stitching Using Synthetic Training Pairs and Indirect Supervision",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Self Pre-Training with Adaptive Mask Autoencoders for Variable-Contrast 3D Medical Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "3D Vertebrae Measurements: Assessing Vertebral Dimensions in Human Spine Models Using Automated Landmark Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Joint Source Decomposition of Concurrent EEG-FMRI Data in Epilepsy and Control Groups",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Longitudinal Image Synthesis for Early Brain Development with Age Awareness",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "IHA-YOLO: Inter-Head Attention for Real-Time Cell Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Leveraging Foundation Models for Clinically Instructed Tumor Image Synthesis in Renal Cell Carcinoma",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multimodal Learning for Lung Segmentation: Enhancing UTE MRI Segmentation with CT Datasets",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CLISC: Bridging Clip and SAM by Enhanced CAM for Unsupervised Brain Tumor Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Real-Time Image Reconstruction with Deep Denoising for Low-Field MRI-Guided Interventions",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TC-MNET: Multi-Magnification Network Using Pvt and Convnext for Microscopic Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Visual Prompting Unsupervised Domain Adaptation for Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Weakly Supervised Contrastive Learning for Better Severity Scoring of Lung Ultrasound",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Accelerating the Whole-Brain Multi-Parametric Imaging Through Joint Deep Learning Reconstruction and Physical Model Integration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CT Contrast Phase Identification by Predicting the Temporal Angle Using Circular Regression",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Plasma-CycleGAN: Plasma Biomarker-Guided MRI to Pet Cross-Modality Translation Using Conditional CycleGAN",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Structurally Consistent MRI Colorization using Cross-Modal Fusion Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Sex Differences in Coupled Dynamic Functional Connectivity and Structural Brain Morphology: Insights from the ABCD Study",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Attention-Driven Multi-Sequence Mri Feature Learning and Fusion for Breast Cancer Diagnosis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "High-Resolution Histopathology Whole Slide Image Generation Using Wavelet Diffusion Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Conditional Diffusion Model for Abdominal CT Image Synthesis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-View Transformers for Airway-to-Lung Ratio Inference on Cardiac CT Scans: The C4R Study",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Automated 3D Segmentation of Glomeruli in Human Kidney Tissue Specimens Using 16.4 T MRI Without Contrast Agents",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Explainsegnet: Interpretable Segmentation for Alzheimer's Diagnosis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "WAVE-VNET: Enhancing Medical Image Segmentation with Wavelet Transformer",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Fairness Analysis of Clip-Based Foundation Models for X-Ray Image Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Leveraging Graph Attention Networks for Targeted Feedback from Operating Room Surgery Videos",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TopoEEG: A Timesformer-Based Topographic Image Representation Method for Single-Trial Early Detection of P300",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SCONet: Convolutional Occupancy Networks for Multi-Organ Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Psychosis Multiscale Functional Network Connectivity Subspace Encodes Sex Specificity and Identifies Sex Biotypes",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ranking of Visual Attention Spread Improves Trypanosoma Cruzi Detection in Microscopy Videos",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Real-Time Eeg-Based Epileptic Seizure Detection by One-Class Classification using CNN-LSTM and STFT",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Hierarchical Augmentation Consistency Learning for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Beyond Occlusion: In Search for Near Real-Time Explainability of CNN-Based Prostate Cancer Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Advancing OCT-Based Retinal Disease Classification with XLSTM: A Framework for Variable-Length Volume Processing",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "UNETVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Quantifying White Matter Hyperintensities: Predicting Periventricular Fazekas Scores with Uncertainty Estimation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "T2-Only Prostate Cancer Prediction by Meta-Learning from BI-Parametric MR Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Efficient Human-in-the-Loop Pancreatic Tumor Annotation via Large-Scale Pre-Trained Model with Adaptive Post-Processing",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dynamic Fusion: Merging Structural and Functional Connectivity Dynamics Via Joint CMICA",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dual Invariance Self-Training for Reliable Semi-Supervised Surgical Phase Recognition",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Active Prompt Tuning Enables GPT-4O to do Efficient Classification of Microscopy Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Fetal-BCP: Addressing Empirical Distribution Gap in Semi-Supervised Fetal Ultrasound Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Clustering-Enhanced Multimodal Pre-Training for Histology-Gene Joint Representation Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Utilizing Mask-Guided Cross-Image Attention for Zero-Shot In-Silico Histopathologic Image Generation with a Diffusion Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Annotation-Efficient Task Guidance for Medical Segment Anything",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Video-Based Surgical Tool-Tip and Keypoint Tracking Using Multi-Frame Context-Driven Deep Learning Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "ISGM-DR: Important Slice-Guided Model for Diabetic Retinopathy Diagnosis Using 3D Oct Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Simulating Post-Neoadjuvant Chemotherapy Breast Cancer MRI via Diffusion Model with Prompt Tuning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Self-Supervised Metric Learning for Gaussian Anomaly Detection in Fundus Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MSCAM-Net: A Multi-Scale and Context-Aware Model with Adaptive Fusion Module for Robust Skin Lesion Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Prism: Privacy-Preserving Inter-Site MRI Harmonization via Disentangled Representation Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Weakly-Supervised Semantic Space Structuring: Cardiac Cycle Position for Cerebral Emboli Visualization Using Contrastive Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "RICAU-NET: Residual-Block Inspired Coordinate Attention U-Net for Segmentation of Small and Sparse Calcium Lesions in Cardiac CT",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Enhancing Dementia Detection: Augmenting the Face Mesh",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "U-Star: AN Asymmetric U-Shaped Network Based on Element-Wise Multiplication to Segment Nuclei in H&E Stained Histological Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "GP-CPS: Gradient Penalty Cross Pseudo Supervision for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Curriculum Learning for Few-Shot Domain Adaptation in CT-Based Airway Tree Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "RED-Net: Radiomics-Enhanced Diffusion Network for MRI-to-PET Cross-Modality Image Synthesis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Msapnet: Multi-Scale and Multi-Axial Perception Network for Retinal Layers and Lesion Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SEMISE: Semi-Supervised Learning for Severity Representation in Medical Image",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Predicting Axillary Lymph Node Metastasis in Breast Cancer by Integrating Dual-ROI Features from Multi-Parametric MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Classification of Oral Potentially Malignant Disorders Using Multimodal Feature Integration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Classifying Coronary Artery Calcification Risk using Radiomics from Non-Gated CT Scans",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Multi-Label Open Set Diagnosis for Medical Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Hybrid DL Classification Model Based on CNN and Transformer for Pap Smear Cells",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "GL-ICNN: An End-To-End Interpretable Convolutional Neural Network for the Diagnosis and Prediction of Alzheimer's Disease",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Temporal-Focal Attention on EEG for Cross-Patient Epileptic Seizure Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Decentralized ComBat-Mega for Harmonizing FNC Data in Coinstac",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Diffusion-Driven 3D CECT-to-NCECT Conversion for Head and Neck Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "An Automated Whole Torso Aortic and Iliac Artery Atherosclerotic Burden Assessment on Body CT",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Nnmamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "ASDC-NET: Anterior Segment Disease Classification Network Based on Slit-Lamp Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Adaptive Aggregation Weights for Federated Segmentation of Pancreas MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Zero-Shot Task-Generalizable Learning on FMRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Revisiting Clip: Efficient Alignment of 3D MRI and Tabular Data Using Domain-Specific Foundation Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Conditional Visuo-Textual Prompt Learning for Medical Image Analysis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "All-in-One Multi-Organ Segmentation in 3D CT Images via Self-Supervised and Cross-Dataset Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Guiding the Classification of Hepatocellular Carcinoma on 3D CT-Scans Using Deep and Handcrafted Radiological Features",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "DiffKAN-Inpainting: KAN-Based Diffusion Model for Brain Tumor Inpainting",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis from Imaging, Clinical, and Radiomic Data Fusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Using Structural Similarity and Kolmogorov-Arnold Networks for Anatomical Embedding of Cortical Folding Patterns",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Exploring Test Time Adaptation for Subcortical Segmentation of the Fetal Brain in 3D Ultrasound",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Human-in-the-Loop Semi-Supervised Uterine Cervix Ultrasound Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "ASAM: Anatomy-Encoded Segment Anything Model for Medical Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Interactive 3D Surgical Scene Reconstruction: An Incremental Training and Monitoring Framework",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Evaluation Metric for Quality Control and Generative Models in Histopathology Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Semi-Cervixseg: A Multi-Stage Training Strategy for Semi-Supervised Cervical Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Class Fusion of Support Vector Machines with Deep Learning Features for Oral Cancer Histopathology Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SRE-CONV: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Semi-Supervised Multimodal Multi-Instance Learning for Aortic Stenosis Diagnosis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Scale Boundary Enhanced Pseudo Label Refinement for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ca-vqvae: Cortical Folding Aware Numerical Representation of White-Matter Structure",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Topological Image Analysis of Coronary Calcifications for Improved Cardiovascular Risk Prediction from Screening Non-Contrast CT",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Tau Pet Harmonization via Surface-Based Diffusion Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Leveraging Autoencoder Neural Networks to Improve Microbubble Detection and Localization in Ultrasound Localization Microscopy",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Reconstructing Heart Rate Variation from Bold-FMRI Using 1D-CNN and GRU Networks with Dynamic Functional Connectivity-Based ROIs",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Accurate 3D Medical Image Segmentation with Mambas",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Scalable Whole Slide Image Representation Using K-Means Clustering and Fisher Vector Aggregation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SLIM-UAM - Semi-Supervised Learning In Medical Imaging: Uncertainty-Attention Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SarcNet: A Novel AI-Based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged HIPSC-CMS",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Online Multispectral Neuron Tracing",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Optimizing Cell Recognition in Sarcoma Multiplex Immunohistochemistry Images via Pre-Training Strategies",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Identifying Brain Strokes by Image Analysis Using Transfer Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MoAR-Diff: Controlled Diffusion Model for Infant Brain MR Motion Artifact Reduction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Utilizing Shape-features and GAN-Based Model for Renal Segmentation in DW-MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "PSO-NET: Development of an Automated Psoriasis Assessment System Using Attention-Based Interpretable Deep Neural Networks",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "AI-Based Thermal Video Analysis in Privacy-Preserving Healthcare: A Case Study on Detecting Time of Birth",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Controllable Latent Diffusion-Based 3D Brain Tumor Segmentation: With Synthetic Label Generation and Detailed Variance Map",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Sequence MRI to Multi-Tracer Pet Generation via Diffusion Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ensemble of Foundation Models for Pap Smear Cell Analysis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Shoulder Rotator Cuff Tear Detection from Ultrasound Videos Using Deep Reinforcement Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Mitral Valve Deep Learning Localization in CT Scans for MIMVR Surgery",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Improving Quality Control of MRI Images Using Synthetic Motion Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SpineFM: Leveraging Foundation Models for Automatic Spine X-Ray Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "RadHop-Net: A Lightweight Radiomics-to-Error Regression for False Positive Reduction in MRI Prostate Cancer Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Swin-Kat: Advancing Swin Transformer with Kolmogorov-Arnold Network for CT Image Quality Assessment",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Predicting Ulcer in H&E Images of Inflammatory Bowel Disease Using Domain-Knowledge-Driven Graph Neural Network",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "UniCurvSeg: Learning Contextual Prompt for Universal Vessel-Like Curvilinear Structure Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Source Free Domain Adaptation with Pseudo-Labeling Quality Assessed by Sam in Fundus Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "DENSE-Guided Deep Motion Networks Accounted by Large Rotations to Improve Myocardial Strain Analysis from Routine Cine MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Reference-Free 2D-to-3D Multiple Slice Transport Average Registration (MSTAR) for Late Gadolinium Enhancement Cardiac MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Synthesizing Proton-Density Fat Fraction and $R_2^{\\ast}$ from 2-Point Dixon MRI with Generative Machine Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multiset FMRI Data Analysis with Subject Group Information using Structured Dictionary Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Patient-Specific Surgical Planning for Bicuspid Aortic Valve Repair: Fully Automated Segmentation of the Aortic Valve in 4D CT",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "LIMIS: Towards Language-Based Interactive Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Medxchat: A Unified Multimodal Large Language Model Framework Towards CXRS Understanding and Generation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Utilizing State Space Model for Diffusion Processes in Breast Tumor Pathological Image Super-Resolution",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dineuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "M3-Net: A Multi-Scale Nuclei Segmentation Model for Breast Cancer Histopathology Using Contextual Patches and Attention Mechanism",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "OHIF -SAM2: Accelerating Radiology Workflows with Meta Segment Anything Model 2",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension in Biomedical Image Analysis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Auxiliary Cyclegan-Guided Task-Aware Domain Translation from Duplex to Monoplex IHC Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Dual-Stream Pyramidal Attention Networks for Medical Image Registration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CascadePLS-ViT: Cascade with Patch-Level Self-Supervised Vision Transformers for Breast Cancer Classification in Mammography",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Encoding 3D Abdominal MRI Acquisitions as Neural Fields",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Segmentation of Cardiovascular Structures from Screening Non-contrast CT Calcium Score Images Using the Tuned CardioNC-Segmentator on Virtual CTA Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Polyp Counting in Full-Procedure Colonoscopy Videos",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Semi-Supervised Cervical Segmentation on Ultrasound by a Dual Framework for Neural Networks",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "LF-MAMBA: A State Space Model-Based Framework for Accurate Bilateral Hippocampi Segmentation in Low-Field Pediatric MRI",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SACL: Semantics-Aware Contrastive Learning for One-Shot Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Texlivernet: Leveraging Medical Knowledge and Spatial-Frequency Perception for Enhanced Liver Tumor Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumor Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Longmambattn: A Novel Architecture for Enhanced Breast Cancer Risk Prediction Using Variable-Length Longitudinal Mammograms",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Breast Cancer Detection from Thermal Images Using Asymmetries in Learned Texture Vectors",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Comparison of Deep Learning Models for Automatic Left-Ventricular Segmentation in 3D Echocardiography",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Adaptive Collaborative Learning Polyp Segmentation Framework Based on Contour-Driven Parallel Attention Network",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Drop and Align: Fusing Pathology and Genomics via Graph Learning for Cancer Survival Prediction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Versatile Stain Transfer in Histopathology Using a Unified Diffusion Framework",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multimodal Learning for Enhanced Detection in Oral Cancer Screening",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Photon-Counting CT Reconstruction Using Separable Attention-Based Tensor Neural Network Prior",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "XAI-PSSGAN: Perception-Enhanced Spectrum Shift Generative Adversarial Network with Explainable AI System for NIR-II Fluorescence Molecular Imaging",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Explainable Brain Age Gap Prediction in Neurodegenerative Conditions Using Covariance Neural Networks",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Logsage: Log-Based Saliency for Guided Encoding in Robust Nuclei Segmentation of Immunofluorescence Histology Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Improved C-Index and Interpretability with KAN as Compared to COX: Application to Risk Prediction of Major Adverse Cardiovascular Events from CT Calcium Score",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Pathogen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Joint Reconstruction of Dynamic PET Activity and Kinetic Parametric Images Using Learnable Descent Framework",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Integrations: Informed Subset Selection Based Generation for Medical Imaging in Resource Constrained Setting",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MIHCGENER: A Framework for Multiple Immunohistochemical Image Generation Based on the Combination of Pathological Foundation Model and Generative Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CellPilot: A Unified Approach to Automatic and Interactive Segmentation in Histopathology",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Label Neonatal EEG Segmentation Enriched with Semi-Synthetic Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Context-Aware LSTM for 3D Medical Image Localisation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Masked Momentum Contrastive Dynamic Transformer for Self-Supervised Functional Connectivity Representation Learning",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Classiffication of Mild Cognitive Impairment Based on Dynamic Functional Connectivity using Spatio-Temporal Transformer",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Generating Customized Prompts for Zero-Shot Rare Event Medical Image Classification Using LLM",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multi-Modal Deformable Image Registration Using Untrained Neural Networks",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Automatic Generation of Brain Tumor Diagnostic Reports from Multimodality MRI Using Large Language Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SEQSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation Using Sam",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "EMSSD: Two-Stage Model Enhancing Medical Image Segmentation Based on Stable Diffusion",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Metafusion: A Novel Method for Integrating Clinical Metadata with Imaging Modalities for Medical Applications",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "A Novel Approach to Recognising Physical Activity Intensity in Adults: Gravity-Based Acceleration Imaging with Vision Transformer",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "OCT-Trans: A Novel Transformer Backbone with Multimodal Feature Extraction in OCT-Based Retinal Disease Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Towards Classifying Histopathological Microscope Images as Time Series Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "DAG-UNet: Dissimilarity-Aware Global Context Guided Lightweight UNet for Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Cephalometric Landmark Detection Using Graph- and Image-Aware Network with Landmark Contrastive Regularization",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MedDataset: Synthesizing Infinite Image and Segmentation Data Using Diffusion Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "EViT-UNET: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Exploring Foundation Models Fine-Tuning for Cytology Classification",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "ExpTopo: Explicit Topological Modeling for Bronchus Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Large-Scale Radiomics Analysis for Prostate Cancer Detection Harnessing Machine and Deep Learning Models",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Breaking the Disconnection Dilemma in Class-Imbalanced Cerebrovascular Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "CINEPRO: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Resection Margin Prediction in Pancreatic Ductal Adenocarcinoma: A Multi-Modal Machine Learning Approach Integrating Clinical and Computed Tomography Radiomics Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Generative Chained Label Propagation: A Semi-Supervised Approach for Enhanced 3D Segmentation of the Inferior Alveolar Nerve",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Diffusion-Based Multi-Degradation Remover for Fiber Bundle Image Restoration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Detecting Pain During Cognitive Tasks via Visibility Graphs of Cortical Signals",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MUM: Enhancing Medical Diagnostics Through Unpaired Multimodal Data Integration",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "LWV-UNet: Lightweight Vision Transformer UNet for Nasopharyngeal Carcinoma Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Synthetic CT Generation from Time-of-Flight Non-Attenuation-Corrected PET for Whole-Body PET Attenuation Correction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Medframealign: 3D Histological Reconstructions Using Video Frame Interpolation Techniques",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Enhance Cardiac MRI Reconstruction via Unfolding Network with Hybrid Mamba-LSTM",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Quantitative Imaging of 55CO and 18F-Labeled Tracers in a Single \"Multiplexed\" Pet Imaging Session",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Text-Guided Cross Pseudo Supervision for Semi-Supervised Multi-Organ Segmentation in Abdominal CT Scans",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Diaphragm-Net: 3D Full Automatic Segmentation of the Diaphragm Based on Deep Learning Methods for 3D-CT Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MOSS: Learning from Multiple Organs Via Self-Supervision",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Generative Medical Image Anonymization Based on Latent Code Projection and Optimization",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Tractogpt: A GPT Architecture for White Matter Tract Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Linking Multi-Scale Brain Connectivity with Vigilance, Working Memory, and Behavior in Adolescents",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Legopet: Hierarchical Feature Guided Conditional Diffusion for Pet Image Reconstruction",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "VITG-VS: Preserving Spatial Heterogeneity in Virtual Staining of Renal Autofluorescence Images",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Combining 4D Hyperspectral Imaging With CNN for Nerve and Ligament Differentiation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Evaluating Automated Radiology Report Quality Through Fine-Grained Phrasal Grounding of Clinical Findings",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Trifuse: Triplet Encoders Network for Medical Image Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "MARIO: A Mixed Annotation Framework for Polyp Segmentation",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Topology-Preserving Deep Supervision for 3D Axon Centerline Segmentation Using Partially Annotated Data",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "PET Partial Volume Correction Based on Unsupervised Deep Residual Compensation Model",
+    "_source_file": "isbi2025.json"
+  },
+  {
+    "title": "Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification",
+    "_source_file": "isbi2025.json"
+  }
+]

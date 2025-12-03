@@ -7,7 +7,7 @@ from collections import defaultdict
 ROOT = Path(__file__).resolve().parent.parent
 README_PATH = ROOT / "README.md"
 
-PAPERS_DIR = ROOT / "papers"
+PAPERS_DIR = ROOT / "mm_med_papers"
 START_MARK = "<!-- PAPERS_START -->"
 END_MARK = "<!-- PAPERS_END -->"
 

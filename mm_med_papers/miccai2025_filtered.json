@@ -1,0 +1,3446 @@
+[
+  {
+    "title": "4D CardioSynth: Synthesising Dynamic Virtual Heart Populations through Spatiotemporal Disentanglement",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "3D Dynamic Prediction of Missing Teeth in Diverse Patterns via Centroid-prompted Diffusion Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Composite Alignment-Aware Framework for Myocardial Lesion Segmentation in Multi-sequence CMR Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Causality-Inspired Model for Intima-Media Thickening Assessment in Ultrasound Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "3D Acetabular Surface Reconstruction from 2D Pre-operative X-ray Images using SRVF Elastic Registration and Deformation Graph",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Causal-holistic Adaptive Intervention Network for Tailoring Automated Coronary Artery Disease Diagnosis to Individual Patients",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Boundary-aware Cold-Diffusion Model for Electron Microscopy Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "6D Object Pose Tracking for Orthopedic Surgical Training using Visual-Inertial Sensor Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Learning Framework for Predicting CT-based PRM Biomarker from MRI Sequences in COPD",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Holistic Time-Aware Classification Model for Multimodal Longitudinal Patient Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Multi-Branch Framework for Cross-Domain Vessel Segmentation via the Few-Shot Paradigm",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Multimodal Contrastive Learning for Detecting Aortic Dissection on 3D Non-Contrast CT with Anatomy Simplification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A New Paradigm for Low-dose PET/CT Reconstruction with Mamba-powered Progressive Network and Physics-informed Consistency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "µ2 Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Novel Framework for Integrating 3D Ultrasound into Percutaneous Liver Tumour Ablation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Novel ED Triage Framework Using Conditional Imputation, Multi-Scale Semantic Learning, and Cross-Modal Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Semi-Supervised Knowledge Distillation Framework for Left Ventricle Segmentation and Landmark Detection in Echocardiograms",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Unified Missing Modality Imputation Model with Inter-Modality Contrastive and Consistent Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Abnormality-Driven Representation Learning for Radiology Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Virtual Domain Collaborative Learning Framework for Semi-supervised Microscopic Hyperspectral Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Unified Continuous Staging Framework for Alzheimer’s Disease and Lewy Body Dementia via Hierarchical Anatomical Features",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "A Uniform Multi-mode Fused Framework for Velocity Field Estimation in Ultrasound Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Accelerated Free-Breathing 5D Multi-Echo Respiratory Motion-Resolved R2*, PDFF, and QSM Using Novel Composite Total Variation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Accurate Boundary Alignment and Realism Enhancement for Colonoscopic Polyp Image-Mask Pair Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Active Source-Free Cross-Domain and Cross-Modality Adaptation for Volumetric Medical Image Segmentation by Image Sensitivity and Organ Heterogeneity Sampling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Ada-FCN: Adaptive Frequency-Coupled Network for fMRI-Based Brain Disorder Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adapting Foundation Model for Dental Caries Detection with Dual-View Co-Training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ADAptation: Reconstruction-based Unsupervised Active Learning for Breast Ultrasound Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptive Embedding for Long-Range High-Order Dependencies via Time-Varying Transformer on fMRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer’s Disease Conversion Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptive Frame Selection for Gestational Age Estimation from Blind Sweep Fetal Ultrasound Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptive Graph Learning with Multi-Graph Convolutions for Brain Disorder Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "AdFair-CLIP: Adversarial Fair Contrastive Language-Image Pre-training for Chest X-rays",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptive Stain Normalization for Cross-Domain Medical Histology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Alzheimer’s Disease Recognition Based on Adaptive Graph Normalization Flow for Incomplete Multimodal Data Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Ambiguous Medical Image Segmentation Using Diffusion Schrödinger Bridge",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomy-Aware Frequency-Attention Transformer Networks for Liver Couinaud CT/MR Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomical Graph-based Multilevel Distillation for Robust Alzheimer’s Disease Diagnosis with Missing Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomy-based Self-supervised Pre-training for Scale-robust Hierarchical Representations in Chest X-rays",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomical Structure Few-Shot Detection Utilizing Enhanced Human Anatomy Knowledge in Ultrasound Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "An Anatomical Significance-Aware Architecture for Explainable Myocardial Infarction Prediction via Multi-Task Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomy-Conserving Unpaired CBCT-to-CT Translation via Schrödinger Bridge",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Augmented Reality-based Guidance with Deformable Registration in Head and Neck Tumor Resection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Asynchronous Multi-Modal Learning for Dynamic Risk Monitoring of Acute Respiratory Distress Syndrome in Intensive Care Units",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Anatomy-Guided Multimodal Graph Networks for Alzheimer’s Disease: Integrative Analysis of Cross-Modal Brain Connectivity Signatures",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Attention-Guided Vector Quantized Variational Autoencoder for Brain Tumor Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Automated Characterization of Myocardial Scar Topological Patterns for Ventricular Tachycardia Screening",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Automated Integration of Surgical Implants into Digital Twins for Trauma Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Aβ-PET Pattern Prediction via Graph Reconstruction-Aware Fusion (GRAF) of Functional and Structural Networks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Automated Detection of BK Virus in H&E Whole-Slide Images Using Weakly-Supervised Deep Learning and Interpretable Morphological Biomarkers",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bias and Generalizability of Foundation Models across Datasets in Breast Mammography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BaMCo: Balanced Multimodal Contrastive Learning for Knowledge-Driven Medical VQA",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BiMSRec: A Progressive Image Reconstruction Framework for Medical Image Fusion Guided by Multi-Scale Deformation Fields",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BayeSMM: Robust Deep Combined Computing Tackling Heavy-tailed Distribution in Medical Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bayesian Transformers and Higher-Order Graph Matching for Cell Tracking in Serial Tissue Sections",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Beyond Shadows: Learning Physics-inspired Ultrasound Confidence Maps from Sparse Annotations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bipartite Patient-Modality Graph Learning with Event-Conditional Modelling of Censoring for Cancer Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Blaze3DM: Integrating Triplane Representation with Diffusion for Solving 3D Inverse Problems in Medical Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BiSCoT: Behavior-Informed Subgroup-Consistent Connectome Template for Interpretable Brain Network Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BiasICL: In-Context Learning and Demographic Biases of Vision Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Blood Pressure Assisted Cerebral Microbleed Segmentation via Meta-matching",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BME2: A Plug-and-Play Bridge-Based Module for Misalignment Estimation and Elimination in Multi-Scan Image Restoration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Brain activation mapping based on Regional Synchronization of fMRI signals embedded in Graph Eigenmodes",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Boosting Generalizability in NPC ART Prediction via Multi-Omics Feature Mapping",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Brain-Heart-Gut Guided Multi-Constraint Knowledge Distillation for Early Alzheimer’s Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BrainPrompt: Domain Adaptation with Prompt Learning for Multi-site Brain Network Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Brain-Environment Cross-Attention (BECA) Meta-Matching: A New Perspective of Brain Connectome Zero-Shot Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BrainAlign: EEG-Vision Alignment via Frequency-Aware Temporal Encoder and Differentiable Cluster Assigner",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "C²MAOT: Cross-modal Complementary Masked Autoencoder with Optimal Transport for Cancer Segmentation in PET-CT Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bridging the Gap in Missing Modalities: Leveraging Knowledge Distillation and Style Matching for Brain Tumor Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bridging Knowledge Discrepancy in Retinal Image Analysis through Federated Multi-Task Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Calibration in Multiple Instance Learning: Evaluating Aggregation Methods for Ultrasound-Based Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Bridging Radiological Images and Factors with Vision-Language Model for Accurate Diagnosis of Proliferative Hepatocellular Carcinoma",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CardiacCLIP: Video-based CLIP Adaptation for LVEF Prediction in a Few-shot Manner",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CardiacFlow: 3D+t Four-Chamber Cardiac Shape Completion and Generation via Flow Matching",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CARE-VL: A Domain-Specialized Vision-Language Model for Early ASD Screening",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CA-SAM2: SAM2-based Context-Aware Network with Auto-Prompting for Nuclei Instance Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CAT-SG: A Large Dynamic Scene Graph Dataset for Fine-Grained Understanding of Cataract Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CAUDA-MI: Cross Attention-Guided Unsupervised Domain Adaptation with Mutual Information for Cardiac MRI Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Causality-driven Spatio-temporal Generator for Multi-phase Contrast-enhanced CT Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CBrain: Cross-Modal Learning for Brain Vigilance Detection in Resting-State fMRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CENet: Context Enhancement Network for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CD-PolypNet: Cross-Domain Polyp Segmentation Network with Internal Feature Distillation and Dual-Stream Boundary Focus via Large Vision Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cerebrovascular Diseases Screening from Color Fundus Photography via Cross-View Fusion and Graph-Based Discrimination",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cervical-RG: Automated Cervical Cancer Report Generation from 3D Multi-sequence MRI via CoT-guided Hierarchical Experts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CLIMD: A Curriculum Learning Framework for Imbalanced Multimodal Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ClinGRAD: Clinically-Guided Genomics and Radiomics Interpretable GNN for Dementia Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Clinical Prior-Guided Tumor Generation for Breast Ultrasound with Cross Domain Adaptation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Clinically-guided Data Synthesis for Laryngeal Lesion Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Class-Conditioned Image Synthesis with Diffusion for Imbalanced Diabetic Retinopathy Grading",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CholecMamba: A Mamba-based Multimodal Reasoning Model for Cholecystectomy Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Clinical Prior Guided Cross-Modal Hierarchical Fusion for Histological Subtyping of Lung Cancer in CT Scans",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Clinical Data-Driven Retrieval-Augmented Model for Lung Nodule Malignancy Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CLIP-DSA: Textual Knowledge-Guided Cerebrovascular Diseases Recognition in Multi-View Digital Subtraction Angiography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Compact Training-free NAS with Alternating Evolution Game for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CoC: Chain-of-Cancer based on Cross-Modal Autoregressive Traction for Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Collateral Circulation guided Multi-modality Fusion Network for Postoperative Infarct Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Concept-induced Graph Perception Model for Interpretable Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Coarse-to-Fine Medical Image Translation by Incorporating Deterministic Guidance and Probabilistic Refinement",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "C-NCA: Chained Neural Cellular Automata for Fast and Accurate Thermal Ablation Estimation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Conditional Graph Diffusion with Topological Constraints for Brain Network Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ClipGS: Clippable Gaussian Splatting for Interactive Cinematic Visualization of Volumetric Medical Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Conservative-Radical Complementary Learning for Class-incremental Medical Image Analysis with Pre-trained Foundation Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Conformal Prediction for Image Segmentation Using Morphological Prediction Sets",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Continual Retinal Vision-Language Pre-training upon Incremental Imaging Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Contrast Flow Pattern and Cross-Phase Specificity-Aware Diffusion Model for NCCT-to-Multiphase CECT Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Contrastive Anatomy-Contrast Disentanglement: A Domain-General MRI Harmonization Method",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Contour Makes It Stronger: Cross-Domain Cephalometric Landmark Detection Based on Contour Priors",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Contrastive Masked Video Modeling for Coronary Angiography Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Contrastive Disentanglement Learning Framework for Multi-lead Wearable ECG Denoising",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Contrastive Knowledge-Guided Large Language Models for Medical Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Controllable Image Synthesis Workflow for Enhancing Cervical Cell Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Controllable Skin Synthesis via Lesion-Focused Vector Autoregression Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Controllable Flow Matching for 3D Contrast-Enhanced Brain MRI Synthesis from Non-Contrast Scans",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Coronary Artery Calcification segmentation by using cross-frequency conditioner and geometric priors Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Core-Periphery Principle Guided State Space Model for Functional Connectome Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CortexGen: A Geometric Generative Framework for Realistic Cortical Surface Generation Using Latent Flow Matching",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-Modal Brain Graph Transformer via Function-Structure Connectivity Network for Brain Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-Modal Contrastive Learning for Emotion Recognition: Aligning ECG with EEG-Derived Features",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-Modal Graph Learning for Perivascular Spaces Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-Modality Supervised Prostate Segmentation on CBCT for Adaptive Radiotherapy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-view Generalized Diffusion Model for Sparse-view CT Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cross-Modal CXR-CTPA Knowledge Distillation using latent diffusion priors towards CXR Pulmonary Embolism Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CS²C: Collaborative Spatial and Spectral Neural Clustering for Organelle Segmentation from Volumetric Electron Microscopy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CT-Based Hippocampus Segmentation with Dual-Decoder Network (HDD-Net)",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CurConMix: A Curriculum Contrastive Learning Framework for Enhancing Surgical Action Triplet Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CSAL-3D: Cold-start Active Learning for 3D Medical Image Segmentation via SSL-driven Uncertainty-Reinforced Diversity Sampling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CSAP-Assist: Instrument-Agent Dialogue Empowered Vision-Language Models for Collaborative Surgical Action Planning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CXR-CML: Improved zero-shot classification of long-tailed multi-label diseases in Chest X-Rays",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CXR-TFT: Multi-Modal Temporal Fusion Transformer for Predicting Chest X-ray Trajectories",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Cycle Context Verification for In-Context Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "D2MAE: Diffusional Deblurring MAE for Ultrasound Image Pre-training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "D-CAM: Learning Generalizable Weakly-Supervised Medical Image Segmentation from Domain-invariant CAM",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DC-Seg: Disentangled Contrastive Learning for Brain Tumor Segmentation with Missing Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "D2Diff: A Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "D4Recon: Dual-stage Deformation and Dual-scale Depth Guidance for Endoscopic Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "D3M: Deformation-Driven Diffusion Model for Synthesis of Contrast-Enhanced MRI with Brain Tumors",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "CytoSAE: Interpretable Cell Embeddings for Hematology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DCT-Net: Dual-branch CT Reconstruction from Orthogonal X-rays with Diffusion Model and Contrastive Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DCKAN: A Dual-Coordinate KAN Framework for Fibrous Cap Segmentation on Carotid OCT",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DetectDiffuse: Aggregation- and Attention-driven Universal Lesion Detection with Multi-scale Diffusion Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Deep Knowledge-Infused Transformer for NSCLC Lymph Node Station Metastasis Prediction: Development of an AI-Powered Intraoperative Decision System",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Deep Association Multimodal Learning for Zero-shot Spatial Transcriptomics Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Delving into Out-of-Distribution Detection with Medical Vision-Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DEFUSE-MS: Deformation Field-Guided Spatiotemporal Graph-Based Framework for Multiple Sclerosis New Lesion Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Decentralized Noise Handling in Medical Imaging: Encoder-Decoder Based Federated Imputation for Robust Training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DiDGen: Diffusion-based Dual-task Synthesis for Dermoscopic Data Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dia-LLaMA: Towards Large Language Model-driven CT Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DGHFA: Dynamic Gradient and Hierarchical Feature Alignment for Robust Distillation of Medical VLMs",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Difficulty Estimation for Image-Specific Medical Image Segmentation Quality Control",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DGM: Disentangled Generative Model for Detecting AD Individualized Pathological Changes via Pseudo-Healthy Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Diff-RRG: Longitudinal Disease-wise Patch Difference as Guidance for LLM-based Radiology Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DiffStain: Conditioned Diffusion-Based Semantic Virtual Staining with Mask Guidance",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DINO Adapted to X-Ray (DAX): Foundation Models for Intraoperative X-Ray Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Diffusion-based Virtual Staining from Polarimetric Mueller Matrix Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Diffusion-based Multi-modal MR Fusion for TOF-MRA Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Diffusing Boundaries: CBCT-to-CT Translation with Extended Field of View",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DisDiff: Disentanglement Diffusion Network for MR Imaging Translation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Domain Generalization for Mammogram Classification by Suppressing Domain-Specific Features",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Distribution-Guided Multi-Tracer Brain PET Synthesis from Structural MRI with Class-Conditioned Weighted Diffusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Distilling foundation models for robust and efficient models in digital pathology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Domain Generalization for Pulmonary Nodule Detection via Distributionally-Regularized Mamba",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DpDNet: An Dual-Prompt-Driven Network for Universal PET-CT Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dual Selective Gleason Pattern-Aware Multiple Instance Learning for Grade Group Prediction in Histopathology Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Domain-Agnostic Stroke Lesion Segmentation Using Physics-Constrained Synthetic Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Domain-Adaptive Diagnosis of Lewy Body Disease with Transferability Aware Transformer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DSFC: Deformation-Aware Learning Strategy via Self-sustaining Feedback Cycle for Medical Vision Foundation Model Domain Adaptation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dual Correlation-aware Mamba for Microvascular Obstruction Identification in Non-contrast Cine Cardiac Magnetic Resonance",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dual Knowledge-Aware Guidance for Source-Free Domain Adaptive Fundus Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DPGS-Net: Dual Prior-Guided Cross-Domain Adaptive Framework for Ultrasound Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dual-Branch Dynamic Coupling Weakly Supervised Learning for Class-Incremental Histopathological Region Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EchoingECG: An Electrocardiogram Cross-Modal Model for Echocardiogram Tasks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dynamic Gradient Sparsification Training for Few-Shot Fine-tuning of CT Lymph Node Segmentation Foundation Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dual-Stream Multi-Band Fusion Network for Dynamic Functional Connectivity Analysis in Brain Disorder Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dynamic Function-Structure Connectivity Coupling for Predicting Progression Trajectories in Neurocognitive Decline",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EchoCardMAE: Video Masked Auto-Encoders Customized for Echocardiography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "DyMAS-Net: Dynamic Multi-Scale Adaptive Sampling Network for Efficient Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EdgeANet: A Transformer-based Edge Representation Learning Network for Canine X-ray Verification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Edge-semantic Synergy Fusion and Adaptive Noise-aware for Weakly Supervised Pathological Tissue Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EEG-DINO: Learning EEG Foundation Models via Hierarchical Self-Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Edge-Aware Hierarchical Graph Transformer to Decode Brain Arterial Network",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EFMS-Net: Efficient Frequency-Enhanced Multi-Scale Network for Ischemic Stroke Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EfficientMedNeXt: Multi-Receptive Dilated Convolutions for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EchoViewCLIP: Advancing Video Quality Control through High-performance View Recognition of Echocardiography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endo-GSMT: Endoscopic Monocular Scene Reconstruction with Dynamic Gaussian Splatting and Motion Tracking",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EndoGen: Conditional Autoregressive Endoscopic Video Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EndoPlanar: Deformable Planar-based Gaussian Splatting for Surgical Scene Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endplate3D-QCT: A High-Resolution Dataset and Benchmark for Automated 3D Segmentation of Lumbar Vertebral Endplates in QCT",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endoscopic Depth-of-Field Expansion via Cascaded Network with Two-streamed Multi-scale Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Enforcing Geometric Constraints of Surface Normal and Pose for Self-supervised Monocular Depth Estimation on Laparoscopic Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "End-to-End 3D Tooth Landmark Detection with Fuzzy Tooth Localization",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EndoMetric: Near-Light Monocular Metric Scale Estimation in Endoscopy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and Beyond",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Enhancing Soft Tissue Sarcoma Classification by Mitigating Patient-Specific Bias in Whole Slide Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Explain Any Pathological Concept: Discovering Hierarchical Explanations for Pathology Foundation Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Fair-MoE: Medical Fairness-Oriented Mixture of Experts in Vision-Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "F2PASeg: Feature Fusion for Pituitary Anatomy Segmentation in Endoscopic Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Explainable Integrative Bipartite Graph Convolutional Neural Network for Predicting Ejection Fraction in Echocardiography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Exploring Text-enhanced Mixture-of-Experts for Semi-supervised Medical Image Segmentation with Composite Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Facial Appearance Prediction with Conditional Multi-scale Autoregressive Modeling for Orthognathic Surgical Planning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Exploring the Design Space of 3D MLLMs for CT Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Feature Copy-Paste Network for Lung Cancer EGFR Mutation Status Prediction in CT images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FedAMM: Federated Learning for Brain Tumor Segmentation with Arbitrary Missing Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FDF-VQVAE: A Frequency Disentanglement and Fusion Learning Framework for Multi-Sequence MRI Enhancement",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FDAS: Foundation Model Distillation and Anatomic Structure-aware Multi-task Learning for Self-Supervised Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FilterDiff: Noise-free Frequency-domain Diffusion Models for Accelerated MRI Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Flexibly Distilled 3D Rectified Flow with Anatomical Constraints for Developmental Infant Brain MRI Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Flip Distribution Alignment VAE for Multi-Phase MRI Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FluoroSAM: A Language-promptable Foundation Model for Flexible X-ray Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FMM-Diff: A Feature Mapping and Merging Diffusion Model for MRI Generation with Missing Modality",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FoundBioNet: A Foundation-Based Model for IDH Genotyping of Glioma from Multi-Parametric MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FPN-in-FPN: A Nested Multi-Scale Aggregation Network for Polyp Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "From Slices to Volumes: Multi-Scale Fusion of 2D and 3D Features for CT Scan Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Frequency-enhanced Multi-granularity Context Network for Efficient Vertebrae Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Frequency Strikes Back: Boosting Parameter-Efficient Foundation Model Adaptation for Medical Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-specific Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "From Sight to Skill: A Surgeon-Centered Augmented Reality System for Ureteroscopy Training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "From Pixels to Prognosis: A Multi-Modal Attention-based Framework for Visceral Adipose Tissue Estimation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FSA-Net: Fractal-driven Synergistic Anatomy-aware Network for Segmenting White Line of Toldt in Laparoscopic Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FunBench: Benchmarking Fundus Reading Skills of MLLMs",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Future Slot Prediction for Unsupervised Object Discovery in Surgical Video",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Generative Unsupervised Anomaly Detection with Coarse-Fine Ensemble for Workload Reduction in 3D Non-contrast Brain CT of Emergency Room",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "FViM: Frequency Vision Mamba for Label-Free Cell Death Pathway Prediction in Lung Cancer Chemotherapy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GeneMorphFormer: Transformer-Driven Cross-Scale Mapping from Gene Expression to Cortical Morphology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GE2Hist: Generating Histology Images from Single-cell Gene Expression via Cross-modal Generative Network",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Geometric-Guided Few-Shot Dental Landmark Detection with Human-Centric Foundation Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GA-SAM: Geometry-Aware SAM Adaptation with Sparse Annotation-Driven Point Cloud Completion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Geometry-Guided Local Alignment for Multi-View Visual Language Pre-Training in Mammography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GEPAR3D: Geometry Prior-Assisted Learning for 3D Tooth Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Global and Local Vision-Language Alignment for Few-Shot Learning and Few-Shot OOD Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Global and Local Contrastive Learning for Joint Representations from Cardiac MRI and ECG",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GLM-SFNet: Global-Local Vision-Mamba with Semantic Fusion for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GoCa: Trustworthy Multi-Modal RAG with Explicit Thinking Distillation for Reliable Decision-Making in Med-LVLMs",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Graph-based Neighbor-Aware Network for Gaze-Supervised Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GRASP-PsONet: Gradient-based Removal of Spurious Patterns for PsOriasis Severity Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Graph Disentanglement Learning for fMRI Analysis: Decoupling Disease, Covariates, and Individual Variability",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Graph-PAVNet: A Graph-Based Learning Framework for Pulmonary Artery and Vein Separation Using Multimodal Feature Sampling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "GrInAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HalF-SAM: SAM-based Haustral Fold Detection In Colonoscopy with Debris Suppression and Temporal Consistency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HASD: Hierarchical Adaption for Pathology Slide-Level Domain-Shift",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HARM3-Fusion: Hierarchical Attentional Representation Learning of Multi-Modal, Multi-Temporal, and Multi-Sequence Fusion for Pathological Complete Response Prediction of Head and Neck Squamous Cell Carcinoma",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hard Sample Mining-based Tongue Diagnosis for Fatty Liver Disease Severity Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HARP: Harmonization and Adaptive Refinement of Pseudo-Labels for Cross-Domain Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hierarchical Anatomy-Aware Guidance for Brain Tissue Microstructure Reconstruction from T1-weighted MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hierarchical Vision-Language Learning for Medical Out-of-Distribution Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hierarchical Feature Learning for Medical Point Clouds via State Space Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hierarchical Spatio-temporal Segmentation Network for Ejection Fraction Estimation in Echocardiography Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "High-Fidelity Unified One-to-Many Medical Image Synthesis via Text-Conditioned Latent Diffusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "High-Precision Mixed Feature Fusion Network Using Hypergraph Computation for Cervical Abnormal Cell Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hybrid Graph Mamba: Unlocking Non-Euclidean Potential for Accurate Polyp Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hyperbolic Kernel GCN with Structure-Function Connectivity Coupling for Neurocognitive Impairment Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hypergraph-Guided Federated Distillation Learning for Efficient and Robust Multi-Center fMRI Data Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hybrid Local-Window-Attention–Assisted U-Net Model for Multimodal Medical-Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hybrid State-Space Models and Denoising Training for Unpaired Medical Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hybrid-View Attention Network for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Improved Baselines with Synchronized Encoding for Universal Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "IFRFNet: Iterative Frequency Restoration-Fusion Network for Fast System Matrix Calibration on Magnetic Particle Image",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Implicit Deformable Medical Image Registration with Learnable Kernels",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "IKAN: Interactive KAN with Modulation Fusion for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Improved Tumor Segmentation using Selective Synthetic Augmentation for Enhanced Surgical Planning in Breast MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Improving Autism Detection with Multimodal Behavioral Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Improving Motor Imagery EEG Signal Quality with Dynamic Visual Cues: An Innovative Paradigm and Dataset",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Indepth Integration of Multi-granularity Features from Dual-modal for Disease Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Influence of Classification Task and Distribution Shift Type on OOD Detection in Fetal Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Improving Medical Image Segmentation with Implicit Representation and Noisy Label Robustness",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Improving OCTA Imaging through Cross-Domain Adaptation: A Noise-Guided Framework Using Intralipid-Enhanced Rat Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Information Bottleneck-based Causal Attention for Multi-label Medical Image Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "IMREPET: Implicit Neural Representation for Unsupervised Dynamic PET Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "InstructX2X: An Interpretable Local Editing Model for Counterfactual Medical Image Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Integrate Semantic Radiomics as Prior Evidence into Evidential Deep Learning for Pelvic Lipomatosis Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Interactive Segmentation and Report Generation for CT Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Integrating meta-analysis in multi-modal brain studies with graph-based attention transformer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Interpretable fMRI Captioning via Contrastive Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Intra- and Cross-View Enhancement for OCTA Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Investigating Voxel-level Brain Age Prediction as a Pretext Task for Brain MRI Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "IP-CRR: Information Pursuit for Interpretable Classification of Chest Radiology Reports",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Is Hyperbolic Space All You Need for Medical Anomaly Detection?",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ITAdaptor: Image-Tag Adapter Framework with Knowledge Enhancement for Radiology Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ITMatch: Arch-Guided Semi-Supervised Tooth Arrangement via Iterative Confidence Evaluation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "KidneyDepth: A Synthetic Kidney Dataset for Metric Depth Estimation in Ureteroscopy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "KMUNet: A novel medical image segmentation model based on KAN and Mamba",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Knowledge Tree Driven Contextualized Instruction Tuning of Foundation Models for Epilepsy Drug Recommendation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Knowledge-Enhanced Complementary Information Fusion with Temporal Heterogeneous Graph Learning for Disease Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Last Layer Laplacian Pseudocoresets for Robust Medical Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Language of Stains: Tokenization Enhances Multiplex Immunofluorescence and Histology Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Latent Motion Profiling for Annotation-free Cardiac Phase Detection in Adult and Fetal Echocardiography Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LEAVS: An LLM-based Labeler for Abdominal CT Supervision",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning Segmentation from Radiology Reports",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Lesion-centered vision transformer for stroke outcome prediction from image and clinical data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Lesion-Aware Post-Training of Latent Diffusion Models for Synthesizing Diffusion MRI from CT Perfusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LesionDiffusion: Towards Text-controlled General Lesion Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Leveraging Visual Prompt with Diffusion Adversarial Network for Radiotherapy Dose Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LG-DBGL: Lateralization-Guided Dissociative Brain Graph Learning for Alzheimer’s Disease Identification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Leveraging Semantic Asymmetry for Accurate Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Leveraging Diffusion Models for Continual Test-Time Adaptation in Fundus Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LIP-CAR: a learned inverse problem approach for medical imaging with contrast agent reduction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LKA: Large Kernel Adapter for Enhanced Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Localization Lens for Improving Medical Vision-Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LLM-Powered Cross-Modal Alignment for Explainable Seizure Detection from EEG",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Learning Foundation Models from Multi-Organ Medical Images by Capturing Consistency and Diversity of Anatomical Structures",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Location-Aware Parameter Fine-Tuning for Multimodal Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Longitudinal MRI-Clinical Multimodal Fusion for pCR Prediction in Breast Cancer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Longitudinal anatomical attention maps for recognizing diagnostic errors from radiologists’ eye movements",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Location-Guided Automated Lesion Captioning in Whole-body PET/CT Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LTSE: Language-guided Tissue Referring Segmentation in Pathology Images with Adaptive Expert Mixture",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Lymphoma Prognosis with Lesion-Anatomy Context Fusion and Attention-Based Multi-Lesion Aggregation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "M3HL: Mutual Mask Mix with High-Low Level Feature Consistency for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Lymph Node Metastasis Classification with Prototype-guided Multiple Instance Aggregation and Heterogeneous Feature Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MadCLIP: Few-shot Medical Anomaly Detection with CLIP",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MAGNET-AD: Multitask Spatiotemporal GNN for Interpretable Prediction of PACC and Conversion Time in Preclinical Alzheimer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MAK-GAN: Multi-level Adaptive Convolutional Kernels for Asymmetric Multi-modal PET Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MambaMER: Adaptive EEG-Guided Multimodal Emotion Recognition with Mamba",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Marker-less Head Pose Tracking for Image-guided Cerebral Artery Navigation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MammoTracker: Mask-Guided Lesion Tracking in Temporal Mammograms",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MAMBA-Based Weakly Supervised Medical Image Segmentation with Cross-Modal Textual Information",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MARSeg: Enhancing Medical Image Segmentation with MAR and Adaptive Feature Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Masked Contrastive Language-Image Modeling For Brain Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Mask2Surface: Motion Correction and Super-Resolution for Cardiac Surface Reconstruction Using Latent Diffusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MatchGen: Detecting Medical Abnormal Region by Generating Matched Normal Regions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Med-BiasX: Robust Medical Visual Question Answering with Language Biases",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedGNN: General Medical Image Recognition Network via GNN Visual Representations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedGCD: Generalized Category Discovery in Medical Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedIQA: A Scalable Foundation Model for Prompt-Driven Medical Image Quality Assessment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Medical Large Vision Language Models with Multi-Image Visual Ability",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedICL: In-Context Learning for Semantically Enhanced AKI Prediction in Cardiac Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedSoft-Diffusion: Medical Semantic-Guided Diffusion Model with Soft Mask Conditioning for Vertebral Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Memory-Augmented Incomplete Multimodal Survival Prediction via Cross-Slide and Gene-Attentive Hypergraph Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MedPro-DG: Domain-Aware Masked Contrastive Prompt Learning of Institution Generalization for Outcome Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Meta-analysis guided multi-task graph transformer network for diagnosis of neurological disease and cognitive deficits",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Mesh4D: A Motion-Aware Multi-View Variational Autoencoder for 3D+t Mesh Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Meta-Learning Physics-Informed Neural Networks for Personalized Cardiac Modeling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MELON: Multimodal Mixture-of-Experts with Spectral-Temporal Fusion for Long-Term MObility EstimatioN in Critical Care",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Meta-Learning-Driven CT Morphology Disentangled Diffusion Model for Multi-Region SPECT Attenuation Correction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MGG-Net: A Multi-Modal Feature Extraction and Global-Aware Feature Graph-Based Deep Learning Network for MGMT Status Classification in Glioma",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MIBF-Net: Multi-modal Information Balanced Fusion Network for Clinical Diagnosis via Patient Narratives and Lesion Image",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MG-UNet: A Memory-Guided UNet for Lesion Segmentation in Chest Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Metastatic Lymph Node Station Classification in Esophageal Cancer via Prior-guided Supervision and Station-Aware Mixture-of-Experts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MoDiff: A Morphology-Emphasized Diffusion Model for Ambiguous Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MMBNA: Masked Multiview Brain Network Analysis via Disentangling for Alzheimer’s Early Diagnosis with fMRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MixStyleFlow: Domain Generalization in Medical Image Segmentation using Normalizing Flows",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MoMIL: Mixture of Multi-Instance Learners for Modeling Multiple Compound Activities in High Content Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "More performant and scalable: Rethinking contrastive vision-language pre-training of radiology in the LLM era",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MorphoBoost: Morphology-Driven Boundary Enhancement Model for Accurate Segmentation of Langerhans Cells in Corneal Confocal Microscopy Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MOSCARD - Multimodal Opportunistic Screening for Cardiovascular Adverse events with Causal Reasoning and De-confounding",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MoST-IG: Morphology-Guided Spatial Transcriptomics Integration via Visual-Genomic Graph Optimal Transport",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MRI Motion Artifact Correction via Frequency-Assisted Artifact Disentanglement and Confidence-Guided Knowledge Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MSDG-StyleNet: Multi-source Unsupervised Domain-Generalized CBCT-to-CT Translation with Style-Consistent Disentangled Representations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MS-IQA: A Multi-Scale Feature Fusion Network for PET/CT Image Quality Assessment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Level Gated U-Net for Denoising TMR Sensor-Based MCG Signals",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentation in 4D Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MT-WilmsNet: A Multi-Level Transformer Fusion Network for Wilms’ Tumor Segmentation and Metastasis Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multifrequency Neural Network-based Wave Inversion in MR Elastography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Agent Collaboration for Integrating Echocardiography Expertise in Multi-Modal Large Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MSWAL: 3D Multi-class Segmentation of Whole Abdominal Lesions Dataset",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Masked Querying Network for Robust Emotion Recognition from Incomplete Multi-Modal Physiological Signals",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Modal Graph-Based Machine Learning for Predicting Surgical Outcome in Epilepsy Patients",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multimodal Imputation of Imaging-derived Phenotypes from Genomic and Blood-based Biomarkers Enhances Common Disease Discovery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multimodal Fusion Network with Distribution-based Tumor-Marker Imputation for Multi-Origin Metastatic Cervical Lymphadenopathy Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-modal MRI Translation via Evidential Regression and Distribution Calibration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Modal Progressive Fusion for ASD Screening Using Smartphone Video",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multimodal Hypergraph Guide Learning for Non-Invasive ccRCC Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multimodal Prompt Sequence Learning for Interactive Segmentation of Vascular Structures",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-scale Attention-based Multiple Instance Learning for Breast Cancer Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multiscale Graph and Multi-Step Cross-Frame Mamba for Myocarditis Lesion Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Spatial Granger Causality Features Fusion Network for Alzheimer’s Disease Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multistage Alignment and Fusion for Multimodal Multiclass Alzheimer’s Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-task Screening for Cervical Diseases via Feature Routing and Asymmetric Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-subject Orthogonal Sparse Matrix Decomposition Method for Extracting Individual Brain Functional Networks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multiview Feature Fusion and Contrastive Learning for Drug-Target Interaction Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-adaptive Routing",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MultiTransAD: Cross-Sequence Translation-Driven Anomaly Detection in Multi-Sequence Brain MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Neighborhood-Consistent Binary Transformation for Domain-Invariant Chest X-ray Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "NERO: Explainable Out-of-Distribution Detection with Neuron-level Relevance in Gastrointestinal Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "NAVIUS: Navigated Augmented Reality Visualization for Ureteroscopic Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Multi-view Graph Contrastive Learning with Dynamic Self-aware and Cross-sample Topology Augmentation for Brain Disorder Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Navigational Bronchoscopy in Critical Care via End-to-End Pose Regression",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "MVP-LLMs: Optimizing Intervention Timing and Subsequent Decision Support for Mechanical Ventilation Parameter Control Using Large Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Neural Proteomics Fields for Super-resolved Spatial Proteomics Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Neuro-AMS: Neuro-informed Age-aware and Medical Knowledge-integrated Strategy for Diagnosis of Multiple Brain Disorders",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "New Multimodal Similarity Measure for Image Registration via Modeling Local Functional Dependence with Linear Combination of Learned Basis Functions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "NeuroXVocal: Detection and Explanation of Alzheimer’s Disease through Non-invasive Analysis of Picture-prompted Speech",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "No More Sliding Window: Efficient 3D Medical Image Segmentation with Differentiable Top-K Patch Sampling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Noise-Controllable Complex-Valued Diffusion Model for k-Space Data of Hyperpolarized 129Xe Lung MRI Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Non-Salient Object Segmentation in Medical Images via Pre-trained Multi-Granularity Masked Autoencoders",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Oblique Genomics Mixture of Experts: Prediction of Brain Disorder With Aging-Related Changes of Brain’s Structural Connectivity Under Genomic Influences",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "NQNN: Noise-aware Quantum Neural Networks for Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Occlusion-free 4D Gaussians for Open Surgery Videos Using Multi-Camera Shadowless Lamps",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "OFF-CLIP: Improving Normal Detection Confidence in Radiology CLIP with Simple Off-Diagonal Term Auto-Adjustment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Noisy Label Refinement Based on Discrete Diffusion Process in 3D Ossicle Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Non-Invasive TB Detection using Acoustic and Semantic Features from Cough Sounds",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Operating Room Workflow Analysis via Reasoning Segmentation over Digital Twins",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "P2INR-FWI: an Implicit Neural Representation Method for Speed of Sound Image Reconstruction in Ultrasound Computed Tomography",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "OralSAM: One-shot Segmentation for Intraoral Ultrasound Videos with Adaptive Feature Correlation and Self-prompting Strategy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Out-of-Distribution Nuclei Segmentation in Histology Imaging via Liquid Neural Networks with Modern Hopfield Layer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Parameter-Efficient Fine-Tuning of 3D DDPM for MRI Image Generation Using Tensor Networks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pathology-aware Virtual H&E Staining of Section-free Thick Tissues with Semantic Contrastive Guidance",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PATE: Enhancing Few-Shot Pathological Image Classification via Prompt-Based Text-Image Embedding Adaptation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PathVG: A New Benchmark and Dataset for Pathology Visual Grounding",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pattern-Anchored Adaptive Prototype Learning for Gastroscopic Lesion Detection and Beyond",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PathoPrompt: Cross-Granular Semantic Alignment for Medical Pathology Vision-Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PCR-MIL: Phenotype Clustering Reinforced Multiple Instance Learning for Whole Slide Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PD-INR: Prior-Driven Implicit Neural Representations for TOF-PET Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PDF-Net: Prototype-Aware Dynamic Fusion Network for Nasopharyngeal Carcinoma T-staging Classification with Epstein-Barr Virus DNA",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PD-UniST: Prompt-Driven Universal Model for Unpaired H&E-to-IHC Stain Translation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PedCLIP: A Vision-Language model for Pediatric X-rays with Mixture of Body part Experts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PerioDet: Large-Scale Panoramic Radiograph Benchmark for Clinical-Oriented Apical Periodontitis Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PFESA: FFT-based Parameter-Free Edge and Structure Attention for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Phrase-grounded Fact-checking for Automatically Generated Chest X-ray Reports",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Phenotype Representation and Analysis via Discriminative Atypicality (PRADA) to capture the structural heterogeneity of Autism Spectrum Disorder",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physics-driven Signal Regularization in Diffusion Models for Multi-contrast MR Image Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physics-Informed Neural ODEs for Temporal Dynamics Modeling in Cardiac T1 Mapping",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physics-guided deep image prior network for general zero-shot stain deconvolution",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PLUS: Plug-and-Play Enhanced Liver Lesion Diagnosis Model on Non-Contrast CT Scans",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PMIL: Prompt enhanced Multimodal Integrative analysis of fMRI combining functional connectivity and temporal Latency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PolyMamba: Spatial-prior Guided Mamba for Polyp Segmentation with High-Frequency Enhancement",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Physics-Informed Neural Operators for Tissue Elasticity Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PolarDETR: Enhancing Interpretability in Multi-modal Methods for Jawbone Lesion Detection in CBCT",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pose as Clinical Prior: Learning Dual Representations for Scoliosis Screening",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Predicting Radiation Therapy Response based on Dynamic Temporal Feature Difference Fusion from Longitudinal MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Predicting Femoral Head Collapse Risk in Osteonecrosis Using Label Tokenization: A Multi-Modality Survival Analysis Approach",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PRECISE-AS: Personalized Reinforcement Learning for Efficient Point-of-Care Echocardiography in Aortic Stenosis Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Predicting Longitudinal Brain Development via Implicit Neural Representations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Privacy Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pretraining on Chronic Lung Inflammatory Disease Datasets to Enhance Indeterminant Lung Cancer Classification using Masked Autoencoders",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PRETI: Patient-Aware Retinal Foundation Model via Metadata-Guided Representation Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Prior-guided Prototype Aggregation Learning for Alzheimer’s Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PRGNN: Pyramidal Region Graph Neural Network for Region-Based Brain PET Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Pre-to-Post Operative MRI Generation with Retrieval-based Visual In-Context Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Probabilistic Prior-Guided Anatomical Alignment for MRI Super-Resolution",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Probabilistic Integration of Renal Cancer Radiology and Pathology Using Graph Neural Networks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Progression-Aware Generative Model Enhancing Baseline Visit Prediction of Early Alzheimer’s Disease",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ProgreSpine: Inherently Explainable Prototypical Regression for Spine Age Estimation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Prototype-Guided Cross-Modal Knowledge Enhancement for Adaptive Survival Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "pyOpenNFT: an open-source Python framework for ML-based real-time fMRI and EEG-fMRI neurofeedback",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Radar-Based Imaging for Sign Language Recognition in Medical Communication",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Query-Level Alignment for End-to-End Lesion Detection with Human Gaze",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "R1Seg-3D: Rethinking Reasoning Segmentation for Medical 3D CTs",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadioFormer: Integrating Radiologist Inductive Bias for Tumor Classification on Multi-Sequence MR Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadKAM: Attention-Driven Kolmogorov-Arnold Model for Automatic Radiation-Induced Lymphopenia Prediction by Multimodal Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RadSAM: Segmenting 3D radiological images with a 2D promptable model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RANDose: A Region-aware Attention Network for Accurate Radiation Dose Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Real-Time SLAM-Based Correction and 3D Visualization for Fluorescence Lifetime Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Reconstructing 3D Hand-Instrument Interaction from a Single 2D Image in Medical Scenes",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Reflect: Rectified Flows for Efficient Brain Anomaly Correction Transport",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RefineSeg: Dual Coarse-to-Fine Learning for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RedDino: A foundation model for red blood cell analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RefineNet: Elevating Medical Foundation Models through Quality-Centric Data Curation by MLLM-Annotated Proxy Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ReSeg-UNet: A Reconstruction-Guided Optimization Framework for Enhanced Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Reliable and Interpretable Visual Field Progression Prediction with Diffusion Models and Conformal Risk Control",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ResMAP: Restoring MRIs of Mixed Artifacts by Prompt Cascading Retrieval",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Restyled, Tuning, and Alignment: Taming VLMs for Federated Non-IID Medical Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Rethinking Multi-view Mammogram Representation Learning via Counterfactual Reasoning with Kolmogorov-Arnold Theorem",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RetiDiff: Diffusion-based Synthesis of Retinal OCT Images for Enhanced Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Revisiting 3D Medical Scribble Supervision: Benchmarking Beyond Cardiac Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Revisiting Masked Image Modeling with Standardized Color Space for Domain Generalized Fundus Photography Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Robust Sleep Stage Prediction from Electroencephalogram with Label Noise Using Multimodal Large Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SABPI-Net: A Novel Structure-Aware Network for Accurate and Domain-Invariant Retinopathy of Prematurity Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SAGCNet: Spatial-Aware Graph Completion Network for Missing Slice Imputation in Population CMR Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "RSAD: Region-Specific Anomaly Detection in fMRI for Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SAMASK-CLTR: A spatial-aware mask guided learning model for benign and malignant tumor classification in ABUS",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SAM2-ProMem: Enhancing Zero-Shot 3D Segmentation with Stochastic Propagation and Memory Search",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SAMed-2: Selective Memory Enhanced Medical Segment Anything Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Scalp Diagnostic System With Label-Free Segmentation and Training-Free Image Translation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Seeing Beyond the Surface: Retinal Thickness Prediction from Color Fundus Photography for DME Management",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SAMSA: Segment Anything Model enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Segmenting Vessels Encapsulating Tumor Clusters via Fine-Grained Visual Prompt",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SAMUSA: Segment Anything Model 2 for UltraSound Annotation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Self-supervised Axial Super-Resolution for Volume Microscopy via Diffusion-Guided Structure Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Self-Supervised Multiview Xray Matching",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Semantic Interpolative Diffusion Model: Bridging the Interpolation to Masks and Colonoscopy Image Synthesis for Robust Generalization",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Semantic-Aware Chest X-ray Report Generation with Domain-Specific Lexicon and Diversity-Controlled Retrieval",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Semi-Supervised Deformation-Free Image-to-Image Translation for Realistic CT Synthesis from CBCT",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Bi-hemisphere",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SlimFormer-3D: A Layer-Adaptive Lightweight Transformer for Efficient 3D Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SIMPLE: Simultaneous Multi-plane Self-supervised Learning for Isotropic MRI Restoration from Anisotropic Data",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Sim-to-Real Transformer-Based Shape Reconstruction for Automated Orthopedic Fracture Reduction Planning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Small Lesions-aware Bidirectional Multimodal Multiscale Fusion Network for Lung Disease Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SMF-Net: Unlocking Multimodal Insights for Enhanced Stroke Lesion Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Source-Free Domain Adaptation for Cross-Modality Cardiac Image Segmentation with Contrastive Class Relationship Consistency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Sparse3Diff: A Diffusion Framework for 3D Reconstruction from Sparse 2D Slices in Volumetric Optical Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Sparse-XM: Spine Pose Adjustment with RGB-D Bone Segmentation via Cross-Modality Label Transfer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial Learning with Class-Level Alignment",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Source-Free Active Domain Adaptation for Efficient Medical Video Polyp Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Spatial Aggregation for Semi-supervised Active Learning in 3D Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Spatiotemporal-Sensitive Network for Microvascular Obstruction Segmentation from Cine Cardiac Magnetic Resonance",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SPEC-CXR: Advancing Clinical Safety through Entity-Level Performance Evaluation of Chest X-ray Report Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Speech Audio Generation from Dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Spatial Prior-Guided Boundary and Region-Aware 2D Lesion Segmentation in Neonatal Hypoxic Ischemic Encephalopathy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Sparsely Labeled fMRI Data Denoising with Meta-Learning-Based Semi-Supervised Domain Adaptation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SPENet: Self-guided Prototype Enhancement Network for Few-shot Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SSPNet: Towards Feasible Spatio-Spectral Portraits-Based Deep Learning Framework for Neurodegenerative Disease Multi-Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Spherical Diffusion Process for Score-Guided Cortical Correspondence via Spectral Attention",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Steerable Anatomical Shape Synthesis with Implicit Neural Representations",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "STEAM: Self-supervised TEeth Analysis and Modeling for Point Cloud Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Stronger Together: Registering Preoperative Imagery, LUS, and MIS Liver Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "STMDiff: Spatiotemporal Matching Diffusion Model for Dual-Time-Point Total-body PET/CT Imaging via Contrastive Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Structure-aware MRI Translation: Multi-Modal Latent Diffusion Model with Arbitrary Missing Modalities",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Structure and Smoothness Constrained Dual Networks for MR Bias Field Correction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "StyleGAN-based Brain MRI Anomaly Detection via Latent Code Retrieval and Partial Swap",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Structure-Aware Cross-Modal Prompt Tuning for Autonomous Bronchoscopic Navigation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Subtyping Breast Lesions via Generative Augmentation based Long-tailed Recognition in Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "StepAL: Step-aware Active Learning for Cataract Surgical Videos",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Super-resolution and segmentation of 4D Flow MRI using Deep learning and Weighted Mean Frequencies",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Supervised Diffusion-Model-Based PET Image Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Surface-based Multi-Axis Longitudinal Disentanglement Using Contrastive Learning for Alzheimer’s Disease",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Synchronous Inhibition and Activation for Weakly Supervised Semantic Segmentation of Pathology Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Synergy-Guided Regional Supervision of Pseudo Labels for Semi-Supervised Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Synthesizing Delayed-Phase Contrast-Enhanced Breast MR Images from Early-Phase Images Using an Iterative Deep Network",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Synthetic Ground Truth Counterfactuals for Comprehensive Evaluation of Causal Generative Models in Medical Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "T&F-DFC FusionNet: Time&Frequency-Dynamic Functional Connectivity Fusion Network for ADHD Diagnosis in Children based on fNIRS",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "T2GS: Comprehensive Reconstruction of Dynamic Surgical Scenes with Gaussian Splatting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Synthesis of Pathological Dual-Channel Color Doppler Echocardiograms for Equitable Diagnosis of Heart Diseases",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Task-aligned fMRI Generation Model for Brain Disorder Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "T2WI-BCMIC: Non-Fat Saturated T2-Weighted Imaging Dataset for Bladder Cancer Muscle Invasion Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation and Its Application in Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TEGDA: Test-time Evaluation-Guided Dynamic Adaptation for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporal Atlas-Guided Generation of Longitudinal Data via Geometric Latent Embeddings",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporal Model-Based Federated Active Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporal Representation Learning of Phenotype Trajectories for pCR Prediction in Breast Cancer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Test-Time Training with Local Contrast-Preserving Copy-Pasted Image for Domain Generalization in Retinal Vessel Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TESLA: Test-time Reference-free Through-plane Super-resolution for Multi-contrast Brain MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporally-Aware Supervised Contrastive Learning for Polyp Counting in Colonoscopy",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Temporal Modulated Multi-Scale Deformation Fusion via Knowledge Distillation for 4D Medical Image Interpolation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Tetra-orientated Mamba with T2-FLAIR Mismatch Features for Glioma Segmentation, IDH Genotyping, and Grading",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TGSAM-2: Text-Guided Medical Image Segmentation using Segment Anything Model 2",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "This EEG Looks Like These EEGs: Interpretable Interictal Epileptiform Discharge Detection With ProtoEEG-kNN",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Thread the Needle: Genomics-guided Prompt-bridged Attention Model for Survival Prediction of Glioma based on MRI Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ThyroidXL: Advancing Thyroid Nodule Diagnosis with an Expert-Labeled, Pathology-Validated Dataset",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Time-Contrastive Pretraining for In-Context Image and Video Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Top-Down Attention-based Multiple Instance Learning for Whole Slide Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Tied Prototype Model for Few-Shot Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TMSE: Tri-Modal Survival Estimation with Context-aware Tissue Prototype and Attention-Entropy Interaction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Automated Pediatric Dental Development Staging: A Dataset and Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Toward Medical Deepfake Detection: A Comprehensive Dataset and Novel Method",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Interpretable Counterfactual Generation via Multimodal Autoregression",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Multi-Scenario Generalization: Text-Guided Unified Framework for Low-Dose CT and Total-Body PET Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Accurate Tumor Budding Detection: A Benchmark Dataset and A Detection Approach Based on Implicit Annotation Standardization and Positive-Negative Feature Coupling",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Holistic Surgical Scene Graph",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Robust Medical Image Referring Segmentation with Incomplete Textual Prompts",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TransSino: Prior Sinogram Pattern-Based Transformer for Limited-Angle CT Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Treat: A Unified Text-guided Conditioned Deep Learning Model for Generalized Radiotherapy Treatment Planning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Training-free Test-time Improvement for Explainable Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Tumor Microenvironment-Guided Fine-Tuning of Pathology Foundation Models for Esophageal Squamous Cell Carcinoma Immunotherapy Response Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Two-Stage Generative Model for Intracranial Aneurysm Meshes with Morphological Marker Conditioning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UltrON: Ultrasound Occupancy Networks",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UM-SAM: Unsupervised Medical Image Segmentation using Knowledge Distillation from Segment Anything Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UltraTwin: Towards Cardiac Anatomical Twin Generation from Multi-view 2D Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Ultra-Low-Field MRI Enhancement via INR-Based Style Transfer",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Tumor Segmentation with Heterogeneity Clustering in Non-contrast Breast MRI",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Uncertainty-Aware Multimodal MRI Fusion for HIV-Associated Asymptomatic Neurocognitive Impairment Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unleashing the Power of LLMs for Medical Video Answer Localization",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unleashing SAM for Few-Shot Medical Image Segmentation with Dual-Encoder and Automated Prompting",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UniMRG: Refining Medical Semantic Understanding Across Modalities via LLM-Orchestrated Synergistic Evolution",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UniCross: Balanced Multimodal Learning for Alzheimer’s Disease Diagnosis by Uni-modal Separation and Metadata-guided Cross-modal Interaction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unisyn: A Generative Foundation Model for Universal Medical Image Synthesis across MRI, CT and PET",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "UniOCTSeg: Towards Universal OCT Retinal Layer Segmentation via Hierarchical Prompting and Progressive Consistency Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unraveling Brainstem Deformations in Joubert Syndrome: A Statistical Shape Analysis of MRI-Derived Structures",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unsupervised Anomaly Detection on Preclinical Liver H&E Whole Slide Images using Graph based Feature Distillation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unsupervised Structure-Geometric Consistency for Monocular Endoscopic Depth Overestimation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unsupervised OCT image interpolation using deformable registration and generative models",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unsupervised Learning-Based Susceptibility Artifact Correction for Diffusion-Weighted MRI in Multiple Organs",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Unsupervised Quality Control and Enhancement of Polyp Segmentation in Colonoscopy Videos using Spatiotemporal Consistency",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "U-RWKV: Lightweight medical image segmentation with direction-adaptive RWKV",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Various Attention Mechanism Graph Convolutional Network with Multi-Source Domain Adaptation for Cross-Subject EEG Emotion Recognition",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VAMPIRE: Uncovering Vessel Directional and Morphological Information from OCTA Images for Cardiovascular Disease Risk Factor Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Vector-Quantization-Driven Active Learning for Efficient Multi-Modal Medical Segmentation with Cross-Modal Assistance",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VBCD: A Voxel-Based Framework for Personalized Dental Crown Design",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Veriserum: A dual-plane fluoroscopic dataset with knee implant phantoms for deep learning in medical imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VesselSDF: Distance Field Priors for Vascular Network Reconstruction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ViTAL-CT: Vision Transformers for High-Risk Plaque Classification in Coronary CTA",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VisNet: A Human Visual System Inspired Lightweight Dual-Path Network for Medical Images Denoising",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VQ-SCD: Vector Quantization Meets Unknown Scan Condition Self-supervised Low-Dose CT Denoising",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VMRA-MaR: An Asymmetry-Aware Temporal Framework for Longitudinal Breast Cancer Risk Prediction",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "ViTexNet: Vision-Text Guided Dynamic Convolution Network for Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Weighted Stratification in Multi-Label Contrastive Learning for Long-Tailed Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Wavelet-driven Decoupling and Physics-informed Mapping Network for Accelerated Multi-parametric MR Imaging",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Weakly Semi-Supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "WiD-PET: PET Image Reconstruction from Low-Dose Data Using a Wavelet-Informed Diffusion Model with Fast Inference",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "WDNet: A Novel Wavelet-guided Hierarchical Diffusion Network for Multi-Target Segmentation in Colonoscopy Images",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "VT-SNN: Variable Time-step Spiking Neural Network Based on Uncertainty Measure and Its Application in Brain Disease Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "X-SiT: Inherently Interpretable Surface Vision Transformers for Dementia Diagnosis",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "XOCT: Enhancing OCT to OCTA Translation via Cross-Dimensional Supervised Multi-Scale Feature Learning",
+    "_source_file": "miccai2025.json"
+  },
+  {
+    "title": "Your other Left! Vision-Language Models Fail to Identify Relative Positions in Medical Images",
+    "_source_file": "miccai2025.json"
+  }
+]
