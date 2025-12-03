@@ -5,6 +5,8 @@ including: **AAAI, NeurIPS, ICML, ICLR, IJCAI, ECCV, ICCV, CVPR, ISBI, MICCAI**
 
 Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and Ours: [https://jiandanjinxin.github.io/](https://jiandanjinxin.github.io/)
 
+[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表🌹  
+
 ## 📅 Conference-List
 | Conference                                        | Type | Submission    | Conference Dates | Papers           |
 |:-------------------------------------------------:|:---:|:---------------|:-----------------|:-----------------|
@@ -19,11 +21,8 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | [ISBI](https://biomedicalimaging.org/2025/)       | Med | Nov 14 2025    | Apr 2026         | https://dblp.org/db/conf/isbi/isbi2025.html |
 | [**MICCAI**](https://conferences.miccai.org/2026/en/default.asp) | Med | **Feb 12 2026** | Oct 2026 | https://papers.miccai.org/miccai-2025/ |
 
-## 🔍 Source
-[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表🌹  
-
 ## 📑 Lung-Brain-AI-Paper-List
-聚焦于**肺部🫁和脑部🧠医学场景**的论文
+聚焦于**肺部和脑部医学场景**的论文
 <!-- LB_PAPERS_START -->
 <!-- LB_PAPERS_END -->
 
