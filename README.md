@@ -5,7 +5,7 @@ including: **AAAI, NeurIPS, ICML, ICLR, IJCAI, ECCV, ICCV, CVPR, ISBI, MICCAI**
 
 Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and Ours: [https://jiandanjinxin.github.io/](https://jiandanjinxin.github.io/)
 
-[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表🌹  
+[**Paper Copilot**](https://papercopilot.com/paper-list/) & [Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表🌹  
 
 ## 📅 Conference-List
 | Conference                                        | Type | Submission    | Conference Dates | Papers           |
@@ -479,7 +479,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 <!-- LB_PAPERS_END -->
 
 ## 📚 Med-Multimodal-Paper-List
-聚焦于**基于多模态和跨模态的医学研究**论文
+聚焦于**多模态/跨模态医学研究**的论文
 
 <!-- PAPERS_START -->
 
