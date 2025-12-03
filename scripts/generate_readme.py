@@ -5,11 +5,15 @@ from pathlib import Path
 from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parent.parent
-PAPERS_DIR = ROOT / "papers"
 README_PATH = ROOT / "README.md"
 
+PAPERS_DIR = ROOT / "papers"
 START_MARK = "<!-- PAPERS_START -->"
 END_MARK = "<!-- PAPERS_END -->"
+
+LUNG_BRAIN_PAPERS_DIR = ROOT / "lung_brain_papers"
+LB_START_MARK = "<!-- LB_PAPERS_START -->"
+LB_END_MARK = "<!-- LB_PAPERS_END -->"
 
 
 def parse_conf_year_from_filename(path: str):
@@ -29,14 +33,15 @@ def parse_conf_year_from_filename(path: str):
     return conf, year
 
 
-def load_papers():
+def _load_papers_from_dir(papers_dir: Path):
     """
-    输出 dict:
-        key: (conf, year)
-        value: 该会议该年份的所有论文列表
+    从指定目录下读取所有 json 文件，返回:
+        dict[(conf, year)] -> [papers...]
     """
     grouped = defaultdict(list)
-    for path in glob.glob(str(PAPERS_DIR / "*.json")):
+    papers_dir = Path(papers_dir)
+
+    for path in glob.glob(str(papers_dir / "*.json")):
         conf, year_from_file = parse_conf_year_from_filename(path)
 
         with open(path, "r", encoding="utf-8") as f:
@@ -51,19 +56,27 @@ def load_papers():
 
         # 将每篇论文放入按 (conf, year) 分组的字典中
         for p in papers:
-            # 如果论文json里有 year/conf 字段就用；否则用文件名解析的
+            # 如果论文 json 里有 year/conf 字段就用；否则用文件名解析的
             year = p.get("year") or year_from_file
             conf_key = (p.get("conf") or conf).upper()
-
-            # year 必须是 int，防御性处理一下
             try:
                 year = int(year)
             except (TypeError, ValueError):
                 year = year_from_file
-
             grouped[(conf_key, year)].append(p)
-
+            
     return grouped
+
+
+def load_papers():
+    """原有多模态论文列表（papers 目录）"""
+    return _load_papers_from_dir(PAPERS_DIR)
+
+
+def load_lung_brain_papers():
+    """肺部和脑部 AI 论文列表（lung_brain_papers 目录）"""
+    return _load_papers_from_dir(LUNG_BRAIN_PAPERS_DIR)
+
 
 
 def paper_to_row(p):
@@ -149,28 +162,35 @@ def build_grouped_markdown(grouped_papers):
     return "\n\n".join(sections)
 
 
-
-def replace_section(readme_text, new_section):
-    start_idx = readme_text.find(START_MARK)
-    end_idx = readme_text.find(END_MARK)
+def replace_section(readme_text, new_section, start_mark, end_mark):
+    """
+    用 new_section 替换 README 中 start_mark 与 end_mark 之间的内容。
+    """
+    start_idx = readme_text.find(start_mark)
+    end_idx = readme_text.find(end_mark)
 
     if start_idx == -1 or end_idx == -1 or end_idx < start_idx:
-        # 如果没写标记，就在结尾追加一个新段落
-        block = f"\n\n{START_MARK}\n{new_section}\n{END_MARK}\n"
+        # 若没有标记，则在末尾追加一个完整区块
+        block = f"\n\n{start_mark}\n{new_section}\n{end_mark}\n"
         return readme_text + block
 
-    before = readme_text[: start_idx + len(START_MARK)]
+    before = readme_text[: start_idx + len(start_mark)]
     after = readme_text[end_idx:]
     return f"{before}\n\n{new_section}\n{after}"
 
 
 def main():
     grouped_papers = load_papers()
-    
     if grouped_papers:
         grouped_md = build_grouped_markdown(grouped_papers)
     else:
-        grouped_md = "_当前没有任何论文数据_"
+        grouped_md = "_当前没有任何多模态医学论文数据_"
+
+    lung_brain_papers = load_lung_brain_papers()
+    if lung_brain_papers:
+        lung_brain_md = build_grouped_markdown(lung_brain_papers)
+    else:
+        lung_brain_md = "_当前没有任何肺部和脑部相关论文数据_"
 
     if README_PATH.exists():
         readme_text = README_PATH.read_text(encoding="utf-8")
