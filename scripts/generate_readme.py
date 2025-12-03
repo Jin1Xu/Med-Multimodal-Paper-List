@@ -101,7 +101,7 @@ def paper_to_row(p):
         authors = ""
 
     # status
-    status = p.get("status")
+    status = p.get("status", "")
 
     # 论文引用次数
     citations = p.get("gs_citation", -1)
