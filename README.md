@@ -19,13 +19,16 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | [ISBI](https://biomedicalimaging.org/2025/)       | Med | Nov 14 2025    | Apr 2026         | https://dblp.org/db/conf/isbi/isbi2025.html |
 | [**MICCAI**](https://conferences.miccai.org/2026/en/default.asp) | Med | **Feb 12 2026** | Oct 2026 | https://papers.miccai.org/miccai-2025/ |
 
-## 🔍 肺部和脑部人工智能
+## 🔍 Source
+[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表🌹  
 
+## 📑 Lung-Brain-AI-Paper-List
+聚焦于**肺部🫁和脑部🧠医学场景**的论文
+<!-- LB_PAPERS_START -->
+<!-- LB_PAPERS_END -->
 
- 
 ## 📚 Med-Multimodal-Paper-List
-[**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表，这是一个很棒的网站🌹  
-基于此调用大模型API进一步筛选文献，聚焦**基于多模态和跨模态的医学研究**论文，筛选后的文献存储在Json文件中并通过Github Actions同步如下：
+聚焦于**基于多模态和跨模态的医学研究**论文
 
 <!-- PAPERS_START -->
 
