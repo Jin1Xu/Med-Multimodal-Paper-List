@@ -200,7 +200,7 @@ def main():
         readme_text = "# Papers\n"
         
     new_readme = replace_section(readme_text, grouped_md, START_MARK, END_MARK)
-    new_readme = replace_section(new_readme, lung_brain_section, LB_START_MARK, LB_END_MARK)
+    new_readme = replace_section(new_readme, lung_brain_md, LB_START_MARK, LB_END_MARK)
 
     README_PATH.write_text(new_readme, encoding="utf-8")
     print("README.md updated.")
