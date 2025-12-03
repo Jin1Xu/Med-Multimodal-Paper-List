@@ -18,6 +18,10 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | [CVPR](https://cvpr.thecvf.com/Conferences/2025)  | CV  | Nov 7 2025     | Jun 2026         | -                |
 | [ISBI](https://biomedicalimaging.org/2025/)       | Med | Nov 14 2025    | Apr 2026         | https://dblp.org/db/conf/isbi/isbi2025.html |
 | [**MICCAI**](https://conferences.miccai.org/2026/en/default.asp) | Med | **Feb 12 2026** | Oct 2026 | https://papers.miccai.org/miccai-2025/ |
+
+## 🔍 肺部和脑部人工智能
+
+
  
 ## 📚 Med-Multimodal-Paper-List
 [**Paper Copilot**](https://papercopilot.com/paper-list/)&[Github](https://github.com/papercopilot/paperlists/tree/main) 提供了绝大部分完整的顶会文献列表，这是一个很棒的网站🌹  
