@@ -205,8 +205,8 @@ def main():
         readme_text = README_PATH.read_text(encoding="utf-8")
     else:
         readme_text = "# Papers\n"
-        
-    new_readme = replace_section(readme_text, grouped_md, START_MARK, END_MARK)
+
+    new_readme = replace_section(readme_text, "", START_MARK, END_MARK)
     new_readme = replace_section(new_readme, lung_brain_md, LB_START_MARK, LB_END_MARK)
     new_readme = replace_section(new_readme, mm_class_md, MM_CLASS_START_MARK, MM_CLASS_END_MARK)
 
