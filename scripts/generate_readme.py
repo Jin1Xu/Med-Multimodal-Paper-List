@@ -15,6 +15,10 @@ LUNG_BRAIN_PAPERS_DIR = ROOT / "lung_brain_papers"
 LB_START_MARK = "<!-- LB_PAPERS_START -->"
 LB_END_MARK = "<!-- LB_PAPERS_END -->"
 
+MM_CLASS_PAPERS_DIR = ROOT / "Mm_classification_papers"
+MM_CLASS_START_MARK = "<!-- MM_CLASS_PAPERS_START -->"
+MM_CLASS_END_MARK = "<!-- MM_CLASS_PAPERS_END -->"
+
 
 def parse_conf_year_from_filename(path: str):
     stem = Path(path).stem 
@@ -73,6 +77,8 @@ def load_papers():
 def load_lung_brain_papers():
     return _load_papers_from_dir(LUNG_BRAIN_PAPERS_DIR)
 
+def load_mm_class_papers():
+    return _load_papers_from_dir(MM_CLASS_PAPERS_DIR)
 
 def paper_to_row(p):
     # 论文id
@@ -189,6 +195,12 @@ def main():
     else:
         lung_brain_md = "_当前没有任何肺部和脑部相关论文数据_"
 
+    mm_class_papers = load_mm_class_papers()
+    if mm_class_papers:
+        mm_class_md = build_grouped_markdown(mm_class_papers)
+    else:
+        mm_class_md = "_当前没有任何多模态分类相关论文数据_"
+
     if README_PATH.exists():
         readme_text = README_PATH.read_text(encoding="utf-8")
     else:
@@ -196,6 +208,7 @@ def main():
         
     new_readme = replace_section(readme_text, grouped_md, START_MARK, END_MARK)
     new_readme = replace_section(new_readme, lung_brain_md, LB_START_MARK, LB_END_MARK)
+    new_readme = replace_section(new_readme, mm_class_md, MM_CLASS_START_MARK, MM_CLASS_END_MARK)
 
     README_PATH.write_text(new_readme, encoding="utf-8")
     print("README.md updated.")
