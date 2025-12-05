@@ -1,0 +1,402 @@
+[
+  {
+    "title": "A Dual-Track Framework for Enhancing Age-Related Macular Degeneration Diagnosis Through Embedding and Vision Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Deep Learning-Driven Automated Aortic Valve Calcification Assessment in CT Calcium Score Screening Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Diagnosis with Nanoscale Protein Distributions: Single-Molecule Fluorescence Localization Microscopy and Attention-Based Learning",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Train for Stain: Adapting for Diverse H&E Staining Profiles Across Centers in Classification of Mitotic Figures (Glioma-MDC 2025)",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "3D Multi-Modal Feature Interaction Fusion Network for Early Alzheimer's Disease Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Modal Integration for Predicting Biochemical Recurrence in Prostate Cancer",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Predicting Response to Neoadjuvant Chemotherapy using Multi-Modal MRI Radiomics and Machine Learning Approaches",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-Based Learning Framework",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Classification of Surgeons' Gender from Videos of the Surgical Field",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Visual Prompting and Adaptation of Vision Language Models for Tumor Classification in Breast Ultrasound",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Generalized Cross-Domain Multi-Label Few-Shot Learning for Chest X-Rays",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Cervical Cancer Lesion Grading Based on Clinical Diagnostic Criteria and Multi-View Approach Using Intraoperative Colposcopic Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head During Labor",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Self-supervised Prototype Learning for Spatio-Temporal Enhanced Ultrasound-based Prostate Cancer Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "SFECNet: Fusion of Structural, Functional and Effective Connectivity Network for Epilepsy Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "RIEMAE: Riemannian Masked Autoencoder for Classifying Malignant Prostate Cancer Patterns",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Self-Supervised Learning for Multi-Category Endoscopy Classification and Data Quality Evaluation Using Masked Autoencoders",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CSF-NET: Cross-Modal Spatiotemporal Fusion Network for Pulmonary Nodule Malignancy Predicting",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Modal Fusion Network Integrating Imaging and Clinical Tabular Data for Alzheimer's Disease Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Knowledge-Aware Multi-Source Domain Adaptation Network for Osteoporosis Diagnosis from Ultrasonic Radio Frequency Signals",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "RVPD: An Automated System for Calculating the Tortuosity and Bifurcation Angles of Retinal Vessels to Predict Diseases",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Multi-Modal Fusion Method for 3-Hinge Gyrus Based on Bidirectional Cross-Attention",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Conditional Convolution of Clinical Data Embeddings for Multimodal Prostate Cancer Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-VentNet: Multimodal Fusion Framework for Predicting Need for Mechanical Ventilation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "F2UE-NET: An Uncertainty-Driven Dynamic Expert Network for Long-Tail Retinal Disease Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Non-Invasive Molecular Classification of Gliomas Using Explainable ai and Radiomic Features from Multi-Sequence MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "TX-LLaVA: Large Language and Vision Assistant for Temporal Changes in Chest X-Rays",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "PI-RADS Inspired Architecture: A New Deep Learning Approach to Detect Clinically Significant Prostate Cancer on MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "HER2 Status Prediction in Breast Cancer: A Weak Supervision and Contrastive Learning Approach on H&E Stains",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Functional-Positional Context Embedding in Graph Neural Networks for Improved Parkinson's Disease Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Scale Time-Frequency Fusion Intelligent Diagnosis Model for Children with ADHD Based on fNIRS",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Causal Modeling of FMRI Time-Series for Interpretable Autism Spectrum Disorder Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Attention-Driven Multi-Sequence Mri Feature Learning and Fusion for Breast Cancer Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Distribution Mammogram Classification: Leveraging Clip for Enhanced Generalization Across Diverse Datasets",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Fairness Analysis of Clip-Based Foundation Models for X-Ray Image Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "SCONet: Convolutional Occupancy Networks for Multi-Organ Segmentation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Dual Invariance Self-Training for Reliable Semi-Supervised Surgical Phase Recognition",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Active Prompt Tuning Enables GPT-4O to do Efficient Classification of Microscopy Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Advancing OCT-Based Retinal Disease Classification with XLSTM: A Framework for Variable-Length Volume Processing",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Beyond Occlusion: In Search for Near Real-Time Explainability of CNN-Based Prostate Cancer Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "ISGM-DR: Important Slice-Guided Model for Diabetic Retinopathy Diagnosis Using 3D Oct Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Pulmofusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Dual Multi-Atlas Representation Alignment for Brain Disorder Diagnosis Using Morphological Connectome",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Predicting Axillary Lymph Node Metastasis in Breast Cancer by Integrating Dual-ROI Features from Multi-Parametric MRI",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Classification of Oral Potentially Malignant Disorders Using Multimodal Feature Integration",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Hybrid DL Classification Model Based on CNN and Transformer for Pap Smear Cells",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Towards Multi-Label Open Set Diagnosis for Medical Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Nnmamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "ASDC-NET: Anterior Segment Disease Classification Network Based on Slit-Lamp Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Conditional Visuo-Textual Prompt Learning for Medical Image Analysis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Guiding the Classification of Hepatocellular Carcinoma on 3D CT-Scans Using Deep and Handcrafted Radiological Features",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis from Imaging, Clinical, and Radiomic Data Fusion",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Fusion of Dwi Image and Clinical Variables for Stroke Outcome Prediction Using Tabular Transformer",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Semi-Supervised Learning Framework with Cross-Magnification Attention for Glioma Mitosis Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Semi-Supervised Multimodal Multi-Instance Learning for Aortic Stenosis Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Comparative Analysis of Unsupervised and Supervised Autoencoders for Nuclei Classification in Clear Cell Renal Cell Carcinoma Images",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Optimizing Cell Recognition in Sarcoma Multiplex Immunohistochemistry Images via Pre-Training Strategies",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multi-Modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Class Fusion of Support Vector Machines with Deep Learning Features for Oral Cancer Histopathology Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "PSO-NET: Development of an Automated Psoriasis Assessment System Using Attention-Based Interpretable Deep Neural Networks",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Shoulder Rotator Cuff Tear Detection from Ultrasound Videos Using Deep Reinforcement Learning",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Overall Survival Prediction of Brain Tumor Patients with Multimodal MRI using Swin Unetr",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Ensemble of Foundation Models for Pap Smear Cell Analysis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Predicting Ulcer in H&E Images of Inflammatory Bowel Disease Using Domain-Knowledge-Driven Graph Neural Network",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CascadePLS-ViT: Cascade with Patch-Level Self-Supervised Vision Transformers for Breast Cancer Classification in Mammography",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Automatic Classification and Explanation of Abnormal EEGs Using Signal Images and Spectrograms",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Longmambattn: A Novel Architecture for Enhanced Breast Cancer Risk Prediction Using Variable-Length Longitudinal Mammograms",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Age Knowledge Guided CNN-Transformer Network for Alzheimer's Disease Diagnosis",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Drop and Align: Fusing Pathology and Genomics via Graph Learning for Cancer Survival Prediction",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multimodal Learning for Enhanced Detection in Oral Cancer Screening",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Generating Customized Prompts for Zero-Shot Rare Event Medical Image Classification Using LLM",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Deep Neural Network for Lung Adenocarcinoma Subtype from Multimodal Fusion of Imaging and Clinical Data",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Cell Image Classification with Polygon-Guided Extraction for Glioma Mitosis Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "A Novel Approach to Recognising Physical Activity Intensity in Adults: Gravity-Based Acceleration Imaging with Vision Transformer",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "OCT-Trans: A Novel Transformer Backbone with Multimodal Feature Extraction in OCT-Based Retinal Disease Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Exploring Foundation Models Fine-Tuning for Cytology Classification",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Resection Margin Prediction in Pancreatic Ductal Adenocarcinoma: A Multi-Modal Machine Learning Approach Integrating Clinical and Computed Tomography Radiomics Data",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Large-Scale Radiomics Analysis for Prostate Cancer Detection Harnessing Machine and Deep Learning Models",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Ultrasound Image Synthesis Using Generative AI for Lung Consolidation Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "CINEPRO: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "MUM: Enhancing Medical Diagnostics Through Unpaired Multimodal Data Integration",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Self-Supervised Graph Transformer with Contrastive Learning for Brain Connectivity Analysis Towards Improving Autism Detection",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Unveiling the Capabilities of Latent Diffusion Models for Classification of Lung Diseases in Chest X-Rays",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Improved Brain Disorder Classification in RS-FMRI via Inter-Individual Variability Characterization: A Self-Supervised Learning Approach",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Multicenter Radiomic Feature-Based Prediction of PD-L1 Status in Lung Cancer Using Multimodal PET/CT",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Combining 4D Hyperspectral Imaging With CNN for Nerve and Ligament Differentiation",
+    "_source_file": "isbi2025_filtered.json"
+  },
+  {
+    "title": "Connectome-GTC: A Unified Framework for Brain Functional and Structural Connectomes Generation, Translation, and Classification",
+    "_source_file": "isbi2025_filtered.json"
+  }
+]

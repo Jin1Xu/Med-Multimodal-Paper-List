@@ -1,0 +1,2034 @@
+[
+  {
+    "title": "In vivo cell-type and brain region classification via multimodal contrastive learning",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/31226",
+    "id": "10JOlFIPjt",
+    "poster": "",
+    "openreview": "https://openreview.net/forum?id=10JOlFIPjt",
+    "author_site": "Han Yu, Hanrui Lyu, YiXun Xu, Charlie Windolf, Eric Lee, Fan Yang, Andrew Shelton, Olivier Winter, International Brain Laboratory, Eva Dyer, Chandramouli Chandrasekaran, Nicholas Steinmetz, Liam Paninski, Cole Hurwitz",
+    "tldr": "",
+    "abstract": "Current electrophysiological approaches can track the activity of many neurons, yet it is usually unknown which cell-types or brain areas are being recorded without further molecular or histological analysis. Developing accurate and scalable algorithms for identifying the cell-type and brain region of recorded neurons is thus crucial for improving our understanding of neural computation. In this work, we develop a multimodal contrastive learning approach for neural data that can be fine-tuned for different downstream tasks, including inference of cell-type and brain location. We utilize multimodal contrastive learning to jointly embed the activity autocorrelations and extracellular waveforms of individual neurons. We demonstrate that our embedding approach, Neuronal Embeddings via MultimOdal Contrastive Learning (NEMO), paired with supervised fine-tuning, achieves state-of-the-art cell-type classification for two opto-tagged datasets and brain region classification for the public International Brain Laboratory Brain-wide Map dataset. Our method represents a promising step towards accurate cell-type and brain region classification from electrophysiological recordings.",
+    "keywords": "contrastive learning;electrophysiology;extracellular;multimodal;neuroscience;cell type;brain region;Neuropixels;deep learning",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "Han Yu;Hanrui Lyu;YiXun Xu;Charlie Windolf;Eric Kenji Lee;Fan Yang;Andrew M Shelton;Olivier Winter;International Brain Laboratory;Eva L Dyer;Chandramouli Chandrasekaran;Nicholas A. Steinmetz;Liam Paninski;Cole Lincoln Hurwitz",
+    "authorids": "~Han_Yu13;~Hanrui_Lyu1;~YiXun_Xu1;~Charlie_Windolf1;~Eric_Kenji_Lee1;~Fan_Yang71;~Andrew_M_Shelton1;~Olivier_Winter1;~International_Brain_Laboratory1;~Eva_L_Dyer1;~Chandramouli_Chandrasekaran1;~Nicholas_A._Steinmetz1;~Liam_Paninski1;~Cole_Lincoln_Hurwitz1",
+    "gender": ";F;M;;M;F;;M;;;M;;;",
+    "homepage": ";;;;;;;;https://www.internationalbrainlab.com/;;http://www.chandlab.org;;;https://colehurwitz.github.io/",
+    "dblp": ";;;;;;;;;;;99/3005;94/2691;",
+    "google_scholar": "https://scholar.google.com/citations?hl=en;;;;9IEHT7wAAAAJ;;NcaSQbAAAAAJ;;83-cG94AAAAJ;;3Yeb98kAAAAJ;;;https://scholar.google.co.uk/citations?hl=en",
+    "orcid": "0000-0002-7110-7716;0000-0002-4349-8975;;;0000-0002-7166-0909;0009-0006-7261-4097;;0000-0001-9278-2721;;;0000-0002-1711-590X;;;",
+    "linkedin": ";;yixunxu/;;;;;;;;;;;",
+    "or_profile": "~Han_Yu13;~Hanrui_Lyu1;~YiXun_Xu1;~Charlie_Windolf1;~Eric_Kenji_Lee1;~Fan_Yang71;~Andrew_M_Shelton1;~Olivier_Winter1;~International_Brain_Laboratory1;~Eva_L_Dyer1;~Chandramouli_Chandrasekaran1;~Nicholas_A._Steinmetz1;~Liam_Paninski1;~Cole_Lincoln_Hurwitz1",
+    "aff": "Columbia University;Northwestern University, Northwestern University;;;Boston University, Boston University;MiraclePlus;Allen Institute for Brain Science;;University College London, University of London;;Boston University;;Columbia University;Columbia University",
+    "aff_domain": "columbia.edu;u.northwestern.edu;;;bu.edu;miracleplus.com;alleninstitute.org;;ucl.ac.uk;;bu.edu;;columbia.edu;columbia.edu",
+    "position": "PhD student;PhD student;;;PhD student;Researcher;Researcher;;Emeritus;;Assistant Professor;;Full Professor;Postdoc",
+    "bibtex": "@inproceedings{\nyu2025in,\ntitle={In vivo cell-type and brain region classification via multimodal contrastive learning},\nauthor={Han Yu and Hanrui Lyu and YiXun Xu and Charlie Windolf and Eric Kenji Lee and Fan Yang and Andrew M Shelton and Olivier Winter and International Brain Laboratory and Eva L Dyer and Chandramouli Chandrasekaran and Nicholas A. Steinmetz and Liam Paninski and Cole Lincoln Hurwitz},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=10JOlFIPjt}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "a6D4;YH4G;vN2L;iQCh",
+    "pdf_size": 8536767,
+    "rating": "6;8;8;8",
+    "confidence": "4;4;4;3",
+    "soundness": "3;4;3;4",
+    "contribution": "2;3;3;4",
+    "presentation": "4;4;3;4",
+    "wc_summary": "48;136;94;218",
+    "wc_strengths": "111;45;64;145",
+    "wc_weaknesses": "363;139;38;325",
+    "wc_questions": "205;152;124;91",
+    "wc_review": "727;472;320;779",
+    "wc_reply_reviewers": "76;23;22;0",
+    "wc_reply_authors": "697;545;400;407",
+    "reply_reviewers": "1;1;1;0",
+    "reply_authors": "1;1;1;1",
+    "rating_avg": [
+      7.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.5,
+      0.5
+    ],
+    "contribution_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "presentation_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      124.0,
+      62.56196927846821
+    ],
+    "wc_strengths_avg": [
+      91.25,
+      39.245222639195205
+    ],
+    "wc_weaknesses_avg": [
+      216.25,
+      133.32549456124286
+    ],
+    "wc_questions_avg": [
+      143.0,
+      41.803109932156964
+    ],
+    "wc_review_avg": [
+      574.5,
+      187.31857889702238
+    ],
+    "wc_reply_reviewers_avg": [
+      30.25,
+      27.9676152004421
+    ],
+    "wc_reply_authors_avg": [
+      512.25,
+      121.32884034721505
+    ],
+    "reply_reviewers_avg": [
+      0.75,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      1.0,
+      0.0
+    ],
+    "replies_avg": [
+      16,
+      0
+    ],
+    "authors#_avg": [
+      14,
+      0
+    ],
+    "corr_rating_confidence": -0.3333333333333333,
+    "gs_citation": 1,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=1751876006538001987&as_sdt=5,48&sciodt=0,48&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=10JOlFIPjt",
+    "email": "columbia.edu;u.northwestern.edu;;;bu.edu;miracleplus.com;alleninstitute.org;;ucl.ac.uk;;bu.edu;;columbia.edu;columbia.edu",
+    "author_num": 14,
+    "aff_unique_index": "0;1;2;2;3;4;5;2;6;2;3;2;0;0",
+    "aff_unique_norm": "Columbia University;Northwestern University;;Boston University;MiraclePlus;Allen Institute for Brain Science;University College London",
+    "aff_unique_dep": ";;;;;;",
+    "aff_unique_url": "https://www.columbia.edu;https://www.northwestern.edu;;https://www.bu.edu;;https://www.alleninstitute.org;https://www.ucl.ac.uk",
+    "aff_unique_abbr": "Columbia;NU;;BU;;Allen Institute;UCL",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Boston",
+    "aff_country_unique_index": "0;0;0;0;2;0;0;0",
+    "aff_country_unique": "United States;;United Kingdom",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30656",
+    "id": "A1HhtITVEi",
+    "poster": "/media/PosterPDFs/ICLR%202025/30656.png?t=1743505868.7553902",
+    "openreview": "https://openreview.net/forum?id=A1HhtITVEi",
+    "author_site": "Hyukjun Lim, Sun Kim, Sangseon Lee",
+    "tldr": "",
+    "abstract": "Accurately predicting protein-ligand binding affinity is a critical challenge in drug discovery, crucial for understanding drug efficacy. While existing models typically rely on atom-level interactions, they often fail to capture the complex, higher-order interactions, resulting in noise and computational inefficiency. Transitioning to modeling these interactions at the cluster level is challenging because it is difficult to determine which atoms form meaningful clusters that drive the protein-ligand interactions. To address this, we propose CheapNet, a novel interaction-based model that integrates atom-level representations with hierarchical cluster-level interactions through a cross-attention mechanism. By employing differentiable pooling of atom-level embeddings, CheapNet efficiently captures essential higher-order molecular representations crucial for accurate binding predictions. Extensive evaluations demonstrate that CheapNet not only achieves state-of-the-art performance across multiple binding affinity prediction tasks but also maintains prediction accuracy with reasonable computational efficiency. The code of CheapNet is available at https://github.com/hyukjunlim/CheapNet.",
+    "keywords": "Protein-Ligand Binding Affinity;Hierarchical Representation Learning;Cross-Attention Mechanism;Drug Discovery",
+    "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
+    "supplementary_material": "",
+    "author": "Hyukjun Lim;Sun Kim;Sangseon Lee",
+    "authorids": "~Hyukjun_Lim1;~Sun_Kim2;~Sangseon_Lee1",
+    "gender": "M;M;M",
+    "homepage": ";https://bhi-kimlab.github.io/publications/;https://sangseonlee.com/",
+    "dblp": ";53/1114;192/9195",
+    "google_scholar": ";https://scholar.google.co.kr/citations?view_op=list_works;https://scholar.google.co.kr/citations?hl=en",
+    "orcid": ";;0000-0002-7398-9580",
+    "linkedin": "hyukjun-lim/;;",
+    "or_profile": "~Hyukjun_Lim1;~Sun_Kim2;~Sangseon_Lee1",
+    "aff": "Seoul National University;Seoul National University, Seoul National University;Inha University",
+    "aff_domain": "snu.ac.kr;cse.snu.ac.kr;inha.ac.kr",
+    "position": "Undergrad student;Full Professor;Assistant Professor",
+    "bibtex": "@inproceedings{\nlim2025cheapnet,\ntitle={CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction},\nauthor={Hyukjun Lim and Sun Kim and Sangseon Lee},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=A1HhtITVEi}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "2uzU;4kHp;NPNb;vcDV;VFuE",
+    "pdf_size": 2857729,
+    "rating": "5;5;6;6;8",
+    "confidence": "4;4;3;3;3",
+    "soundness": "3;3;2;3;3",
+    "contribution": "3;2;2;3;3",
+    "presentation": "2;2;3;2;3",
+    "wc_summary": "67;64;74;68;69",
+    "wc_strengths": "33;56;72;19;151",
+    "wc_weaknesses": "102;401;195;94;108",
+    "wc_questions": "66;98;3;25;74",
+    "wc_review": "268;619;344;206;402",
+    "wc_reply_reviewers": "147;46;73;11;229",
+    "wc_reply_authors": "3586;3048;1247;922;1697",
+    "reply_reviewers": "2;1;1;1;2",
+    "reply_authors": "8;7;3;4;6",
+    "rating_avg": [
+      6.0,
+      1.0954451150103321
+    ],
+    "confidence_avg": [
+      3.4,
+      0.4898979485566356
+    ],
+    "soundness_avg": [
+      2.8,
+      0.39999999999999997
+    ],
+    "contribution_avg": [
+      2.6,
+      0.4898979485566356
+    ],
+    "presentation_avg": [
+      2.4,
+      0.4898979485566356
+    ],
+    "wc_summary_avg": [
+      68.4,
+      3.261901286060018
+    ],
+    "wc_strengths_avg": [
+      66.2,
+      46.170986560826265
+    ],
+    "wc_weaknesses_avg": [
+      180.0,
+      116.3872845288522
+    ],
+    "wc_questions_avg": [
+      53.2,
+      34.405813462262444
+    ],
+    "wc_review_avg": [
+      367.8,
+      142.11037963498654
+    ],
+    "wc_reply_reviewers_avg": [
+      101.2,
+      77.98563970373007
+    ],
+    "wc_reply_authors_avg": [
+      2100.0,
+      1037.747753550929
+    ],
+    "reply_reviewers_avg": [
+      1.4,
+      0.4898979485566356
+    ],
+    "reply_authors_avg": [
+      5.6,
+      1.8547236990991407
+    ],
+    "replies_avg": [
+      49,
+      0
+    ],
+    "authors#_avg": [
+      3,
+      0
+    ],
+    "corr_rating_confidence": -0.74535599249993,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:CXSWbgeutcIJ:scholar.google.com/&scioq=CheapNet:+Cross-attention+on+Hierarchical+representations+for+Efficient+protein-ligand+binding+Affinity+Prediction&hl=en&as_sdt=0,5",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=A1HhtITVEi",
+    "email": "snu.ac.kr;cse.snu.ac.kr;inha.ac.kr",
+    "author_num": 3,
+    "aff_unique_index": "0;0;1",
+    "aff_unique_norm": "Seoul National University;Inha University",
+    "aff_unique_dep": ";",
+    "aff_unique_url": "https://www.snu.ac.kr;https://www.inha.edu/",
+    "aff_unique_abbr": "SNU;Inha",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Seoul",
+    "aff_country_unique_index": "0;0;0",
+    "aff_country_unique": "South Korea",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "SleepSMC: Ubiquitous Sleep Staging via Supervised Multimodal Coordination",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30593",
+    "id": "B5VEi5d3p2",
+    "poster": "/media/PosterPDFs/ICLR%202025/30593.png?t=1747276487.8814087",
+    "openreview": "https://openreview.net/forum?id=B5VEi5d3p2",
+    "author_site": "Shuo Ma, Yingwei Zhang, Yiqiang Chen, Hualei Wang, Yuan Jin, Wei Zhang, Ziyu Jia",
+    "tldr": "",
+    "abstract": "Sleep staging is critical for assessing sleep quality and tracking health. Polysomnography (PSG) provides comprehensive multimodal sleep-related information, but its complexity and impracticality limit its practical use in daily and ubiquitous monitoring. Conversely, unimodal devices offer more convenience but less accuracy. Existing multimodal learning paradigms typically assume that the data types remain consistent between the training and testing phases. This makes it challenging to leverage information from other modalities in ubiquitous scenarios (e.g., at home) where only one modality is available. To address this issue, we introduce a novel framework for ubiquitous Sleep staging via Supervised Multimodal Coordination, called SleepSMC. To capture category-related consistency and complementarity across modality-level instances, we propose supervised modality-level instance contrastive coordination. Specifically, modality-level instances within the same category are considered positive pairs, while those from different categories are considered negative pairs. To explore the varying reliability of auxiliary modalities, we calculate uncertainty estimates based on the variance in confidence scores for correct predictions during multiple rounds of random masks. These uncertainty estimates are employed to assign adaptive weights to multiple auxiliary modalities during contrastive learning, ensuring that the primary modality learns from high-quality, category-related features. Experimental results on four public datasets, ISRUC-S3, MASS-SS3, Sleep-EDF-78, and ISRUC-S1, show that SleepSMC achieves state-of-the-art cross-subject performance. SleepSMC significantly improves performance when only one modality is present during testing, making it suitable for ubiquitous sleep monitoring.",
+    "keywords": "Sleep staging;Multimodal coordination;Ubiquitous computing",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "",
+    "author": "Shuo Ma;Yingwei Zhang;Yiqiang Chen;Hualei Wang;Yuan Jin;Wei Zhang;Ziyu Jia",
+    "authorids": "~Shuo_Ma2;~Yingwei_Zhang1;~Yiqiang_Chen1;~Hualei_Wang1;~Yuan_Jin4;~Wei_Zhang123;~Ziyu_Jia1",
+    "gender": "M;F;M;M;M;M;M",
+    "homepage": ";https://ywzhang.cn/;http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496596.html;;;https://ziyujia.github.io/;https://github.com/wanghua-lei?tab=repositories",
+    "dblp": ";;;;;256/1411;",
+    "google_scholar": "mO22VdcAAAAJ;https://scholar.google.com.sg/citations?user=7UEqgLcAAAAJ;LC3SwhEAAAAJ;;;;https://scholar.google.com.hk/citations?hl=zh-CN",
+    "orcid": "0000-0001-8896-0070;;;0009-0006-3323-709X;0009-0006-0591-9296;;",
+    "linkedin": ";;;;;;",
+    "or_profile": "~Shuo_Ma2;~Yingwei_Zhang1;~Yiqiang_Chen1;~Yuan_Jin4;~Wei_Zhang123;~Ziyu_Jia1;~wang_hualei1",
+    "aff": "Institute of Computing Technology, Chinese Academy of Sciences;Chinese Academy of Sciences;Chinese Academy of Sciences;Al Dream (Zhuhai) Intelligent Technology Co. Ltd.;Al Dream (Zhuhai) Intelligent Technology Co. Ltd.;Institute of Automation, Chinese Academy of Sciences;, Chinese Academy of Sciences",
+    "aff_domain": "ict.ac.cn;ict.ac.cn;ict.ac.cn;aidream.cn;aidream.cn;ia.ac.cn;ict.ac.cn",
+    "position": "PhD student;Associate Professor;Full Professor;Researcher;Researcher;Assistant Professor;MS student",
+    "bibtex": "@inproceedings{\nma2025sleepsmc,\ntitle={Sleep{SMC}: Ubiquitous Sleep Staging via Supervised Multimodal Coordination},\nauthor={Shuo Ma and Yingwei Zhang and Yiqiang Chen and Hualei Wang and Yuan Jin and Wei Zhang and Ziyu Jia},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=B5VEi5d3p2}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "HHyg;A2VX;iRq4;Dg5B",
+    "pdf_size": 981347,
+    "rating": "5;6;6;6",
+    "confidence": "5;4;5;4",
+    "soundness": "2;3;3;4",
+    "contribution": "2;2;2;3",
+    "presentation": "3;3;2;3",
+    "wc_summary": "70;66;43;126",
+    "wc_strengths": "59;22;14;439",
+    "wc_weaknesses": "470;192;105;110",
+    "wc_questions": "3;448;32;207",
+    "wc_review": "602;728;194;882",
+    "wc_reply_reviewers": "243;46;22;0",
+    "wc_reply_authors": "1729;1765;1261;464",
+    "reply_reviewers": "3;1;1;0",
+    "reply_authors": "5;5;6;3",
+    "rating_avg": [
+      5.75,
+      0.4330127018922193
+    ],
+    "confidence_avg": [
+      4.5,
+      0.5
+    ],
+    "soundness_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "contribution_avg": [
+      2.25,
+      0.4330127018922193
+    ],
+    "presentation_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      76.25,
+      30.515364982251153
+    ],
+    "wc_strengths_avg": [
+      133.5,
+      177.19551348722123
+    ],
+    "wc_weaknesses_avg": [
+      219.25,
+      148.8344298205224
+    ],
+    "wc_questions_avg": [
+      172.5,
+      177.1729381141488
+    ],
+    "wc_review_avg": [
+      601.5,
+      255.3130431450771
+    ],
+    "wc_reply_reviewers_avg": [
+      77.75,
+      96.78423167024678
+    ],
+    "wc_reply_authors_avg": [
+      1304.75,
+      524.5456962934688
+    ],
+    "reply_reviewers_avg": [
+      1.25,
+      1.0897247358851685
+    ],
+    "reply_authors_avg": [
+      4.75,
+      1.0897247358851685
+    ],
+    "replies_avg": [
+      33,
+      0
+    ],
+    "authors#_avg": [
+      7,
+      0
+    ],
+    "corr_rating_confidence": -0.5773502691896257,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:FFcGYthdHIsJ:scholar.google.com/&scioq=SleepSMC:+Ubiquitous+Sleep+Staging+via+Supervised+Multimodal+Coordination&hl=en&as_sdt=0,33",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=B5VEi5d3p2",
+    "email": "ict.ac.cn;ict.ac.cn;ict.ac.cn;aidream.cn;aidream.cn;ia.ac.cn;ict.ac.cn",
+    "author_num": 7,
+    "aff_unique_index": "0;0;0;1;1;0;0",
+    "aff_unique_norm": "Chinese Academy of Sciences;Al Dream (Zhuhai) Intelligent Technology Co. Ltd.",
+    "aff_unique_dep": "Institute of Computing Technology;",
+    "aff_unique_url": "http://www.ict.ac.cn;",
+    "aff_unique_abbr": "CAS;",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30477",
+    "id": "D6zn6ozJs7",
+    "poster": "/media/PosterPDFs/ICLR%202025/30477.png?t=1745155656.8634267",
+    "openreview": "https://openreview.net/forum?id=D6zn6ozJs7",
+    "author_site": "Xuannan Liu, Zekun Li, Pei Li, Huaibo Huang, Shuhan Xia, Xing Cui, Linzhi Huang, Weihong Deng, Zhaofeng He",
+    "tldr": "",
+    "abstract": "Current multimodal misinformation detection (MMD) methods often assume a single source and type of forgery for each sample, which is insufficient for real-world scenarios where multiple forgery sources coexist. The lack of a benchmark for mixed-source misinformation has hindered progress in this field. To address this, we introduce MMFakeBench, the first comprehensive benchmark for mixed-source MMD. MMFakeBench includes 3 critical sources: textual veracity distortion, visual veracity distortion, and cross-modal consistency distortion, along with 12 sub-categories of misinformation forgery types. We further conduct an extensive evaluation of 6 prevalent detection methods and 15 Large Vision-Language Models (LVLMs) on MMFakeBench under a zero-shot setting. The results indicate that current methods struggle under this challenging and realistic mixed-source MMD setting. Additionally, we propose MMD-Agent, a novel approach to integrate the reasoning, action, and tool-use capabilities of LVLM agents, significantly enhancing accuracy and generalization. We believe this study will catalyze future research into more realistic mixed-source multimodal misinformation and provide a fair evaluation of misinformation detection methods.",
+    "keywords": "multimodal misinformation detection;large vision language models",
+    "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
+    "supplementary_material": "/attachment/add136ce474eb641017f35f9e149c9f03c954d5f.zip",
+    "author": "Xuannan Liu;Zekun Li;Pei Pei Li;Huaibo Huang;Shuhan Xia;Xing Cui;Linzhi Huang;Weihong Deng;Zhaofeng He",
+    "authorids": "~Xuannan_Liu1;~Zekun_Li2;~Pei_Pei_Li2;~Huaibo_Huang1;~Shuhan_Xia1;~Xing_Cui1;~Linzhi_Huang1;~Weihong_Deng1;~Zhaofeng_He1",
+    "gender": "M;;F;M;M;M;M;M;M",
+    "homepage": ";;;https://people.ucas.edu.cn/~huanghuaibo;https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=8zicTKwAAAAJ&gmla=ABOlHiwFT4ysT_i07B-_F-h66KdowMEbsQxUQ75j0AtuKQDUzwN4JmzB4ubV8AZZcfXETQtMW_QlChBZoLN6Ud2jKKAWN6Lg8wpXR0Ukc4jLp0Bn;;;http://whdeng.cn;https://teacher.bupt.edu.cn/zhaofenghe/zh_CN/index.htm",
+    "dblp": "296/7706;;;211/7251.html;379/9948;;139/1478;39/232;13/3992",
+    "google_scholar": "ddbkQoIAAAAJ;;https://scholar.google.com/citations?hl=zh-CN;XMvLciUAAAAJ;https://scholar.google.com.hk/citations?view_op=list_works;;;1rhBlUEAAAAJ;https://scholar.google.com.hk/citations?hl=zh-CN",
+    "orcid": ";;;0000-0001-5866-2283;0009-0007-0013-9626;0000-0001-6788-1920;0000-0001-8121-5916;;0000-0002-3433-8435",
+    "linkedin": ";;;;;;;;",
+    "or_profile": "~Xuannan_Liu1;~Zekun_Li2;~Pei_Pei_Li2;~Huaibo_Huang1;~Shuhan_Xia1;~Xing_Cui1;~Linzhi_Huang1;~Weihong_Deng1;~Zhaofeng_He1",
+    "aff": "Beijing University of Posts and Telecommunications;;Beijing University of Posts and Telecommunications;Institute of Automation, Chinese Academy of Sciences;Beijing University of Posts and Telecommunications;Beijing University of Posts and Telecommunications;;Beijing University of Post and Telecommunication;Beijing University of Post and Telecommunication",
+    "aff_domain": "bupt.edu.cn;;bupt.edu.cn;ia.ac.cn;bupt.edu.cn;bupt.edu.cn;;bupt.edu.cn;bupt.edu.cn",
+    "position": "PhD student;;Assistant Professor;Associate Professor;MS student;PhD student;;Full Professor;Full Professor",
+    "bibtex": "@inproceedings{\nliu2025mmfakebench,\ntitle={{MMF}akeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for {LVLM}s},\nauthor={Xuannan Liu and Zekun Li and Pei Pei Li and Huaibo Huang and Shuhan Xia and Xing Cui and Linzhi Huang and Weihong Deng and Zhaofeng He},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=D6zn6ozJs7}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "x4j6;onkv;yehn;RALP;jzRM",
+    "pdf_size": 3405595,
+    "rating": "5;6;6;8;8",
+    "confidence": "4;4;4;5;4",
+    "soundness": "3;2;3;3;3",
+    "contribution": "3;2;3;3;3",
+    "presentation": "3;3;3;4;4",
+    "wc_summary": "79;55;31;112;80",
+    "wc_strengths": "50;25;45;102;78",
+    "wc_weaknesses": "130;198;142;182;32",
+    "wc_questions": "156;131;62;80;23",
+    "wc_review": "415;409;280;476;213",
+    "wc_reply_reviewers": "16;0;0;14;59",
+    "wc_reply_authors": "3011;1964;1707;1566;755",
+    "reply_reviewers": "1;0;0;1;1",
+    "reply_authors": "6;4;4;4;2",
+    "rating_avg": [
+      6.6,
+      1.2
+    ],
+    "confidence_avg": [
+      4.2,
+      0.39999999999999997
+    ],
+    "soundness_avg": [
+      2.8,
+      0.39999999999999997
+    ],
+    "contribution_avg": [
+      2.8,
+      0.39999999999999997
+    ],
+    "presentation_avg": [
+      3.4,
+      0.4898979485566356
+    ],
+    "wc_summary_avg": [
+      71.4,
+      27.13374283065276
+    ],
+    "wc_strengths_avg": [
+      60.0,
+      26.97406161481804
+    ],
+    "wc_weaknesses_avg": [
+      136.8,
+      58.042742871094575
+    ],
+    "wc_questions_avg": [
+      90.4,
+      47.768608939344254
+    ],
+    "wc_review_avg": [
+      358.6,
+      96.8309867759283
+    ],
+    "wc_reply_reviewers_avg": [
+      17.8,
+      21.673947494630507
+    ],
+    "wc_reply_authors_avg": [
+      1800.6,
+      727.8523476640025
+    ],
+    "reply_reviewers_avg": [
+      0.6,
+      0.48989794855663565
+    ],
+    "reply_authors_avg": [
+      4.0,
+      1.2649110640673518
+    ],
+    "replies_avg": [
+      32,
+      0
+    ],
+    "authors#_avg": [
+      9,
+      0
+    ],
+    "corr_rating_confidence": 0.5833333333333334,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:3mJRRlp4s-YJ:scholar.google.com/&scioq=MMFakeBench:+A+Mixed-Source+Multimodal+Misinformation+Detection+Benchmark+for+LVLMs&hl=en&as_sdt=0,5",
+    "gs_version_total": 2,
+    "pdf": "https://openreview.net/pdf?id=D6zn6ozJs7",
+    "email": "bupt.edu.cn;;bupt.edu.cn;ia.ac.cn;bupt.edu.cn;bupt.edu.cn;;bupt.edu.cn;bupt.edu.cn",
+    "author_num": 9,
+    "aff_unique_index": "0;1;0;2;0;0;1;0;0",
+    "aff_unique_norm": "Beijing University of Posts and Telecommunications;;Chinese Academy of Sciences",
+    "aff_unique_dep": ";;Institute of Automation",
+    "aff_unique_url": "http://www.bupt.edu.cn/;;http://www.ia.cas.cn",
+    "aff_unique_abbr": "BUPT;;CAS",
+    "aff_campus_unique_index": "0;0;0;0;0;0",
+    "aff_campus_unique": "Beijing;",
+    "aff_country_unique_index": "0;0;0;0;0;0;0",
+    "aff_country_unique": "China;",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30381",
+    "id": "Ev4iw23gdI",
+    "poster": "/media/PosterPDFs/ICLR%202025/30381.png?t=1743508765.1432037",
+    "openreview": "https://openreview.net/forum?id=Ev4iw23gdI",
+    "author_site": "Yifei Xing, Xiangyuan Lan, Ruiping Wang, Dongmei Jiang, Wenjun Huang, Zheng Qingfang, Yaowei Wang",
+    "tldr": "",
+    "abstract": "Mamba-based architectures have shown to be a promising new direction for deep learning models owing to their competitive performance and sub-quadratic deployment speed. However, current Mamba multi-modal large language models (MLLM) are insufficient in extracting visual features, leading to imbalanced cross-modal alignment between visual and textural latents, negatively impacting performance on multi-modal tasks. In this work, we propose Empowering Multi-modal Mamba with Structural and Hierarchical Alignment (EMMA), which enables the MLLM to extract fine-grained visual information. Specifically, we propose a pixel-wise alignment module to autoregressively optimize the learning and processing of spatial image-level features along with textual tokens, enabling structural alignment at the image level. In addition, to prevent the degradation of visual information during the cross-model alignment process, we propose a multi-scale feature fusion (MFF) module to combine multi-scale visual features from intermediate layers, enabling hierarchical alignment at the feature level. Extensive experiments are conducted across a variety of multi-modal benchmarks. Our model shows lower latency than other Mamba-based MLLMs and is nearly four times faster than transformer-based MLLMs of similar scale during inference. Due to better cross-modal alignment, our model exhibits lower degrees of hallucination and enhanced sensitivity to visual details, which manifests in superior performance across diverse multi-modal benchmarks. Code provided at https://github.com/xingyifei2016/EMMA.",
+    "keywords": "Multimodal models;State space models;Efficient architectures;Mamba;Computational Efficiency;Multimodal Alignment",
+    "primary_area": "foundation or frontier models, including LLMs",
+    "supplementary_material": "",
+    "author": "Yifei Xing;Xiangyuan Lan;Ruiping Wang;Dongmei Jiang;Wenjun Huang;Zheng Qingfang;Yaowei Wang",
+    "authorids": "~Yifei_Xing1;~Xiangyuan_Lan4;~Ruiping_Wang1;~Dongmei_Jiang2;~Wenjun_Huang3;~Zheng_Qingfang1;~Yaowei_Wang1",
+    "gender": "M;M;F;M;M;M;M",
+    "homepage": "https://scholar.google.com/citations?hl=en&user=cTxKFTsAAAAJ;https://rpwang.net/;https://scholar.google.com/citations?user=Awsue7sAAAAJ&hl=en;https://wenjunhuang94.github.io/;https://ieeexplore.ieee.org/author/37090080547;https://dblp.org/pid/68/2992.html;https://www.comp.hkbu.edu.hk/v1/?page=profile&id=lanxiangyuan",
+    "dblp": "44/5901-1;60/1529-1;;;46/4047;68/2992-1;151/8902",
+    "google_scholar": "https://scholar.google.com/citations?hl=en;duIUwpwAAAAJ;Awsue7sAAAAJ;;;https://scholar.google.com/citations?hl=zh-CN;https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ",
+    "orcid": "0000-0002-5206-9515;0000-0003-1830-2595;;0009-0001-3228-5296;0009-0006-7568-9318;0000-0002-6110-4036;",
+    "linkedin": "yifei-xing-89102a151/;;;;;yaowei-wang-971ab310/;",
+    "or_profile": "~Yifei_Xing1;~Ruiping_Wang1;~Dongmei_Jiang2;~Wenjun_Huang3;~Zheng_Qingfang1;~Yaowei_Wang1;~xiangyuan_lan1",
+    "aff": "Chinese Academy of Sciences;Institute of Computing Technology, Chinese Academy of Sciences;Peng Cheng Laboratory;SUN YAT-SEN UNIVERSITY;Peng Cheng Lab;Pengcheng Laboratory;Pengcheng Laboratory",
+    "aff_domain": "ict.ac.cn;ict.ac.cn;pcl.ac.cn;sysu.edu.cn;pcl.ac.cn;pcl.ac.cn;pcl.ac.cn",
+    "position": "PhD student;Full Professor;Principal Researcher;PhD student;Researcher;Full Professor;Researcher",
+    "bibtex": "@inproceedings{\nxing2025emma,\ntitle={{EMMA}: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment},\nauthor={Yifei Xing and Xiangyuan Lan and Ruiping Wang and Dongmei Jiang and Wenjun Huang and Zheng Qingfang and Yaowei Wang},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Ev4iw23gdI}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "yy1F;T8Kc;5nFQ;yCEA",
+    "pdf_size": 5929664,
+    "rating": "6;6;6;6",
+    "confidence": "4;4;4;3",
+    "soundness": "3;3;3;2",
+    "contribution": "3;3;2;2",
+    "presentation": "3;3;3;2",
+    "wc_summary": "107;84;79;140",
+    "wc_strengths": "63;108;52;8",
+    "wc_weaknesses": "120;126;276;231",
+    "wc_questions": "4;54;40;5",
+    "wc_review": "294;372;447;384",
+    "wc_reply_reviewers": "270;18;29;0",
+    "wc_reply_authors": "2315;2770;3525;3738",
+    "reply_reviewers": "5;1;1;0",
+    "reply_authors": "11;9;9;10",
+    "rating_avg": [
+      6.0,
+      0.0
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "contribution_avg": [
+      2.5,
+      0.5
+    ],
+    "presentation_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      102.5,
+      24.088378940891808
+    ],
+    "wc_strengths_avg": [
+      57.75,
+      35.56947427219019
+    ],
+    "wc_weaknesses_avg": [
+      188.25,
+      67.19514491389984
+    ],
+    "wc_questions_avg": [
+      25.75,
+      21.821720830401986
+    ],
+    "wc_review_avg": [
+      374.25,
+      54.38922227794768
+    ],
+    "wc_reply_reviewers_avg": [
+      79.25,
+      110.61504192468581
+    ],
+    "wc_reply_authors_avg": [
+      3087.0,
+      572.7385965691503
+    ],
+    "reply_reviewers_avg": [
+      1.75,
+      1.920286436967152
+    ],
+    "reply_authors_avg": [
+      9.75,
+      0.82915619758885
+    ],
+    "replies_avg": [
+      56,
+      0
+    ],
+    "authors#_avg": [
+      7,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:Vy_ECcSYkzUJ:scholar.google.com/&scioq=EMMA:+Empowering+Multi-modal+Mamba+with+Structural+and+Hierarchical+Alignment&hl=en&as_sdt=0,5",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=Ev4iw23gdI",
+    "email": "ict.ac.cn;ict.ac.cn;pcl.ac.cn;sysu.edu.cn;pcl.ac.cn;pcl.ac.cn;pcl.ac.cn",
+    "author_num": 7,
+    "aff_unique_index": "0;0;1;2;1;1;1",
+    "aff_unique_norm": "Chinese Academy of Sciences;Pengcheng Laboratory;Sun Yat-sen University",
+    "aff_unique_dep": ";Peng Cheng Laboratory;",
+    "aff_unique_url": "https://www.cas.cn;http://www.pcl.ac.cn;http://www.sysu.edu.cn",
+    "aff_unique_abbr": "CAS;PCL;SYSU",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/30644",
+    "id": "AD5yx2xq8R",
+    "poster": "/media/PosterPDFs/ICLR%202025/30644.png?t=1743705820.9065027",
+    "openreview": "https://openreview.net/forum?id=AD5yx2xq8R",
+    "author_site": "Hanning Guo, Farah Abdellatif, Yu Fu, N. Shah, Abigail Morrison, Jürgen Dammers",
+    "tldr": "",
+    "abstract": "EEG-based connectomes offer a low-cost and portable method to identify brain disorders using deep learning. With the growing interest in model interpretability and transparency, explainable artificial intelligence (XAI) is widely applied to understand the decision of deep learning models. However, most research focuses solely on interpretability analysis based on the insights from XAI, overlooking XAI’s potential to improve model performance. To bridge this gap, we propose a dynamical-system-inspired architecture, XAI guided transformer (XAIguiFormer), where XAI not only provides explanations but also contributes to enhancing the transformer by refining the originally coarse information in self-attention mechanism to capture more relevant dependency relationships. In order not to damage the connectome’s topological structure, the connectome tokenizer treats the single-band graphs as atomic tokens to generate a sequence in the frequency domain. To address the limitations of conventional positional encoding in understanding the frequency and mitigating the individual differences, we integrate frequency and demographic information into tokens via a rotation matrix, resulting in a richly informative representation. Our experiment demonstrates that XAIguiFormer achieves superior performance over all baseline models. In addition, XAIguiFormer provides valuable interpretability through visualization of the frequency band importance. Our code is available at https://github.com/HanningGuo/XAIguiFormer.",
+    "keywords": "EEG;Explainable Artificial Intelligence (XAI);Explanation-Guided Learning;Transformer",
+    "primary_area": "applications to neuroscience & cognitive science",
+    "supplementary_material": "/attachment/ecd3ef84e495828d4d2f468ab95ce60ce76fbc2c.pdf",
+    "author": "Hanning Guo;Farah Abdellatif;Yu Fu;N. Jon Shah;Abigail Morrison;Jürgen Dammers",
+    "authorids": "~Hanning_Guo1;~Farah_Abdellatif1;~Yu_Fu6;~N._Jon_Shah1;~Abigail_Morrison1;~Jürgen_Dammers1",
+    "gender": "M;F;M;M;F;M",
+    "homepage": ";;https://www.researchgate.net/profile/Yu-Fu-63;https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-4/EN/MR-Physik/Shah.html;https://www.fz-juelich.de/inm/inm-6/EN/Forschung/Morrison/artikel.html;https://www.fz-juelich.de/en/inm/inm-4/neuro-image-date-science",
+    "dblp": "50/8463;;;;46/3201;",
+    "google_scholar": "IIGSFM8AAAAJ;;PfmSvNMAAAAJ;;D527oQ4AAAAJ;",
+    "orcid": ";;0000-0002-9795-7807;0000-0002-8151-6169;0000-0001-6933-797X;0000-0003-1526-6592",
+    "linkedin": ";farah-abdellatif-86a260204?originalSubdomain=de;;;;",
+    "or_profile": "~Hanning_Guo1;~Farah_Abdellatif1;~Yu_Fu6;~N._Jon_Shah1;~Abigail_Morrison1;~Jürgen_Dammers1",
+    "aff": "Rheinisch Westfälische Technische Hochschule Aachen;Forschungszentrum Juelich GmbH;Lanzhou University;Rheinisch Westfälische Technische Hochschule Aachen;Forschungszentrum Jülich;",
+    "aff_domain": "rwth-aachen.de;fz-juelich.de;lzu.edu.cn;rwth-aachen.de;fz-juelich.de;",
+    "position": "PhD student;PhD student;Full Professor;Full Professor;Group Leader;",
+    "bibtex": "@inproceedings{\nguo2025xaiguiformer,\ntitle={{XAI}guiFormer: explainable artificial intelligence guided transformer for brain disorder identification},\nauthor={Hanning Guo and Farah Abdellatif and Yu Fu and N. Jon Shah and Abigail Morrison and J{\\\"u}rgen Dammers},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=AD5yx2xq8R}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "vgdo;D4N1;A5ot;LoKT",
+    "pdf_size": 2249576,
+    "rating": "6;6;6;8",
+    "confidence": "4;3;4;4",
+    "soundness": "3;3;3;3",
+    "contribution": "3;3;3;3",
+    "presentation": "2;3;3;2",
+    "wc_summary": "40;49;39;54",
+    "wc_strengths": "15;89;53;32",
+    "wc_weaknesses": "194;75;98;166",
+    "wc_questions": "2;174;24;19",
+    "wc_review": "251;387;214;271",
+    "wc_reply_reviewers": "222;0;0;70",
+    "wc_reply_authors": "1100;916;771;1340",
+    "reply_reviewers": "1;0;0;1",
+    "reply_authors": "3;2;2;3",
+    "rating_avg": [
+      6.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.0,
+      0.0
+    ],
+    "contribution_avg": [
+      3.0,
+      0.0
+    ],
+    "presentation_avg": [
+      2.5,
+      0.5
+    ],
+    "wc_summary_avg": [
+      45.5,
+      6.264982043070834
+    ],
+    "wc_strengths_avg": [
+      47.25,
+      27.60774347895894
+    ],
+    "wc_weaknesses_avg": [
+      133.25,
+      48.47357527560764
+    ],
+    "wc_questions_avg": [
+      54.75,
+      69.33027837820933
+    ],
+    "wc_review_avg": [
+      280.75,
+      64.66210250216119
+    ],
+    "wc_reply_reviewers_avg": [
+      73.0,
+      90.64766957842876
+    ],
+    "wc_reply_authors_avg": [
+      1031.75,
+      212.75851921838523
+    ],
+    "reply_reviewers_avg": [
+      0.5,
+      0.5
+    ],
+    "reply_authors_avg": [
+      2.5,
+      0.5
+    ],
+    "replies_avg": [
+      19,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": 0.3333333333333333,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:VqykdNXAwi8J:scholar.google.com/&scioq=XAIguiFormer:+explainable+artificial+intelligence+guided+transformer+for+brain+disorder+identification&hl=en&as_sdt=0,33",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=AD5yx2xq8R",
+    "email": "rwth-aachen.de;fz-juelich.de;lzu.edu.cn;rwth-aachen.de;fz-juelich.de;",
+    "author_num": 6,
+    "aff_unique_index": "0;1;2;0;3;4",
+    "aff_unique_norm": "RWTH Aachen University;Forschungszentrum Juelich;Lanzhou University;Forschungszentrum Jülich;",
+    "aff_unique_dep": ";;;;",
+    "aff_unique_url": "https://www.rwth-aachen.de;https://www.fz-juelich.de;https://www.lzu.edu.cn;https://www.fz-juelich.de;",
+    "aff_unique_abbr": "RWTH;FZJ;LZU;FZJ;",
+    "aff_campus_unique_index": "0;0",
+    "aff_campus_unique": "Aachen;",
+    "aff_country_unique_index": "0;0;1;0;0",
+    "aff_country_unique": "Germany;China;",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/32091",
+    "id": "N5YTixK4F1",
+    "poster": "/media/PosterPDFs/ICLR%202025/32091.png?t=1743308524.363035",
+    "openreview": "https://openreview.net/forum?id=N5YTixK4F1",
+    "author_site": "Yatai Ji, Shilong Zhang, Jie Wu, Peize Sun, Weifeng Chen, Xuefeng Xiao, Sidi Yang, Yujiu Yang, Ping Luo",
+    "tldr": "",
+    "abstract": "The rapid advancement of Large Vision-Language models (LVLMs) has demonstrated a spectrum of emergent capabilities. Nevertheless, current models only focus on the visual content of a single scenario, while their ability to associate instances across different scenes has not yet been explored, which is essential for understanding complex visual content, such as movies with multiple characters and intricate plots. Towards movie understanding, a critical initial step for LVLMs is to unleash the potential of character identities memory and recognition across multiple visual scenarios. To achieve the goal, we propose visual instruction tuning with ID reference and develop an ID-Aware Large Vision-Language Model, IDA-VLM. Furthermore, our research introduces a novel benchmark MM-ID, to examine LVLMs on instance IDs memory and recognition across four dimensions: matching, location, question-answering, and captioning. Our findings highlight the limitations of existing LVLMs in recognizing and associating instance identities with ID reference. This paper paves the way for future artificial intelligence systems to possess multi-identity visual inputs, thereby facilitating the comprehension of complex visual narratives like movies.",
+    "keywords": "large vision-language model; ID recognition",
+    "primary_area": "applications to computer vision, audio, language, and other modalities",
+    "supplementary_material": "/attachment/61c36a5b2cd934e7fec6024a5ed5fa1ea3324620.pdf",
+    "author": "Yatai Ji;Shilong Zhang;Jie Wu;Peize Sun;Weifeng Chen;Xuefeng Xiao;Sidi Yang;Yujiu Yang;Ping Luo",
+    "authorids": "~Yatai_Ji1;~Shilong_Zhang1;~Jie_Wu8;~Peize_Sun1;~Weifeng_Chen5;~Xuefeng_Xiao1;~Sidi_Yang2;~Yujiu_Yang2;~Ping_Luo2",
+    "gender": "M;M;M;M;M;M;M;M;",
+    "homepage": "https://yataiji.github.io/;https://jshilong.github.io/;https://github.com/WuJie1010;https://peizesun.github.io/;;;https://sidiyang.com/;https://sites.google.com/view/iigroup-thu;http://luoping.me/",
+    "dblp": "303/5329;;;249/2345;;245/9547;;30/3847;54/4989-2.html",
+    "google_scholar": "https://scholar.google.com.hk/citations?view_op=list_works;https://scholar.google.com/citations?hl=zh-CN;MxvLqLcAAAAJ;Grkp5AQAAAAJ;https://scholar.google.ru/citations?hl=zh-CN;;TTG2mY8AAAAJ;4gH3sxsAAAAJ;https://scholar.google.com.hk/citations?hl=en",
+    "orcid": ";0009-0005-4336-4941;;;;;;0000-0002-6427-1024;0000-0002-6685-7950",
+    "linkedin": ";;;;;;;;",
+    "or_profile": "~Yatai_Ji1;~Shilong_Zhang1;~Jie_Wu8;~Peize_Sun1;~Weifeng_Chen5;~Xuefeng_Xiao1;~Sidi_Yang2;~Yujiu_Yang2;~Luo_Ping2",
+    "aff": "University of Hong Kong;University of Hong Kong;ByteDance Inc.;Meta Facebook;ByteDance Inc.;ByteDance;University of Hong Kong;Tsinghua University;The University of Hong Kong",
+    "aff_domain": "hku.hk;hku.hk;bytedance.com;meta.com;bytedance.com;bytedance.com;hku.hk;tsinghua.edu.cn;hku.hk",
+    "position": "PhD student;PhD student;Researcher;Researcher;Researcher;Researcher;PhD student;Full Professor;Associate Professor",
+    "bibtex": "@inproceedings{\nji2025idavlm,\ntitle={{IDA}-{VLM}: Towards Movie Understanding via {ID}-Aware Large Vision-Language Model},\nauthor={Yatai Ji and Shilong Zhang and Jie Wu and Peize Sun and Weifeng Chen and Xuefeng Xiao and Sidi Yang and Yujiu Yang and Ping Luo},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=N5YTixK4F1}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "JxCK;nMGR;BH7G;1ujz",
+    "pdf_size": 4461332,
+    "rating": "6;6;6;8",
+    "confidence": "4;4;4;4",
+    "soundness": "3;2;3;4",
+    "contribution": "3;2;3;3",
+    "presentation": "3;3;3;4",
+    "wc_summary": "39;65;57;56",
+    "wc_strengths": "29;33;36;45",
+    "wc_weaknesses": "168;157;187;95",
+    "wc_questions": "2;22;111;65",
+    "wc_review": "238;277;391;261",
+    "wc_reply_reviewers": "35;122;44;24",
+    "wc_reply_authors": "255;430;972;216",
+    "reply_reviewers": "1;2;1;1",
+    "reply_authors": "3;4;3;1",
+    "rating_avg": [
+      6.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      4.0,
+      0.0
+    ],
+    "soundness_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "contribution_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "presentation_avg": [
+      3.25,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      54.25,
+      9.470348462437906
+    ],
+    "wc_strengths_avg": [
+      35.75,
+      5.889609494694874
+    ],
+    "wc_weaknesses_avg": [
+      151.75,
+      34.47734763580284
+    ],
+    "wc_questions_avg": [
+      50.0,
+      41.934472692523514
+    ],
+    "wc_review_avg": [
+      291.75,
+      58.9549616232595
+    ],
+    "wc_reply_reviewers_avg": [
+      56.25,
+      38.615896985568
+    ],
+    "wc_reply_authors_avg": [
+      468.25,
+      301.79991302185624
+    ],
+    "reply_reviewers_avg": [
+      1.25,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      2.75,
+      1.0897247358851685
+    ],
+    "replies_avg": [
+      22,
+      0
+    ],
+    "authors#_avg": [
+      9,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 3,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=6188992142298958825&as_sdt=5,44&sciodt=0,44&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=N5YTixK4F1",
+    "email": "hku.hk;hku.hk;bytedance.com;meta.com;bytedance.com;bytedance.com;hku.hk;tsinghua.edu.cn;hku.hk",
+    "author_num": 9,
+    "aff_unique_index": "0;0;1;2;1;1;0;3;0",
+    "aff_unique_norm": "University of Hong Kong;ByteDance;Meta;Tsinghua University",
+    "aff_unique_dep": ";;Meta Platforms, Inc.;",
+    "aff_unique_url": "https://www.hku.hk;https://www.bytedance.com;https://meta.com;https://www.tsinghua.edu.cn",
+    "aff_unique_abbr": "HKU;ByteDance;Meta;THU",
+    "aff_campus_unique_index": "0;0;0;0",
+    "aff_campus_unique": "Hong Kong SAR;",
+    "aff_country_unique_index": "0;0;0;1;0;0;0;0;0",
+    "aff_country_unique": "China;United States",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Trusted Multi-View Classification via Evolutionary Multi-View Fusion",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/29957",
+    "id": "M3kBtqpys5",
+    "poster": "",
+    "openreview": "https://openreview.net/forum?id=M3kBtqpys5",
+    "author_site": "Xinyan Liang, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu",
+    "tldr": "",
+    "abstract": "Multi-view classification based on the Dempster-Shafer theory is widely recognized for its reliability in safety-critical domains with multi-view data. However, the adoption of a late fusion strategy constrains information interaction among views, thereby leading to suboptimal utilization of multi-view data. A recent advancement addressing this limitation involves generating a pseudo view by concatenating individual views. Yet, the efficacy of this pseudo view may diminish when incorporating underperforming views like noisy views. Additionally, the integration of a pseudo view exacerbates the issue of imbalanced multi-view learning, as it contains a disproportionate amount of information compared to individual views.  To address these issues, we propose the enhancing Trusted multi-view classification via Evolutionary multi-view Fusion (TEF) approach. TEF employs an evolutionary multi-view architecture search method to create a high-quality fusion architecture serving as the pseudo view, facilitating adaptive view and fusion operator selection. Furthermore, TEF enhances each view within the fusion architecture by concatenating the fusion architecture's decision output with its respective view. Our experimental results demonstrate the effectiveness of this straightforward yet powerful strategy in mitigating imbalanced multi-view learning issues, particularly on complex many-view datasets exceeding three views. Extensive evaluations across 13 multi-view datasets validate the superior performance of our proposed method compared to other trusted multi-view learning approaches. The code is available at https://github.com/fupinhan123/TEF.",
+    "keywords": "Trusted multi-view classification;NAS-based multi-view classification;evolutionary multi-view fusion;multi-view learning",
+    "primary_area": "other topics in machine learning (i.e., none of the above)",
+    "supplementary_material": "",
+    "author": "Xinyan Liang;Pinhan Fu;Yuhua Qian;Qian Guo;Guoqing Liu",
+    "authorids": "~Xinyan_Liang1;~Pinhan_Fu2;~Yuhua_Qian1;~Qian_Guo1;~Guoqing_Liu6",
+    "gender": "M;M;M;F;F",
+    "homepage": "https://xinyanliang.github.io/;https://github.com/fupinhan123;http://yuhuaqian.net/;;",
+    "dblp": "195/6750;;;22/2222-1;",
+    "google_scholar": "4osycncAAAAJ;;;https://scholar.google.com/citations?hl=zh-CN;",
+    "orcid": "0000-0003-2589-5392;;0000-0001-6772-4247;0000-0001-9189-7834;0009-0009-5423-4869",
+    "linkedin": ";;;;",
+    "or_profile": "~Xinyan_Liang1;~Pinhan_Fu2;~Yuhua_Qian1;~Qian_Guo1;~Guoqing_Liu6",
+    "aff": "Shanxi University;Shanxi University;Shanxi University;Taiyuan University of Science and Technology;Shanxi University",
+    "aff_domain": "sxu.edu.cn;sxu.edu;sxu.edu.cn;tyust.edu.cn;sxu.edu.cn",
+    "position": "Associate Professor;MS student;Full Professor;Lecturer;PhD student",
+    "bibtex": "@inproceedings{\nliang2025trusted,\ntitle={Trusted Multi-View Classification via Evolutionary Multi-View Fusion},\nauthor={Xinyan Liang and Pinhan Fu and Yuhua Qian and Qian Guo and Guoqing Liu},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=M3kBtqpys5}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "jfaY;a8gx;fWQm;por9",
+    "pdf_size": 1726859,
+    "rating": "3;6;8;8",
+    "confidence": "4;4;5;5",
+    "soundness": "2;3;3;4",
+    "contribution": "2;3;4;4",
+    "presentation": "3;3;4;3",
+    "wc_summary": "51;42;93;81",
+    "wc_strengths": "20;19;75;76",
+    "wc_weaknesses": "145;93;4;73",
+    "wc_questions": "138;58;99;4",
+    "wc_review": "354;212;271;234",
+    "wc_reply_reviewers": "291;0;21;28",
+    "wc_reply_authors": "1438;1129;574;706",
+    "reply_reviewers": "2;0;1;1",
+    "reply_authors": "3;4;2;2",
+    "rating_avg": [
+      6.25,
+      2.0463381929681126
+    ],
+    "confidence_avg": [
+      4.5,
+      0.5
+    ],
+    "soundness_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "contribution_avg": [
+      3.25,
+      0.82915619758885
+    ],
+    "presentation_avg": [
+      3.25,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      66.75,
+      20.932928605429293
+    ],
+    "wc_strengths_avg": [
+      47.5,
+      28.00446392988089
+    ],
+    "wc_weaknesses_avg": [
+      78.75,
+      50.529075788104414
+    ],
+    "wc_questions_avg": [
+      74.75,
+      49.68588833864199
+    ],
+    "wc_review_avg": [
+      267.75,
+      54.07575704509369
+    ],
+    "wc_reply_reviewers_avg": [
+      85.0,
+      119.37964650642922
+    ],
+    "wc_reply_authors_avg": [
+      961.75,
+      342.98132237776446
+    ],
+    "reply_reviewers_avg": [
+      1.0,
+      0.7071067811865476
+    ],
+    "reply_authors_avg": [
+      2.75,
+      0.82915619758885
+    ],
+    "replies_avg": [
+      22,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "corr_rating_confidence": 0.8551861104941366,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:Vwjal606onUJ:scholar.google.com/&scioq=Trusted+Multi-View+Classification+via+Evolutionary+Multi-View+Fusion&hl=en&as_sdt=0,33",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=M3kBtqpys5",
+    "email": "sxu.edu.cn;sxu.edu;sxu.edu.cn;tyust.edu.cn;sxu.edu.cn",
+    "author_num": 5,
+    "aff_unique_index": "0;0;0;1;0",
+    "aff_unique_norm": "Shanxi University;Taiyuan University of Science and Technology",
+    "aff_unique_dep": ";",
+    "aff_unique_url": "http://www.sxu.edu.cn;http://www.tyust.edu.cn/",
+    "aff_unique_abbr": "SXU;TYUST",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/29884",
+    "id": "NJxCpMt0sf",
+    "poster": "/media/PosterPDFs/ICLR%202025/29884.png?t=1744259901.640002",
+    "openreview": "https://openreview.net/forum?id=NJxCpMt0sf",
+    "author_site": "Chenwei Wu, Zitao Shuai, Zhengxu Tang, Luning Wang, Liyue Shen",
+    "tldr": "",
+    "abstract": "Multi-modal multi-task learning holds significant promise in tackling complex diagnostic tasks and many significant medical imaging problems. It fulfills the needs in real-world diagnosis protocol to leverage information from different data sources and simultaneously perform mutually informative tasks. However, medical imaging domains introduce two key challenges: dynamic modality fusion and modality-task dependence. The quality and amount of task-related information from different modalities could vary significantly across patient samples, due to biological and demographic factors. Traditional fusion methods apply fixed combination strategies that fail to capture this dynamic relationship, potentially underutilizing modalities that carry stronger diagnostic signals for specific patients. Additionally, different clinical tasks may require dynamic feature selection and combination from various modalities, a phenomenon we term “modality-task dependence.” To address these issues, we propose M4oE, a novel Multi-modal Multi-task Mixture of Experts framework for precise Medical diagnosis. M4oE comprises Modality-Specific (MSoE) modules and a Modality-shared Modality-Task MoE (MToE) module. With collaboration from both modules, our model dynamically decomposes and learns distinct and shared information from different modalities and achieves dynamic fusion. MToE provides a joint probability model of modalities and tasks by using experts as a link and encourages experts to learn modality-task dependence via conditional mutual information loss. By doing so, M4oE offers sample and population-level interpretability of modality contributions. We evaluate M4oE on four public multi-modal medical benchmark datasets for solving two important medical diagnostic problems including breast cancer screening and retinal disease diagnosis. Results demonstrate our method's superiority over state-of-the-art methods under different metrics of classification and segmentation tasks like Accuracy, AUROC, AUPRC, and DICE.",
+    "keywords": "Multimodal Learning;Medical Imaging",
+    "primary_area": "applications to computer vision, audio, language, and other modalities",
+    "supplementary_material": "/attachment/8a224e642ae3969ae60025ad8ce0d829b5691139.pdf",
+    "author": "Chenwei Wu;Zitao Shuai;Zhengxu Tang;Luning Wang;Liyue Shen",
+    "authorids": "~Chenwei_Wu6;~Zitao_Shuai1;~Zhengxu_Tang1;~Luning_Wang2;~Liyue_Shen1",
+    "gender": "M;M;M;F;M",
+    "homepage": ";https://www.zhengxutang.com/;https://wln20.github.io;https://liyueshen.engin.umich.edu/;https://www.helloworld.com",
+    "dblp": ";;;159/2036;",
+    "google_scholar": "R41QuLQAAAAJ;;kvTOYG8AAAAJ;Ho4qk9wAAAAJ;2RsefeYAAAAJ",
+    "orcid": ";;;0000-0001-5942-3196;",
+    "linkedin": ";;wangluning/;;",
+    "or_profile": "~Zitao_Shuai1;~Zhengxu_Tang1;~Luning_Wang2;~Liyue_Shen1;~Chenwei_Wu2",
+    "aff": "University of Michigan - Ann Arbor;University of Michigan - Ann Arbor;University of Michigan - Ann Arbor;University of Michigan - Ann Arbor;University of Michigan - Ann Arbor",
+    "aff_domain": "umich.edu;umich.edu;umich.edu;umich.edu;umich.edu",
+    "position": "MS student;Undergrad student;MS student;Assistant Professor;PhD student",
+    "bibtex": "@inproceedings{\nwu2025dynamic,\ntitle={Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts},\nauthor={Chenwei Wu and Zitao Shuai and Zhengxu Tang and Luning Wang and Liyue Shen},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=NJxCpMt0sf}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "P7K2;7L3d;dm8E;xATa",
+    "pdf_size": 21539788,
+    "rating": "5;6;6;6",
+    "confidence": "4;4;3;3",
+    "soundness": "3;3;2;3",
+    "contribution": "3;2;2;3",
+    "presentation": "2;3;3;4",
+    "wc_summary": "118;75;108;60",
+    "wc_strengths": "24;50;100;45",
+    "wc_weaknesses": "190;60;207;169",
+    "wc_questions": "15;115;149;46",
+    "wc_review": "347;300;564;320",
+    "wc_reply_reviewers": "0;18;423;21",
+    "wc_reply_authors": "3562;1218;5281;1719",
+    "reply_reviewers": "0;1;2;1",
+    "reply_authors": "9;5;14;5",
+    "rating_avg": [
+      5.75,
+      0.4330127018922193
+    ],
+    "confidence_avg": [
+      3.5,
+      0.5
+    ],
+    "soundness_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "contribution_avg": [
+      2.5,
+      0.5
+    ],
+    "presentation_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "wc_summary_avg": [
+      90.25,
+      23.62599204266352
+    ],
+    "wc_strengths_avg": [
+      54.75,
+      27.887048965424793
+    ],
+    "wc_weaknesses_avg": [
+      156.5,
+      57.31710041514661
+    ],
+    "wc_questions_avg": [
+      81.25,
+      53.29340953626443
+    ],
+    "wc_review_avg": [
+      382.75,
+      105.96550146156059
+    ],
+    "wc_reply_reviewers_avg": [
+      115.5,
+      177.71676904557995
+    ],
+    "wc_reply_authors_avg": [
+      2945.0,
+      1606.4860721462853
+    ],
+    "reply_reviewers_avg": [
+      1.0,
+      0.7071067811865476
+    ],
+    "reply_authors_avg": [
+      8.25,
+      3.6996621467371855
+    ],
+    "replies_avg": [
+      46,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "corr_rating_confidence": -0.5773502691896257,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:s29poYL-WmcJ:scholar.google.com/&scioq=Dynamic+Modeling+of+Patients,+Modalities+and+Tasks+via+Multi-modal+Multi-task+Mixture+of+Experts&hl=en&as_sdt=0,5",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=NJxCpMt0sf",
+    "email": "umich.edu;umich.edu;umich.edu;umich.edu;umich.edu",
+    "author_num": 5,
+    "aff_unique_index": "0;0;0;0;0",
+    "aff_unique_norm": "University of Michigan",
+    "aff_unique_dep": "",
+    "aff_unique_url": "https://www.umich.edu",
+    "aff_unique_abbr": "UM",
+    "aff_campus_unique_index": "0;0;0;0;0",
+    "aff_campus_unique": "Ann Arbor",
+    "aff_country_unique_index": "0;0;0;0;0",
+    "aff_country_unique": "United States",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28842",
+    "id": "fv9XU7CyN2",
+    "poster": "/media/PosterPDFs/ICLR%202025/28842.png?t=1743959838.799345",
+    "openreview": "https://openreview.net/forum?id=fv9XU7CyN2",
+    "author_site": "Gen Zhou, Sugitha Janarthanan, Yutong Lu, Pingzhao Hu",
+    "tldr": "",
+    "abstract": "Due to the rise in antimicrobial resistance, identifying novel compounds with antibiotic potential is crucial for combatting this global health issue. However, traditional drug development methods are costly and inefficient. Recognizing the pressing need for more effective solutions, researchers have turned to machine learning techniques to streamline the prediction and development of novel antibiotic compounds. While foundation models have shown promise in antibiotic discovery, current mainstream efforts still fall short of fully leveraging the potential of multimodal molecular data. Recent studies suggest that contrastive learning frameworks utilizing multimodal data exhibit excellent performance in representation learning across various domains. Building upon this, we introduce CL-MFAP, an unsupervised contrastive learning (CL)-based multimodal foundation (MF) model specifically tailored for discovering small molecules with potential antibiotic properties (AP) using three types of molecular data. This model employs 1.6 million bioactive molecules with drug-like properties from the ChEMBL dataset to jointly pretrain three encoders: (1) a transformer-based encoder with rotary position embedding for processing SMILES strings; (2) another transformer-based encoder, incorporating a novel bi-level routing attention mechanism to handle molecular graph representations; and (3) a Morgan fingerprint encoder using a multilayer perceptron, to achieve the contrastive learning purpose. The CL-MFAP outperforms baseline models in antibiotic property prediction by effectively utilizing different molecular modalities and demonstrates superior domain-specific performance when fine-tuned for antibiotic-related property prediction tasks.",
+    "keywords": "Contrastive Learning;Multimodal Foundation Model;Antibiotic Property Prediction;Bi-level Routing Attention;Transformer",
+    "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
+    "supplementary_material": "",
+    "author": "Gen Zhou;Sugitha Janarthanan;Yutong Lu;Pingzhao Hu",
+    "authorids": "~Gen_Zhou1;~Sugitha_Janarthanan1;~Yutong_Lu3;~Pingzhao_Hu2",
+    "gender": "Not Specified;F;F;M",
+    "homepage": ";;;https://phulab.org/",
+    "dblp": ";;;34/1943",
+    "google_scholar": "https://scholar.google.ca/citations?hl=en;;;https://scholar.google.ca/citations?user=ejiSuoYAAAAJ",
+    "orcid": ";0009-0000-6768-8215;;0000-0002-9546-2245",
+    "linkedin": ";;yutong-lu-lorraine;pingzhaohu/",
+    "or_profile": "~Gen_Zhou1;~Sugitha_Janarthanan1;~Yutong_Lu3;~Pingzhao_Hu2",
+    "aff": "University of Western Ontario;Western University;University of Toronto;University of Western Ontario",
+    "aff_domain": "uwo.ca;western.edu.kh;utoronto.ca;uwo.ca",
+    "position": "PhD student;PhD student;Researcher;Associate Professor",
+    "bibtex": "@inproceedings{\nzhou2025clmfap,\ntitle={{CL}-{MFAP}: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening},\nauthor={Gen Zhou and Sugitha Janarthanan and Yutong Lu and Pingzhao Hu},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=fv9XU7CyN2}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "o7pA;oysA;jJeK;PXXZ",
+    "pdf_size": 2917143,
+    "rating": "5;6;6;6",
+    "confidence": "4;4;4;3",
+    "soundness": "2;3;3;3",
+    "contribution": "2;3;3;2",
+    "presentation": "1;3;3;2",
+    "wc_summary": "133;178;58;105",
+    "wc_strengths": "137;59;19;52",
+    "wc_weaknesses": "421;654;278;153",
+    "wc_questions": "150;159;34;40",
+    "wc_review": "841;1050;389;350",
+    "wc_reply_reviewers": "352;1076;25;29",
+    "wc_reply_authors": "5503;4840;2577;2864",
+    "reply_reviewers": "2;4;1;1",
+    "reply_authors": "13;13;6;8",
+    "rating_avg": [
+      5.75,
+      0.4330127018922193
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "contribution_avg": [
+      2.5,
+      0.5
+    ],
+    "presentation_avg": [
+      2.25,
+      0.82915619758885
+    ],
+    "wc_summary_avg": [
+      118.5,
+      43.568910934288915
+    ],
+    "wc_strengths_avg": [
+      66.75,
+      43.280336181688796
+    ],
+    "wc_weaknesses_avg": [
+      376.5,
+      186.17263493865042
+    ],
+    "wc_questions_avg": [
+      95.75,
+      58.87433651430817
+    ],
+    "wc_review_avg": [
+      657.5,
+      297.6478624146325
+    ],
+    "wc_reply_reviewers_avg": [
+      370.5,
+      428.3879666844063
+    ],
+    "wc_reply_authors_avg": [
+      3946.0,
+      1251.83565215247
+    ],
+    "reply_reviewers_avg": [
+      2.0,
+      1.224744871391589
+    ],
+    "reply_authors_avg": [
+      10.0,
+      3.082207001484488
+    ],
+    "replies_avg": [
+      55,
+      0
+    ],
+    "authors#_avg": [
+      4,
+      0
+    ],
+    "corr_rating_confidence": -0.3333333333333333,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:Kb_lcgqPMVgJ:scholar.google.com/&scioq=CL-MFAP:+A+Contrastive+Learning-Based+Multimodal+Foundation+Model+for+Molecular+Property+Prediction+and+Antibiotic+Screening&hl=en&as_sdt=0,5",
+    "gs_version_total": 2,
+    "pdf": "https://openreview.net/pdf?id=fv9XU7CyN2",
+    "email": "uwo.ca;western.edu.kh;utoronto.ca;uwo.ca",
+    "author_num": 4,
+    "aff_unique_index": "0;1;2;0",
+    "aff_unique_norm": "University of Western Ontario;Western University;University of Toronto",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": "https://www.uwo.ca;https://www.uwo.ca;https://www.utoronto.ca",
+    "aff_unique_abbr": "UWO;Western;U of T",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0",
+    "aff_country_unique": "Canada",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Black Sheep in the Herd: Playing with Spuriously Correlated Attributes for Vision-Language Recognition",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28838",
+    "id": "g1fkhbhHjL",
+    "poster": "/media/PosterPDFs/ICLR%202025/28838.png?t=1743911917.0199003",
+    "openreview": "https://openreview.net/forum?id=g1fkhbhHjL",
+    "author_site": "Xinyu Tian, Shu Zou, Zhaoyuan Yang, Mengqi He, Jing Zhang",
+    "tldr": "",
+    "abstract": "Few-shot adaptation for Vision-Language Models (VLMs) presents a dilemma: balancing in-distribution accuracy with out-of-distribution generalization. Recent research has utilized low-level concepts such as visual attributes to enhance generalization. However, this study reveals that VLMs overly rely on a small subset of attributes on decision-making, which co-occur with the category but are not inherently part of it, termed spuriously correlated attributes. This biased nature of VLMs results in poor generalization. To address this, 1) we first propose Spurious Attribute Probing (SAP), identifying and filtering out these problematic attributes to significantly enhance the generalization of existing attribute-based methods; 2) We introduce Spurious Attribute Shielding (SAS), a plug-and-play module that mitigates the influence of these attributes on prediction, seamlessly integrating into various Parameter-Efficient Fine-Tuning (PEFT) methods. In experiments, SAP and SAS significantly enhance accuracy on distribution shifts across 11 datasets and 3 generalization tasks without compromising downstream performance, establishing a new state-of-the-art benchmark.",
+    "keywords": "Few-shot Adaptation;Prompt Learning;Vision-Language Models",
+    "primary_area": "transfer learning, meta learning, and lifelong learning",
+    "supplementary_material": "/attachment/d51d6f45fd74136d6811d5bcd4d419ba576fb6e2.pdf",
+    "author": "Xinyu Tian;Shu Zou;Zhaoyuan Yang;Mengqi He;Jing Zhang",
+    "authorids": "~Xinyu_Tian5;~Shu_Zou1;~Zhaoyuan_Yang1;~Mengqi_He1;~Jing_Zhang23",
+    "gender": ";M;;M;F",
+    "homepage": ";;;;https://jingzhang617.github.io",
+    "dblp": ";;227/2718;213/7114;05/3499-52",
+    "google_scholar": ";https://scholar.google.com/citations?hl=en;qxa04lIAAAAJ;https://scholar.google.com/citations?hl=en;https://scholar.google.com.au/citations?user=Qa1DMv8AAAAJ",
+    "orcid": ";;;;",
+    "linkedin": ";;;;",
+    "or_profile": "~Xinyu_Tian5;~Shu_Zou1;~Zhaoyuan_Yang1;~Mengqi_He1;~Jing_Zhang23",
+    "aff": ";Australian National University;General Electric;Australian National University;Australian National University",
+    "aff_domain": ";anu.edu.au;ge.com;anu.edu.au;anu.edu.au",
+    "position": ";PhD student;Researcher;PhD student;Lecturer",
+    "bibtex": "@inproceedings{\ntian2025black,\ntitle={Black Sheep in the Herd: Playing with Spuriously Correlated Attributes for Vision-Language Recognition},\nauthor={Xinyu Tian and Shu Zou and Zhaoyuan Yang and Mengqi He and Jing Zhang},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=g1fkhbhHjL}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "Yv7Q;bxnj;rex7;9qjN",
+    "pdf_size": 3327812,
+    "rating": "6;6;8;8",
+    "confidence": "5;5;2;3",
+    "soundness": "3;2;3;3",
+    "contribution": "3;2;3;2",
+    "presentation": "3;2;4;3",
+    "wc_summary": "59;568;64;92",
+    "wc_strengths": "42;4;64;90",
+    "wc_weaknesses": "101;4;121;79",
+    "wc_questions": "2;4;35;11",
+    "wc_review": "204;580;284;272",
+    "wc_reply_reviewers": "12;57;19;123",
+    "wc_reply_authors": "517;1693;1156;1977",
+    "reply_reviewers": "1;2;1;2",
+    "reply_authors": "3;6;4;5",
+    "rating_avg": [
+      7.0,
+      1.0
+    ],
+    "confidence_avg": [
+      3.75,
+      1.299038105676658
+    ],
+    "soundness_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "contribution_avg": [
+      2.5,
+      0.5
+    ],
+    "presentation_avg": [
+      3.0,
+      0.7071067811865476
+    ],
+    "wc_summary_avg": [
+      195.75,
+      215.286291946329
+    ],
+    "wc_strengths_avg": [
+      50.0,
+      31.52776554086889
+    ],
+    "wc_weaknesses_avg": [
+      76.25,
+      44.27965108263614
+    ],
+    "wc_questions_avg": [
+      13.0,
+      13.133925536563698
+    ],
+    "wc_review_avg": [
+      335.0,
+      144.703144402601
+    ],
+    "wc_reply_reviewers_avg": [
+      52.75,
+      44.024850936715275
+    ],
+    "wc_reply_authors_avg": [
+      1335.75,
+      557.1110190078814
+    ],
+    "reply_reviewers_avg": [
+      1.5,
+      0.5
+    ],
+    "reply_authors_avg": [
+      4.5,
+      1.118033988749895
+    ],
+    "replies_avg": [
+      32,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "corr_rating_confidence": -0.9622504486493763,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:OJbWHEcgCHEJ:scholar.google.com/&scioq=Black+Sheep+in+the+Herd:+Playing+with+Spuriously+Correlated+Attributes+for+Vision-Language+Recognition&hl=en&as_sdt=0,33",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=g1fkhbhHjL",
+    "email": ";anu.edu.au;ge.com;anu.edu.au;anu.edu.au",
+    "author_num": 5,
+    "aff_unique_index": "0;1;2;1;1",
+    "aff_unique_norm": ";Australian National University;General Electric",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": ";https://www.anu.edu.au;https://www.ge.com",
+    "aff_unique_abbr": ";ANU;GE",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "1;2;1;1",
+    "aff_country_unique": ";Australia;United States",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28634",
+    "id": "jXvwJ51vcK",
+    "poster": "/media/PosterPDFs/ICLR%202025/28634.png?t=1744137650.094434",
+    "openreview": "https://openreview.net/forum?id=jXvwJ51vcK",
+    "author_site": "Zhaochong An, Guolei Sun, Yun Liu, Runjia Li, Min Wu, Ming-Ming Cheng, Ender Konukoglu, Serge Belongie",
+    "tldr": "",
+    "abstract": "Few-shot 3D point cloud segmentation (FS-PCS) aims at generalizing models to segment novel categories with minimal annotated support samples. While existing FS-PCS methods have shown promise, they primarily focus on unimodal point cloud inputs, overlooking the potential benefits of leveraging multimodal information. In this paper, we address this gap by introducing a multimodal FS-PCS setup, utilizing textual labels and the potentially available 2D image modality. Under this easy-to-achieve setup, we present the MultiModal Few-Shot SegNet (MM-FSS), a model effectively harnessing complementary information from multiple modalities. MM-FSS employs a shared backbone with two heads to extract intermodal and unimodal visual features, and a pretrained text encoder to generate text embeddings. To fully exploit the multimodal information, we propose a Multimodal Correlation Fusion (MCF) module to generate multimodal correlations, and a Multimodal Semantic Fusion (MSF) module to refine the correlations using text-aware semantic guidance. Additionally, we propose a simple yet effective Test-time Adaptive Cross-modal Calibration (TACC) technique to mitigate training bias, further improving generalization. Experimental results on S3DIS and ScanNet datasets demonstrate significant performance improvements achieved by our method. The efficacy of our approach indicates the benefits of leveraging commonly-ignored free modalities for FS-PCS, providing valuable insights for future research. The code is available at github.com/ZhaochongAn/Multimodality-3D-Few-Shot.",
+    "keywords": "3D segmentation;3D point cloud;few-shot segmentation;multimodality;few-shot point cloud semantic segmentation",
+    "primary_area": "transfer learning, meta learning, and lifelong learning",
+    "supplementary_material": "",
+    "author": "Zhaochong An;Guolei Sun;Yun Liu;Runjia Li;Min Wu;Ming-Ming Cheng;Ender Konukoglu;Serge Belongie",
+    "authorids": "~Zhaochong_An1;~Guolei_Sun2;~Yun_Liu1;~Runjia_Li1;~Min_Wu2;~Ming-Ming_Cheng3;~Ender_Konukoglu1;~Serge_Belongie1",
+    "gender": "M;M;M;M;M;M;;M",
+    "homepage": "https://zhaochongan.github.io/;https://guoleisun.github.io/;https://yun-liu.github.io/;https://runjiali-rl.github.io/;https://sites.google.com/site/wumincf/;https://mmcheng.net;http://www.vision.ee.ethz.ch/~kender;https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fserge-belongie(0ce65383-3761-4b17-948a-83b461e371e2)%2Fpublications.html",
+    "dblp": "274/7063;;50/2482-11;;16/0-8;45/7592;45/7041;http://dblp.uni-trier.de/pers/hd/b/Belongie:Serge_J=",
+    "google_scholar": ";qd8Blw0AAAAJ;https://scholar.google.com.hk/citations?user=UB3doCoAAAAJ;Zu3Rwn8AAAAJ;https://scholar.google.com.sg/citations?user=Hji1uWQAAAAJ;huWpVyEAAAAJ;https://scholar.google.ch/citations?user=OeEMrhQAAAAJ;ORr4XJYAAAAJ",
+    "orcid": ";;0000-0001-6143-0264;;0000-0003-0977-3600;0000-0001-5550-8758;;0000-0002-0388-5217",
+    "linkedin": ";;yun-liu-082989145/;runjiali-b169451a9/;;;;sergebelongie",
+    "or_profile": "~Zhaochong_An1;~Guolei_Sun2;~Yun_Liu1;~Runjia_Li1;~Min_Wu2;~Ming-Ming_Cheng3;~Ender_Konukoglu1;~Serge_Belongie1",
+    "aff": "University of Copenhagen;ETHZ - ETH Zurich;Nankai University;University of Oxford;Institute for Infocomm Research (I2R), A*STAR;Nankai University;ETHZ - ETH Zurich;University of Copenhagen",
+    "aff_domain": "diku.dk;ethz.ch;nankai.edu.cn;robots.ox.ac.uk;i2r.a-star.edu.sg;nankai.edu.cn;ethz.ch;ku.dk",
+    "position": "PhD student;Postdoc;Full Professor;PhD student;Principal Researcher;Full Professor;Associate Professor;Full Professor",
+    "bibtex": "@inproceedings{\nan2025multimodality,\ntitle={Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation},\nauthor={Zhaochong An and Guolei Sun and Yun Liu and Runjia Li and Min Wu and Ming-Ming Cheng and Ender Konukoglu and Serge Belongie},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=jXvwJ51vcK}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "qoPY;k1NE;8jox;YYsz",
+    "pdf_size": 4590801,
+    "rating": "6;8;8;8",
+    "confidence": "5;3;3;5",
+    "soundness": "4;3;3;4",
+    "contribution": "3;3;3;4",
+    "presentation": "3;3;3;3",
+    "wc_summary": "90;74;79;76",
+    "wc_strengths": "70;75;30;129",
+    "wc_weaknesses": "109;95;19;37",
+    "wc_questions": "142;5;6;2",
+    "wc_review": "411;249;134;244",
+    "wc_reply_reviewers": "21;10;0;29",
+    "wc_reply_authors": "890;433;552;286",
+    "reply_reviewers": "1;1;0;1",
+    "reply_authors": "2;2;2;2",
+    "rating_avg": [
+      7.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      4.0,
+      1.0
+    ],
+    "soundness_avg": [
+      3.5,
+      0.5
+    ],
+    "contribution_avg": [
+      3.25,
+      0.4330127018922193
+    ],
+    "presentation_avg": [
+      3.0,
+      0.0
+    ],
+    "wc_summary_avg": [
+      79.75,
+      6.179603547154137
+    ],
+    "wc_strengths_avg": [
+      76.0,
+      35.220732530712645
+    ],
+    "wc_weaknesses_avg": [
+      65.0,
+      37.86819245752297
+    ],
+    "wc_questions_avg": [
+      38.75,
+      59.62958577753161
+    ],
+    "wc_review_avg": [
+      259.5,
+      98.80915949445173
+    ],
+    "wc_reply_reviewers_avg": [
+      15.0,
+      10.977249200050075
+    ],
+    "wc_reply_authors_avg": [
+      540.25,
+      222.82770810650996
+    ],
+    "reply_reviewers_avg": [
+      0.75,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      2.0,
+      0.0
+    ],
+    "replies_avg": [
+      17,
+      0
+    ],
+    "authors#_avg": [
+      8,
+      0
+    ],
+    "corr_rating_confidence": -0.5773502691896257,
+    "gs_citation": 3,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=12051621985915384289&as_sdt=5,47&sciodt=0,47&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=jXvwJ51vcK",
+    "email": "diku.dk;ethz.ch;nankai.edu.cn;robots.ox.ac.uk;i2r.a-star.edu.sg;nankai.edu.cn;ethz.ch;ku.dk",
+    "author_num": 8,
+    "aff_unique_index": "0;1;2;3;4;2;1;0",
+    "aff_unique_norm": "University of Copenhagen;ETH Zurich;Nankai University;University of Oxford;Institute for Infocomm Research",
+    "aff_unique_dep": ";;;;",
+    "aff_unique_url": "https://www.ku.dk;https://www.ethz.ch;http://www.nankai.edu.cn;https://www.ox.ac.uk;https://www.i2r.a-star.edu.sg",
+    "aff_unique_abbr": "UCPH;ETHZ;NKU;Oxford;I2R",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;1;2;3;4;2;1;0",
+    "aff_country_unique": "Denmark;Switzerland;China;United Kingdom;Singapore",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Learning Interleaved Image-Text Comprehension in Vision-Language Large Models",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28632",
+    "id": "jZsN9zo8Qi",
+    "poster": "/media/PosterPDFs/ICLR%202025/28632.png?t=1743347663.0318298",
+    "openreview": "https://openreview.net/forum?id=jZsN9zo8Qi",
+    "author_site": "Chenyu Zhou, Mengdan Zhang, Peixian Chen, Chaoyou Fu, Yunhang Shen, Xiawu Zheng, Xing Sun, Rongrong Ji",
+    "tldr": "",
+    "abstract": "The swift progress of Multi-modal Large Models (MLLMs) has showcased their impressive ability to tackle tasks blending vision and language.\nYet, most current models and benchmarks cater to scenarios with a narrow scope of visual and textual contexts.\nThese models often fall short when faced with complex comprehension tasks, which involve navigating through a plethora of irrelevant and potentially misleading information in both text and image forms.\nTo bridge this gap, we introduce a new, more demanding task known as Interleaved Image-Text Comprehension (IITC).\nThis task challenges models to discern and disregard superfluous elements in both images and text to accurately answer questions and to follow intricate instructions to pinpoint the relevant image.\nIn support of this task, we further craft a new VEGA dataset, tailored for the IITC task on scientific content, and devised a subtask, Image-Text Association (ITA), to refine image-text correlation skills.\nOur evaluation of four leading closed-source models, as well as various open-source models using VEGA, underscores the rigorous nature of IITC.\nEven the most advanced models, such as Gemini-1.5-pro and GPT4V, only achieved modest success.\nBy employing a multi-task, multi-scale post-training strategy, we have set a robust baseline for MLLMs on the IITC task, attaining an $85.8\\%$ accuracy rate in image association and a $0.508$ Rouge score. These results validate the effectiveness of our dataset in improving MLLMs capabilities for nuanced image-text comprehension.",
+    "keywords": "MLLMs;Benchmark;Interleaved Image-Text Comprehension",
+    "primary_area": "datasets and benchmarks",
+    "supplementary_material": "/attachment/d78f100a5cc1721b58336e6de1a45a72d6a44de2.zip",
+    "author": "Chenyu Zhou;Mengdan Zhang;Peixian Chen;Chaoyou Fu;Yunhang Shen;Xiawu Zheng;Xing Sun;Rongrong Ji",
+    "authorids": "~Chenyu_Zhou6;~Mengdan_Zhang2;~Peixian_Chen2;~Chaoyou_Fu1;~Yunhang_Shen1;~Xiawu_Zheng1;~Xing_Sun1;~Rongrong_Ji5",
+    "gender": "M;F;F;M;M;M;M;M",
+    "homepage": ";;https://github.com/Pealing;https://scholar.google.com.hk/citations?user=4A1xYQwAAAAJ&hl=zh-CN;https://shenyunhang.github.io/;https://sites.google.com/view/zhengxiawu/%E9%A6%96%E9%A1%B5;https://www.sunxing.org;http://mac.xmu.edu.cn/rrji-en.html",
+    "dblp": ";;;https://dblp.uni-trier.de/pid/221/6738;146/1800;222/7865;;86/5681",
+    "google_scholar": "https://scholar.google.com.hk/citations?user=UXr9GH8AAAAJ;https://scholar.google.com/citations?view_op=list_works;;https://scholar.google.com.hk/citations?user=4A1xYQwAAAAJ;29teR74AAAAJ;jBgXocYAAAAJ;IUtix9IAAAAJ;",
+    "orcid": ";;;;0000-0002-3970-7519;0000-0002-6855-5403;0000-0001-8132-9083;",
+    "linkedin": ";;;;;;sunxings/;",
+    "or_profile": "~Chenyu_Zhou6;~Mengdan_Zhang2;~Peixian_Chen2;~Chaoyou_Fu1;~Yunhang_Shen1;~Xiawu_Zheng1;~Xing_Sun1;~Rongrong_Ji5",
+    "aff": "Xiamen University;Tencent Youtu Lab;Tencent YOUTU Lab;Institute of Automation, Chinese Academy of Sciences;Tencent;Xiamen University;Tencent YouTu Lab;Xiamen University",
+    "aff_domain": "xmu.edu.cn;tencent.com;tencent.com;ia.ac.cn;tencent.com;xmu.edu.cn;tencent.com;xmu.edu.cn",
+    "position": "MS student;Researcher;Researcher;PhD student;Researcher;Associate Professor;Principal Researcher;Full Professor",
+    "bibtex": "@inproceedings{\nzhou2025learning,\ntitle={Learning Interleaved Image-Text Comprehension in Vision-Language Large Models},\nauthor={Chenyu Zhou and Mengdan Zhang and Peixian Chen and Chaoyou Fu and Yunhang Shen and Xiawu Zheng and Xing Sun and Rongrong Ji},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=jZsN9zo8Qi}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "qCo5;QKxm;Mss2;x1Yo",
+    "pdf_size": 3450777,
+    "rating": "6;6;6;8",
+    "confidence": "4;4;4;3",
+    "soundness": "3;3;3;3",
+    "contribution": "2;4;3;4",
+    "presentation": "2;2;2;3",
+    "wc_summary": "65;85;101;143",
+    "wc_strengths": "52;125;79;183",
+    "wc_weaknesses": "99;77;164;90",
+    "wc_questions": "37;13;73;68",
+    "wc_review": "253;300;417;484",
+    "wc_reply_reviewers": "14;63;570;0",
+    "wc_reply_authors": "905;272;1915;506",
+    "reply_reviewers": "1;2;4;0",
+    "reply_authors": "3;3;5;1",
+    "rating_avg": [
+      6.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      3.75,
+      0.4330127018922193
+    ],
+    "soundness_avg": [
+      3.0,
+      0.0
+    ],
+    "contribution_avg": [
+      3.25,
+      0.82915619758885
+    ],
+    "presentation_avg": [
+      2.25,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      98.5,
+      28.683619018526933
+    ],
+    "wc_strengths_avg": [
+      109.75,
+      49.6959505392542
+    ],
+    "wc_weaknesses_avg": [
+      107.5,
+      33.544746235439014
+    ],
+    "wc_questions_avg": [
+      47.75,
+      24.34517405975977
+    ],
+    "wc_review_avg": [
+      363.5,
+      91.68560410446125
+    ],
+    "wc_reply_reviewers_avg": [
+      161.75,
+      236.8611143687372
+    ],
+    "wc_reply_authors_avg": [
+      899.5,
+      628.4641994576939
+    ],
+    "reply_reviewers_avg": [
+      1.75,
+      1.479019945774904
+    ],
+    "reply_authors_avg": [
+      3.0,
+      1.4142135623730951
+    ],
+    "replies_avg": [
+      26,
+      0
+    ],
+    "authors#_avg": [
+      8,
+      0
+    ],
+    "corr_rating_confidence": -1.0,
+    "gs_citation": 0,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:svwE1UM8hq8J:scholar.google.com/&scioq=Learning+Interleaved+Image-Text+Comprehension+in+Vision-Language+Large+Models&hl=en&as_sdt=0,44",
+    "gs_version_total": 0,
+    "pdf": "https://openreview.net/pdf?id=jZsN9zo8Qi",
+    "email": "xmu.edu.cn;tencent.com;tencent.com;ia.ac.cn;tencent.com;xmu.edu.cn;tencent.com;xmu.edu.cn",
+    "author_num": 8,
+    "aff_unique_index": "0;1;1;2;1;0;1;0",
+    "aff_unique_norm": "Xiamen University;Tencent;Chinese Academy of Sciences",
+    "aff_unique_dep": ";Youtu Lab;Institute of Automation",
+    "aff_unique_url": "https://www.xmu.edu.cn;https://www.tencent.com;http://www.ia.cas.cn",
+    "aff_unique_abbr": "XMU;Tencent;CAS",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding",
+    "status": "Spotlight",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28403",
+    "id": "nYpPAT4L3D",
+    "poster": "/media/PosterPDFs/ICLR%202025/28403.png?t=1742260352.1292472",
+    "openreview": "https://openreview.net/forum?id=nYpPAT4L3D",
+    "author_site": "Zhongyi Shui, Jianpeng Zhang, Weiwei Cao, Sinuo Wang, Ruizhe Guo, Le Lu, Lin Yang, Xianghua Ye, Tingbo Liang, Qi Zhang, Ling Zhang",
+    "tldr": "",
+    "abstract": "Artificial intelligence (AI) shows great potential in assisting radiologists to improve the efficiency and accuracy of medical image interpretation and diagnosis. However, a versatile AI model requires large-scale data and comprehensive annotations, which are often impractical in medical settings. Recent studies leverage radiology reports as a naturally high-quality supervision for medical images, using contrastive language-image pre-training (CLIP) to develop language-informed models for radiological image interpretation. Nonetheless, these approaches typically contrast entire images with reports, neglecting the local associations between imaging regions and report sentences, which may undermine model performance and interoperability. In this paper, we propose a fine-grained vision-language model (fVLM) for anatomy-level CT image interpretation. Specifically, we explicitly match anatomical regions of CT images with corresponding descriptions in radiology reports and perform contrastive pre-training for each anatomy individually. Fine-grained alignment, however, faces considerable false-negative challenges, mainly from the abundance of anatomy-level healthy samples and similarly diseased abnormalities, leading to ambiguous patient-level pairings. To tackle this issue, we propose identifying false negatives of both normal and abnormal samples and calibrating contrastive learning from patient-level to disease-aware pairing. We curated the largest CT dataset to date, comprising imaging and report data from 69,086 patients, and conducted a comprehensive evaluation of 54 major and important disease (including several most deadly cancers) diagnosis tasks across 15 main anatomies. Experimental results demonstrate the substantial potential of fVLM in versatile medical image interpretation. In the zero-shot classification task, we achieved an average AUC of 81.3% on 54 diagnosis tasks, surpassing CLIP and supervised methods by 12.9% and 8.0%, respectively. Additionally, on the publicly available CT-RATE and Rad-ChestCT benchmarks, our fVLM outperformed the current state-of-the-art methods with absolute AUC gains of 7.4% and 4.8%, respectively.",
+    "keywords": "Vision-language model;fine-grained alignment;large-scale pre-training;CT image",
+    "primary_area": "applications to computer vision, audio, language, and other modalities",
+    "supplementary_material": "/attachment/6fd453320c8bf49075adf8164aa8b67a582810d3.pdf",
+    "author": "Zhongyi Shui;Jianpeng Zhang;Weiwei Cao;Sinuo Wang;Ruizhe Guo;Le Lu;Lin Yang;Xianghua Ye;Tingbo Liang;Qi Zhang;Ling Zhang",
+    "authorids": "~Zhongyi_Shui1;~Jianpeng_Zhang2;~Weiwei_Cao1;~Sinuo_Wang1;~Ruizhe_Guo1;~Le_Lu3;~Lin_Yang13;~Xianghua_Ye1;~Tingbo_Liang1;~Qi_Zhang62;~Ling_Zhang7",
+    "gender": "M;;M;;M;M;M;F;M;M;M",
+    "homepage": "https://github.com/windyzy;;;;https://github.com/Stefan-084;http://www.cs.jhu.edu/~lelu/;https://www.yanglinlab.com;;;https://person.zju.edu.cn/zhangqi;https://fabiozhang0722.github.io/",
+    "dblp": ";;;;;78/6574-1.html;;;;;76/5973-2",
+    "google_scholar": ";;foe2YScAAAAJ;;;kZn0f6gAAAAJ;;;MWljcPYAAAAJ;;https://scholar.google.com/citations?hl=en",
+    "orcid": ";;0000-0002-8991-9915;;;0000-0002-6799-9416;;0000-0002-5452-7567;;;",
+    "linkedin": ";;;;;tigerlelu/;;;;;",
+    "or_profile": "~Zhongyi_Shui1;~Jianpeng_Zhang2;~Weiwei_Cao1;~Sinuo_Wang1;~Ruizhe_Guo1;~Le_Lu3;~Lin_Yang13;~Xianghua_Ye1;~Tingbo_Liang1;~Qi_Zhang62;~Ling_Zhang7",
+    "aff": "Zhejiang University;;Alibaba Group;;Westlake University;Alibaba Group;Westlake University ;Zhejiang University;Zhejiang University;Zhejiang University;Alibaba Group",
+    "aff_domain": "zju.edu.cn;;alibaba-inc.com;;westlake.edu.cn;alibaba-inc.com;westlake.edu.cn;zju.edu.cn;zju.edu.cn;zju.edu.cn;alibaba-inc.com",
+    "position": "PhD student;;Researcher;;PhD student;Full Professor;Full Professor;Assistant Professor;Principal Researcher;Researcher;Researcher",
+    "bibtex": "@inproceedings{\nshui2025largescale,\ntitle={Large-scale and Fine-grained Vision-language Pre-training for Enhanced {CT} Image Understanding},\nauthor={Zhongyi Shui and Jianpeng Zhang and Weiwei Cao and Sinuo Wang and Ruizhe Guo and Le Lu and Lin Yang and Xianghua Ye and Tingbo Liang and Qi Zhang and Ling Zhang},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=nYpPAT4L3D}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "oBhB;5y7k;wu1u;PfQv",
+    "pdf_size": 8132964,
+    "rating": "6;8;8;8",
+    "confidence": "4;5;4;3",
+    "soundness": "3;4;3;3",
+    "contribution": "3;3;3;2",
+    "presentation": "3;3;2;3",
+    "wc_summary": "90;63;32;61",
+    "wc_strengths": "52;52;39;59",
+    "wc_weaknesses": "105;36;17;292",
+    "wc_questions": "68;146;274;26",
+    "wc_review": "315;297;362;438",
+    "wc_reply_reviewers": "45;14;24;70",
+    "wc_reply_authors": "821;1197;866;1920",
+    "reply_reviewers": "1;1;1;2",
+    "reply_authors": "1;2;3;4",
+    "rating_avg": [
+      7.5,
+      0.8660254037844386
+    ],
+    "confidence_avg": [
+      4.0,
+      0.7071067811865476
+    ],
+    "soundness_avg": [
+      3.25,
+      0.4330127018922193
+    ],
+    "contribution_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "presentation_avg": [
+      2.75,
+      0.4330127018922193
+    ],
+    "wc_summary_avg": [
+      61.5,
+      20.524375751773793
+    ],
+    "wc_strengths_avg": [
+      50.5,
+      7.22841614740048
+    ],
+    "wc_weaknesses_avg": [
+      112.5,
+      108.68417548106991
+    ],
+    "wc_questions_avg": [
+      128.5,
+      94.39676901250381
+    ],
+    "wc_review_avg": [
+      353.0,
+      54.51146668362538
+    ],
+    "wc_reply_reviewers_avg": [
+      38.25,
+      21.47527648250425
+    ],
+    "wc_reply_authors_avg": [
+      1201.0,
+      439.7732370210811
+    ],
+    "reply_reviewers_avg": [
+      1.25,
+      0.4330127018922193
+    ],
+    "reply_authors_avg": [
+      2.5,
+      1.118033988749895
+    ],
+    "replies_avg": [
+      28,
+      0
+    ],
+    "authors#_avg": [
+      11,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 1,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=772681059280009255&as_sdt=2005&sciodt=0,5&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=nYpPAT4L3D",
+    "email": "zju.edu.cn;;alibaba-inc.com;;westlake.edu.cn;alibaba-inc.com;westlake.edu.cn;zju.edu.cn;zju.edu.cn;zju.edu.cn;alibaba-inc.com",
+    "author_num": 11,
+    "aff_unique_index": "0;1;2;1;3;2;3;0;0;0;2",
+    "aff_unique_norm": "Zhejiang University;;Alibaba Group;Westlake University",
+    "aff_unique_dep": ";;;",
+    "aff_unique_url": "https://www.zju.edu.cn;;https://www.alibaba.com;https://www.westlake.edu.cn",
+    "aff_unique_abbr": "ZJU;;Alibaba;WU",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0;0;0;0;0",
+    "aff_country_unique": "China;",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28315",
+    "id": "pAQzEY7M03",
+    "poster": "",
+    "openreview": "https://openreview.net/forum?id=pAQzEY7M03",
+    "author_site": "Zhipei Xu, Xuanyu Zhang, Runyi Li, Zecheng Tang, Qing Huang, Jian Zhang",
+    "tldr": "",
+    "abstract": "The rapid development of generative AI is a double-edged sword, which not only facilitates content creation but also makes image manipulation easier and more difficult to detect. Although current image forgery detection and localization (IFDL) methods are generally effective, they tend to face two challenges: \\textbf{1)} black-box nature with unknown detection principle, \\textbf{2)} limited generalization across diverse tampering methods (e.g., Photoshop, DeepFake, AIGC-Editing). To address these issues, we propose the explainable IFDL task and design FakeShield, a multi-modal framework capable of evaluating image authenticity, generating tampered region masks, and providing a judgment basis based on pixel-level and image-level tampering clues. Additionally, we leverage GPT-4o to enhance existing IFDL datasets, creating the Multi-Modal Tamper Description dataSet (MMTD-Set) for training FakeShield's tampering analysis capabilities. Meanwhile, we incorporate a Domain Tag-guided Explainable Forgery Detection Module (DTE-FDM) and a Multi-modal Forgery Localization Module (MFLM) to address various types of tamper detection interpretation and achieve forgery localization guided by detailed textual descriptions. Extensive experiments demonstrate that FakeShield effectively detects and localizes various tampering techniques, offering an explainable and superior solution compared to previous IFDL methods. The code is available at https://github.com/zhipeixu/FakeShield.",
+    "keywords": "Image Forgery Detection and Localization;Multi-modal Large Language Model;Tamper Detection",
+    "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
+    "supplementary_material": "",
+    "author": "Zhipei Xu;Xuanyu Zhang;Runyi Li;Zecheng Tang;Qing Huang;Jian Zhang",
+    "authorids": "~Zhipei_Xu1;~Xuanyu_Zhang2;~Runyi_Li1;~Zecheng_Tang2;~Qing_Huang2;~Jian_Zhang22",
+    "gender": "M;M;M;M;F;M",
+    "homepage": "https://github.com/zhipeixu;https://villa.jianzhang.tech/;https://lirunyi2001.github.io/;https://github.com/zechengtang;https://github.com/SAYAhq;http://jianzhang.tech/",
+    "dblp": "359/4633;323/9396;364/6309;;;07/314-18",
+    "google_scholar": ";https://scholar.google.com/citations?hl=zh-CN;rVP5yWoAAAAJ;;;7brFI_4AAAAJ",
+    "orcid": ";0000-0002-6713-4500;0000-0002-5757-406X;;;0000-0001-5486-3125",
+    "linkedin": ";;;;;",
+    "or_profile": "~Zhipei_Xu1;~Xuanyu_Zhang2;~Runyi_Li1;~Zecheng_Tang2;~Qing_Huang2;~Jian_Zhang22",
+    "aff": "Peking University;Peking University;Peking University;Peking University;South China University of Technology;Peking University",
+    "aff_domain": "stu.pku.edu.cn;pku.edu.cn;pku.edu.cn;stu.pku.edu.cn;scut.edu.cn;pku.edu.cn",
+    "position": "MS student;PhD student;MS student;MS student;MS student;Associate Professor",
+    "bibtex": "@inproceedings{\nxu2025fakeshield,\ntitle={FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models},\nauthor={Zhipei Xu and Xuanyu Zhang and Runyi Li and Zecheng Tang and Qing Huang and Jian Zhang},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=pAQzEY7M03}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "aLrU;1sC4;VXsL",
+    "pdf_size": 3633704,
+    "rating": "6;6;8",
+    "confidence": "5;5;5",
+    "soundness": "4;3;3",
+    "contribution": "3;3;3",
+    "presentation": "4;2;3",
+    "wc_summary": "74;76;59",
+    "wc_strengths": "148;110;92",
+    "wc_weaknesses": "126;823;52",
+    "wc_questions": "5;143;22",
+    "wc_review": "353;1152;225",
+    "wc_reply_reviewers": "14;31;0",
+    "wc_reply_authors": "503;2131;917",
+    "reply_reviewers": "1;1;0",
+    "reply_authors": "2;5;2",
+    "rating_avg": [
+      6.666666666666667,
+      0.9428090415820634
+    ],
+    "confidence_avg": [
+      5.0,
+      0.0
+    ],
+    "soundness_avg": [
+      3.3333333333333335,
+      0.4714045207910317
+    ],
+    "contribution_avg": [
+      3.0,
+      0.0
+    ],
+    "presentation_avg": [
+      3.0,
+      0.816496580927726
+    ],
+    "wc_summary_avg": [
+      69.66666666666667,
+      7.586537784494029
+    ],
+    "wc_strengths_avg": [
+      116.66666666666667,
+      23.34285520001546
+    ],
+    "wc_weaknesses_avg": [
+      333.6666666666667,
+      347.3272552251295
+    ],
+    "wc_questions_avg": [
+      56.666666666666664,
+      61.44012442117032
+    ],
+    "wc_review_avg": [
+      576.6666666666666,
+      410.16446565845865
+    ],
+    "wc_reply_reviewers_avg": [
+      15.0,
+      12.675435561221029
+    ],
+    "wc_reply_authors_avg": [
+      1183.6666666666667,
+      690.8590465661011
+    ],
+    "reply_reviewers_avg": [
+      0.6666666666666666,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      3.0,
+      1.4142135623730951
+    ],
+    "replies_avg": [
+      22,
+      0
+    ],
+    "authors#_avg": [
+      6,
+      0
+    ],
+    "corr_rating_confidence": 0.0,
+    "gs_citation": 20,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=10663956764638766270&as_sdt=10005&sciodt=0,8&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=pAQzEY7M03",
+    "email": "stu.pku.edu.cn;pku.edu.cn;pku.edu.cn;stu.pku.edu.cn;scut.edu.cn;pku.edu.cn",
+    "author_num": 6,
+    "aff_unique_index": "0;0;0;0;1;0",
+    "aff_unique_norm": "Peking University;South China University of Technology",
+    "aff_unique_dep": ";",
+    "aff_unique_url": "http://www.pku.edu.cn;https://www.scut.edu.cn",
+    "aff_unique_abbr": "Peking U;SCUT",
+    "aff_campus_unique_index": "",
+    "aff_campus_unique": "",
+    "aff_country_unique_index": "0;0;0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  },
+  {
+    "title": "Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models",
+    "status": "Poster",
+    "track": "main",
+    "site": "https://iclr.cc/virtual/2025/poster/28323",
+    "id": "p3NKpom1VL",
+    "poster": "/media/PosterPDFs/ICLR%202025/28323.png?t=1744547699.8079863",
+    "openreview": "https://openreview.net/forum?id=p3NKpom1VL",
+    "author_site": "Hulingxiao He, Geng Li, Zijun Geng, Jinglin Xu, Yuxin Peng",
+    "tldr": "",
+    "abstract": "Multi-modal large language models (MLLMs) have shown remarkable abilities in various visual understanding tasks. However, MLLMs still struggle with fine-grained visual recognition (FGVR), which aims to identify subordinate-level categories from images. This can negatively impact more advanced capabilities of MLLMs, such as object-centric visual question answering and reasoning. In our study, we revisit three quintessential capabilities of MLLMs for FGVR, including object information extraction, category knowledge reserve, object-category alignment, and position of the root cause as a misalignment problem. To address this issue, we present Finedefics, an MLLM that enhances the model's FGVR capability by incorporating informative attribute descriptions of objects into the training phase. We employ contrastive learning on object-attribute pairs and attribute-category pairs simultaneously and use examples from similar but incorrect categories as hard negatives, naturally bringing representations of visual objects and category names closer. Extensive evaluations across multiple popular FGVR datasets demonstrate that Finedefics outperforms existing MLLMs of comparable parameter sizes, showcasing its remarkable efficacy. The code is available at [https://github.com/PKU-ICST-MIPL/Finedefics_ICLR2025](https://github.com/PKU-ICST-MIPL/Finedefics_ICLR2025).",
+    "keywords": "Multimodal Large Language Models;Fine-Grained Visual Recognition",
+    "primary_area": "foundation or frontier models, including LLMs",
+    "supplementary_material": "",
+    "author": "Hulingxiao He;Geng Li;Zijun Geng;Jinglin Xu;Yuxin Peng",
+    "authorids": "~Hulingxiao_He3;~Geng_Li4;~Zijun_Geng2;~Jinglin_Xu2;~Yuxin_Peng1",
+    "gender": ";;F;M;M",
+    "homepage": "http://39.108.48.32/mipl/news/news.php?id=CHhehulingxiao;https://ligeng0197.github.io/;https://xujinglin.github.io/;http://39.108.48.32/mipl/pengyuxin/;http://39.108.48.32/mipl/news/news.php?id=CHgengzijun",
+    "dblp": "359/0820;;183/0974;;398/4888",
+    "google_scholar": "HiX5sToAAAAJ;;SVFP5XEAAAAJ;mFsXPNYAAAAJ;https://scholar.google.com.hk/citations?user=bWMyxI0AAAAJ",
+    "orcid": ";;;0000-0001-7658-3845;",
+    "linkedin": ";;;;",
+    "or_profile": "~Hulingxiao_He3;~Geng_Li4;~Jinglin_Xu2;~Yuxin_Peng1;~Geng_Zijun1",
+    "aff": "Peking University;Peking University;University of Science and Technology Beijing;Peking University;Beijing University of Posts and Telecommunications",
+    "aff_domain": "stu.pku.edu.cn;pku.edu.cn;ustb.edu.cn;pku.edu.cn;bupt.edu.cn",
+    "position": "PhD student;PhD student;Associate Professor;Full Professor;Undergrad student",
+    "bibtex": "@inproceedings{\nhe2025analyzing,\ntitle={Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models},\nauthor={Hulingxiao He and Geng Li and Zijun Geng and Jinglin Xu and Yuxin Peng},\nbooktitle={The Thirteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=p3NKpom1VL}\n}",
+    "github": "",
+    "project": "",
+    "reviewers": "1pZP;qkG7;VD1i",
+    "pdf_size": 4496811,
+    "rating": "3;5;8",
+    "confidence": "4;3;5",
+    "soundness": "3;3;4",
+    "contribution": "2;2;4",
+    "presentation": "2;3;3",
+    "wc_summary": "67;106;95",
+    "wc_strengths": "62;31;266",
+    "wc_weaknesses": "454;28;446",
+    "wc_questions": "92;79;291",
+    "wc_review": "675;244;1098",
+    "wc_reply_reviewers": "66;0;121",
+    "wc_reply_authors": "994;330;708",
+    "reply_reviewers": "1;0;1",
+    "reply_authors": "2;1;2",
+    "rating_avg": [
+      5.333333333333333,
+      2.0548046676563256
+    ],
+    "confidence_avg": [
+      4.0,
+      0.816496580927726
+    ],
+    "soundness_avg": [
+      3.3333333333333335,
+      0.4714045207910317
+    ],
+    "contribution_avg": [
+      2.6666666666666665,
+      0.9428090415820634
+    ],
+    "presentation_avg": [
+      2.6666666666666665,
+      0.4714045207910317
+    ],
+    "wc_summary_avg": [
+      89.33333333333333,
+      16.418147141366333
+    ],
+    "wc_strengths_avg": [
+      119.66666666666667,
+      104.24437101776233
+    ],
+    "wc_weaknesses_avg": [
+      309.3333333333333,
+      198.959515703293
+    ],
+    "wc_questions_avg": [
+      154.0,
+      97.01889850264568
+    ],
+    "wc_review_avg": [
+      672.3333333333334,
+      348.6491391387941
+    ],
+    "wc_reply_reviewers_avg": [
+      62.333333333333336,
+      49.46603773185082
+    ],
+    "wc_reply_authors_avg": [
+      677.3333333333334,
+      271.9428044440391
+    ],
+    "reply_reviewers_avg": [
+      0.6666666666666666,
+      0.4714045207910317
+    ],
+    "reply_authors_avg": [
+      1.6666666666666667,
+      0.4714045207910317
+    ],
+    "replies_avg": [
+      14,
+      0
+    ],
+    "authors#_avg": [
+      5,
+      0
+    ],
+    "corr_rating_confidence": 0.5960395606792698,
+    "gs_citation": 4,
+    "gs_cited_by_link": "https://scholar.google.com/scholar?cites=3299563845410049168&as_sdt=2005&sciodt=0,5&hl=en",
+    "gs_version_total": 3,
+    "pdf": "https://openreview.net/pdf?id=p3NKpom1VL",
+    "email": "stu.pku.edu.cn;pku.edu.cn;ustb.edu.cn;pku.edu.cn;bupt.edu.cn",
+    "author_num": 5,
+    "aff_unique_index": "0;0;1;0;2",
+    "aff_unique_norm": "Peking University;University of Science and Technology Beijing;Beijing University of Posts and Telecommunications",
+    "aff_unique_dep": ";;",
+    "aff_unique_url": "http://www.pku.edu.cn;http://www.ustb.edu.cn;http://www.bupt.edu.cn/",
+    "aff_unique_abbr": "Peking U;USTB;BUPT",
+    "aff_campus_unique_index": "1",
+    "aff_campus_unique": ";Beijing",
+    "aff_country_unique_index": "0;0;0;0;0",
+    "aff_country_unique": "China",
+    "_source_file": "iclr2025_filtered.json"
+  }
+]
