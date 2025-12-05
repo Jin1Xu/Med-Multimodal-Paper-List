@@ -28,7 +28,7 @@ SECTIONS = [
         "start": START_MARK,
         "end": END_MARK,
         "empty_msg": "_当前没有任何多模态医学论文数据_",
-        "enabled": True, 
+        "enabled": False, 
     },
     {
         "dir": LUNG_BRAIN_PAPERS_DIR,
