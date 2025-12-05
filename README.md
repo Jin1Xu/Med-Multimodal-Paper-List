@@ -486,7 +486,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 ## ✅ Med-Multimodal-Paper-List
 聚焦于**多模态/跨模态医学研究**的论文
-
+<!-- PAPERS_START -->
 <details>
   <summary><strong>NIPS 2025</strong>（共筛选出 521 篇论文）</summary>
 
@@ -5218,4 +5218,4 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 2284 | [Norma: A Noise Robust Memory-Augmented Framework for Whole Slide Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06825.pdf) | Yu Bai | Poster | 1 | 😾 | 
 | 2647 | [DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05548.pdf) | Wenhui Zhu | Poster | 7 | 😾 | 
 </details>
-
+<!-- PAPERS_END -->
