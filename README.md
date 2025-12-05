@@ -21,7 +21,13 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | [ISBI](https://biomedicalimaging.org/2025/)       | Med | Nov 14 2025    | Apr 2026         | https://dblp.org/db/conf/isbi/isbi2025.html |
 | [**MICCAI**](https://conferences.miccai.org/2026/en/default.asp) | Med | **Feb 12 2026** | Oct 2026 | https://papers.miccai.org/miccai-2025/ |
 
-## 📑 Lung-Brain-AI-Paper-List
+
+## ✅ MM-Classification-Paper-List
+聚焦于**多模态分类**任务的论文
+<!-- MM_CLASS_PAPERS_START -->
+<!-- MM_CLASS_PAPERS_END -->
+
+## ✅ Lung-Brain-AI-Paper-List
 聚焦于**肺部和脑部医学场景**的论文
 <!-- LB_PAPERS_START -->
 
@@ -478,10 +484,8 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 </details>
 <!-- LB_PAPERS_END -->
 
-## 📚 Med-Multimodal-Paper-List
+## ✅ Med-Multimodal-Paper-List
 聚焦于**多模态/跨模态医学研究**的论文
-
-<!-- PAPERS_START -->
 
 <details>
   <summary><strong>NIPS 2025</strong>（共筛选出 521 篇论文）</summary>
@@ -5214,4 +5218,4 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 2284 | [Norma: A Noise Robust Memory-Augmented Framework for Whole Slide Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06825.pdf) | Yu Bai | Poster | 1 | 😾 | 
 | 2647 | [DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05548.pdf) | Wenhui Zhu | Poster | 7 | 😾 | 
 </details>
-<!-- MM_CLASS_PAPERS_END -->
+
