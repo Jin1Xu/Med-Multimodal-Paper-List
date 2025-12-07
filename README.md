@@ -703,40 +703,40 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 05cVmYJJnb | [BrainMoE: Cognition Joint Embedding via Mixture-of-Expert Towards Robust Brain Foundation Model](https://openreview.net/forum?id=05cVmYJJnb) | Ziquan Wei | Poster |  | 😾 | 
-| 6Q5WG84uOD | [THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations](https://openreview.net/forum?id=6Q5WG84uOD) | Wenchao Yang | Poster |  | 😾 | 
+| 05cVmYJJnb | [BrainMoE: Cognition Joint Embedding via Mixture-of-Expert Towards Robust Brain Foundation Model](https://openreview.net/forum?id=05cVmYJJnb) | Ziquan Wei | Poster |  | [Code😻](https://github.com/Chrisa142857/brain_moe) | 
+| 6Q5WG84uOD | [THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations](https://openreview.net/forum?id=6Q5WG84uOD) | Wenchao Yang | Poster |  | [Code😻](https://github.com/thdbar/THD-BAR) | 
 | 6UAeCPQPwP | [Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG](https://openreview.net/forum?id=6UAeCPQPwP) | Shihao Yang | Poster |  | 😾 | 
-| 7yOl9qiLWd | [BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories](https://openreview.net/forum?id=7yOl9qiLWd) | Wonjung Park | Poster |  | 😾 | 
+| 7yOl9qiLWd | [BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories](https://openreview.net/forum?id=7yOl9qiLWd) | Wonjung Park | Poster |  | [Code😻](https://github.com/PWonjung/BrainODE) | 
 | A9jXG3FUMT | [FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction](https://openreview.net/forum?id=A9jXG3FUMT) | Ruizhe Zheng | Spotlight |  | 😾 | 
-| BeSFxKX3Po | [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://openreview.net/forum?id=BeSFxKX3Po) | Qi Xin | Poster |  | 😾 | 
-| CDQ0MI4rLw | [ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding](https://openreview.net/forum?id=CDQ0MI4rLw) | Haonan Wang | Poster |  | 😾 | 
+| BeSFxKX3Po | [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://openreview.net/forum?id=BeSFxKX3Po) | Qi Xin | Poster |  | [Code😻](https://github.com/Qi-Xin/GLM-Transformer) | 
+| CDQ0MI4rLw | [ZEBRA: Towards Zero-Shot Cross-Subject Generalization for Universal Brain Visual Decoding](https://openreview.net/forum?id=CDQ0MI4rLw) | Haonan Wang | Poster |  | [Code😻](https://github.com/xmed-lab/ZEBRA) | 
 | DwFDfrPsm8 | [NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI](https://openreview.net/forum?id=DwFDfrPsm8) | Cosmin I. Bercea | Oral |  | 😾 | 
 | Fj2kyLs6G5 | [NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy for Brain Disease Diagnosis](https://openreview.net/forum?id=Fj2kyLs6G5) | Shengrong Li | Poster |  | 😾 | 
-| K6ijewH34E | [Bridging Brains and Concepts: Interpretable Visual Decoding from fMRI with Semantic Bottlenecks](https://openreview.net/forum?id=K6ijewH34E) | Sara Cammarota | Poster |  | 😾 | 
-| LDjBDk3Czb | [BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity](https://openreview.net/forum?id=LDjBDk3Czb) | Lucine L Oganesian | Poster |  | 😾 | 
-| NY3LzmUXl7 | [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://openreview.net/forum?id=NY3LzmUXl7) | Antoine Collas | Poster |  | 😾 | 
-| OM0Qkq9xtY | [Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://openreview.net/forum?id=OM0Qkq9xtY) | Yingtao Zhang | Poster |  | 😾 | 
+| K6ijewH34E | [Bridging Brains and Concepts: Interpretable Visual Decoding from fMRI with Semantic Bottlenecks](https://openreview.net/forum?id=K6ijewH34E) | Sara Cammarota | Poster |  | [Code😻](https://github.com/SaraCammarota/Bridging-Brains-and-Concepts) | 
+| LDjBDk3Czb | [BaRISTA: Brain Scale Informed Spatiotemporal Representation of Human Intracranial Neural Activity](https://openreview.net/forum?id=LDjBDk3Czb) | Lucine L Oganesian | Poster |  | [Code😻](https://github.com/ShanechiLab/BaRISTA) | 
+| NY3LzmUXl7 | [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://openreview.net/forum?id=NY3LzmUXl7) | Antoine Collas | Poster |  | [Code😻](https://github.com/facebookresearch/riemannian-fm) | 
+| OM0Qkq9xtY | [Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected](https://openreview.net/forum?id=OM0Qkq9xtY) | Yingtao Zhang | Poster |  | [Code😻](https://github.com/biomedical-cybernetics/Cannistraci-Hebb-training) | 
 | P4KjfMrVNU | [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU) | Chengliang Liu | Poster |  | 😾 | 
-| RDdfQc5Ts1 | [AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation](https://openreview.net/forum?id=RDdfQc5Ts1) | Qingqiu Li | Poster |  | 😾 | 
-| REIo9ZLSYo | [Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling](https://openreview.net/forum?id=REIo9ZLSYo) | Wentao Lu | Spotlight |  | 😾 | 
-| Tt3XLyuDrE | [Transformer brain encoders explain human high-level visual responses](https://openreview.net/forum?id=Tt3XLyuDrE) | Hossein Adeli | Spotlight |  | 😾 | 
-| WQq5JPGQ0C | [RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://openreview.net/forum?id=WQq5JPGQ0C) | Jonggwon Park | Poster |  | 😾 | 
-| WtMuGdHvh6 | [S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://openreview.net/forum?id=WtMuGdHvh6) | Jiaqi Wang | Poster |  | 😾 | 
-| XmV7KRABBl | [EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks](https://openreview.net/forum?id=XmV7KRABBl) | Rikuto Kotoge | Spotlight |  | 😾 | 
+| RDdfQc5Ts1 | [AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation](https://openreview.net/forum?id=RDdfQc5Ts1) | Qingqiu Li | Poster |  | [Code😻](https://github.com/Liqq1/AOR) | 
+| REIo9ZLSYo | [Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling](https://openreview.net/forum?id=REIo9ZLSYo) | Wentao Lu | Spotlight |  | [Code😻](https://github.com/WENXUYUN/CogReader) | 
+| Tt3XLyuDrE | [Transformer brain encoders explain human high-level visual responses](https://openreview.net/forum?id=Tt3XLyuDrE) | Hossein Adeli | Spotlight |  | [Code😻](https://github.com/Hosseinadeli/transformer_brain_encoder/) | 
+| WQq5JPGQ0C | [RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability](https://openreview.net/forum?id=WQq5JPGQ0C) | Jonggwon Park | Poster |  | [Code😻](https://github.com/deepnoid-ai/RadZero) | 
+| WtMuGdHvh6 | [S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://openreview.net/forum?id=WtMuGdHvh6) | Jiaqi Wang | Poster |  | [Code😻](https://github.com/JackieWang9811/S2M-Former) | 
+| XmV7KRABBl | [EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks](https://openreview.net/forum?id=XmV7KRABBl) | Rikuto Kotoge | Spotlight |  | [Code😻](https://github.com/Kotoge/EvoBrain) | 
 | YufSVJxDgt | [Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets](https://openreview.net/forum?id=YufSVJxDgt) | Ji Xia | Poster |  | 😾 | 
-| agcXjEHmyW | [CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=agcXjEHmyW) | Yuchen Zhou | Spotlight |  | 😾 | 
-| bDBxf9f5Li | [Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment](https://openreview.net/forum?id=bDBxf9f5Li) | Vida Adeli | Poster |  | 😾 | 
-| cjHQj0tCy6 | [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://openreview.net/forum?id=cjHQj0tCy6) | Qinfan Xiao | Poster |  | 😾 | 
-| fYSPRGmS6l | [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://openreview.net/forum?id=fYSPRGmS6l) | YUXIANG WEI | Poster |  | 😾 | 
-| iQoZv77o3g | [Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks](https://openreview.net/forum?id=iQoZv77o3g) | Alexander Ratzan | Poster |  | 😾 | 
+| agcXjEHmyW | [CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=agcXjEHmyW) | Yuchen Zhou | Spotlight |  | [Code😻](https://github.com/yuchen2199/CSBrain) | 
+| bDBxf9f5Li | [Care-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson’s Disease Gait Assessment](https://openreview.net/forum?id=bDBxf9f5Li) | Vida Adeli | Poster |  | [Code😻](https://github.com/TaatiTeam/CARE-PD/) | 
+| cjHQj0tCy6 | [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://openreview.net/forum?id=cjHQj0tCy6) | Qinfan Xiao | Poster |  | [Code😻](https://github.com/OpenTSLab/BrainOmni) | 
+| fYSPRGmS6l | [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://openreview.net/forum?id=fYSPRGmS6l) | YUXIANG WEI | Poster |  | [Code😻](https://github.com/yuxiangwei0808/MoRE-Brain) | 
+| iQoZv77o3g | [Predicting Functional Brain Connectivity with Context-Aware Deep Neural Networks](https://openreview.net/forum?id=iQoZv77o3g) | Alexander Ratzan | Poster |  | [Code😻](https://github.com/neuroinfolab/GeneEx2Conn) | 
 | kkhRTTmXFV | [Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives](https://openreview.net/forum?id=kkhRTTmXFV) | Geng Zhang | Poster |  | 😾 | 
-| koxXKW4FbR | [Listening to the Brain: Multi-Band sEEG Auditory Reconstruction via Dynamic Spatio-Temporal Hypergraphs](https://openreview.net/forum?id=koxXKW4FbR) | Xueyi Zhang | Poster |  | 😾 | 
-| oCXyxhgCiZ | [BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM](https://openreview.net/forum?id=oCXyxhgCiZ) | Wen Xiong | Poster |  | 😾 | 
-| tPJg65EB7D | [Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens](https://openreview.net/forum?id=tPJg65EB7D) | Zijian Dong | Poster |  | 😾 | 
+| koxXKW4FbR | [Listening to the Brain: Multi-Band sEEG Auditory Reconstruction via Dynamic Spatio-Temporal Hypergraphs](https://openreview.net/forum?id=koxXKW4FbR) | Xueyi Zhang | Poster |  | [Code😻](https://github.com/NeuroListen/NeuroListen) | 
+| oCXyxhgCiZ | [BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM](https://openreview.net/forum?id=oCXyxhgCiZ) | Wen Xiong | Poster |  | [Code😻](https://github.com/XiongWenXww/BrainEC-LLM) | 
+| tPJg65EB7D | [Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens](https://openreview.net/forum?id=tPJg65EB7D) | Zijian Dong | Poster |  | [Code😻](https://github.com/hzlab/Brain-Harmony) | 
 | tPqBnGwTwa | [Far from the Shallow: Brain-Predictive Reasoning Embedding through Residual Disentanglement](https://openreview.net/forum?id=tPqBnGwTwa) | Linyang He | Poster |  | 😾 | 
-| vIDsnh0FWH | [AneuG-Flow: A Large-Scale Synthetic Dataset of Diverse Intracranial Aneurysm Geometries and Hemodynamics](https://openreview.net/forum?id=vIDsnh0FWH) | Wenhao Ding | Poster |  | 😾 | 
-| xcw6UWNtFJ | [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://openreview.net/forum?id=xcw6UWNtFJ) | Hyungyung Lee | Spotlight |  | 😾 | 
-| ypPxYsmZPx | [DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases](https://openreview.net/forum?id=ypPxYsmZPx) | Mo wang | Poster |  | 😾 | 
+| vIDsnh0FWH | [AneuG-Flow: A Large-Scale Synthetic Dataset of Diverse Intracranial Aneurysm Geometries and Hemodynamics](https://openreview.net/forum?id=vIDsnh0FWH) | Wenhao Ding | Poster |  | [Code😻](https://github.com/yiyingsheng07/AneuG_CFD.git) | 
+| xcw6UWNtFJ | [CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays](https://openreview.net/forum?id=xcw6UWNtFJ) | Hyungyung Lee | Spotlight |  | [Code😻](https://github.com/ttumyche/CXReasonBench) | 
+| ypPxYsmZPx | [DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases](https://openreview.net/forum?id=ypPxYsmZPx) | Mo wang | Poster |  | [Code😻](https://github.com/ncclab-sustech/DCA) | 
 </details>
 
 <details>
@@ -1030,13 +1030,13 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 1W2WlYRq0K | [MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data](https://openreview.net/pdf?id=1W2WlYRq0K) | Yuqin Dai | Poster | 0 | 😾 | 
-| EiAQrilPYP | [MindLLM: A Subject-Agnostic and Versatile Model for fMRI-to-text Decoding](https://openreview.net/pdf?id=EiAQrilPYP) | Weikang Qiu | Poster | 0 | 😾 | 
-| F3Cbhb611p | [Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning](https://openreview.net/pdf?id=F3Cbhb611p) | Minqi Yu | Poster |  | 😾 | 
-| JiFfij5iv0 | [MedRAX: Medical Reasoning Agent for Chest X-ray](https://openreview.net/pdf?id=JiFfij5iv0) | Adibvafa Fallahpour | Poster | 5 | 😾 | 
-| ckbo9yutGO | [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://openreview.net/pdf?id=ckbo9yutGO) | Jun-En Ding | Poster |  | 😾 | 
-| pOAEfqa26i | [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/pdf?id=pOAEfqa26i) | Weihan Li | Oral |  | 😾 | 
-| yaI2ZYFmeD | [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/pdf?id=yaI2ZYFmeD) | Sam Gijsen | Poster |  | 😾 | 
+| 1W2WlYRq0K | [MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data](https://openreview.net/pdf?id=1W2WlYRq0K) | Yuqin Dai | Poster | 0 | [Code😻](https://github.com/Da1yuqin/MindAligner) | 
+| EiAQrilPYP | [MindLLM: A Subject-Agnostic and Versatile Model for fMRI-to-text Decoding](https://openreview.net/pdf?id=EiAQrilPYP) | Weikang Qiu | Poster | 0 | [Code😻](https://github.com/Graph-and-Geometric-Learning/MindLLM) | 
+| F3Cbhb611p | [Causal Tnvariance-aware Augmentation for Brain Graph Contrastive Learning](https://openreview.net/pdf?id=F3Cbhb611p) | Minqi Yu | Poster |  | [Code😻](https://github.com/BRAINML-GT/CausalBrainGraph) | 
+| JiFfij5iv0 | [MedRAX: Medical Reasoning Agent for Chest X-ray](https://openreview.net/pdf?id=JiFfij5iv0) | Adibvafa Fallahpour | Poster | 5 | [Code😻](https://github.com/medrax-ai/MedRAX) | 
+| ckbo9yutGO | [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://openreview.net/pdf?id=ckbo9yutGO) | Jun-En Ding | Poster |  | [Code😻](https://github.com/NeuroTree-MH/NeuroTree) | 
+| pOAEfqa26i | [Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](https://openreview.net/pdf?id=pOAEfqa26i) | Weihan Li | Oral |  | [Code😻](https://github.com/brain-dynamics/MarkovianGP-Brain) | 
+| yaI2ZYFmeD | [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/pdf?id=yaI2ZYFmeD) | Sam Gijsen | Poster |  | [Code😻](https://github.com/EEG-Language-Pretraining/EEGLP) | 
 </details>
 
 <details>
@@ -1046,20 +1046,20 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 0dELcFHig2 | [Multi-modal brain encoding models for multi-modal stimuli](https://openreview.net/pdf?id=0dELcFHig2) | SUBBA REDDY OOTA | Poster | 0 | 😾 | 
-| 10JOlFIPjt | [In vivo cell-type and brain region classification via multimodal contrastive learning](https://openreview.net/pdf?id=10JOlFIPjt) | Han Yu | Spotlight | 1 | 😾 | 
-| 28abpUEICJ | [CREIMBO: Cross-Regional Ensemble Interactions in Multi-view Brain Observations](https://openreview.net/pdf?id=28abpUEICJ) | Noga Mudrik | Spotlight | 0 | 😾 | 
-| 3b9SKkRAKw | [LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models](https://openreview.net/pdf?id=3b9SKkRAKw) | Hantao Zhang | Spotlight | 0 | 😾 | 
-| 3xqqYOKILp | [BrainOOD: Out-of-distribution Generalizable Brain Network Analysis](https://openreview.net/pdf?id=3xqqYOKILp) | Jiaxing Xu | Poster | 0 | 😾 | 
-| 9UGfOJBuL8 | [Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies](https://openreview.net/pdf?id=9UGfOJBuL8) | Hyuna Cho | Spotlight | 0 | 😾 | 
-| AD5yx2xq8R | [XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification](https://openreview.net/pdf?id=AD5yx2xq8R) | Hanning Guo | Poster | 0 | 😾 | 
-| CGON8Btleu | [BrainACTIV: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation](https://openreview.net/pdf?id=CGON8Btleu) | Diego García Cerdas | Poster | 0 | 😾 | 
-| NPNUHgHF2w | [CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/pdf?id=NPNUHgHF2w) | Jiquan Wang | Poster | 7 | 😾 | 
-| aWXnKanInf | [TopoLM: brain-like spatio-functional organization in a topographic language model](https://openreview.net/pdf?id=aWXnKanInf) | Neil Rathi | Oral | 2 | 😾 | 
-| b57IG6N20B | [The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG](https://openreview.net/pdf?id=b57IG6N20B) | Francesco Carzaniga | Poster | 0 | 😾 | 
+| 0dELcFHig2 | [Multi-modal brain encoding models for multi-modal stimuli](https://openreview.net/pdf?id=0dELcFHig2) | SUBBA REDDY OOTA | Poster | 0 | [Code😻](https://github.com/subbareddy248/multi-modal-brain-stimuli) | 
+| 10JOlFIPjt | [In vivo cell-type and brain region classification via multimodal contrastive learning](https://openreview.net/pdf?id=10JOlFIPjt) | Han Yu | Spotlight | 1 | [Code😻](https://ibl-nemo.github.io/) | 
+| 28abpUEICJ | [CREIMBO: Cross-Regional Ensemble Interactions in Multi-view Brain Observations](https://openreview.net/pdf?id=28abpUEICJ) | Noga Mudrik | Spotlight | 0 | [Code😻](https://dandiarchive.org/dandiset/000363?search=mesoscale&pos=2) | 
+| 3b9SKkRAKw | [LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models](https://openreview.net/pdf?id=3b9SKkRAKw) | Hantao Zhang | Spotlight | 0 | [Code😻](https://github.com/M3DV/LeFusion) | 
+| 3xqqYOKILp | [BrainOOD: Out-of-distribution Generalizable Brain Network Analysis](https://openreview.net/pdf?id=3xqqYOKILp) | Jiaxing Xu | Poster | 0 | [Code😻](https://github.com/AngusMonroe/BrainOOD) | 
+| 9UGfOJBuL8 | [Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies](https://openreview.net/pdf?id=9UGfOJBuL8) | Hyuna Cho | Spotlight | 0 | [Code😻](https://github.com/Hannah37/ConDOR-ICLR25) | 
+| AD5yx2xq8R | [XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification](https://openreview.net/pdf?id=AD5yx2xq8R) | Hanning Guo | Poster | 0 | [Code😻](https://github.com/HanningGuo/XAIguiFormer) | 
+| CGON8Btleu | [BrainACTIV: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation](https://openreview.net/pdf?id=CGON8Btleu) | Diego García Cerdas | Poster | 0 | [Code😻](https://github.com/diegogcerdas/BrainACTIV) | 
+| NPNUHgHF2w | [CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/pdf?id=NPNUHgHF2w) | Jiquan Wang | Poster | 7 | [Code😻](https://github.com/wjq-learning/CBraMod) | 
+| aWXnKanInf | [TopoLM: brain-like spatio-functional organization in a topographic language model](https://openreview.net/pdf?id=aWXnKanInf) | Neil Rathi | Oral | 2 | [Code😻](https://github.com/epflneuroailab/topolm) | 
+| b57IG6N20B | [The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG](https://openreview.net/pdf?id=b57IG6N20B) | Francesco Carzaniga | Poster | 0 | [Code😻]( https://github.com/IBM/eeg-ieeg-brain-compressor) | 
 | vgt2rSf6al | [MindSimulator: Exploring Brain Concept Localization via Synthetic fMRI](https://openreview.net/pdf?id=vgt2rSf6al) | Qi Zhang | Poster | 0 | 😾 | 
 | yJ9QNbpMi2 | [Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers](https://openreview.net/pdf?id=yJ9QNbpMi2) | Andrew Luo | Poster | 1 | 😾 | 
-| zZ6TT254Np | [Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition](https://openreview.net/pdf?id=zZ6TT254Np) | Yufan Hu | Poster | 0 | 😾 | 
+| zZ6TT254Np | [Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition](https://openreview.net/pdf?id=zZ6TT254Np) | Yufan Hu | Poster | 0 | [Code😻](https://github.com/CUHK-AIM-Group/PDH-Diffusion) | 
 </details>
 
 <details>
@@ -1069,15 +1069,15 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 49 | [MorphoGen: Efficient Unconditional Generation of Long-Range Projection Neuronal Morphology via a Global-to-Local Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_MorphoGen_Efficient_Unconditional_Generation_of_Long-Range_Projection_Neuronal_Morphology_via_ICCV_2025_paper.pdf) | Tianfang Zhu | Poster |  | 😾 | 
-| 435 | [CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization](2411.17845) | Soorena Salari | Poster |  | 😾 | 
-| 784 | [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.pdf) | Bo Liu | Poster |  | 😾 | 
-| 940 | [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf) | Mingyang Liu | Poster |  | 😾 | 
-| 1188 | [Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing](2503.10663) | Yang Xiao | Poster |  | 😾 | 
-| 1315 | [Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D](2503.02410) | Jiesi Hu | Poster |  | 😾 | 
+| 49 | [MorphoGen: Efficient Unconditional Generation of Long-Range Projection Neuronal Morphology via a Global-to-Local Framework](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_MorphoGen_Efficient_Unconditional_Generation_of_Long-Range_Projection_Neuronal_Morphology_via_ICCV_2025_paper.pdf) | Tianfang Zhu | Poster |  | [Code😻](https://github.com/Brainsmatics/MorphoGen) | 
+| 435 | [CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization](2411.17845) | Soorena Salari | Poster |  | [Code😻](https://github.com/HealthX-Lab/CABLD) | 
+| 784 | [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.pdf) | Bo Liu | Poster |  | [Code😻](https://github.com/Awenbocc/GEMeX-Project) | 
+| 940 | [Debiased Curriculum Adaptation for Safe Transfer Learning in Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Debiased_Curriculum_Adaptation_for_Safe_Transfer_Learning_in_Chest_X-ray_ICCV_2025_paper.pdf) | Mingyang Liu | Poster |  | [Code😻](https://github.com/mingyangliu1024/DCA) | 
+| 1188 | [Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing](2503.10663) | Yang Xiao | Poster |  | [Code😻](https://github.com/NKUShaw/OT-Alignment4brain-to-image) | 
+| 1315 | [Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D](2503.02410) | Jiesi Hu | Poster |  | [Code😻](https://github.com/jiesihu/Neuroverse3D) | 
 | 1599 | [M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_M-Net_MRI_Brain_Tumor_Sequential_Segmentation_Network_via_Mesh-Cast_ICCV_2025_paper.pdf) | Jiacheng Lu | Poster |  | 😾 | 
-| 1961 | [Bridging the Gap between Brain and Machine in Interpreting Visual Semantics: Towards Self-adaptive Brain-to-Text Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Bridging_the_Gap_between_Brain_and_Machine_in_Interpreting_Visual_ICCV_2025_paper.pdf) | Jiaxuan Chen | Poster |  | 😾 | 
-| 2179 | [Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation](2411.16719) | Xiaoling Hu | Poster |  | 😾 | 
+| 1961 | [Bridging the Gap between Brain and Machine in Interpreting Visual Semantics: Towards Self-adaptive Brain-to-Text Decoding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Bridging_the_Gap_between_Brain_and_Machine_in_Interpreting_Visual_ICCV_2025_paper.pdf) | Jiaxuan Chen | Poster |  | [Code😻](https://github.com/JxuanC/MindSA) | 
+| 2179 | [Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation](2411.16719) | Xiaoling Hu | Poster |  | [Code😻](https://github.com/HuXiaoling/Learn2Synth) | 
 </details>
 
 <details>
@@ -1091,7 +1091,7 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 | 33152 | [VasTSD: Learning 3D Vascular Tree-state Space Diffusion Model for Angiography Synthesis](2503.12758) | Zhifeng Wang | Poster | 0 | 😾 | 
 | 33537 | [FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Heiman_FactCheXcker_Mitigating_Measurement_Hallucinations_in_Chest_X-ray_Report_Generation_Models_CVPR_2025_paper.pdf) | Alice Heiman | Poster | 0 | [Code😻](https://github.com/rajpurkarlab/FactCheXcker) | 
 | 33842 | [Incomplete Multi-modal Brain Tumor Segmentation via Learnable Sorting State Space Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Incomplete_Multi-modal_Brain_Tumor_Segmentation_via_Learnable_Sorting_State_Space_CVPR_2025_paper.pdf) | Zheyu Zhang | Poster | 0 | 😾 | 
-| 34007 | [SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_SuperLightNet_Lightweight_Parameter_Aggregation_Network_for_Multimodal_Brain_Tumor_Segmentation_CVPR_2025_paper.pdf) | Feng Yu | Poster | 1 | 😾 | 
+| 34007 | [SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_SuperLightNet_Lightweight_Parameter_Aggregation_Network_for_Multimodal_Brain_Tumor_Segmentation_CVPR_2025_paper.pdf) | Feng Yu | Poster | 1 | [Code😻](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet) | 
 | 34086 | [Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Enhanced_Contrastive_Learning_with_Multi-view_Longitudinal_Data_for_Chest_X-ray_CVPR_2025_paper.pdf) | Kang Liu | Poster | 3 | [Code😻](https://github.com/mk-runner/MLRG) | 
 | 34267 | [Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images](2503.17261) | Jie Mei | Poster | 0 | [Code😻](https://github.com/mj129/CIPA) | 
 | 34348 | [KMD: Koopman Multi-modality Decomposition for Generalized Brain Tumor Segmentation under Incomplete Modalities](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_KMD_Koopman_Multi-modality_Decomposition_for_Generalized_Brain_Tumor_Segmentation_under_CVPR_2025_paper.pdf) | Tianyi Liu | Poster | 0 | [Code😻](https://github.com/T-Y-Liu/KMD) | 
@@ -1104,18 +1104,18 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| article-32170 | [CA-MLIF: Cross-Attention and Multimodal Low-Rank Interaction Fusion Framework for Tumor Prognostic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/32170/34325) | Yajun An | Technical | 0 | 😾 | 
+| article-32170 | [CA-MLIF: Cross-Attention and Multimodal Low-Rank Interaction Fusion Framework for Tumor Prognostic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/32170/34325) | Yajun An | Technical | 0 | [Code😻](https://github.com/panxipeng/PG-MLIF) | 
 | article-32342 | [LLaVA Needs More Knowledge: Retrieval Augmented Natural Language Generation with Knowledge Graph for Explaining Thoracic Pathologies](https://ojs.aaai.org/index.php/AAAI/article/view/32342/34497) | Ameer Hamza | Technical | 1 | [Code😻](https://github.com/ailab-kyunghee/KG-LLaV A) | 
 | article-32545 | [Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities](https://ojs.aaai.org/index.php/AAAI/article/view/32545/34700) | Guoyan Liang | Technical | 0 | 😾 | 
 | article-32611 | [See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-Subject fMRI](https://ojs.aaai.org/index.php/AAAI/article/view/32611/34766) | Yulong Liu | Technical | 0 | [Code😻](https://github.com/YulongBonjour/STTM) | 
-| article-32824 | [S³-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32824/34979) | Gui Wang | Technical | 1 | 😾 | 
+| article-32824 | [S³-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32824/34979) | Gui Wang | Technical | 1 | [Code😻](https://github.com/ErinWang2023/S3-Mamba) | 
 | article-32994 | [CLIP-MSM: A Multi-Semantic Mapping Brain Representation for Human High-Level Visual Cortex](https://ojs.aaai.org/index.php/AAAI/article/view/32994/35149) | Guoyuan Yang | Technical | 0 | [Code😻](https://github.com/BIT-YangLab/CLIP-MSM) | 
 | article-33409 | [MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics](https://ojs.aaai.org/index.php/AAAI/article/view/33409/35564) | Kaichen Xu | Technical | 0 | [Code😻](https://github.com/wqlzuel/MEATRD) | 
 | article-33554 | [Wills Aligner: Multi-Subject Collaborative Brain Visual Decoding](https://ojs.aaai.org/index.php/AAAI/article/view/33554/35709) | Guangyin Bao | Technical | 0 | 😾 | 
 | article-33572 | [Breaking Data Silos in Parkinson’s Disease Diagnosis: An Adaptive Federated Learning Approach for Privacy-Preserving Facial Expression Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/33572/35727) | Meng Pang | Technical | 1 | 😾 | 
-| article-33579 | [BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities](https://ojs.aaai.org/index.php/AAAI/article/view/33579/35734) | Zhibo Tian | Technical | 1 | 😾 | 
+| article-33579 | [BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities](https://ojs.aaai.org/index.php/AAAI/article/view/33579/35734) | Zhibo Tian | Technical | 1 | [Code😻](https://github.com/kunzhan/brainguard) | 
 | article-33581 | [BrainMAP: Learning Multiple Activation Pathways in Brain Networks](https://ojs.aaai.org/index.php/AAAI/article/view/33581/35736) | Song Wang | Technical | 0 | [Code😻](https://github.com/LzyFischer/BrainMAP) | 
-| article-34671 | [DECT: Harnessing LLM-assisted Fine-Grained Linguistic Knowledge and Label-Switched and Label-Preserved Data Generation for Diagnosis of Alzheimer’s Disease](https://ojs.aaai.org/index.php/AAAI/article/view/34671/36826) | Tingyu Mo | Technical | 0 | 😾 | 
+| article-34671 | [DECT: Harnessing LLM-assisted Fine-Grained Linguistic Knowledge and Label-Switched and Label-Preserved Data Generation for Diagnosis of Alzheimer’s Disease](https://ojs.aaai.org/index.php/AAAI/article/view/34671/36826) | Tingyu Mo | Technical | 0 | [Code😻]( https://github.com/SpeechCARE/LLMCare) | 
 | article-34788 | [MEPNet: Medical Entity-Balanced Prompting Network for Brain CT Report Generation](https://ojs.aaai.org/index.php/AAAI/article/view/34788/36943) | Xiaodan Zhang | Technical | 0 | [Code😻](https://github.com/YanzhaoShi/MEPNet) | 
 | article-35031 | [Accessible, At-Home Detection of Parkinson’s Disease via Multi-Task Video Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/35031/37186) | Md Saiful Islam | Technical | 1 | [Code😻](https://github.com/ROC-HCI/UFNet) | 
 </details>
@@ -1127,8 +1127,8 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| paper129 | [Self-Promoted Clustering-based Contrastive Learning for Brain Networks Pretraining](https://www.ijcai.org/proceedings/2024/0129.pdf) | Junbo Ma | Poster | 0 | 😾 | 
-| paper592 | [A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification](https://www.ijcai.org/proceedings/2024/0592.pdf) | Sin-Yee Yap | Poster | 1 | 😾 | 
+| paper129 | [Self-Promoted Clustering-based Contrastive Learning for Brain Networks Pretraining](https://www.ijcai.org/proceedings/2024/0129.pdf) | Junbo Ma | Poster | 0 | [Code😻](https://github.com/brain-contrastive/SelfPromotedClustering) | 
+| paper592 | [A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification](https://www.ijcai.org/proceedings/2024/0592.pdf) | Sin-Yee Yap | Poster | 1 | [Code😻](https://github.com/brain-dynamics/DynamicGraphProbabilistic) | 
 </details>
 
 <details>
@@ -1138,18 +1138,20 @@ Deadline Info for Conferences: [https://ccfddl.com/](https://ccfddl.com/)   and 
 
 | ID | Title | Authors | Status | Citations | AnyCode |
 | -- | ----- | ------- | :----: | :-------: | :-----: |
-| 326 | [NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06746.pdf) | Jingyang Huo | Poster | 14 | 😾 | 
-| 720 | [MinD-3D: Reconstruct High-quality 3D objects in Human Brain](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06365.pdf) | Jianxiong Gao | Poster | 9 | 😾 | 
-| 1109 | [UMBRAE: Unified Multimodal Brain Decoding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01133.pdf) | Weihao Xia | Poster | 12 | 😾 | 
-| 1166 | [Brain-ID: Learning Contrast-agnostic Anatomical Representations for Brain Imaging](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01918.pdf) | Peirong Liu | Poster | 5 | 😾 | 
-| 1456 | [Brain Netflix: Scaling Data to Reconstruct Videos from Brain Signals](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03816.pdf) | Camilo Fosco | Poster | 2 | 😾 | 
-| 1461 | [VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10768.pdf) | Yankun Xu | Poster | 2 | 😾 | 
-| 1543 | [ChEX: Interactive Localization and Region Description in Chest X-rays](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03114.pdf) | Philip Müller | Poster | 6 | 😾 | 
-| 2285 | [GenerateCT: Text-Conditional Generation of 3D Chest CT Volumes](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10147.pdf) | Ibrahim Ethem Hamamci | Poster | 24 | 😾 | 
+| 326 | [NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06746.pdf) | Jingyang Huo | Poster | 14 | [Code😻](https://github.com/jingyanghuo/neuropictor) | 
+| 720 | [MinD-3D: Reconstruct High-quality 3D objects in Human Brain](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06365.pdf) | Jianxiong Gao | Poster | 9 | [Code😻](https://github.com/JianxGao/MinD-3D) | 
+| 1109 | [UMBRAE: Unified Multimodal Brain Decoding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01133.pdf) | Weihao Xia | Poster | 12 | [Code😻](https://github.com/weihaox/UMBRAE) | 
+| 1166 | [Brain-ID: Learning Contrast-agnostic Anatomical Representations for Brain Imaging](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01918.pdf) | Peirong Liu | Poster | 5 | [Code😻](https://github.com/peirong26/Brain-ID) | 
+| 1456 | [Brain-ID: Learning Contrast-agnostic Anatomical Representations for Brain Imaging](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03816.pdf) | Camilo Fosco | Poster | 2 | [Code😻](https://github.com/peirong26/Brain-ID) | 
+| 1461 | [VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10768.pdf) | Yankun Xu | Poster | 2 | [Code😻](https://github.com/xuyankun/VSViG/) | 
+| 1543 | [ChEX: Interactive Localization and Region Description in Chest X-rays](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03114.pdf) | Philip Müller | Poster | 6 | [Code😻](https://github.com/philip-mueller/chex) | 
+| 2285 | [GenerateCT: Text-Conditional Generation of 3D Chest CT Volumes](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10147.pdf) | Ibrahim Ethem Hamamci | Poster | 24 | [Code😻](https://github.com/ibrahimethemhamamci/GenerateCT) | 
 </details>
 <!-- LB_PAPERS_END -->
 
 ## ✅ Med-Multimodal-Paper-List
 聚焦于**多模态/跨模态医学研究**的论文
 <!-- PAPERS_START -->
+
+
 <!-- PAPERS_END -->
