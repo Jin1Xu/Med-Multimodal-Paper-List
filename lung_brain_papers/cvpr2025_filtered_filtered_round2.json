@@ -233,7 +233,7 @@
     "track": "main",
     "site": "https://cvpr.thecvf.com/virtual/2025/poster/34007",
     "id": "34007",
-    "github": "",
+    "github": "https://github.com/WTU1020-Medical-Segmentation/SuperLightNet",
     "project": "",
     "video": "",
     "pdf": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_SuperLightNet_Lightweight_Parameter_Aggregation_Network_for_Multimodal_Brain_Tumor_Segmentation_CVPR_2025_paper.pdf",
